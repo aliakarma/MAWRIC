@@ -1,0 +1,74 @@
+[
+ {
+  "city": "PHX",
+  "station": "USW00023183",
+  "years": [
+   2006,
+   2023
+  ],
+  "days": 6574,
+  "tmax_filled_share": 0.0,
+  "tmin_filled_share": 0.0,
+  "prcp_missing_days": 0,
+  "tmax_lt_tmin_swapped": 0,
+  "annual_P_mm_mean": 160.87222222222223,
+  "annual_ET0_mm_mean": 1668.049119468883,
+  "mean_Tmax_C": 31.109856401427255,
+  "label": "Phoenix",
+  "koppen": "BWh hot desert"
+ },
+ {
+  "city": "LAX",
+  "station": "USW00023174",
+  "years": [
+   2006,
+   2023
+  ],
+  "days": 6574,
+  "tmax_filled_share": 0.0,
+  "tmin_filled_share": 0.0,
+  "prcp_missing_days": 0,
+  "tmax_lt_tmin_swapped": 0,
+  "annual_P_mm_mean": 270.02777777777777,
+  "annual_ET0_mm_mean": 991.0601421317218,
+  "mean_Tmax_C": 21.555335104923024,
+  "label": "Los Angeles",
+  "koppen": "Csb Mediterranean"
+ },
+ {
+  "city": "LHR",
+  "station": "UKE00107650",
+  "years": [
+   2006,
+   2023
+  ],
+  "days": 6574,
+  "tmax_filled_share": 0.0,
+  "tmin_filled_share": 0.0,
+  "prcp_missing_days": 0,
+  "tmax_lt_tmin_swapped": 86,
+  "annual_P_mm_mean": 635.5666666666667,
+  "annual_ET0_mm_mean": 764.7992657822628,
+  "mean_Tmax_C": 16.02784211226722,
+  "label": "London",
+  "koppen": "Cfb temperate oceanic"
+ },
+ {
+  "city": "SIN",
+  "station": "SNM00048698",
+  "years": [
+   2003,
+   2020
+  ],
+  "days": 6575,
+  "tmax_filled_share": 0.40730038022813686,
+  "tmin_filled_share": 0.3473764258555133,
+  "prcp_missing_days": 25,
+  "tmax_lt_tmin_swapped": 0,
+  "annual_P_mm_mean": 2066.394444444444,
+  "annual_ET0_mm_mean": 1476.4679702654291,
+  "mean_Tmax_C": 31.621233855764608,
+  "label": "Singapore",
+  "koppen": "Af tropical rainforest"
+ }
+]
