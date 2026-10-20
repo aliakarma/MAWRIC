@@ -1,0 +1,13 @@
+column,rows,mismatches
+invalid,360,0
+unsafe,360,0
+A0,360,0
+A1,360,0
+A2,360,0
+A3,360,0
+A13,360,0
+flagged_tanks,360,0
+saving_usd,360,0
+crit_A2,360,0
+crit_A3,360,0
+truth_depth,360,0

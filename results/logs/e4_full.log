@@ -1,0 +1,18 @@
+C:\Users\Ali Akarma\Desktop\Current Research\New Abstracts\New-Water-paper\MAWRIC_X_LaTeX_Project\experiments\e4_economics.py:127: DeprecationWarning: `salib.sample.saltelli` will be removed in SALib 1.5.1 Please use `salib.sample.sobol`
+  X = saltelli.sample(problem, scale.e4_sobol_n, calc_second_order=False)
+C:\Users\Ali Akarma\Desktop\Current Research\New Abstracts\New-Water-paper\MAWRIC_X_LaTeX_Project\.venv-sys\lib\site-packages\SALib\util\__init__.py:274: FutureWarning: unique with argument that is not not a Series, Index, ExtensionArray, or np.ndarray is deprecated and will raise in a future version.
+  names = list(pd.unique(groups))
+C:\Users\Ali Akarma\Desktop\Current Research\New Abstracts\New-Water-paper\MAWRIC_X_LaTeX_Project\experiments\e4_economics.py:127: DeprecationWarning: `salib.sample.saltelli` will be removed in SALib 1.5.1 Please use `salib.sample.sobol`
+  X = saltelli.sample(problem, scale.e4_sobol_n, calc_second_order=False)
+C:\Users\Ali Akarma\Desktop\Current Research\New Abstracts\New-Water-paper\MAWRIC_X_LaTeX_Project\.venv-sys\lib\site-packages\SALib\util\__init__.py:274: FutureWarning: unique with argument that is not not a Series, Index, ExtensionArray, or np.ndarray is deprecated and will raise in a future version.
+  names = list(pd.unique(groups))
+C:\Users\Ali Akarma\Desktop\Current Research\New Abstracts\New-Water-paper\MAWRIC_X_LaTeX_Project\experiments\e4_economics.py:127: DeprecationWarning: `salib.sample.saltelli` will be removed in SALib 1.5.1 Please use `salib.sample.sobol`
+  X = saltelli.sample(problem, scale.e4_sobol_n, calc_second_order=False)
+C:\Users\Ali Akarma\Desktop\Current Research\New Abstracts\New-Water-paper\MAWRIC_X_LaTeX_Project\.venv-sys\lib\site-packages\SALib\util\__init__.py:274: FutureWarning: unique with argument that is not not a Series, Index, ExtensionArray, or np.ndarray is deprecated and will raise in a future version.
+  names = list(pd.unique(groups))
+C:\Users\Ali Akarma\Desktop\Current Research\New Abstracts\New-Water-paper\MAWRIC_X_LaTeX_Project\experiments\e4_economics.py:127: DeprecationWarning: `salib.sample.saltelli` will be removed in SALib 1.5.1 Please use `salib.sample.sobol`
+  X = saltelli.sample(problem, scale.e4_sobol_n, calc_second_order=False)
+C:\Users\Ali Akarma\Desktop\Current Research\New Abstracts\New-Water-paper\MAWRIC_X_LaTeX_Project\.venv-sys\lib\site-packages\SALib\util\__init__.py:274: FutureWarning: unique with argument that is not not a Series, Index, ExtensionArray, or np.ndarray is deprecated and will raise in a future version.
+  names = list(pd.unique(groups))
+E4 done in 8s
+exit 0

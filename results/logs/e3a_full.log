@@ -1,0 +1,27 @@
+  E3a 10/240 contexts, 186s
+  E3a 20/240 contexts, 333s
+  E3a 30/240 contexts, 474s
+  E3a 40/240 contexts, 617s
+  E3a 50/240 contexts, 681s
+  E3a 60/240 contexts, 721s
+  E3a 70/240 contexts, 761s
+  E3a 80/240 contexts, 800s
+  E3a 90/240 contexts, 840s
+  E3a 100/240 contexts, 879s
+  E3a 110/240 contexts, 914s
+  E3a 120/240 contexts, 950s
+  E3a 130/240 contexts, 950s
+  E3a 140/240 contexts, 950s
+  E3a 150/240 contexts, 950s
+  E3a 160/240 contexts, 951s
+  E3a 170/240 contexts, 953s
+  E3a 180/240 contexts, 955s
+  E3a 190/240 contexts, 957s
+  E3a 200/240 contexts, 960s
+  E3a 210/240 contexts, 962s
+  E3a 220/240 contexts, 965s
+  E3a 230/240 contexts, 967s
+  E3a 240/240 contexts, 969s
+  E3a serial re-run of 0 contexts after EPANET file errors, 0 still failing
+E3a done: 1800 proposals in 970s
+exit 0

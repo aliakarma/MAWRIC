@@ -1,0 +1,14 @@
+  E2 160 rows, 27s
+  E2 320 rows, 30s
+  E2 480 rows, 30s
+  E2 640 rows, 30s
+  E2 800 rows, 30s
+  E2 960 rows, 30s
+  E2 1120 rows, 30s
+  E2 1280 rows, 30s
+  E2 1440 rows, 30s
+  E2 1600 rows, 30s
+  E2 1760 rows, 33s
+  E2 1920 rows, 33s
+E2 done: 1920 rows in 33s
+exit 0
