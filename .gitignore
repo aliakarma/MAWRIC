@@ -1,0 +1,49 @@
+# ==============================================================================
+# MAWRIC-X .gitignore
+# ==============================================================================
+
+# Explicitly excluded directories per repository design
+manuscript/
+archive/
+submission/
+
+# Python virtual environments
+.venv/
+.venv*/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-code and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.cache/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large unneeded NOAA raw inventory/station metadata (reproducibility uses station CSVs)
+data/raw/ghcn/ghcnd-inventory.txt
+data/raw/ghcn/ghcnd-stations.txt
