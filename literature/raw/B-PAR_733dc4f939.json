@@ -1,0 +1,8230 @@
+{
+ "query": "overview Global Historical Climatology Network-Daily database",
+ "pass": "B-PAR",
+ "y0": 2010,
+ "y1": 2014,
+ "results": [
+  {
+   "id": "https://openalex.org/W2029604816",
+   "doi": "https://doi.org/10.1175/jtech-d-11-00103.1",
+   "title": "An Overview of the Global Historical Climatology Network-Daily Database",
+   "display_name": "An Overview of the Global Historical Climatology Network-Daily Database",
+   "relevance_score": 240.62448,
+   "publication_year": 2012,
+   "publication_date": "2012-03-26",
+   "ids": {
+    "openalex": "https://openalex.org/W2029604816",
+    "doi": "https://doi.org/10.1175/jtech-d-11-00103.1",
+    "mag": "2029604816"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.1175/jtech-d-11-00103.1",
+    "doi": "https://doi.org/10.1175/jtech-d-11-00103.1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1175/jtech-d-11-00103.1",
+    "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/29/7/jtech-d-11-00103_1.pdf",
+    "source": {
+     "id": "https://openalex.org/S135937692",
+     "display_name": "Journal of Atmospheric and Oceanic Technology",
+     "issn_l": "0739-0572",
+     "issn": [
+      "0739-0572",
+      "1520-0426"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-1",
+      "norway-1",
+      "poland-100",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310320260",
+     "host_organization_name": "American Meteorological Society",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320260"
+     ],
+     "host_organization_lineage_names": [
+      "American Meteorological Society"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Atmospheric and Oceanic Technology",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/29/7/jtech-d-11-00103_1.pdf",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5025236587",
+      "display_name": "Matthew J. Menne",
+      "orcid": "https://orcid.org/0000-0001-9725-248X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9725-248X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210157891",
+       "display_name": "NOAA National Centers for Environmental Information",
+       "ror": "https://ror.org/04r0wrp59",
+       "country_code": "US",
+       "type": "funder",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210089050",
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Matthew J. Menne",
+     "raw_affiliation_strings": [
+      "National Climatic Data Center, Asheville, North Carolina"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Climatic Data Center, Asheville, North Carolina",
+       "institution_ids": [
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5062803068",
+      "display_name": "Imke Durre",
+      "orcid": "https://orcid.org/0000-0001-5689-3846",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5689-3846"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210157891",
+       "display_name": "NOAA National Centers for Environmental Information",
+       "ror": "https://ror.org/04r0wrp59",
+       "country_code": "US",
+       "type": "funder",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210089050",
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Imke Durre",
+     "raw_affiliation_strings": [
+      "National Climatic Data Center, Asheville, North Carolina"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Climatic Data Center, Asheville, North Carolina",
+       "institution_ids": [
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5067810956",
+      "display_name": "Russell S. Vose",
+      "orcid": "https://orcid.org/0000-0002-6669-3319",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6669-3319"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210157891",
+       "display_name": "NOAA National Centers for Environmental Information",
+       "ror": "https://ror.org/04r0wrp59",
+       "country_code": "US",
+       "type": "funder",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210089050",
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Russell S. Vose",
+     "raw_affiliation_strings": [
+      "National Climatic Data Center, Asheville, North Carolina"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Climatic Data Center, Asheville, North Carolina",
+       "institution_ids": [
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5111947040",
+      "display_name": "Byron E. Gleason",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210157891",
+       "display_name": "NOAA National Centers for Environmental Information",
+       "ror": "https://ror.org/04r0wrp59",
+       "country_code": "US",
+       "type": "funder",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210089050",
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Byron E. Gleason",
+     "raw_affiliation_strings": [
+      "National Climatic Data Center, Asheville, North Carolina"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Climatic Data Center, Asheville, North Carolina",
+       "institution_ids": [
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5009917272",
+      "display_name": "Tamara G. Houston",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210157891",
+       "display_name": "NOAA National Centers for Environmental Information",
+       "ror": "https://ror.org/04r0wrp59",
+       "country_code": "US",
+       "type": "funder",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210089050",
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Tamara G. Houston",
+     "raw_affiliation_strings": [
+      "National Climatic Data Center, Asheville, North Carolina"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Climatic Data Center, Asheville, North Carolina",
+       "institution_ids": [
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5025236587"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I4210157891"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 48.5051,
+   "has_fulltext": true,
+   "cited_by_count": 1978,
+   "citation_normalized_percentile": {
+    "value": 0.99920785,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+   },
+   "biblio": {
+    "volume": "29",
+    "issue": "7",
+    "first_page": "897",
+    "last_page": "910"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T10029",
+    "display_name": "Climate variability and models",
+    "score": 0.9384999871253967,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2306",
+     "display_name": "Global and Planetary Change"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/23",
+     "display_name": "Environmental Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T10029",
+     "display_name": "Climate variability and models",
+     "score": 0.9384999871253967,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T14427",
+     "display_name": "Environmental Monitoring and Data Management",
+     "score": 0.02800000086426735,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1907",
+      "display_name": "Geology"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/19",
+      "display_name": "Earth and Planetary Sciences"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11234",
+     "display_name": "Precipitation Measurement and Analysis",
+     "score": 0.024800000712275505,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1902",
+      "display_name": "Atmospheric Science"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/19",
+      "display_name": "Earth and Planetary Sciences"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/ghcn-daily",
+     "display_name": "GHCN-Daily",
+     "score": 0.9559999704360962
+    },
+    {
+     "id": "https://openalex.org/keywords/global-historical-climatology-network",
+     "display_name": "Global Historical Climatology Network",
+     "score": 0.9440000057220459
+    },
+    {
+     "id": "https://openalex.org/keywords/daily-climate-data",
+     "display_name": "daily climate data",
+     "score": 0.9629999995231628
+    },
+    {
+     "id": "https://openalex.org/keywords/land-surface-climate",
+     "display_name": "land surface climate",
+     "score": 0.4490000009536743
+    },
+    {
+     "id": "https://openalex.org/keywords/temperature",
+     "display_name": "temperature",
+     "score": 0.45100000500679016
+    },
+    {
+     "id": "https://openalex.org/keywords/precipitation",
+     "display_name": "precipitation",
+     "score": 0.781000018119812
+    },
+    {
+     "id": "https://openalex.org/keywords/snowfall",
+     "display_name": "snowfall",
+     "score": 0.9369999766349792
+    },
+    {
+     "id": "https://openalex.org/keywords/snow-depth",
+     "display_name": "snow depth",
+     "score": 0.9480000138282776
+    },
+    {
+     "id": "https://openalex.org/keywords/data-quality-assurance",
+     "display_name": "data quality assurance",
+     "score": 0.8790000081062317
+    },
+    {
+     "id": "https://openalex.org/keywords/data-homogenization",
+     "display_name": "data homogenization",
+     "score": 0.7699999809265137
+    },
+    {
+     "id": "https://openalex.org/keywords/data-reconstruction",
+     "display_name": "data reconstruction",
+     "score": 0.6880000233650208
+    },
+    {
+     "id": "https://openalex.org/keywords/climate-monitoring",
+     "display_name": "climate monitoring",
+     "score": 0.6389999985694885
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C77088390",
+     "wikidata": "https://www.wikidata.org/wiki/Q8513",
+     "display_name": "Database",
+     "level": 1,
+     "score": 0.6109330058097839
+    },
+    {
+     "id": "https://openalex.org/C107054158",
+     "wikidata": "https://www.wikidata.org/wiki/Q25257",
+     "display_name": "Precipitation",
+     "level": 2,
+     "score": 0.5550299286842346
+    },
+    {
+     "id": "https://openalex.org/C197046000",
+     "wikidata": "https://www.wikidata.org/wiki/Q7561",
+     "display_name": "Snow",
+     "level": 2,
+     "score": 0.47627395391464233
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.47088131308555603
+    },
+    {
+     "id": "https://openalex.org/C132651083",
+     "wikidata": "https://www.wikidata.org/wiki/Q7942",
+     "display_name": "Climate change",
+     "level": 2,
+     "score": 0.46975472569465637
+    },
+    {
+     "id": "https://openalex.org/C49204034",
+     "wikidata": "https://www.wikidata.org/wiki/Q52139",
+     "display_name": "Climatology",
+     "level": 1,
+     "score": 0.46587133407592773
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.43659600615501404
+    },
+    {
+     "id": "https://openalex.org/C2993220731",
+     "wikidata": "https://www.wikidata.org/wiki/Q215864",
+     "display_name": "Heat wave",
+     "level": 3,
+     "score": 0.4217962622642517
+    },
+    {
+     "id": "https://openalex.org/C24756922",
+     "wikidata": "https://www.wikidata.org/wiki/Q1757694",
+     "display_name": "Data quality",
+     "level": 3,
+     "score": 0.4100014567375183
+    },
+    {
+     "id": "https://openalex.org/C153294291",
+     "wikidata": "https://www.wikidata.org/wiki/Q25261",
+     "display_name": "Meteorology",
+     "level": 1,
+     "score": 0.39666759967803955
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.2324267029762268
+    },
+    {
+     "id": "https://openalex.org/C127313418",
+     "wikidata": "https://www.wikidata.org/wiki/Q1069",
+     "display_name": "Geology",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C176217482",
+     "wikidata": "https://www.wikidata.org/wiki/Q860554",
+     "display_name": "Metric (unit)",
+     "level": 2,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C18903297",
+     "wikidata": "https://www.wikidata.org/wiki/Q7150",
+     "display_name": "Ecology",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C162324750",
+     "wikidata": "https://www.wikidata.org/wiki/Q8134",
+     "display_name": "Economics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C21547014",
+     "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+     "display_name": "Operations management",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C86803240",
+     "wikidata": "https://www.wikidata.org/wiki/Q420",
+     "display_name": "Biology",
+     "level": 0,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.1175/jtech-d-11-00103.1",
+     "doi": "https://doi.org/10.1175/jtech-d-11-00103.1",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.1175/jtech-d-11-00103.1",
+     "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/29/7/jtech-d-11-00103_1.pdf",
+     "source": {
+      "id": "https://openalex.org/S135937692",
+      "display_name": "Journal of Atmospheric and Oceanic Technology",
+      "issn_l": "0739-0572",
+      "issn": [
+       "0739-0572",
+       "1520-0426"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "anvur-scientific",
+       "cwts-core",
+       "dongbi-b",
+       "jufo-1",
+       "norway-1",
+       "poland-100",
+       "russia-white-list-1"
+      ],
+      "host_organization": "https://openalex.org/P4310320260",
+      "host_organization_name": "American Meteorological Society",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310320260"
+      ],
+      "host_organization_lineage_names": [
+       "American Meteorological Society"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Journal of Atmospheric and Oceanic Technology",
+     "raw_type": "journal-article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.1175/jtech-d-11-00103.1",
+    "doi": "https://doi.org/10.1175/jtech-d-11-00103.1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1175/jtech-d-11-00103.1",
+    "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/29/7/jtech-d-11-00103_1.pdf",
+    "source": {
+     "id": "https://openalex.org/S135937692",
+     "display_name": "Journal of Atmospheric and Oceanic Technology",
+     "issn_l": "0739-0572",
+     "issn": [
+      "0739-0572",
+      "1520-0426"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-1",
+      "norway-1",
+      "poland-100",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310320260",
+     "host_organization_name": "American Meteorological Society",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320260"
+     ],
+     "host_organization_lineage_names": [
+      "American Meteorological Society"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Atmospheric and Oceanic Technology",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "display_name": "Climate action",
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.9786999821662903
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "display_name": "Climate action",
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.8500000238418579
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320306084",
+     "display_name": "U.S. Department of Energy",
+     "ror": "https://ror.org/01bj3aw27"
+    },
+    {
+     "id": "https://openalex.org/F4320324178",
+     "display_name": "Ag\u00eancia Nacional de Energia El\u00e9trica",
+     "ror": "https://ror.org/049sgh675"
+    },
+    {
+     "id": "https://openalex.org/F4320337509",
+     "display_name": "Biological and Environmental Research",
+     "ror": "https://ror.org/0114b2m14"
+    }
+   ],
+   "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2029604816.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2029604816.grobid-xml"
+   },
+   "referenced_works_count": 34,
+   "referenced_works": [
+    "https://openalex.org/W174643455",
+    "https://openalex.org/W568861254",
+    "https://openalex.org/W1503635528",
+    "https://openalex.org/W1970940206",
+    "https://openalex.org/W1991853727",
+    "https://openalex.org/W2000257837",
+    "https://openalex.org/W2007534230",
+    "https://openalex.org/W2008720804",
+    "https://openalex.org/W2009938458",
+    "https://openalex.org/W2023843250",
+    "https://openalex.org/W2027023741",
+    "https://openalex.org/W2031418362",
+    "https://openalex.org/W2037460094",
+    "https://openalex.org/W2050700427",
+    "https://openalex.org/W2051411424",
+    "https://openalex.org/W2052734199",
+    "https://openalex.org/W2065217096",
+    "https://openalex.org/W2078580016",
+    "https://openalex.org/W2079438899",
+    "https://openalex.org/W2095833674",
+    "https://openalex.org/W2139396291",
+    "https://openalex.org/W2151455735",
+    "https://openalex.org/W2153362169",
+    "https://openalex.org/W2153859231",
+    "https://openalex.org/W2154117242",
+    "https://openalex.org/W2154306139",
+    "https://openalex.org/W2171692085",
+    "https://openalex.org/W2172454710",
+    "https://openalex.org/W2173715384",
+    "https://openalex.org/W2176335340",
+    "https://openalex.org/W2177813429",
+    "https://openalex.org/W2180529253",
+    "https://openalex.org/W2885272901",
+    "https://openalex.org/W4234492793"
+   ],
+   "related_works": [
+    "https://openalex.org/W2314704010",
+    "https://openalex.org/W1584003442",
+    "https://openalex.org/W2317224478",
+    "https://openalex.org/W2084452007",
+    "https://openalex.org/W2996275564",
+    "https://openalex.org/W2060524912",
+    "https://openalex.org/W2242764613",
+    "https://openalex.org/W597570173",
+    "https://openalex.org/W2331727539",
+    "https://openalex.org/W4250354563"
+   ],
+   "abstract_inverted_index": {
+    "Abstract": [
+     0
+    ],
+    "A": [
+     1
+    ],
+    "database": [
+     2
+    ],
+    "is": [
+     3,
+     166,
+     184,
+     215,
+     230
+    ],
+    "described": [
+     4
+    ],
+    "that": [
+     5,
+     45,
+     181
+    ],
+    "has": [
+     6
+    ],
+    "been": [
+     7
+    ],
+    "designed": [
+     8
+    ],
+    "to": [
+     9,
+     120,
+     130
+    ],
+    "fulfill": [
+     10
+    ],
+    "the": [
+     11,
+     56,
+     84,
+     109,
+     121,
+     125,
+     136,
+     159,
+     182,
+     210,
+     218,
+     228,
+     234
+    ],
+    "need": [
+     12
+    ],
+    "for": [
+     13,
+     32,
+     87,
+     132,
+     147,
+     156,
+     221,
+     241
+    ],
+    "daily": [
+     14,
+     50,
+     89,
+     99,
+     195
+    ],
+    "climate": [
+     15,
+     40
+    ],
+    "data": [
+     16,
+     47,
+     126,
+     177
+    ],
+    "over": [
+     17,
+     70
+    ],
+    "global": [
+     18
+    ],
+    "land": [
+     19
+    ],
+    "areas.": [
+     20
+    ],
+    "The": [
+     21,
+     65,
+     164,
+     194
+    ],
+    "dataset,": [
+     22,
+     123
+    ],
+    "known": [
+     23
+    ],
+    "as": [
+     24
+    ],
+    "Global": [
+     25
+    ],
+    "Historical": [
+     26
+    ],
+    "Climatology": [
+     27
+    ],
+    "Network": [
+     28
+    ],
+    "(GHCN)-Daily,": [
+     29
+    ],
+    "was": [
+     30
+    ],
+    "developed": [
+     31
+    ],
+    "a": [
+     33,
+     49,
+     205
+    ],
+    "wide": [
+     34
+    ],
+    "variety": [
+     35
+    ],
+    "of": [
+     36,
+     55,
+     58,
+     108,
+     158,
+     191,
+     201,
+     227
+    ],
+    "potential": [
+     37
+    ],
+    "applications,": [
+     38
+    ],
+    "including": [
+     39
+    ],
+    "analysis": [
+     41
+    ],
+    "and": [
+     42,
+     77,
+     79,
+     95,
+     102,
+     197,
+     209
+    ],
+    "monitoring": [
+     43
+    ],
+    "studies": [
+     44
+    ],
+    "require": [
+     46
+    ],
+    "at": [
+     48,
+     142,
+     233
+    ],
+    "time": [
+     51
+    ],
+    "resolution": [
+     52
+    ],
+    "(e.g.,": [
+     53
+    ],
+    "assessments": [
+     54
+    ],
+    "frequency": [
+     57
+    ],
+    "heavy": [
+     59
+    ],
+    "rainfall,": [
+     60
+    ],
+    "heat": [
+     61
+    ],
+    "wave": [
+     62
+    ],
+    "duration,": [
+     63
+    ],
+    "etc.).": [
+     64
+    ],
+    "dataset": [
+     66,
+     165,
+     183,
+     213,
+     229
+    ],
+    "contains": [
+     67
+    ],
+    "records": [
+     68,
+     161
+    ],
+    "from": [
+     69,
+     174
+    ],
+    "80": [
+     71
+    ],
+    "000": [
+     72
+    ],
+    "stations": [
+     73,
+     110
+    ],
+    "in": [
+     74,
+     139,
+     149,
+     162,
+     239
+    ],
+    "180": [
+     75
+    ],
+    "countries": [
+     76
+    ],
+    "territories,": [
+     78
+    ],
+    "its": [
+     80,
+     175,
+     188
+    ],
+    "processing": [
+     81
+    ],
+    "system": [
+     82
+    ],
+    "produces": [
+     83
+    ],
+    "official": [
+     85
+    ],
+    "archive": [
+     86
+    ],
+    "U.S.": [
+     88
+    ],
+    "data.": [
+     90
+    ],
+    "Variables": [
+     91
+    ],
+    "commonly": [
+     92
+    ],
+    "include": [
+     93
+    ],
+    "maximum": [
+     94
+    ],
+    "minimum": [
+     96
+    ],
+    "temperature,": [
+     97
+    ],
+    "total": [
+     98
+    ],
+    "precipitation,": [
+     100
+    ],
+    "snowfall,": [
+     101
+    ],
+    "snow": [
+     103
+    ],
+    "depth;": [
+     104
+    ],
+    "however,": [
+     105
+    ],
+    "about": [
+     106
+    ],
+    "two-thirds": [
+     107
+    ],
+    "report": [
+     111
+    ],
+    "precipitation": [
+     112
+    ],
+    "only.": [
+     113
+    ],
+    "Quality": [
+     114
+    ],
+    "assurance": [
+     115
+    ],
+    "checks": [
+     116
+    ],
+    "are": [
+     117,
+     127,
+     154,
+     203
+    ],
+    "routinely": [
+     118
+    ],
+    "applied": [
+     119
+    ],
+    "full": [
+     122
+    ],
+    "but": [
+     124
+    ],
+    "not": [
+     128
+    ],
+    "homogenized": [
+     129
+    ],
+    "account": [
+     131
+    ],
+    "artifacts": [
+     133
+    ],
+    "associated": [
+     134
+    ],
+    "with": [
+     135,
+     187
+    ],
+    "various": [
+     137
+    ],
+    "eras": [
+     138
+    ],
+    "reporting": [
+     140
+    ],
+    "practice": [
+     141
+    ],
+    "any": [
+     143
+    ],
+    "particular": [
+     144
+    ],
+    "station": [
+     145,
+     160
+    ],
+    "(i.e.,": [
+     146
+    ],
+    "changes": [
+     148
+    ],
+    "systematic": [
+     150
+    ],
+    "bias).": [
+     151
+    ],
+    "Daily": [
+     152
+    ],
+    "updates": [
+     153,
+     196
+    ],
+    "provided": [
+     155,
+     216
+    ],
+    "many": [
+     157
+    ],
+    "GHCN-Daily.": [
+     163
+    ],
+    "also": [
+     167,
+     231
+    ],
+    "regularly": [
+     168
+    ],
+    "reconstructed,": [
+     169
+    ],
+    "usually": [
+     170
+    ],
+    "once": [
+     171
+    ],
+    "per": [
+     172
+    ],
+    "week,": [
+     173
+    ],
+    "20+": [
+     176
+    ],
+    "source": [
+     178
+    ],
+    "components,": [
+     179
+    ],
+    "ensuring": [
+     180
+    ],
+    "broadly": [
+     185
+    ],
+    "synchronized": [
+     186
+    ],
+    "growing": [
+     189
+    ],
+    "list": [
+     190
+    ],
+    "constituent": [
+     192
+    ],
+    "sources.": [
+     193
+    ],
+    "weekly": [
+     198
+    ],
+    "reprocessed": [
+     199
+    ],
+    "versions": [
+     200
+    ],
+    "GHCN-Daily": [
+     202,
+     219
+    ],
+    "assigned": [
+     204
+    ],
+    "unique": [
+     206
+    ],
+    "version": [
+     207,
+     214,
+     226
+    ],
+    "number,": [
+     208
+    ],
+    "most": [
+     211
+    ],
+    "recent": [
+     212
+    ],
+    "on": [
+     217
+    ],
+    "website": [
+     220
+    ],
+    "free": [
+     222
+    ],
+    "public": [
+     223
+    ],
+    "access.": [
+     224
+    ],
+    "Each": [
+     225
+    ],
+    "archived": [
+     232
+    ],
+    "NOAA/National": [
+     235
+    ],
+    "Climatic": [
+     236
+    ],
+    "Data": [
+     237
+    ],
+    "Center": [
+     238
+    ],
+    "perpetuity": [
+     240
+    ],
+    "future": [
+     242
+    ],
+    "retrieval.": [
+     243
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 120
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 157
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 168
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 185
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 229
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 209
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 196
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 159
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 131
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 127
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 109
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 86
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 63
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 28
+    },
+    {
+     "year": 2012,
+     "cited_by_count": 9
+    }
+   ],
+   "updated_date": "2026-10-14T16:39:01.820549",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W1769054736",
+   "doi": "https://doi.org/10.1029/2012jd018509",
+   "title": "Quantifying the effect of urbanization on U.S. Historical Climatology Network temperature records",
+   "display_name": "Quantifying the effect of urbanization on U.S. Historical Climatology Network temperature records",
+   "relevance_score": 48.399696,
+   "publication_year": 2012,
+   "publication_date": "2012-11-16",
+   "ids": {
+    "openalex": "https://openalex.org/W1769054736",
+    "doi": "https://doi.org/10.1029/2012jd018509",
+    "mag": "1769054736"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.1029/2012jd018509",
+    "doi": "https://doi.org/10.1029/2012jd018509",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2012jd018509",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2012JD018509",
+    "source": {
+     "id": "https://openalex.org/S207178839",
+     "display_name": "Journal of Geophysical Research Atmospheres",
+     "issn_l": "0148-0227",
+     "issn": [
+      "0148-0227",
+      "2156-2202",
+      "2169-897X",
+      "2169-8996"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-2",
+      "ki-jl-1",
+      "norway-2",
+      "poland-100",
+      "poland-140",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310315809",
+     "host_organization_name": "American Geophysical Union",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310315809"
+     ],
+     "host_organization_lineage_names": [
+      "American Geophysical Union"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Geophysical Research: Atmospheres",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2012JD018509",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5085329398",
+      "display_name": "Zeke Hausfather",
+      "orcid": "https://orcid.org/0000-0002-2926-0581",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-2926-0581"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Zeke Hausfather",
+     "raw_affiliation_strings": [
+      "C3 Energy  San Mateo California USA",
+      "C3 Energy San Mateo California USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "C3 Energy  San Mateo California USA",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "C3 Energy San Mateo California USA",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5025236587",
+      "display_name": "Matthew J. Menne",
+      "orcid": "https://orcid.org/0000-0001-9725-248X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9725-248X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1308126019",
+       "display_name": "National Oceanic and Atmospheric Administration",
+       "ror": "https://ror.org/02z5nhe81",
+       "country_code": "US",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4210157891",
+       "display_name": "NOAA National Centers for Environmental Information",
+       "ror": "https://ror.org/04r0wrp59",
+       "country_code": "US",
+       "type": "funder",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210089050",
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Matthew J. Menne",
+     "raw_affiliation_strings": [
+      "NOAA/National Climatic Data Center  Asheville North Carolina USA",
+      "NOAA National Climatic Data Center , Asheville , North Carolina , USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "NOAA/National Climatic Data Center  Asheville North Carolina USA",
+       "institution_ids": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I4210157891"
+       ]
+      },
+      {
+       "raw_affiliation_string": "NOAA National Climatic Data Center , Asheville , North Carolina , USA",
+       "institution_ids": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5048804371",
+      "display_name": "Claude N. Williams",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1308126019",
+       "display_name": "National Oceanic and Atmospheric Administration",
+       "ror": "https://ror.org/02z5nhe81",
+       "country_code": "US",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4210157891",
+       "display_name": "NOAA National Centers for Environmental Information",
+       "ror": "https://ror.org/04r0wrp59",
+       "country_code": "US",
+       "type": "funder",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210089050",
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Claude N. Williams",
+     "raw_affiliation_strings": [
+      "NOAA/National Climatic Data Center  Asheville North Carolina USA",
+      "NOAA National Climatic Data Center , Asheville , North Carolina , USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "NOAA/National Climatic Data Center  Asheville North Carolina USA",
+       "institution_ids": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I4210157891"
+       ]
+      },
+      {
+       "raw_affiliation_string": "NOAA National Climatic Data Center , Asheville , North Carolina , USA",
+       "institution_ids": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I4210157891"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5070514254",
+      "display_name": "Troy Masters",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I161318765",
+       "display_name": "University of California, Los Angeles",
+       "ror": "https://ror.org/046rm7j60",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I161318765"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Troy Masters",
+     "raw_affiliation_strings": [
+      "School of Engineering and Applied Science University of California at Los Angeles  Los Angeles California USA",
+      "School of Engineering and Applied Science University of California at Los Angeles Los Angeles California USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Engineering and Applied Science University of California at Los Angeles  Los Angeles California USA",
+       "institution_ids": [
+        "https://openalex.org/I161318765"
+       ]
+      },
+      {
+       "raw_affiliation_string": "School of Engineering and Applied Science University of California at Los Angeles Los Angeles California USA",
+       "institution_ids": [
+        "https://openalex.org/I161318765"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5008027957",
+      "display_name": "Ronald Broberg",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I888729015",
+       "display_name": "University of Colorado Colorado Springs",
+       "ror": "https://ror.org/054spjc55",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I888729015"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ronald Broberg",
+     "raw_affiliation_strings": [
+      "Department of Mathematics University of Colorado  Colorado Springs Colorado USA",
+      "Department of Mathematics , University of Colorado , Colorado Springs , Colorado , USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Mathematics University of Colorado  Colorado Springs Colorado USA",
+       "institution_ids": [
+        "https://openalex.org/I888729015"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Mathematics , University of Colorado , Colorado Springs , Colorado , USA",
+       "institution_ids": [
+        "https://openalex.org/I888729015"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5027173331",
+      "display_name": "David A. Jones",
+      "orcid": "https://orcid.org/0000-0001-9868-0013",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9868-0013"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "David Jones",
+     "raw_affiliation_strings": [
+      "Climate Code Foundation  Sheffield UK",
+      "Climate Code Foundation Sheffield UK"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Climate Code Foundation  Sheffield UK",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Climate Code Foundation Sheffield UK",
+       "institution_ids": []
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 4,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5085329398"
+   ],
+   "corresponding_institution_ids": [],
+   "apc_list": {
+    "value": 4070,
+    "currency": "USD",
+    "value_usd": 4070
+   },
+   "apc_paid": null,
+   "fwci": 4.9548,
+   "has_fulltext": true,
+   "cited_by_count": 82,
+   "citation_normalized_percentile": {
+    "value": 0.94741332,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+   },
+   "biblio": {
+    "volume": "118",
+    "issue": "2",
+    "first_page": "481",
+    "last_page": "494"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T10029",
+    "display_name": "Climate variability and models",
+    "score": 0.8378999829292297,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2306",
+     "display_name": "Global and Planetary Change"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/23",
+     "display_name": "Environmental Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T10029",
+     "display_name": "Climate variability and models",
+     "score": 0.8378999829292297,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10766",
+     "display_name": "Urban Heat Island Mitigation",
+     "score": 0.15629999339580536,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T13530",
+     "display_name": "Climate Change and Environmental Impact",
+     "score": 0.0005000000237487257,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/urbanization",
+     "display_name": "urbanization",
+     "score": 0.7450000047683716
+    },
+    {
+     "id": "https://openalex.org/keywords/urban-heat-island",
+     "display_name": "urban heat island",
+     "score": 0.9440000057220459
+    },
+    {
+     "id": "https://openalex.org/keywords/temperature-trends",
+     "display_name": "temperature trends",
+     "score": 0.4860000014305115
+    },
+    {
+     "id": "https://openalex.org/keywords/urban-rural-temperature-difference",
+     "display_name": "urban-rural temperature difference",
+     "score": 0.6340000033378601
+    },
+    {
+     "id": "https://openalex.org/keywords/homogenization",
+     "display_name": "homogenization",
+     "score": 0.7080000042915344
+    },
+    {
+     "id": "https://openalex.org/keywords/minimum-temperature",
+     "display_name": "minimum temperature",
+     "score": 0.5899999737739563
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C39853841",
+     "wikidata": "https://www.wikidata.org/wiki/Q161078",
+     "display_name": "Urbanization",
+     "level": 2,
+     "score": 0.7049893140792847
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.6122885942459106
+    },
+    {
+     "id": "https://openalex.org/C54005896",
+     "wikidata": "https://www.wikidata.org/wiki/Q215712",
+     "display_name": "Urban heat island",
+     "level": 2,
+     "score": 0.5827662944793701
+    },
+    {
+     "id": "https://openalex.org/C2780148112",
+     "wikidata": "https://www.wikidata.org/wiki/Q1432581",
+     "display_name": "Proxy (statistics)",
+     "level": 2,
+     "score": 0.5430575609207153
+    },
+    {
+     "id": "https://openalex.org/C2778722038",
+     "wikidata": "https://www.wikidata.org/wiki/Q17030643",
+     "display_name": "Homogenization (climate)",
+     "level": 3,
+     "score": 0.5065196752548218
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.464194655418396
+    },
+    {
+     "id": "https://openalex.org/C49204034",
+     "wikidata": "https://www.wikidata.org/wiki/Q52139",
+     "display_name": "Climatology",
+     "level": 1,
+     "score": 0.4425508677959442
+    },
+    {
+     "id": "https://openalex.org/C153294291",
+     "wikidata": "https://www.wikidata.org/wiki/Q25261",
+     "display_name": "Meteorology",
+     "level": 1,
+     "score": 0.4107738435268402
+    },
+    {
+     "id": "https://openalex.org/C100970517",
+     "wikidata": "https://www.wikidata.org/wiki/Q52107",
+     "display_name": "Physical geography",
+     "level": 1,
+     "score": 0.37154871225357056
+    },
+    {
+     "id": "https://openalex.org/C105795698",
+     "wikidata": "https://www.wikidata.org/wiki/Q12483",
+     "display_name": "Statistics",
+     "level": 1,
+     "score": 0.23355302214622498
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.1544015109539032
+    },
+    {
+     "id": "https://openalex.org/C127313418",
+     "wikidata": "https://www.wikidata.org/wiki/Q1069",
+     "display_name": "Geology",
+     "level": 0,
+     "score": 0.0900176465511322
+    },
+    {
+     "id": "https://openalex.org/C50522688",
+     "wikidata": "https://www.wikidata.org/wiki/Q189833",
+     "display_name": "Economic growth",
+     "level": 1,
+     "score": 0.07559385895729065
+    },
+    {
+     "id": "https://openalex.org/C86803240",
+     "wikidata": "https://www.wikidata.org/wiki/Q420",
+     "display_name": "Biology",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C18903297",
+     "wikidata": "https://www.wikidata.org/wiki/Q7150",
+     "display_name": "Ecology",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C130217890",
+     "wikidata": "https://www.wikidata.org/wiki/Q47041",
+     "display_name": "Biodiversity",
+     "level": 2,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C162324750",
+     "wikidata": "https://www.wikidata.org/wiki/Q8134",
+     "display_name": "Economics",
+     "level": 0,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.1029/2012jd018509",
+     "doi": "https://doi.org/10.1029/2012jd018509",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.1029/2012jd018509",
+     "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2012JD018509",
+     "source": {
+      "id": "https://openalex.org/S207178839",
+      "display_name": "Journal of Geophysical Research Atmospheres",
+      "issn_l": "0148-0227",
+      "issn": [
+       "0148-0227",
+       "2156-2202",
+       "2169-897X",
+       "2169-8996"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "anvur-scientific",
+       "cwts-core",
+       "dongbi-b",
+       "jufo-2",
+       "ki-jl-1",
+       "norway-2",
+       "poland-100",
+       "poland-140",
+       "russia-white-list-1",
+       "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310315809",
+      "host_organization_name": "American Geophysical Union",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310315809"
+      ],
+      "host_organization_lineage_names": [
+       "American Geophysical Union"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Journal of Geophysical Research: Atmospheres",
+     "raw_type": "journal-article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.1029/2012jd018509",
+    "doi": "https://doi.org/10.1029/2012jd018509",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2012jd018509",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2012JD018509",
+    "source": {
+     "id": "https://openalex.org/S207178839",
+     "display_name": "Journal of Geophysical Research Atmospheres",
+     "issn_l": "0148-0227",
+     "issn": [
+      "0148-0227",
+      "2156-2202",
+      "2169-897X",
+      "2169-8996"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-2",
+      "ki-jl-1",
+      "norway-2",
+      "poland-100",
+      "poland-140",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310315809",
+     "host_organization_name": "American Geophysical Union",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310315809"
+     ],
+     "host_organization_lineage_names": [
+      "American Geophysical Union"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Geophysical Research: Atmospheres",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "display_name": "Climate action",
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.9786999821662903
+    },
+    {
+     "display_name": "Sustainable cities and communities",
+     "id": "https://metadata.un.org/sdg/11",
+     "score": 0.8787999749183655
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "display_name": "Sustainable cities and communities",
+     "id": "https://metadata.un.org/sdg/11",
+     "score": 0.8500000238418579
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W1769054736.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W1769054736.grobid-xml"
+   },
+   "referenced_works_count": 45,
+   "referenced_works": [
+    "https://openalex.org/W188824740",
+    "https://openalex.org/W194570559",
+    "https://openalex.org/W1622515456",
+    "https://openalex.org/W1965339662",
+    "https://openalex.org/W1970940206",
+    "https://openalex.org/W1983322114",
+    "https://openalex.org/W1997342191",
+    "https://openalex.org/W1999697646",
+    "https://openalex.org/W2004776481",
+    "https://openalex.org/W2007215615",
+    "https://openalex.org/W2008598734",
+    "https://openalex.org/W2013084428",
+    "https://openalex.org/W2016869120",
+    "https://openalex.org/W2021057500",
+    "https://openalex.org/W2027023741",
+    "https://openalex.org/W2029688250",
+    "https://openalex.org/W2038116383",
+    "https://openalex.org/W2041875607",
+    "https://openalex.org/W2044995512",
+    "https://openalex.org/W2050346066",
+    "https://openalex.org/W2060540003",
+    "https://openalex.org/W2061718604",
+    "https://openalex.org/W2063141221",
+    "https://openalex.org/W2069624290",
+    "https://openalex.org/W2079378643",
+    "https://openalex.org/W2088183781",
+    "https://openalex.org/W2089134580",
+    "https://openalex.org/W2109411334",
+    "https://openalex.org/W2115948840",
+    "https://openalex.org/W2116359764",
+    "https://openalex.org/W2133704701",
+    "https://openalex.org/W2147406638",
+    "https://openalex.org/W2148530200",
+    "https://openalex.org/W2153133730",
+    "https://openalex.org/W2156066376",
+    "https://openalex.org/W2165452762",
+    "https://openalex.org/W2173130656",
+    "https://openalex.org/W2178184892",
+    "https://openalex.org/W2179405369",
+    "https://openalex.org/W2734645652",
+    "https://openalex.org/W2885272901",
+    "https://openalex.org/W2898395990",
+    "https://openalex.org/W3212230143",
+    "https://openalex.org/W4248368970",
+    "https://openalex.org/W6803897555"
+   ],
+   "related_works": [
+    "https://openalex.org/W2392907783",
+    "https://openalex.org/W2104620528",
+    "https://openalex.org/W891751532",
+    "https://openalex.org/W1985072978",
+    "https://openalex.org/W2375489112",
+    "https://openalex.org/W2370838374",
+    "https://openalex.org/W2354222596",
+    "https://openalex.org/W2392291083",
+    "https://openalex.org/W2353135038",
+    "https://openalex.org/W140119233"
+   ],
+   "abstract_inverted_index": {
+    "An": [
+     0
+    ],
+    "assessment": [
+     1
+    ],
+    "quantifying": [
+     2
+    ],
+    "the": [
+     3,
+     11,
+     37,
+     62,
+     73,
+     82,
+     102,
+     131,
+     144,
+     150,
+     177,
+     198,
+     213,
+     222,
+     235
+    ],
+    "impact": [
+     4,
+     166
+    ],
+    "of": [
+     5,
+     33,
+     65,
+     85,
+     101,
+     143,
+     197,
+     200,
+     206,
+     224,
+     237
+    ],
+    "urbanization": [
+     6,
+     97
+    ],
+    "on": [
+     7,
+     167
+    ],
+    "temperature": [
+     8,
+     79,
+     180,
+     202,
+     246
+    ],
+    "trends": [
+     9,
+     80,
+     171,
+     247
+    ],
+    "from": [
+     10,
+     36,
+     212
+    ],
+    "U.S.": [
+     12,
+     215
+    ],
+    "Historical": [
+     13
+    ],
+    "Climatology": [
+     14
+    ],
+    "Network": [
+     15,
+     219
+    ],
+    "(USHCN)": [
+     16
+    ],
+    "is": [
+     17,
+     147,
+     230
+    ],
+    "described.": [
+     18
+    ],
+    "Stations": [
+     19
+    ],
+    "were": [
+     20,
+     41
+    ],
+    "first": [
+     21
+    ],
+    "classified": [
+     22
+    ],
+    "as": [
+     23
+    ],
+    "urban": [
+     24,
+     76,
+     91,
+     123,
+     145,
+     191,
+     238
+    ],
+    "and": [
+     25,
+     55,
+     77,
+     110,
+     153,
+     208
+    ],
+    "nonurban": [
+     26
+    ],
+    "(rural)": [
+     27
+    ],
+    "using": [
+     28,
+     44,
+     204
+    ],
+    "four": [
+     29,
+     90,
+     190
+    ],
+    "different": [
+     30
+    ],
+    "proxy": [
+     31,
+     192
+    ],
+    "measures": [
+     32
+    ],
+    "urbanity.": [
+     34
+    ],
+    "Trends": [
+     35
+    ],
+    "two": [
+     38
+    ],
+    "station": [
+     39
+    ],
+    "types": [
+     40
+    ],
+    "then": [
+     42
+    ],
+    "compared": [
+     43
+    ],
+    "a": [
+     45
+    ],
+    "pairing": [
+     46
+    ],
+    "method": [
+     47
+    ],
+    "that": [
+     48,
+     126,
+     221
+    ],
+    "controls": [
+     49
+    ],
+    "for": [
+     50,
+     61,
+     99,
+     158,
+     183
+    ],
+    "differences": [
+     51,
+     71,
+     182
+    ],
+    "in": [
+     52,
+     104
+    ],
+    "instrument": [
+     53
+    ],
+    "type": [
+     54
+    ],
+    "via": [
+     56
+    ],
+    "spatial": [
+     57
+    ],
+    "gridding": [
+     58
+    ],
+    "to": [
+     59,
+     88,
+     94,
+     138,
+     188,
+     233
+    ],
+    "account": [
+     60
+    ],
+    "uneven": [
+     63
+    ],
+    "distribution": [
+     64
+    ],
+    "stations.": [
+     66
+    ],
+    "The": [
+     67,
+     114
+    ],
+    "comparisons": [
+     68
+    ],
+    "reveal": [
+     69
+    ],
+    "systematic": [
+     70
+    ],
+    "between": [
+     72
+    ],
+    "raw": [
+     74
+    ],
+    "(unadjusted)": [
+     75
+    ],
+    "rural": [
+     78
+    ],
+    "throughout": [
+     81
+    ],
+    "USHCN": [
+     83,
+     115,
+     168,
+     201,
+     228,
+     243
+    ],
+    "period": [
+     84
+    ],
+    "record": [
+     86
+    ],
+    "according": [
+     87,
+     187
+    ],
+    "all": [
+     89,
+     189
+    ],
+    "classifications.": [
+     92,
+     193
+    ],
+    "According": [
+     93
+    ],
+    "these": [
+     95
+    ],
+    "classifications,": [
+     96
+    ],
+    "accounts": [
+     98
+    ],
+    "14\u201321%": [
+     100
+    ],
+    "rise": [
+     103
+    ],
+    "unadjusted": [
+     105
+    ],
+    "minimum": [
+     106
+    ],
+    "temperatures": [
+     107
+    ],
+    "since": [
+     108,
+     112,
+     172
+    ],
+    "1895": [
+     109
+    ],
+    "6\u20139%": [
+     111
+    ],
+    "1960.": [
+     113
+    ],
+    "version": [
+     116,
+     169,
+     244
+    ],
+    "2": [
+     117,
+     170,
+     245
+    ],
+    "homogenization": [
+     118,
+     199
+    ],
+    "process": [
+     119
+    ],
+    "effectively": [
+     120,
+     175
+    ],
+    "removes": [
+     121,
+     176
+    ],
+    "this": [
+     122
+    ],
+    "signal": [
+     124,
+     146
+    ],
+    "such": [
+     125
+    ],
+    "it": [
+     127
+    ],
+    "becomes": [
+     128
+    ],
+    "insignificant": [
+     129
+    ],
+    "during": [
+     130,
+     248
+    ],
+    "last": [
+     132
+    ],
+    "50\u201380": [
+     133
+    ],
+    "years.": [
+     134
+    ],
+    "In": [
+     135
+    ],
+    "contrast,": [
+     136
+    ],
+    "prior": [
+     137
+    ],
+    "1930,": [
+     139,
+     173
+    ],
+    "only": [
+     140
+    ],
+    "about": [
+     141
+    ],
+    "half": [
+     142
+    ],
+    "removed.": [
+     148
+    ],
+    "Accordingly,": [
+     149
+    ],
+    "National": [
+     151
+    ],
+    "Aeronautics": [
+     152
+    ],
+    "Space": [
+     154,
+     159
+    ],
+    "Administration": [
+     155
+    ],
+    "Goddard": [
+     156
+    ],
+    "Institute": [
+     157
+    ],
+    "Studies": [
+     160
+    ],
+    "urban\u2010correction": [
+     161
+    ],
+    "procedure": [
+     162
+    ],
+    "has": [
+     163
+    ],
+    "essentially": [
+     164
+    ],
+    "no": [
+     165
+    ],
+    "but": [
+     174
+    ],
+    "residual": [
+     178
+    ],
+    "urban\u2010rural": [
+     179
+    ],
+    "trend": [
+     181
+    ],
+    "years": [
+     184
+    ],
+    "before": [
+     185
+    ],
+    "1930": [
+     186
+    ],
+    "Finally,": [
+     194
+    ],
+    "an": [
+     195
+    ],
+    "evaluation": [
+     196
+    ],
+    "series": [
+     203,
+     211
+    ],
+    "subsets": [
+     205
+    ],
+    "rural\u2010only": [
+     207
+    ],
+    "urban\u2010only": [
+     209
+    ],
+    "reference": [
+     210
+    ],
+    "larger": [
+     214
+    ],
+    "Cooperative": [
+     216
+    ],
+    "Observer": [
+     217
+    ],
+    "(Coop)": [
+     218
+    ],
+    "suggests": [
+     220
+    ],
+    "composition": [
+     223
+    ],
+    "Coop": [
+     225
+    ],
+    "stations": [
+     226,
+     229
+    ],
+    "surrounding": [
+     227
+    ],
+    "sufficiently": [
+     231
+    ],
+    "\u201crural\u201d": [
+     232
+    ],
+    "limit": [
+     234
+    ],
+    "aliasing": [
+     236
+    ],
+    "heat": [
+     239
+    ],
+    "island": [
+     240
+    ],
+    "signals": [
+     241
+    ],
+    "onto": [
+     242
+    ],
+    "homogenization.": [
+     249
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 7
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 7
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 14
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 7
+    },
+    {
+     "year": 2012,
+     "cited_by_count": 1
+    }
+   ],
+   "updated_date": "2026-10-08T09:06:37.294493",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W2066038820",
+   "doi": "https://doi.org/10.1029/2011ja016567",
+   "title": "Ionospheric total electron content: Global and hemispheric climatology",
+   "display_name": "Ionospheric total electron content: Global and hemispheric climatology",
+   "relevance_score": 39.69945,
+   "publication_year": 2011,
+   "publication_date": "2011-08-12",
+   "ids": {
+    "openalex": "https://openalex.org/W2066038820",
+    "doi": "https://doi.org/10.1029/2011ja016567",
+    "mag": "2066038820"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.1029/2011ja016567",
+    "doi": "https://doi.org/10.1029/2011ja016567",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2011ja016567",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2011JA016567",
+    "source": {
+     "id": "https://openalex.org/S207178839",
+     "display_name": "Journal of Geophysical Research Atmospheres",
+     "issn_l": "0148-0227",
+     "issn": [
+      "0148-0227",
+      "2156-2202",
+      "2169-897X",
+      "2169-8996"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-2",
+      "ki-jl-1",
+      "norway-2",
+      "poland-100",
+      "poland-140",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310315809",
+     "host_organization_name": "American Geophysical Union",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310315809"
+     ],
+     "host_organization_lineage_names": [
+      "American Geophysical Union"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Geophysical Research: Space Physics",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2011JA016567",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5057458615",
+      "display_name": "Judith L. Lean",
+      "orcid": "https://orcid.org/0000-0002-0087-9639",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-0087-9639"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1288214837",
+       "display_name": "United States Naval Research Laboratory",
+       "ror": "https://ror.org/04d23a975",
+       "country_code": "US",
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I1288214837",
+        "https://openalex.org/I1330347796",
+        "https://openalex.org/I175003984",
+        "https://openalex.org/I3130687028"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4388482645",
+       "display_name": "Naval Research Laboratory Space Science Division",
+       "ror": "https://ror.org/03hx19n93",
+       "country_code": null,
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I1288214837",
+        "https://openalex.org/I1330347796",
+        "https://openalex.org/I175003984",
+        "https://openalex.org/I3130687028",
+        "https://openalex.org/I4388482645"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "J. L. Lean",
+     "raw_affiliation_strings": [
+      "Space Science Division; Naval Research Laboratory; Washington D. C. USA",
+      "Space Science Division, Naval Research Laboratory, Washington, D. C., USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Space Science Division; Naval Research Laboratory; Washington D. C. USA",
+       "institution_ids": [
+        "https://openalex.org/I1288214837",
+        "https://openalex.org/I4388482645"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Space Science Division, Naval Research Laboratory, Washington, D. C., USA",
+       "institution_ids": [
+        "https://openalex.org/I1288214837",
+        "https://openalex.org/I4388482645"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5008499857",
+      "display_name": "R. R. Meier",
+      "orcid": "https://orcid.org/0000-0001-8497-7115",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8497-7115"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I162714631",
+       "display_name": "George Mason University",
+       "ror": "https://ror.org/02jqj7156",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "R. R. Meier",
+     "raw_affiliation_strings": [
+      "School of Physics, Astronomy and Computational Science; George Mason University; Fairfax Virginia USA",
+      "School of Physics, Astronomy and Computational Science, George Mason University, Fairfax, Virginia, USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Physics, Astronomy and Computational Science; George Mason University; Fairfax Virginia USA",
+       "institution_ids": [
+        "https://openalex.org/I162714631"
+       ]
+      },
+      {
+       "raw_affiliation_string": "School of Physics, Astronomy and Computational Science, George Mason University, Fairfax, Virginia, USA",
+       "institution_ids": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5011653612",
+      "display_name": "J. Michael Picone",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I162714631",
+       "display_name": "George Mason University",
+       "ror": "https://ror.org/02jqj7156",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "J. M. Picone",
+     "raw_affiliation_strings": [
+      "School of Physics, Astronomy and Computational Science; George Mason University; Fairfax Virginia USA",
+      "School of Physics, Astronomy and Computational Science, George Mason University, Fairfax, Virginia, USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Physics, Astronomy and Computational Science; George Mason University; Fairfax Virginia USA",
+       "institution_ids": [
+        "https://openalex.org/I162714631"
+       ]
+      },
+      {
+       "raw_affiliation_string": "School of Physics, Astronomy and Computational Science, George Mason University, Fairfax, Virginia, USA",
+       "institution_ids": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5005454433",
+      "display_name": "John T. Emmert",
+      "orcid": "https://orcid.org/0000-0003-0215-1200",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-0215-1200"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1288214837",
+       "display_name": "United States Naval Research Laboratory",
+       "ror": "https://ror.org/04d23a975",
+       "country_code": "US",
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I1288214837",
+        "https://openalex.org/I1330347796",
+        "https://openalex.org/I175003984",
+        "https://openalex.org/I3130687028"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4388482645",
+       "display_name": "Naval Research Laboratory Space Science Division",
+       "ror": "https://ror.org/03hx19n93",
+       "country_code": null,
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I1288214837",
+        "https://openalex.org/I1330347796",
+        "https://openalex.org/I175003984",
+        "https://openalex.org/I3130687028",
+        "https://openalex.org/I4388482645"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "J. T. Emmert",
+     "raw_affiliation_strings": [
+      "Space Science Division; Naval Research Laboratory; Washington D. C. USA",
+      "Space Science Division, Naval Research Laboratory, Washington, D. C., USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Space Science Division; Naval Research Laboratory; Washington D. C. USA",
+       "institution_ids": [
+        "https://openalex.org/I1288214837",
+        "https://openalex.org/I4388482645"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Space Science Division, Naval Research Laboratory, Washington, D. C., USA",
+       "institution_ids": [
+        "https://openalex.org/I1288214837",
+        "https://openalex.org/I4388482645"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 3,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [],
+   "apc_list": {
+    "value": 4070,
+    "currency": "USD",
+    "value_usd": 4070
+   },
+   "apc_paid": null,
+   "fwci": 3.6306,
+   "has_fulltext": true,
+   "cited_by_count": 75,
+   "citation_normalized_percentile": {
+    "value": 0.92287974,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+   },
+   "biblio": {
+    "volume": "116",
+    "issue": "A10",
+    "first_page": "n/a",
+    "last_page": "n/a"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T10159",
+    "display_name": "Ionosphere and magnetosphere dynamics",
+    "score": 0.9990000128746033,
+    "subfield": {
+     "id": "https://openalex.org/subfields/3103",
+     "display_name": "Astronomy and Astrophysics"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/31",
+     "display_name": "Physics and Astronomy"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T10159",
+     "display_name": "Ionosphere and magnetosphere dynamics",
+     "score": 0.9990000128746033,
+     "subfield": {
+      "id": "https://openalex.org/subfields/3103",
+      "display_name": "Astronomy and Astrophysics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/31",
+      "display_name": "Physics and Astronomy"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10251",
+     "display_name": "Solar and Space Plasma Dynamics",
+     "score": 9.999999747378752e-05,
+     "subfield": {
+      "id": "https://openalex.org/subfields/3103",
+      "display_name": "Astronomy and Astrophysics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/31",
+      "display_name": "Physics and Astronomy"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11320",
+     "display_name": "Atmospheric Ozone and Climate",
+     "score": 9.999999747378752e-05,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1902",
+      "display_name": "Atmospheric Science"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/19",
+      "display_name": "Earth and Planetary Sciences"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/ionospheric-total-electron-content",
+     "display_name": "ionospheric total electron content",
+     "score": 0.9319999814033508
+    },
+    {
+     "id": "https://openalex.org/keywords/ionospheric-climatology",
+     "display_name": "ionospheric climatology",
+     "score": 0.9639999866485596
+    },
+    {
+     "id": "https://openalex.org/keywords/semiannual-oscillation",
+     "display_name": "semiannual oscillation",
+     "score": 0.7540000081062317
+    },
+    {
+     "id": "https://openalex.org/keywords/annual-oscillation",
+     "display_name": "annual oscillation",
+     "score": 0.9909999966621399
+    },
+    {
+     "id": "https://openalex.org/keywords/geomagnetic-activity",
+     "display_name": "geomagnetic activity",
+     "score": 0.6679999828338623
+    },
+    {
+     "id": "https://openalex.org/keywords/secular-trends",
+     "display_name": "secular trends",
+     "score": 0.7400000095367432
+    },
+    {
+     "id": "https://openalex.org/keywords/gps-tec",
+     "display_name": "GPS TEC",
+     "score": 0.37700000405311584
+    },
+    {
+     "id": "https://openalex.org/keywords/photoionization",
+     "display_name": "photoionization",
+     "score": 0.6930000185966492
+    },
+    {
+     "id": "https://openalex.org/keywords/thermospheric-composition",
+     "display_name": "thermospheric composition",
+     "score": 0.9470000267028809
+    },
+    {
+     "id": "https://openalex.org/keywords/hemispheric-asymmetry-solar-and-geophysical",
+     "display_name": "hemispheric asymmetry (solar and geophysical)",
+     "score": 0.7860000133514404
+    },
+    {
+     "id": "https://openalex.org/keywords/solar-cycle",
+     "display_name": "solar cycle",
+     "score": 0.3199999928474426
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C176379880",
+     "wikidata": "https://www.wikidata.org/wiki/Q18031939",
+     "display_name": "TEC",
+     "level": 3,
+     "score": 0.9586619138717651
+    },
+    {
+     "id": "https://openalex.org/C165391973",
+     "wikidata": "https://www.wikidata.org/wiki/Q844304",
+     "display_name": "Total electron content",
+     "level": 4,
+     "score": 0.871970534324646
+    },
+    {
+     "id": "https://openalex.org/C116403925",
+     "wikidata": "https://www.wikidata.org/wiki/Q162219",
+     "display_name": "Ionosphere",
+     "level": 2,
+     "score": 0.6900389194488525
+    },
+    {
+     "id": "https://openalex.org/C91586092",
+     "wikidata": "https://www.wikidata.org/wiki/Q757520",
+     "display_name": "Atmospheric sciences",
+     "level": 1,
+     "score": 0.6769238710403442
+    },
+    {
+     "id": "https://openalex.org/C52083857",
+     "wikidata": "https://www.wikidata.org/wiki/Q1445154",
+     "display_name": "Solar maximum",
+     "level": 5,
+     "score": 0.653828501701355
+    },
+    {
+     "id": "https://openalex.org/C2778835443",
+     "wikidata": "https://www.wikidata.org/wiki/Q39061",
+     "display_name": "Northern Hemisphere",
+     "level": 2,
+     "score": 0.6244563460350037
+    },
+    {
+     "id": "https://openalex.org/C199635899",
+     "wikidata": "https://www.wikidata.org/wiki/Q6500960",
+     "display_name": "Earth's magnetic field",
+     "level": 3,
+     "score": 0.6045110821723938
+    },
+    {
+     "id": "https://openalex.org/C171428510",
+     "wikidata": "https://www.wikidata.org/wiki/Q2314257",
+     "display_name": "Solar minimum",
+     "level": 5,
+     "score": 0.5852301120758057
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.575107991695404
+    },
+    {
+     "id": "https://openalex.org/C180205008",
+     "wikidata": "https://www.wikidata.org/wiki/Q159190",
+     "display_name": "Amplitude",
+     "level": 2,
+     "score": 0.5693630576133728
+    },
+    {
+     "id": "https://openalex.org/C2777252438",
+     "wikidata": "https://www.wikidata.org/wiki/Q41228",
+     "display_name": "Southern Hemisphere",
+     "level": 2,
+     "score": 0.5557587742805481
+    },
+    {
+     "id": "https://openalex.org/C43867161",
+     "wikidata": "https://www.wikidata.org/wiki/Q49385",
+     "display_name": "Solar cycle",
+     "level": 4,
+     "score": 0.5493977069854736
+    },
+    {
+     "id": "https://openalex.org/C131980223",
+     "wikidata": "https://www.wikidata.org/wiki/Q178043",
+     "display_name": "Thermosphere",
+     "level": 3,
+     "score": 0.4947933554649353
+    },
+    {
+     "id": "https://openalex.org/C2778439541",
+     "wikidata": "https://www.wikidata.org/wiki/Q7106412",
+     "display_name": "Oscillation (cell signaling)",
+     "level": 2,
+     "score": 0.4540362060070038
+    },
+    {
+     "id": "https://openalex.org/C49204034",
+     "wikidata": "https://www.wikidata.org/wiki/Q52139",
+     "display_name": "Climatology",
+     "level": 1,
+     "score": 0.4504918158054352
+    },
+    {
+     "id": "https://openalex.org/C144992956",
+     "wikidata": "https://www.wikidata.org/wiki/Q1076275",
+     "display_name": "Solar cycle 24",
+     "level": 5,
+     "score": 0.4460182189941406
+    },
+    {
+     "id": "https://openalex.org/C9695528",
+     "wikidata": "https://www.wikidata.org/wiki/Q7556707",
+     "display_name": "Solar irradiance",
+     "level": 2,
+     "score": 0.43415412306785583
+    },
+    {
+     "id": "https://openalex.org/C127313418",
+     "wikidata": "https://www.wikidata.org/wiki/Q1069",
+     "display_name": "Geology",
+     "level": 0,
+     "score": 0.3025915026664734
+    },
+    {
+     "id": "https://openalex.org/C121332964",
+     "wikidata": "https://www.wikidata.org/wiki/Q413",
+     "display_name": "Physics",
+     "level": 0,
+     "score": 0.22234207391738892
+    },
+    {
+     "id": "https://openalex.org/C8058405",
+     "wikidata": "https://www.wikidata.org/wiki/Q46255",
+     "display_name": "Geophysics",
+     "level": 1,
+     "score": 0.1302536129951477
+    },
+    {
+     "id": "https://openalex.org/C86803240",
+     "wikidata": "https://www.wikidata.org/wiki/Q420",
+     "display_name": "Biology",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C115260700",
+     "wikidata": "https://www.wikidata.org/wiki/Q11408",
+     "display_name": "Magnetic field",
+     "level": 2,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C54355233",
+     "wikidata": "https://www.wikidata.org/wiki/Q7162",
+     "display_name": "Genetics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C62520636",
+     "wikidata": "https://www.wikidata.org/wiki/Q944",
+     "display_name": "Quantum mechanics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C108411613",
+     "wikidata": "https://www.wikidata.org/wiki/Q79833",
+     "display_name": "Solar wind",
+     "level": 3,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.1029/2011ja016567",
+     "doi": "https://doi.org/10.1029/2011ja016567",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.1029/2011ja016567",
+     "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2011JA016567",
+     "source": {
+      "id": "https://openalex.org/S207178839",
+      "display_name": "Journal of Geophysical Research Atmospheres",
+      "issn_l": "0148-0227",
+      "issn": [
+       "0148-0227",
+       "2156-2202",
+       "2169-897X",
+       "2169-8996"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "anvur-scientific",
+       "cwts-core",
+       "dongbi-b",
+       "jufo-2",
+       "ki-jl-1",
+       "norway-2",
+       "poland-100",
+       "poland-140",
+       "russia-white-list-1",
+       "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310315809",
+      "host_organization_name": "American Geophysical Union",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310315809"
+      ],
+      "host_organization_lineage_names": [
+       "American Geophysical Union"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Journal of Geophysical Research: Space Physics",
+     "raw_type": "journal-article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.1029/2011ja016567",
+    "doi": "https://doi.org/10.1029/2011ja016567",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2011ja016567",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2011JA016567",
+    "source": {
+     "id": "https://openalex.org/S207178839",
+     "display_name": "Journal of Geophysical Research Atmospheres",
+     "issn_l": "0148-0227",
+     "issn": [
+      "0148-0227",
+      "2156-2202",
+      "2169-897X",
+      "2169-8996"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-2",
+      "ki-jl-1",
+      "norway-2",
+      "poland-100",
+      "poland-140",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310315809",
+     "host_organization_name": "American Geophysical Union",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310315809"
+     ],
+     "host_organization_lineage_names": [
+      "American Geophysical Union"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Geophysical Research: Space Physics",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [
+    {
+     "display_name": "Climate action",
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.8100000023841858
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320306101",
+     "display_name": "National Aeronautics and Space Administration",
+     "ror": "https://ror.org/027ka1x80"
+    },
+    {
+     "id": "https://openalex.org/F4320337345",
+     "display_name": "Office of Naval Research",
+     "ror": "https://ror.org/00rk2pe57"
+    }
+   ],
+   "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2066038820.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2066038820.grobid-xml"
+   },
+   "referenced_works_count": 53,
+   "referenced_works": [
+    "https://openalex.org/W1490658152",
+    "https://openalex.org/W1493358506",
+    "https://openalex.org/W1510713604",
+    "https://openalex.org/W1548474269",
+    "https://openalex.org/W1970100316",
+    "https://openalex.org/W1986316936",
+    "https://openalex.org/W1986964719",
+    "https://openalex.org/W1988529363",
+    "https://openalex.org/W1990854986",
+    "https://openalex.org/W1992491870",
+    "https://openalex.org/W1993458619",
+    "https://openalex.org/W1994881758",
+    "https://openalex.org/W1999322743",
+    "https://openalex.org/W2007755532",
+    "https://openalex.org/W2007940437",
+    "https://openalex.org/W2010949540",
+    "https://openalex.org/W2011374625",
+    "https://openalex.org/W2012145075",
+    "https://openalex.org/W2013352923",
+    "https://openalex.org/W2026791938",
+    "https://openalex.org/W2027463819",
+    "https://openalex.org/W2029451170",
+    "https://openalex.org/W2029963641",
+    "https://openalex.org/W2030713112",
+    "https://openalex.org/W2031921446",
+    "https://openalex.org/W2035348799",
+    "https://openalex.org/W2040630663",
+    "https://openalex.org/W2041109322",
+    "https://openalex.org/W2047039407",
+    "https://openalex.org/W2050390051",
+    "https://openalex.org/W2056268450",
+    "https://openalex.org/W2056521934",
+    "https://openalex.org/W2063898011",
+    "https://openalex.org/W2067366609",
+    "https://openalex.org/W2070524189",
+    "https://openalex.org/W2093835006",
+    "https://openalex.org/W2104945089",
+    "https://openalex.org/W2110115595",
+    "https://openalex.org/W2115236523",
+    "https://openalex.org/W2116447839",
+    "https://openalex.org/W2122104539",
+    "https://openalex.org/W2124715982",
+    "https://openalex.org/W2130633084",
+    "https://openalex.org/W2149700722",
+    "https://openalex.org/W2153105094",
+    "https://openalex.org/W2164555736",
+    "https://openalex.org/W2166834719",
+    "https://openalex.org/W2168985799",
+    "https://openalex.org/W2170828017",
+    "https://openalex.org/W2604865125",
+    "https://openalex.org/W3013430759",
+    "https://openalex.org/W4253744049",
+    "https://openalex.org/W6629425568"
+   ],
+   "related_works": [
+    "https://openalex.org/W2586804459",
+    "https://openalex.org/W2029988415",
+    "https://openalex.org/W4320716403",
+    "https://openalex.org/W1557569302",
+    "https://openalex.org/W2041774427",
+    "https://openalex.org/W3167735180",
+    "https://openalex.org/W4206658406",
+    "https://openalex.org/W2075906994",
+    "https://openalex.org/W2015241581",
+    "https://openalex.org/W2086452253"
+   ],
+   "abstract_inverted_index": {
+    "[1]": [
+     0
+    ],
+    "A": [
+     1
+    ],
+    "new": [
+     2
+    ],
+    "general": [
+     3
+    ],
+    "linear": [
+     4
+    ],
+    "model": [
+     5,
+     37
+    ],
+    "of": [
+     6,
+     9,
+     23,
+     42,
+     67,
+     100,
+     149,
+     203,
+     218,
+     242,
+     254
+    ],
+    "the": [
+     7,
+     10,
+     21,
+     43,
+     46,
+     56,
+     65,
+     76,
+     120,
+     150,
+     156,
+     167,
+     175,
+     185,
+     237,
+     259
+    ],
+    "climatology": [
+     8
+    ],
+    "ionosphere's": [
+     11
+    ],
+    "total": [
+     12
+    ],
+    "electron": [
+     13
+    ],
+    "content": [
+     14
+    ],
+    "(TEC)": [
+     15
+    ],
+    "is": [
+     16,
+     170
+    ],
+    "described,": [
+     17
+    ],
+    "accounting": [
+     18
+    ],
+    "simultaneously": [
+     19
+    ],
+    "for": [
+     20
+    ],
+    "influences": [
+     22,
+     227
+    ],
+    "solar": [
+     24,
+     90,
+     136,
+     142,
+     222
+    ],
+    "and": [
+     25,
+     32,
+     63,
+     95,
+     110,
+     147,
+     158,
+     195,
+     205,
+     213,
+     248
+    ],
+    "geomagnetic": [
+     26,
+     224
+    ],
+    "activity,": [
+     27
+    ],
+    "oscillations": [
+     28,
+     112,
+     207,
+     220
+    ],
+    "at": [
+     29,
+     134
+    ],
+    "four": [
+     30
+    ],
+    "frequencies": [
+     31
+    ],
+    "a": [
+     33,
+     131,
+     240
+    ],
+    "secular": [
+     34
+    ],
+    "trend.": [
+     35
+    ],
+    "The": [
+     36,
+     145
+    ],
+    "captures": [
+     38
+    ],
+    "more": [
+     39
+    ],
+    "than": [
+     40,
+     183
+    ],
+    "98%": [
+     41
+    ],
+    "variance": [
+     44
+    ],
+    "in": [
+     45,
+     113,
+     117,
+     155,
+     174,
+     181,
+     184,
+     191,
+     198,
+     221,
+     252
+    ],
+    "daily": [
+     47,
+     229
+    ],
+    "averaged,": [
+     48
+    ],
+    "global": [
+     49,
+     231
+    ],
+    "TEC": [
+     50,
+     68,
+     82,
+     114,
+     199,
+     232
+    ],
+    "derived": [
+     51
+    ],
+    "from": [
+     52,
+     59,
+     89,
+     130
+    ],
+    "GPS": [
+     53
+    ],
+    "observations": [
+     54
+    ],
+    "during": [
+     55,
+     141,
+     258
+    ],
+    "16": [
+     57,
+     261
+    ],
+    "years": [
+     58
+    ],
+    "1995": [
+     60
+    ],
+    "to": [
+     61,
+     93,
+     119,
+     125,
+     138
+    ],
+    "2010,": [
+     62
+    ],
+    "enables": [
+     64
+    ],
+    "reconstruction": [
+     66
+    ],
+    "variations": [
+     69
+    ],
+    "since": [
+     70
+    ],
+    "1950.": [
+     71
+    ],
+    "Solar": [
+     72
+    ],
+    "EUV": [
+     73
+    ],
+    "irradiance": [
+     74
+    ],
+    "variations,": [
+     75
+    ],
+    "dominant": [
+     77
+    ],
+    "ionospheric": [
+     78
+    ],
+    "influence,": [
+     79
+    ],
+    "directly": [
+     80
+    ],
+    "increase": [
+     81,
+     129
+    ],
+    "by": [
+     83,
+     209
+    ],
+    "as": [
+     84,
+     86,
+     101,
+     103,
+     172
+    ],
+    "much": [
+     85,
+     102
+    ],
+    "40": [
+     87
+    ],
+    "TECU": [
+     88,
+     105,
+     133,
+     140,
+     244,
+     256
+    ],
+    "activity": [
+     91,
+     137,
+     143
+    ],
+    "minimum": [
+     92
+    ],
+    "maximum": [
+     94,
+     238
+    ],
+    "produce": [
+     96
+    ],
+    "additional": [
+     97
+    ],
+    "27-day": [
+     98,
+     121
+    ],
+    "fluctuations": [
+     99
+    ],
+    "15": [
+     104
+    ],
+    "(in": [
+     106,
+     245
+    ],
+    "October": [
+     107,
+     246
+    ],
+    "2003).": [
+     108
+    ],
+    "Semiannual": [
+     109
+    ],
+    "annual": [
+     111,
+     168,
+     196,
+     206
+    ],
+    "are": [
+     115,
+     153,
+     200,
+     233
+    ],
+    "comparable": [
+     116
+    ],
+    "magnitude": [
+     118
+    ],
+    "fluctuations,": [
+     122
+    ],
+    "with": [
+     123,
+     236
+    ],
+    "(peak": [
+     124
+    ],
+    "valley)": [
+     126
+    ],
+    "amplitudes": [
+     127
+    ],
+    "that": [
+     128
+    ],
+    "few": [
+     132
+    ],
+    "low": [
+     135
+    ],
+    "\u223c17": [
+     139
+    ],
+    "maximum.": [
+     144
+    ],
+    "phase": [
+     146
+    ],
+    "amplitude": [
+     148
+    ],
+    "semiannual": [
+     151,
+     194,
+     204
+    ],
+    "oscillation": [
+     152,
+     169
+    ],
+    "identical": [
+     154
+    ],
+    "northern": [
+     157,
+     186
+    ],
+    "southern": [
+     159,
+     176
+    ],
+    "geographic": [
+     160
+    ],
+    "hemispheres": [
+     161
+    ],
+    "(and": [
+     162
+    ],
+    "hence": [
+     163
+    ],
+    "globally).": [
+     164
+    ],
+    "In": [
+     165
+    ],
+    "contrast,": [
+     166
+    ],
+    "twice": [
+     171
+    ],
+    "large": [
+     173
+    ],
+    "hemisphere": [
+     177,
+     187
+    ],
+    "(where": [
+     178,
+     188
+    ],
+    "it": [
+     179,
+     189
+    ],
+    "peaks": [
+     180,
+     190
+    ],
+    "December\u2013January)": [
+     182
+    ],
+    "April\u2013May).": [
+     192
+    ],
+    "Seasonal,": [
+     193
+    ],
+    "anomalies": [
+     197
+    ],
+    "direct": [
+     201
+    ],
+    "effects": [
+     202
+    ],
+    "produced": [
+     208
+    ],
+    "orbitally": [
+     210
+    ],
+    "driven": [
+     211
+    ],
+    "photoionization": [
+     212
+    ],
+    "thermospheric": [
+     214
+    ],
+    "composition": [
+     215
+    ],
+    "changes,": [
+     216
+    ],
+    "not": [
+     217
+    ],
+    "corresponding": [
+     219
+    ],
+    "or": [
+     223
+    ],
+    "activity.": [
+     225
+    ],
+    "Geomagnetic": [
+     226
+    ],
+    "on": [
+     228
+    ],
+    "averaged": [
+     230
+    ],
+    "relatively": [
+     234
+    ],
+    "modest,": [
+     235
+    ],
+    "effect": [
+     239
+    ],
+    "reduction": [
+     241
+    ],
+    "11": [
+     243,
+     250
+    ],
+    "2003)": [
+     247
+    ],
+    "only": [
+     249
+    ],
+    "episodes": [
+     251
+    ],
+    "excess": [
+     253
+    ],
+    "5": [
+     255
+    ],
+    "depletions": [
+     257
+    ],
+    "past": [
+     260
+    ],
+    "years.": [
+     262
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 7
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 10
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 10
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 7
+    },
+    {
+     "year": 2012,
+     "cited_by_count": 4
+    }
+   ],
+   "updated_date": "2026-10-12T09:40:04.860316",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W2127016675",
+   "doi": "https://doi.org/10.1175/jtech-d-12-00119.1",
+   "title": "An Overview of the China Meteorological Administration Tropical Cyclone Database",
+   "display_name": "An Overview of the China Meteorological Administration Tropical Cyclone Database",
+   "relevance_score": 38.89476,
+   "publication_year": 2013,
+   "publication_date": "2013-07-22",
+   "ids": {
+    "openalex": "https://openalex.org/W2127016675",
+    "doi": "https://doi.org/10.1175/jtech-d-12-00119.1",
+    "mag": "2127016675"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.1175/jtech-d-12-00119.1",
+    "doi": "https://doi.org/10.1175/jtech-d-12-00119.1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1175/jtech-d-12-00119.1",
+    "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/31/2/jtech-d-12-00119_1.pdf",
+    "source": {
+     "id": "https://openalex.org/S135937692",
+     "display_name": "Journal of Atmospheric and Oceanic Technology",
+     "issn_l": "0739-0572",
+     "issn": [
+      "0739-0572",
+      "1520-0426"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-1",
+      "norway-1",
+      "poland-100",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310320260",
+     "host_organization_name": "American Meteorological Society",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320260"
+     ],
+     "host_organization_lineage_names": [
+      "American Meteorological Society"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Atmospheric and Oceanic Technology",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/31/2/jtech-d-12-00119_1.pdf",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5101964050",
+      "display_name": "Ming Ying",
+      "orcid": "https://orcid.org/0000-0003-2653-4273",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2653-4273"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141301092",
+       "display_name": "China Meteorological Administration",
+       "ror": "https://ror.org/00bx3rb98",
+       "country_code": "CN",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I141301092"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4405272531",
+       "display_name": "Shanghai Typhoon Institute",
+       "ror": "https://ror.org/04aasjb06",
+       "country_code": "CN",
+       "type": "other",
+       "lineage": [
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Ming Ying",
+     "raw_affiliation_strings": [
+      "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I141301092",
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5047634459",
+      "display_name": "Wei Zhang",
+      "orcid": "https://orcid.org/0000-0001-8134-6908",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8134-6908"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141301092",
+       "display_name": "China Meteorological Administration",
+       "ror": "https://ror.org/00bx3rb98",
+       "country_code": "CN",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I141301092"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4405272531",
+       "display_name": "Shanghai Typhoon Institute",
+       "ror": "https://ror.org/04aasjb06",
+       "country_code": "CN",
+       "type": "other",
+       "lineage": [
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Wei Zhang",
+     "raw_affiliation_strings": [
+      "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I141301092",
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5106484416",
+      "display_name": "Hui Yu",
+      "orcid": "https://orcid.org/0009-0004-0623-696X",
+      "observed_orcids": [
+       "https://orcid.org/0009-0004-0623-696X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141301092",
+       "display_name": "China Meteorological Administration",
+       "ror": "https://ror.org/00bx3rb98",
+       "country_code": "CN",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I141301092"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4405272531",
+       "display_name": "Shanghai Typhoon Institute",
+       "ror": "https://ror.org/04aasjb06",
+       "country_code": "CN",
+       "type": "other",
+       "lineage": [
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Hui Yu",
+     "raw_affiliation_strings": [
+      "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I141301092",
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5073512584",
+      "display_name": "Xiaoqin Lu",
+      "orcid": "https://orcid.org/0000-0002-4136-6776",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-4136-6776"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141301092",
+       "display_name": "China Meteorological Administration",
+       "ror": "https://ror.org/00bx3rb98",
+       "country_code": "CN",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I141301092"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4405272531",
+       "display_name": "Shanghai Typhoon Institute",
+       "ror": "https://ror.org/04aasjb06",
+       "country_code": "CN",
+       "type": "other",
+       "lineage": [
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Xiaoqin Lu",
+     "raw_affiliation_strings": [
+      "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I141301092",
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5066666349",
+      "display_name": "Jingxian Feng",
+      "orcid": "https://orcid.org/0009-0007-8819-7387",
+      "observed_orcids": [
+       "https://orcid.org/0009-0007-8819-7387"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141301092",
+       "display_name": "China Meteorological Administration",
+       "ror": "https://ror.org/00bx3rb98",
+       "country_code": "CN",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I141301092"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4405272531",
+       "display_name": "Shanghai Typhoon Institute",
+       "ror": "https://ror.org/04aasjb06",
+       "country_code": "CN",
+       "type": "other",
+       "lineage": [
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Jingxian Feng",
+     "raw_affiliation_strings": [
+      "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I141301092",
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5113743625",
+      "display_name": "Yongxiang Fan",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141301092",
+       "display_name": "China Meteorological Administration",
+       "ror": "https://ror.org/00bx3rb98",
+       "country_code": "CN",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I141301092"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Yongxiang Fan",
+     "raw_affiliation_strings": [
+      "National Meteorological Center, China Meteorological Administration, Beijing, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Meteorological Center, China Meteorological Administration, Beijing, China",
+       "institution_ids": [
+        "https://openalex.org/I141301092"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5102076698",
+      "display_name": "Zhu Yongti",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141301092",
+       "display_name": "China Meteorological Administration",
+       "ror": "https://ror.org/00bx3rb98",
+       "country_code": "CN",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I141301092"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4405272531",
+       "display_name": "Shanghai Typhoon Institute",
+       "ror": "https://ror.org/04aasjb06",
+       "country_code": "CN",
+       "type": "other",
+       "lineage": [
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Yongti Zhu",
+     "raw_affiliation_strings": [
+      "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I141301092",
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5010744236",
+      "display_name": "Dequan Chen",
+      "orcid": "https://orcid.org/0000-0001-6461-2557",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-6461-2557",
+       "https://orcid.org/0000-0001-6158-305X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141301092",
+       "display_name": "China Meteorological Administration",
+       "ror": "https://ror.org/00bx3rb98",
+       "country_code": "CN",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I141301092"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4405272531",
+       "display_name": "Shanghai Typhoon Institute",
+       "ror": "https://ror.org/04aasjb06",
+       "country_code": "CN",
+       "type": "other",
+       "lineage": [
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Dequan Chen",
+     "raw_affiliation_strings": [
+      "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Typhoon Institute, China Meteorological Administration, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I141301092",
+        "https://openalex.org/I4405272531"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 2,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5101964050"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I141301092",
+    "https://openalex.org/I4405272531"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 8.2271,
+   "has_fulltext": true,
+   "cited_by_count": 1296,
+   "citation_normalized_percentile": {
+    "value": 0.98143682,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+   },
+   "biblio": {
+    "volume": "31",
+    "issue": "2",
+    "first_page": "287",
+    "last_page": "301"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11483",
+    "display_name": "Tropical and Extratropical Cyclones Research",
+    "score": 0.9994999766349792,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1902",
+     "display_name": "Atmospheric Science"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/19",
+     "display_name": "Earth and Planetary Sciences"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11483",
+     "display_name": "Tropical and Extratropical Cyclones Research",
+     "score": 0.9994999766349792,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1902",
+      "display_name": "Atmospheric Science"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/19",
+      "display_name": "Earth and Planetary Sciences"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10466",
+     "display_name": "Meteorological Phenomena and Simulations",
+     "score": 9.999999747378752e-05,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1902",
+      "display_name": "Atmospheric Science"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/19",
+      "display_name": "Earth and Planetary Sciences"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10029",
+     "display_name": "Climate variability and models",
+     "score": 9.999999747378752e-05,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/tropical-cyclones",
+     "display_name": "tropical cyclones",
+     "score": 0.9369999766349792
+    },
+    {
+     "id": "https://openalex.org/keywords/china-meteorological-administration",
+     "display_name": "China Meteorological Administration",
+     "score": 0.7850000262260437
+    },
+    {
+     "id": "https://openalex.org/keywords/best-track-data",
+     "display_name": "best track data",
+     "score": 0.9700000286102295
+    },
+    {
+     "id": "https://openalex.org/keywords/tropical-cyclone-rainfall",
+     "display_name": "tropical cyclone rainfall",
+     "score": 0.8650000095367432
+    },
+    {
+     "id": "https://openalex.org/keywords/extratropical-transition",
+     "display_name": "extratropical transition",
+     "score": 0.9010000228881836
+    },
+    {
+     "id": "https://openalex.org/keywords/south-china-sea",
+     "display_name": "South China Sea",
+     "score": 0.7049999833106995
+    },
+    {
+     "id": "https://openalex.org/keywords/landfalling-tropical-cyclones",
+     "display_name": "landfalling tropical cyclones",
+     "score": 0.847000002861023
+    },
+    {
+     "id": "https://openalex.org/keywords/data-heterogeneity",
+     "display_name": "data heterogeneity",
+     "score": 0.7450000047683716
+    },
+    {
+     "id": "https://openalex.org/keywords/data-reliability",
+     "display_name": "data reliability",
+     "score": 0.5199999809265137
+    },
+    {
+     "id": "https://openalex.org/keywords/wind-pressure-relationship",
+     "display_name": "wind-pressure relationship",
+     "score": 0.6840000152587891
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C29141058",
+     "wikidata": "https://www.wikidata.org/wiki/Q8092",
+     "display_name": "Tropical cyclone",
+     "level": 2,
+     "score": 0.6679859757423401
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.6410858035087585
+    },
+    {
+     "id": "https://openalex.org/C49204034",
+     "wikidata": "https://www.wikidata.org/wiki/Q52139",
+     "display_name": "Climatology",
+     "level": 1,
+     "score": 0.5663211941719055
+    },
+    {
+     "id": "https://openalex.org/C72319357",
+     "wikidata": "https://www.wikidata.org/wiki/Q1063457",
+     "display_name": "Extratropical cyclone",
+     "level": 2,
+     "score": 0.5530402064323425
+    },
+    {
+     "id": "https://openalex.org/C191935318",
+     "wikidata": "https://www.wikidata.org/wiki/Q148",
+     "display_name": "China",
+     "level": 2,
+     "score": 0.540219247341156
+    },
+    {
+     "id": "https://openalex.org/C153294291",
+     "wikidata": "https://www.wikidata.org/wiki/Q25261",
+     "display_name": "Meteorology",
+     "level": 1,
+     "score": 0.526982307434082
+    },
+    {
+     "id": "https://openalex.org/C77088390",
+     "wikidata": "https://www.wikidata.org/wiki/Q8513",
+     "display_name": "Database",
+     "level": 1,
+     "score": 0.5121902823448181
+    },
+    {
+     "id": "https://openalex.org/C107054158",
+     "wikidata": "https://www.wikidata.org/wiki/Q25257",
+     "display_name": "Precipitation",
+     "level": 2,
+     "score": 0.4873860478401184
+    },
+    {
+     "id": "https://openalex.org/C19269812",
+     "wikidata": "https://www.wikidata.org/wiki/Q26540",
+     "display_name": "Satellite",
+     "level": 2,
+     "score": 0.4500768184661865
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.27187028527259827
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.18774011731147766
+    },
+    {
+     "id": "https://openalex.org/C127313418",
+     "wikidata": "https://www.wikidata.org/wiki/Q1069",
+     "display_name": "Geology",
+     "level": 0,
+     "score": 0.1604207456111908
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C146978453",
+     "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+     "display_name": "Aerospace engineering",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C166957645",
+     "wikidata": "https://www.wikidata.org/wiki/Q23498",
+     "display_name": "Archaeology",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.1175/jtech-d-12-00119.1",
+     "doi": "https://doi.org/10.1175/jtech-d-12-00119.1",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.1175/jtech-d-12-00119.1",
+     "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/31/2/jtech-d-12-00119_1.pdf",
+     "source": {
+      "id": "https://openalex.org/S135937692",
+      "display_name": "Journal of Atmospheric and Oceanic Technology",
+      "issn_l": "0739-0572",
+      "issn": [
+       "0739-0572",
+       "1520-0426"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "anvur-scientific",
+       "cwts-core",
+       "dongbi-b",
+       "jufo-1",
+       "norway-1",
+       "poland-100",
+       "russia-white-list-1"
+      ],
+      "host_organization": "https://openalex.org/P4310320260",
+      "host_organization_name": "American Meteorological Society",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310320260"
+      ],
+      "host_organization_lineage_names": [
+       "American Meteorological Society"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Journal of Atmospheric and Oceanic Technology",
+     "raw_type": "journal-article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.1175/jtech-d-12-00119.1",
+    "doi": "https://doi.org/10.1175/jtech-d-12-00119.1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1175/jtech-d-12-00119.1",
+    "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/31/2/jtech-d-12-00119_1.pdf",
+    "source": {
+     "id": "https://openalex.org/S135937692",
+     "display_name": "Journal of Atmospheric and Oceanic Technology",
+     "issn_l": "0739-0572",
+     "issn": [
+      "0739-0572",
+      "1520-0426"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-1",
+      "norway-1",
+      "poland-100",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310320260",
+     "host_organization_name": "American Meteorological Society",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320260"
+     ],
+     "host_organization_lineage_names": [
+      "American Meteorological Society"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Atmospheric and Oceanic Technology",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "display_name": "Climate action",
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.7674999833106995
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "display_name": "Life below water",
+     "id": "https://metadata.un.org/sdg/14",
+     "score": 0.8500000238418579
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320321001",
+     "display_name": "National Natural Science Foundation of China",
+     "ror": "https://ror.org/01h0zpd94"
+    },
+    {
+     "id": "https://openalex.org/F4320335777",
+     "display_name": "National Key Research and Development Program of China",
+     "ror": null
+    }
+   ],
+   "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2127016675.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2127016675.grobid-xml"
+   },
+   "referenced_works_count": 37,
+   "referenced_works": [
+    "https://openalex.org/W193536329",
+    "https://openalex.org/W1011692432",
+    "https://openalex.org/W1022653756",
+    "https://openalex.org/W1196346974",
+    "https://openalex.org/W1506307960",
+    "https://openalex.org/W1513805739",
+    "https://openalex.org/W1645858368",
+    "https://openalex.org/W1992652001",
+    "https://openalex.org/W2008857685",
+    "https://openalex.org/W2027996116",
+    "https://openalex.org/W2035971805",
+    "https://openalex.org/W2040374212",
+    "https://openalex.org/W2040580930",
+    "https://openalex.org/W2054187747",
+    "https://openalex.org/W2059481312",
+    "https://openalex.org/W2076977109",
+    "https://openalex.org/W2078770669",
+    "https://openalex.org/W2090180558",
+    "https://openalex.org/W2096913492",
+    "https://openalex.org/W2101217380",
+    "https://openalex.org/W2124805162",
+    "https://openalex.org/W2145211716",
+    "https://openalex.org/W2154443729",
+    "https://openalex.org/W2183294797",
+    "https://openalex.org/W2262232738",
+    "https://openalex.org/W2264916971",
+    "https://openalex.org/W2279604704",
+    "https://openalex.org/W2363521368",
+    "https://openalex.org/W2366913073",
+    "https://openalex.org/W2368200148",
+    "https://openalex.org/W2792955252",
+    "https://openalex.org/W2793284988",
+    "https://openalex.org/W2795320695",
+    "https://openalex.org/W2912515094",
+    "https://openalex.org/W3214382019",
+    "https://openalex.org/W6695085439",
+    "https://openalex.org/W6758899120"
+   ],
+   "related_works": [
+    "https://openalex.org/W2160520351",
+    "https://openalex.org/W2374401037",
+    "https://openalex.org/W2024516092",
+    "https://openalex.org/W4246320619",
+    "https://openalex.org/W4322006550",
+    "https://openalex.org/W3189729708",
+    "https://openalex.org/W2353684413",
+    "https://openalex.org/W2044458434",
+    "https://openalex.org/W2026755744",
+    "https://openalex.org/W3204507743"
+   ],
+   "abstract_inverted_index": {
+    "Abstract": [
+     0
+    ],
+    "The": [
+     1,
+     90,
+     114
+    ],
+    "China": [
+     2,
+     71,
+     173,
+     205
+    ],
+    "Meteorological": [
+     3
+    ],
+    "Administration": [
+     4
+    ],
+    "(CMA)\u2019s": [
+     5
+    ],
+    "tropical": [
+     6
+    ],
+    "cyclone": [
+     7
+    ],
+    "(TC)": [
+     8
+    ],
+    "database": [
+     9,
+     129,
+     157
+    ],
+    "includes": [
+     10
+    ],
+    "not": [
+     11
+    ],
+    "only": [
+     12
+    ],
+    "the": [
+     13,
+     26,
+     33,
+     40,
+     48,
+     54,
+     58,
+     69,
+     98,
+     110,
+     118,
+     122,
+     128,
+     133,
+     142,
+     146,
+     154,
+     167,
+     176,
+     187,
+     192,
+     197,
+     207,
+     215,
+     228,
+     232,
+     244
+    ],
+    "best-track": [
+     14,
+     41
+    ],
+    "dataset": [
+     15
+    ],
+    "but": [
+     16
+    ],
+    "also": [
+     17,
+     51,
+     106,
+     116,
+     239
+    ],
+    "TC-induced": [
+     18,
+     91
+    ],
+    "wind": [
+     19,
+     92,
+     102
+    ],
+    "and": [
+     20,
+     28,
+     73,
+     93,
+     103,
+     132,
+     138,
+     164,
+     169,
+     189,
+     206,
+     222,
+     231
+    ],
+    "precipitation": [
+     21,
+     94
+    ],
+    "data.": [
+     22,
+     219
+    ],
+    "This": [
+     23
+    ],
+    "article": [
+     24
+    ],
+    "summarizes": [
+     25
+    ],
+    "characteristics": [
+     27
+    ],
+    "key": [
+     29
+    ],
+    "technical": [
+     30,
+     221
+    ],
+    "details": [
+     31
+    ],
+    "of": [
+     32,
+     100,
+     112,
+     121,
+     136,
+     145,
+     149,
+     172,
+     191,
+     199,
+     209
+    ],
+    "CMA": [
+     34,
+     155
+    ],
+    "TC": [
+     35,
+     156
+    ],
+    "database.": [
+     36
+    ],
+    "In": [
+     37
+    ],
+    "addition": [
+     38
+    ],
+    "to": [
+     39,
+     160,
+     186,
+     213,
+     227,
+     241
+    ],
+    "data,": [
+     42,
+     95,
+     194
+    ],
+    "other": [
+     43
+    ],
+    "phenomena": [
+     44
+    ],
+    "that": [
+     45
+    ],
+    "occurred": [
+     46
+    ],
+    "with": [
+     47,
+     66,
+     78
+    ],
+    "TCs": [
+     49,
+     67,
+     79
+    ],
+    "are": [
+     50,
+     105
+    ],
+    "recorded": [
+     52
+    ],
+    "in": [
+     53,
+     81,
+     204
+    ],
+    "dataset,": [
+     55
+    ],
+    "such": [
+     56,
+     195,
+     225
+    ],
+    "as": [
+     57,
+     196,
+     226
+    ],
+    "subcenters,": [
+     59
+    ],
+    "extratropical": [
+     60
+    ],
+    "transitions,": [
+     61
+    ],
+    "outer-range": [
+     62
+    ],
+    "severe": [
+     63,
+     75,
+     101
+    ],
+    "winds": [
+     64,
+     76
+    ],
+    "associated": [
+     65,
+     77
+    ],
+    "over": [
+     68,
+     166,
+     175
+    ],
+    "South": [
+     70
+    ],
+    "Sea,": [
+     72
+    ],
+    "coastal": [
+     74
+    ],
+    "landfalling": [
+     80
+    ],
+    "China.": [
+     82
+    ],
+    "These": [
+     83
+    ],
+    "data": [
+     84,
+     124
+    ],
+    "provide": [
+     85
+    ],
+    "additional": [
+     86
+    ],
+    "information": [
+     87
+    ],
+    "for": [
+     88,
+     108,
+     152
+    ],
+    "researchers.": [
+     89
+    ],
+    "which": [
+     96
+    ],
+    "map": [
+     97
+    ],
+    "distribution": [
+     99
+    ],
+    "rainfall,": [
+     104
+    ],
+    "helpful": [
+     107
+    ],
+    "investigating": [
+     109
+    ],
+    "impacts": [
+     111
+    ],
+    "TCs.": [
+     113
+    ],
+    "study": [
+     115
+    ],
+    "considers": [
+     117
+    ],
+    "changing": [
+     119
+    ],
+    "reliability": [
+     120
+    ],
+    "various": [
+     123
+    ],
+    "sources": [
+     125
+    ],
+    "used": [
+     126
+    ],
+    "since": [
+     127
+    ],
+    "was": [
+     130
+    ],
+    "created": [
+     131
+    ],
+    "potential": [
+     134
+    ],
+    "causes": [
+     135
+    ],
+    "temporal": [
+     137
+    ],
+    "spatial": [
+     139
+    ],
+    "inhomogeneities": [
+     140,
+     180,
+     242
+    ],
+    "within": [
+     141,
+     243
+    ],
+    "datasets.": [
+     143,
+     245
+    ],
+    "Because": [
+     144
+    ],
+    "greater": [
+     147
+    ],
+    "number": [
+     148
+    ],
+    "observations": [
+     150
+    ],
+    "available": [
+     151
+    ],
+    "analysis,": [
+     153
+    ],
+    "is": [
+     158
+    ],
+    "likely": [
+     159
+    ],
+    "be": [
+     161
+    ],
+    "more": [
+     162
+    ],
+    "accurate": [
+     163
+    ],
+    "complete": [
+     165
+    ],
+    "offshore": [
+     168
+    ],
+    "land": [
+     170
+    ],
+    "areas": [
+     171
+    ],
+    "than": [
+     174
+    ],
+    "open": [
+     177
+    ],
+    "ocean.": [
+     178
+    ],
+    "Temporal": [
+     179
+    ],
+    "were": [
+     181
+    ],
+    "induced": [
+     182
+    ],
+    "primarily": [
+     183
+    ],
+    "by": [
+     184
+    ],
+    "changes": [
+     185
+    ],
+    "nature": [
+     188
+    ],
+    "quality": [
+     190
+    ],
+    "input": [
+     193
+    ],
+    "development": [
+     198
+    ],
+    "a": [
+     200
+    ],
+    "weather": [
+     201
+    ],
+    "observation": [
+     202
+    ],
+    "network": [
+     203
+    ],
+    "use": [
+     208
+    ],
+    "satellite": [
+     210
+    ],
+    "image": [
+     211
+    ],
+    "analysis": [
+     212
+    ],
+    "replace": [
+     214
+    ],
+    "original": [
+     216
+    ],
+    "aircraft": [
+     217
+    ],
+    "reconnaissance": [
+     218
+    ],
+    "Furthermore,": [
+     220
+    ],
+    "factitious": [
+     223
+    ],
+    "changes,": [
+     224
+    ],
+    "wind\u2013pressure": [
+     229
+    ],
+    "relationship": [
+     230
+    ],
+    "satellite-derived": [
+     233
+    ],
+    "current": [
+     234
+    ],
+    "intensity": [
+     235
+    ],
+    "(CI)": [
+     236
+    ],
+    "number\u2013intensity": [
+     237
+    ],
+    "conversion,": [
+     238
+    ],
+    "led": [
+     240
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 143
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 196
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 185
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 159
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 190
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 141
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 94
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 68
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 52
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 29
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 17
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 14
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 1
+    }
+   ],
+   "updated_date": "2026-10-12T09:40:04.860316",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W2052740065",
+   "doi": "https://doi.org/10.1175/jcli-d-12-00592.1",
+   "title": "North American Climate in CMIP5 Experiments. Part I: Evaluation of Historical Simulations of Continental and Regional Climatology",
+   "display_name": "North American Climate in CMIP5 Experiments. Part I: Evaluation of Historical Simulations of Continental and Regional Climatology",
+   "relevance_score": 36.231293,
+   "publication_year": 2013,
+   "publication_date": "2013-07-31",
+   "ids": {
+    "openalex": "https://openalex.org/W2052740065",
+    "doi": "https://doi.org/10.1175/jcli-d-12-00592.1",
+    "mag": "2052740065"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.1175/jcli-d-12-00592.1",
+    "doi": "https://doi.org/10.1175/jcli-d-12-00592.1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1175/jcli-d-12-00592.1",
+    "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/clim/26/23/jcli-d-12-00592.1.pdf",
+    "source": {
+     "id": "https://openalex.org/S80591372",
+     "display_name": "Journal of Climate",
+     "issn_l": "0894-8755",
+     "issn": [
+      "0894-8755",
+      "1520-0442"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "dongbi-b",
+      "jufo-2",
+      "norway-2",
+      "poland-200",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320260",
+     "host_organization_name": "American Meteorological Society",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320260"
+     ],
+     "host_organization_lineage_names": [
+      "American Meteorological Society"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Climate",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://journals.ametsoc.org/downloadpdf/journals/clim/26/23/jcli-d-12-00592.1.pdf",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5017270088",
+      "display_name": "Justin Sheffield",
+      "orcid": "https://orcid.org/0000-0003-2400-0630",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2400-0630"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I20089843",
+       "display_name": "Princeton University",
+       "ror": "https://ror.org/00hx57361",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I20089843"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Justin Sheffield",
+     "raw_affiliation_strings": [
+      "Department of Civil and Environmental Engineering, Princeton University, Princeton, New Jersey"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Civil and Environmental Engineering, Princeton University, Princeton, New Jersey",
+       "institution_ids": [
+        "https://openalex.org/I20089843"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5081359686",
+      "display_name": "A. P. Barrett",
+      "orcid": "https://orcid.org/0000-0003-4394-5445",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4394-5445"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I161675122",
+       "display_name": "Cooperative Institute for Research in Environmental Sciences",
+       "ror": "https://ror.org/00bdqav06",
+       "country_code": "US",
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I161675122",
+        "https://openalex.org/I188538660",
+        "https://openalex.org/I2802992173"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I188538660",
+       "display_name": "University of Colorado Boulder",
+       "ror": "https://ror.org/02ttsq026",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I188538660"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4390039322",
+       "display_name": "National Snow and Ice Data Center",
+       "ror": "https://ror.org/00bxr0z07",
+       "country_code": null,
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I161675122",
+        "https://openalex.org/I188538660",
+        "https://openalex.org/I2802992173",
+        "https://openalex.org/I4390039322"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Andrew P. Barrett",
+     "raw_affiliation_strings": [
+      "National Snow and Ice Data Center, Cooperative Institute for Research in Environmental Sciences, University of Colorado Boulder, Boulder, Colorado"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Snow and Ice Data Center, Cooperative Institute for Research in Environmental Sciences, University of Colorado Boulder, Boulder, Colorado",
+       "institution_ids": [
+        "https://openalex.org/I161675122",
+        "https://openalex.org/I188538660",
+        "https://openalex.org/I4390039322"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5065414344",
+      "display_name": "Brian A. Colle",
+      "orcid": "https://orcid.org/0000-0002-4546-5472",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-4546-5472"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I59553526",
+       "display_name": "Stony Brook University",
+       "ror": "https://ror.org/05qghxh33",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I59553526"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Brian Colle",
+     "raw_affiliation_strings": [
+      "School of Marine and Atmospheric Sciences, Stony Brook University, State University of New York, Stony Brook, New York"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Marine and Atmospheric Sciences, Stony Brook University, State University of New York, Stony Brook, New York",
+       "institution_ids": [
+        "https://openalex.org/I59553526"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5069325704",
+      "display_name": "Nelun Fernando",
+      "orcid": "https://orcid.org/0000-0002-0701-5075",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-0701-5075"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I2799356940",
+       "display_name": "University Corporation for Atmospheric Research",
+       "ror": "https://ror.org/04zhhyn23",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I2799356940"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4210122557",
+       "display_name": "Texas Water Development Board",
+       "ror": "https://ror.org/02wbs0d88",
+       "country_code": "US",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I4210122557"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I86519309",
+       "display_name": "The University of Texas at Austin",
+       "ror": "https://ror.org/00hj54h04",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "D. Nelun Fernando",
+     "raw_affiliation_strings": [
+      "Jackson School of Geosciences, The University of Texas at Austin, Austin, Texas, and Visiting Scientist Programs, University Corporation for Atmospheric Research, Boulder, Colorado, and Surface Water Resource Division, Texas Water Development Board, Austin, Austin, Texas",
+      "University of Texas at Austin"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Jackson School of Geosciences, The University of Texas at Austin, Austin, Texas, and Visiting Scientist Programs, University Corporation for Atmospheric Research, Boulder, Colorado, and Surface Water Resource Division, Texas Water Development Board, Austin, Austin, Texas",
+       "institution_ids": [
+        "https://openalex.org/I2799356940",
+        "https://openalex.org/I4210122557",
+        "https://openalex.org/I86519309"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of Texas at Austin",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5051199675",
+      "display_name": "Rong Fu",
+      "orcid": "https://orcid.org/0000-0002-4065-248X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-4065-248X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86519309",
+       "display_name": "The University of Texas at Austin",
+       "ror": "https://ror.org/00hj54h04",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Rong Fu",
+     "raw_affiliation_strings": [
+      "Jackson School of Geosciences, The University of Texas at Austin, Texas"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Jackson School of Geosciences, The University of Texas at Austin, Texas",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5015008094",
+      "display_name": "Kerrie L. Geil",
+      "orcid": "https://orcid.org/0000-0001-7604-3267",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-7604-3267"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I138006243",
+       "display_name": "University of Arizona",
+       "ror": "https://ror.org/03m2x1q45",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I138006243"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Kerrie L. Geil",
+     "raw_affiliation_strings": [
+      "Department of Atmospheric Sciences, University of Arizona, Tucson, Arizona"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Atmospheric Sciences, University of Arizona, Tucson, Arizona",
+       "institution_ids": [
+        "https://openalex.org/I138006243"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5101824966",
+      "display_name": "Qi Hu",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I114395901",
+       "display_name": "University of Nebraska\u2013Lincoln",
+       "ror": "https://ror.org/043mer456",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I114395901"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Qi Hu",
+     "raw_affiliation_strings": [
+      "School of Natural Resources, and Department of Earth and Atmospheric Sciences, University of Nebraska\u2013Lincoln, Lincoln, Nebraska"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Natural Resources, and Department of Earth and Atmospheric Sciences, University of Nebraska\u2013Lincoln, Lincoln, Nebraska",
+       "institution_ids": [
+        "https://openalex.org/I114395901"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5084289373",
+      "display_name": "J. L. Kinter",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I162714631",
+       "display_name": "George Mason University",
+       "ror": "https://ror.org/02jqj7156",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Jim Kinter",
+     "raw_affiliation_strings": [
+      "Center for Ocean\u2013Land\u2013Atmosphere Studies, George Mason University, Fairfax, Virginia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Center for Ocean\u2013Land\u2013Atmosphere Studies, George Mason University, Fairfax, Virginia",
+       "institution_ids": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5027214278",
+      "display_name": "Sanjiv Kumar",
+      "orcid": "https://orcid.org/0000-0002-0472-6074",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-0472-6074"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I162714631",
+       "display_name": "George Mason University",
+       "ror": "https://ror.org/02jqj7156",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Sanjiv Kumar",
+     "raw_affiliation_strings": [
+      "Center for Ocean\u2013Land\u2013Atmosphere Studies, George Mason University, Fairfax, Virginia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Center for Ocean\u2013Land\u2013Atmosphere Studies, George Mason University, Fairfax, Virginia",
+       "institution_ids": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5075127318",
+      "display_name": "Baird Langenbrunner",
+      "orcid": "https://orcid.org/0000-0002-3844-9706",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3844-9706"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I161318765",
+       "display_name": "University of California, Los Angeles",
+       "ror": "https://ror.org/046rm7j60",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I161318765"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Baird Langenbrunner",
+     "raw_affiliation_strings": [
+      "Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, California"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, California",
+       "institution_ids": [
+        "https://openalex.org/I161318765"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5005152194",
+      "display_name": "Kelly A. Lombardo",
+      "orcid": "https://orcid.org/0000-0002-0956-8183",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-0956-8183"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I59553526",
+       "display_name": "Stony Brook University",
+       "ror": "https://ror.org/05qghxh33",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I59553526"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Kelly Lombardo",
+     "raw_affiliation_strings": [
+      "School of Marine and Atmospheric Sciences, Stony Brook University, State University of New York, Stony Brook, New York"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Marine and Atmospheric Sciences, Stony Brook University, State University of New York, Stony Brook, New York",
+       "institution_ids": [
+        "https://openalex.org/I59553526"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5112503005",
+      "display_name": "Lindsey N. Long",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210093799",
+       "display_name": "NOAA National Centers for Environmental Prediction",
+       "ror": "https://ror.org/00ndyev54",
+       "country_code": "US",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210093799",
+        "https://openalex.org/I4210095787"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4387930221",
+       "display_name": "NOAA Climate Prediction Center",
+       "ror": "https://ror.org/00kct2d35",
+       "country_code": null,
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210093799",
+        "https://openalex.org/I4210095787",
+        "https://openalex.org/I4387930221"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Lindsey N. Long",
+     "raw_affiliation_strings": [
+      "Wyle Science, Technology and Engineering, and NOAA/NWS/NCEP/Climate Prediction Center, College Park, Maryland"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Wyle Science, Technology and Engineering, and NOAA/NWS/NCEP/Climate Prediction Center, College Park, Maryland",
+       "institution_ids": [
+        "https://openalex.org/I4210093799",
+        "https://openalex.org/I4387930221"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5077450740",
+      "display_name": "Eric Daniel Maloney",
+      "orcid": "https://orcid.org/0000-0002-2660-2611",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-2660-2611"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I92446798",
+       "display_name": "Colorado State University",
+       "ror": "https://ror.org/03k1gpj17",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I92446798"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Eric Maloney",
+     "raw_affiliation_strings": [
+      "Department of Atmospheric Science, Colorado State University, Fort Collins, Colorado",
+      "COLORADO STATE UNIVERSITY"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Atmospheric Science, Colorado State University, Fort Collins, Colorado",
+       "institution_ids": [
+        "https://openalex.org/I92446798"
+       ]
+      },
+      {
+       "raw_affiliation_string": "COLORADO STATE UNIVERSITY",
+       "institution_ids": [
+        "https://openalex.org/I92446798"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5002641412",
+      "display_name": "Annarita Mariotti",
+      "orcid": "https://orcid.org/0000-0002-9300-5649",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9300-5649"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1308126019",
+       "display_name": "National Oceanic and Atmospheric Administration",
+       "ror": "https://ror.org/02z5nhe81",
+       "country_code": "US",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I2802992173",
+       "display_name": "NOAA Oceanic and Atmospheric Research",
+       "ror": "https://ror.org/02kgve346",
+       "country_code": "US",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I2802992173"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Annarita Mariotti",
+     "raw_affiliation_strings": [
+      "National Oceanic and Atmospheric Administration/Office of Oceanic and Atmospheric Research, Silver Spring, Maryland"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Oceanic and Atmospheric Administration/Office of Oceanic and Atmospheric Research, Silver Spring, Maryland",
+       "institution_ids": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I2802992173"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5037843233",
+      "display_name": "Joyce E. Meyerson",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I161318765",
+       "display_name": "University of California, Los Angeles",
+       "ror": "https://ror.org/046rm7j60",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I161318765"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Joyce E. Meyerson",
+     "raw_affiliation_strings": [
+      "Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, California"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, California",
+       "institution_ids": [
+        "https://openalex.org/I161318765"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5112510755",
+      "display_name": "Kingtse C. Mo",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1308126019",
+       "display_name": "National Oceanic and Atmospheric Administration",
+       "ror": "https://ror.org/02z5nhe81",
+       "country_code": "US",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4210093799",
+       "display_name": "NOAA National Centers for Environmental Prediction",
+       "ror": "https://ror.org/00ndyev54",
+       "country_code": "US",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210093799",
+        "https://openalex.org/I4210095787"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4387930221",
+       "display_name": "NOAA Climate Prediction Center",
+       "ror": "https://ror.org/00kct2d35",
+       "country_code": null,
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I4210093799",
+        "https://openalex.org/I4210095787",
+        "https://openalex.org/I4387930221"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Kingtse C. Mo",
+     "raw_affiliation_strings": [
+      "NOAA/NWS/NCEP/Climate Prediction Center, College Park, Maryland"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "NOAA/NWS/NCEP/Climate Prediction Center, College Park, Maryland",
+       "institution_ids": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I4210093799",
+        "https://openalex.org/I4387930221"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5065915056",
+      "display_name": "J. David Neelin",
+      "orcid": "https://orcid.org/0000-0001-9414-9962",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9414-9962"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I161318765",
+       "display_name": "University of California, Los Angeles",
+       "ror": "https://ror.org/046rm7j60",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I161318765"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "J. David Neelin",
+     "raw_affiliation_strings": [
+      "Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, California"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, California",
+       "institution_ids": [
+        "https://openalex.org/I161318765"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5062536296",
+      "display_name": "Sumant Nigam",
+      "orcid": "https://orcid.org/0000-0002-9668-2979",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9668-2979"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I66946132",
+       "display_name": "University of Maryland, College Park",
+       "ror": "https://ror.org/047s2c258",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I66946132"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Sumant Nigam",
+     "raw_affiliation_strings": [
+      "Department of Atmospheric and Oceanic Science, University of Maryland, College Park, College Park, Maryland"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Atmospheric and Oceanic Science, University of Maryland, College Park, College Park, Maryland",
+       "institution_ids": [
+        "https://openalex.org/I66946132"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5084493168",
+      "display_name": "Zaitao Pan",
+      "orcid": "https://orcid.org/0000-0002-9343-403X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9343-403X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I47838141",
+       "display_name": "Saint Louis University",
+       "ror": "https://ror.org/01p7jjy08",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I47838141"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Zaitao Pan",
+     "raw_affiliation_strings": [
+      "Saint Louis University, St. Louis, Missouri"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Saint Louis University, St. Louis, Missouri",
+       "institution_ids": [
+        "https://openalex.org/I47838141"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5091823799",
+      "display_name": "Tong Ren",
+      "orcid": "https://orcid.org/0000-0002-5540-9554",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5540-9554"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86519309",
+       "display_name": "The University of Texas at Austin",
+       "ror": "https://ror.org/00hj54h04",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Tong Ren",
+     "raw_affiliation_strings": [
+      "Jackson School of Geosciences, The University of Texas at Austin, Texas"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Jackson School of Geosciences, The University of Texas at Austin, Texas",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5082482294",
+      "display_name": "Alfredo Ruiz\u2010Barradas",
+      "orcid": "https://orcid.org/0000-0003-3633-3950",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-3633-3950"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I66946132",
+       "display_name": "University of Maryland, College Park",
+       "ror": "https://ror.org/047s2c258",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I66946132"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Alfredo Ruiz-Barradas",
+     "raw_affiliation_strings": [
+      "Department of Atmospheric and Oceanic Science, University of Maryland, College Park, College Park, Maryland"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Atmospheric and Oceanic Science, University of Maryland, College Park, College Park, Maryland",
+       "institution_ids": [
+        "https://openalex.org/I66946132"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5024967372",
+      "display_name": "Yolande L. Serra",
+      "orcid": "https://orcid.org/0000-0003-3542-1158",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-3542-1158"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I138006243",
+       "display_name": "University of Arizona",
+       "ror": "https://ror.org/03m2x1q45",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I138006243"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Yolande L. Serra",
+     "raw_affiliation_strings": [
+      "Department of Atmospheric Sciences, University of Arizona, Tucson, Arizona"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Atmospheric Sciences, University of Arizona, Tucson, Arizona",
+       "institution_ids": [
+        "https://openalex.org/I138006243"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5051930189",
+      "display_name": "Anji Seth",
+      "orcid": "https://orcid.org/0000-0001-5905-5258",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5905-5258"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I140172145",
+       "display_name": "University of Connecticut",
+       "ror": "https://ror.org/02der9h97",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I140172145"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Anji Seth",
+     "raw_affiliation_strings": [
+      "Department of Geography, University of Connecticut, Storrs, Connecticut"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Geography, University of Connecticut, Storrs, Connecticut",
+       "institution_ids": [
+        "https://openalex.org/I140172145"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5042569551",
+      "display_name": "Jeanne M. Thibeault",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I140172145",
+       "display_name": "University of Connecticut",
+       "ror": "https://ror.org/02der9h97",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I140172145"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Jeanne M. Thibeault",
+     "raw_affiliation_strings": [
+      "Department of Geography, University of Connecticut, Storrs, Connecticut"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Geography, University of Connecticut, Storrs, Connecticut",
+       "institution_ids": [
+        "https://openalex.org/I140172145"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5072258471",
+      "display_name": "Julienne Christine Stroeve",
+      "orcid": "https://orcid.org/0000-0001-7316-8320",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-7316-8320"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I161675122",
+       "display_name": "Cooperative Institute for Research in Environmental Sciences",
+       "ror": "https://ror.org/00bdqav06",
+       "country_code": "US",
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I161675122",
+        "https://openalex.org/I188538660",
+        "https://openalex.org/I2802992173"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I188538660",
+       "display_name": "University of Colorado Boulder",
+       "ror": "https://ror.org/02ttsq026",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I188538660"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4390039322",
+       "display_name": "National Snow and Ice Data Center",
+       "ror": "https://ror.org/00bxr0z07",
+       "country_code": null,
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1308126019",
+        "https://openalex.org/I1343035065",
+        "https://openalex.org/I161675122",
+        "https://openalex.org/I188538660",
+        "https://openalex.org/I2802992173",
+        "https://openalex.org/I4390039322"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Julienne C. Stroeve",
+     "raw_affiliation_strings": [
+      "National Snow and Ice Data Center, Cooperative Institute for Research in Environmental Sciences, University of Colorado Boulder, Boulder, Colorado"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Snow and Ice Data Center, Cooperative Institute for Research in Environmental Sciences, University of Colorado Boulder, Boulder, Colorado",
+       "institution_ids": [
+        "https://openalex.org/I161675122",
+        "https://openalex.org/I188538660",
+        "https://openalex.org/I4390039322"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5065548370",
+      "display_name": "Ze Yang",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86519309",
+       "display_name": "The University of Texas at Austin",
+       "ror": "https://ror.org/00hj54h04",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ze Yang",
+     "raw_affiliation_strings": [
+      "Jackson School of Geosciences, The University of Texas at Austin, Texas"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Jackson School of Geosciences, The University of Texas at Austin, Texas",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5020884276",
+      "display_name": "Lei Yin",
+      "orcid": "https://orcid.org/0000-0001-5998-1577",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5998-1577"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86519309",
+       "display_name": "The University of Texas at Austin",
+       "ror": "https://ror.org/00hj54h04",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Lei Yin",
+     "raw_affiliation_strings": [
+      "Jackson School of Geosciences, The University of Texas at Austin, Texas"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Jackson School of Geosciences, The University of Texas at Austin, Texas",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 20,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 16.6209,
+   "has_fulltext": true,
+   "cited_by_count": 270,
+   "citation_normalized_percentile": {
+    "value": 0.99363697,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 97,
+    "max": 100
+   },
+   "biblio": {
+    "volume": "26",
+    "issue": "23",
+    "first_page": "9209",
+    "last_page": "9245"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T10029",
+    "display_name": "Climate variability and models",
+    "score": 1.0,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2306",
+     "display_name": "Global and Planetary Change"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/23",
+     "display_name": "Environmental Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T10029",
+     "display_name": "Climate variability and models",
+     "score": 1.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10466",
+     "display_name": "Meteorological Phenomena and Simulations",
+     "score": 9.999999747378752e-05,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1902",
+      "display_name": "Atmospheric Science"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/19",
+      "display_name": "Earth and Planetary Sciences"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T13530",
+     "display_name": "Climate Change and Environmental Impact",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/north-american-climate",
+     "display_name": "North American climate",
+     "score": 0.9869999885559082
+    },
+    {
+     "id": "https://openalex.org/keywords/cmip5",
+     "display_name": "CMIP5",
+     "score": 0.9610000252723694
+    },
+    {
+     "id": "https://openalex.org/keywords/historical-climate-simulation",
+     "display_name": "historical climate simulation",
+     "score": 0.8820000290870667
+    },
+    {
+     "id": "https://openalex.org/keywords/model-evaluation",
+     "display_name": "model evaluation",
+     "score": 0.7789999842643738
+    },
+    {
+     "id": "https://openalex.org/keywords/north-american-monsoon",
+     "display_name": "North American monsoon",
+     "score": 0.9869999885559082
+    },
+    {
+     "id": "https://openalex.org/keywords/great-plains-low-level-jet",
+     "display_name": "Great Plains low-level jet",
+     "score": 0.9800000190734863
+    },
+    {
+     "id": "https://openalex.org/keywords/arctic-sea-ice",
+     "display_name": "Arctic sea ice",
+     "score": 0.9990000128746033
+    },
+    {
+     "id": "https://openalex.org/keywords/hydrological-variables",
+     "display_name": "hydrological variables",
+     "score": 0.8059999942779541
+    },
+    {
+     "id": "https://openalex.org/keywords/extreme-climate-events",
+     "display_name": "climate extremes",
+     "score": 0.9160000085830688
+    },
+    {
+     "id": "https://openalex.org/keywords/multi-model-ensemble",
+     "display_name": "multi-model ensemble",
+     "score": 0.7369999885559082
+    },
+    {
+     "id": "https://openalex.org/keywords/model-resolution",
+     "display_name": "model resolution",
+     "score": 0.6480000019073486
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C49204034",
+     "wikidata": "https://www.wikidata.org/wiki/Q52139",
+     "display_name": "Climatology",
+     "level": 1,
+     "score": 0.8173245191574097
+    },
+    {
+     "id": "https://openalex.org/C25022447",
+     "wikidata": "https://www.wikidata.org/wiki/Q5178021",
+     "display_name": "Coupled model intercomparison project",
+     "level": 4,
+     "score": 0.6642396450042725
+    },
+    {
+     "id": "https://openalex.org/C168754636",
+     "wikidata": "https://www.wikidata.org/wiki/Q620920",
+     "display_name": "Climate model",
+     "level": 3,
+     "score": 0.6609411239624023
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.5416574478149414
+    },
+    {
+     "id": "https://openalex.org/C132651083",
+     "wikidata": "https://www.wikidata.org/wiki/Q7942",
+     "display_name": "Climate change",
+     "level": 2,
+     "score": 0.48341119289398193
+    },
+    {
+     "id": "https://openalex.org/C41156917",
+     "wikidata": "https://www.wikidata.org/wiki/Q682831",
+     "display_name": "Downscaling",
+     "level": 3,
+     "score": 0.45783117413520813
+    },
+    {
+     "id": "https://openalex.org/C127313418",
+     "wikidata": "https://www.wikidata.org/wiki/Q1069",
+     "display_name": "Geology",
+     "level": 0,
+     "score": 0.1668809950351715
+    },
+    {
+     "id": "https://openalex.org/C111368507",
+     "wikidata": "https://www.wikidata.org/wiki/Q43518",
+     "display_name": "Oceanography",
+     "level": 1,
+     "score": 0.096137136220932
+    }
+   ],
+   "mesh": [],
+   "locations_count": 4,
+   "locations": [
+    {
+     "id": "doi:10.1175/jcli-d-12-00592.1",
+     "doi": "https://doi.org/10.1175/jcli-d-12-00592.1",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.1175/jcli-d-12-00592.1",
+     "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/clim/26/23/jcli-d-12-00592.1.pdf",
+     "source": {
+      "id": "https://openalex.org/S80591372",
+      "display_name": "Journal of Climate",
+      "issn_l": "0894-8755",
+      "issn": [
+       "0894-8755",
+       "1520-0442"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "cwts-core",
+       "dongbi-b",
+       "jufo-2",
+       "norway-2",
+       "poland-200",
+       "russia-white-list-1",
+       "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320260",
+      "host_organization_name": "American Meteorological Society",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310320260"
+      ],
+      "host_organization_lineage_names": [
+       "American Meteorological Society"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Journal of Climate",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "pmh:oai:digitalcommons.unl.edu:geosciencefacpub-1402",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "https://digitalcommons.unl.edu/geosciencefacpub/398",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400577",
+      "display_name": "Lincoln (University of Nebraska)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I114395901",
+      "host_organization_name": "University of Nebraska\u2013Lincoln",
+      "host_organization_lineage": [
+       "https://openalex.org/I114395901"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "Department of Earth and Atmospheric Sciences: Faculty Publications",
+     "raw_type": "text"
+    },
+    {
+     "id": "pmh:oai:eprints.soton.ac.uk:480764",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "https://eprints.soton.ac.uk/480764/",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401019",
+      "display_name": "ePrints Soton (University of Southampton)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I43439940",
+      "host_organization_name": "University of Southampton",
+      "host_organization_lineage": [
+       "https://openalex.org/I43439940"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "",
+     "raw_type": "Article"
+    },
+    {
+     "id": "pmh:oai:eprints.ucl.ac.uk.OAI2:1425256",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://discovery.ucl.ac.uk/1425256/",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400024",
+      "display_name": "UCL Discovery (University College London)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I45129253",
+      "host_organization_name": "University College London",
+      "host_organization_lineage": [
+       "https://openalex.org/I45129253"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "JOURNAL OF CLIMATE , 26 (23) pp. 9209-9245. (2013)",
+     "raw_type": "Article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.1175/jcli-d-12-00592.1",
+    "doi": "https://doi.org/10.1175/jcli-d-12-00592.1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1175/jcli-d-12-00592.1",
+    "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/clim/26/23/jcli-d-12-00592.1.pdf",
+    "source": {
+     "id": "https://openalex.org/S80591372",
+     "display_name": "Journal of Climate",
+     "issn_l": "0894-8755",
+     "issn": [
+      "0894-8755",
+      "1520-0442"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "dongbi-b",
+      "jufo-2",
+      "norway-2",
+      "poland-200",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320260",
+     "host_organization_name": "American Meteorological Society",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320260"
+     ],
+     "host_organization_lineage_names": [
+      "American Meteorological Society"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Climate",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "display_name": "Climate action",
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.9786999821662903
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "display_name": "Climate action",
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.6499999761581421
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320306076",
+     "display_name": "National Science Foundation",
+     "ror": "https://ror.org/021nxhr62"
+    },
+    {
+     "id": "https://openalex.org/F4320306084",
+     "display_name": "U.S. Department of Energy",
+     "ror": "https://ror.org/01bj3aw27"
+    },
+    {
+     "id": "https://openalex.org/F4320332181",
+     "display_name": "National Oceanic and Atmospheric Administration",
+     "ror": "https://ror.org/02z5nhe81"
+    },
+    {
+     "id": "https://openalex.org/F4320337557",
+     "display_name": "Climate Program Office",
+     "ror": "https://ror.org/00mmmy130"
+    }
+   ],
+   "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2052740065.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2052740065.grobid-xml"
+   },
+   "referenced_works_count": 71,
+   "referenced_works": [
+    "https://openalex.org/W1491450605",
+    "https://openalex.org/W1527604912",
+    "https://openalex.org/W1600968722",
+    "https://openalex.org/W1963529460",
+    "https://openalex.org/W1965158325",
+    "https://openalex.org/W1966421922",
+    "https://openalex.org/W1967519510",
+    "https://openalex.org/W1976573277",
+    "https://openalex.org/W1977452429",
+    "https://openalex.org/W1979062058",
+    "https://openalex.org/W1989668498",
+    "https://openalex.org/W1990376608",
+    "https://openalex.org/W1996478169",
+    "https://openalex.org/W1997540590",
+    "https://openalex.org/W2001672825",
+    "https://openalex.org/W2003193659",
+    "https://openalex.org/W2006165291",
+    "https://openalex.org/W2006750690",
+    "https://openalex.org/W2012935724",
+    "https://openalex.org/W2015965457",
+    "https://openalex.org/W2016910852",
+    "https://openalex.org/W2019359194",
+    "https://openalex.org/W2020949093",
+    "https://openalex.org/W2022548072",
+    "https://openalex.org/W2024417959",
+    "https://openalex.org/W2024966118",
+    "https://openalex.org/W2026940641",
+    "https://openalex.org/W2030116498",
+    "https://openalex.org/W2037460094",
+    "https://openalex.org/W2043196564",
+    "https://openalex.org/W2046848592",
+    "https://openalex.org/W2046926589",
+    "https://openalex.org/W2047375592",
+    "https://openalex.org/W2048570972",
+    "https://openalex.org/W2049550095",
+    "https://openalex.org/W2052114429",
+    "https://openalex.org/W2052498290",
+    "https://openalex.org/W2055484760",
+    "https://openalex.org/W2058375060",
+    "https://openalex.org/W2070749399",
+    "https://openalex.org/W2071747718",
+    "https://openalex.org/W2075112338",
+    "https://openalex.org/W2076297862",
+    "https://openalex.org/W2077150649",
+    "https://openalex.org/W2077501077",
+    "https://openalex.org/W2084439524",
+    "https://openalex.org/W2088211889",
+    "https://openalex.org/W2103164730",
+    "https://openalex.org/W2110534701",
+    "https://openalex.org/W2117779820",
+    "https://openalex.org/W2119132330",
+    "https://openalex.org/W2125031136",
+    "https://openalex.org/W2126867085",
+    "https://openalex.org/W2132590819",
+    "https://openalex.org/W2136611861",
+    "https://openalex.org/W2144971607",
+    "https://openalex.org/W2147236945",
+    "https://openalex.org/W2148650162",
+    "https://openalex.org/W2151219339",
+    "https://openalex.org/W2153179024",
+    "https://openalex.org/W2153362169",
+    "https://openalex.org/W2165242200",
+    "https://openalex.org/W2170174991",
+    "https://openalex.org/W2173251738",
+    "https://openalex.org/W2176412098",
+    "https://openalex.org/W2176956584",
+    "https://openalex.org/W2177613209",
+    "https://openalex.org/W2888504372",
+    "https://openalex.org/W3144629530",
+    "https://openalex.org/W4233438645",
+    "https://openalex.org/W4234492793"
+   ],
+   "related_works": [
+    "https://openalex.org/W4384937209",
+    "https://openalex.org/W2954456231",
+    "https://openalex.org/W2031782830",
+    "https://openalex.org/W2958208859",
+    "https://openalex.org/W3082384766",
+    "https://openalex.org/W2977614893",
+    "https://openalex.org/W4249786922",
+    "https://openalex.org/W3167674431",
+    "https://openalex.org/W4309885533",
+    "https://openalex.org/W2015475130"
+   ],
+   "abstract_inverted_index": {
+    "This": [
+     0,
+     64
+    ],
+    "is": [
+     1,
+     65
+    ],
+    "the": [
+     2,
+     17,
+     25,
+     46,
+     62,
+     85,
+     89,
+     101,
+     106,
+     125,
+     150,
+     190,
+     216,
+     219,
+     231,
+     246,
+     250
+    ],
+    "first": [
+     3
+    ],
+    "part": [
+     4,
+     248
+    ],
+    "of": [
+     5,
+     16,
+     28,
+     40,
+     51,
+     110,
+     129,
+     189,
+     218,
+     225,
+     233,
+     236,
+     249
+    ],
+    "a": [
+     6,
+     34,
+     37,
+     49,
+     175
+    ],
+    "three-part": [
+     7
+    ],
+    "paper": [
+     8,
+     227
+    ],
+    "on": [
+     9,
+     36
+    ],
+    "North": [
+     10,
+     76,
+     86,
+     220
+    ],
+    "American": [
+     11,
+     77,
+     87,
+     221
+    ],
+    "climate": [
+     12,
+     54,
+     72,
+     112,
+     185,
+     211,
+     237
+    ],
+    "in": [
+     13,
+     124,
+     182,
+     187,
+     202,
+     245
+    ],
+    "phase": [
+     14
+    ],
+    "5": [
+     15
+    ],
+    "Coupled": [
+     18
+    ],
+    "Model": [
+     19
+    ],
+    "Intercomparison": [
+     20
+    ],
+    "Project": [
+     21
+    ],
+    "(CMIP5)": [
+     22
+    ],
+    "that": [
+     23
+    ],
+    "evaluates": [
+     24
+    ],
+    "historical": [
+     26
+    ],
+    "simulations": [
+     27
+    ],
+    "continental": [
+     29
+    ],
+    "and": [
+     30,
+     55,
+     58,
+     95,
+     113,
+     122,
+     127,
+     158,
+     160,
+     192,
+     238
+    ],
+    "regional": [
+     31,
+     71,
+     168,
+     210
+    ],
+    "climatology": [
+     32
+    ],
+    "with": [
+     33,
+     117
+    ],
+    "focus": [
+     35
+    ],
+    "core": [
+     38
+    ],
+    "set": [
+     39,
+     50
+    ],
+    "17": [
+     41
+    ],
+    "models.": [
+     42,
+     200
+    ],
+    "The": [
+     43,
+     170,
+     223
+    ],
+    "authors": [
+     44
+    ],
+    "evaluate": [
+     45
+    ],
+    "models": [
+     47,
+     121,
+     147,
+     162,
+     181
+    ],
+    "for": [
+     48,
+     61,
+     69,
+     152,
+     167,
+     198,
+     208,
+     230
+    ],
+    "basic": [
+     52,
+     111,
+     184
+    ],
+    "surface": [
+     53
+    ],
+    "hydrological": [
+     56,
+     114
+    ],
+    "variables": [
+     57,
+     115,
+     154
+    ],
+    "their": [
+     59
+    ],
+    "extremes": [
+     60
+    ],
+    "continent.": [
+     63
+    ],
+    "supplemented": [
+     66
+    ],
+    "by": [
+     67
+    ],
+    "evaluations": [
+     68
+    ],
+    "selected": [
+     70
+    ],
+    "processes": [
+     73,
+     212
+    ],
+    "relevant": [
+     74
+    ],
+    "to": [
+     75,
+     164,
+     179
+    ],
+    "climate,": [
+     78
+    ],
+    "including": [
+     79
+    ],
+    "cool": [
+     80
+    ],
+    "season": [
+     81
+    ],
+    "western": [
+     82
+    ],
+    "Atlantic": [
+     83
+    ],
+    "cyclones,": [
+     84
+    ],
+    "monsoon,": [
+     88
+    ],
+    "U.S.": [
+     90
+    ],
+    "Great": [
+     91
+    ],
+    "Plains": [
+     92
+    ],
+    "low-level": [
+     93
+    ],
+    "jet,": [
+     94
+    ],
+    "Arctic": [
+     96
+    ],
+    "sea": [
+     97
+    ],
+    "ice.": [
+     98
+    ],
+    "In": [
+     99
+    ],
+    "general,": [
+     100
+    ],
+    "multimodel": [
+     102,
+     172
+    ],
+    "ensemble": [
+     103,
+     173
+    ],
+    "mean": [
+     104,
+     191
+    ],
+    "represents": [
+     105
+    ],
+    "observed": [
+     107
+    ],
+    "spatial": [
+     108
+    ],
+    "patterns": [
+     109
+    ],
+    "but": [
+     116
+    ],
+    "large": [
+     118
+    ],
+    "variability": [
+     119
+    ],
+    "across": [
+     120,
+     142,
+     155
+    ],
+    "regions": [
+     123,
+     157
+    ],
+    "magnitude": [
+     126
+    ],
+    "sign": [
+     128
+    ],
+    "errors.": [
+     130
+    ],
+    "No": [
+     131
+    ],
+    "single": [
+     132
+    ],
+    "model": [
+     133,
+     204
+    ],
+    "stands": [
+     134
+    ],
+    "out": [
+     135
+    ],
+    "as": [
+     136,
+     215
+    ],
+    "being": [
+     137
+    ],
+    "particularly": [
+     138
+    ],
+    "better": [
+     139,
+     166
+    ],
+    "or": [
+     140
+    ],
+    "worse": [
+     141
+    ],
+    "all": [
+     143
+    ],
+    "analyses,": [
+     144
+    ],
+    "although": [
+     145,
+     194
+    ],
+    "some": [
+     146,
+     199,
+     209
+    ],
+    "consistently": [
+     148
+    ],
+    "outperform": [
+     149
+    ],
+    "others": [
+     151
+    ],
+    "certain": [
+     153
+    ],
+    "most": [
+     156
+    ],
+    "seasons": [
+     159
+    ],
+    "higher-resolution": [
+     161
+    ],
+    "tend": [
+     163
+    ],
+    "perform": [
+     165
+    ],
+    "processes.": [
+     169
+    ],
+    "CMIP5": [
+     171,
+     203
+    ],
+    "shows": [
+     174
+    ],
+    "slight": [
+     176
+    ],
+    "improvement": [
+     177
+    ],
+    "relative": [
+     178
+    ],
+    "CMIP3": [
+     180
+    ],
+    "representing": [
+     183
+    ],
+    "variables,": [
+     186
+    ],
+    "terms": [
+     188
+    ],
+    "spread,": [
+     193
+    ],
+    "performance": [
+     195,
+     205
+    ],
+    "has": [
+     196
+    ],
+    "decreased": [
+     197
+    ],
+    "Improvements": [
+     201
+    ],
+    "are": [
+     206,
+     243
+    ],
+    "noticeable": [
+     207
+    ],
+    "analyzed,": [
+     213
+    ],
+    "such": [
+     214
+    ],
+    "timing": [
+     217
+    ],
+    "monsoon.": [
+     222
+    ],
+    "results": [
+     224
+    ],
+    "this": [
+     226
+    ],
+    "have": [
+     228
+    ],
+    "implications": [
+     229
+    ],
+    "robustness": [
+     232
+    ],
+    "future": [
+     234
+    ],
+    "projections": [
+     235
+    ],
+    "its": [
+     239
+    ],
+    "associated": [
+     240
+    ],
+    "impacts,": [
+     241
+    ],
+    "which": [
+     242
+    ],
+    "examined": [
+     244
+    ],
+    "third": [
+     247
+    ],
+    "paper.": [
+     251
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 7
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 14
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 19
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 24
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 31
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 26
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 35
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 40
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 25
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 21
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 14
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 6
+    }
+   ],
+   "updated_date": "2026-10-14T16:39:01.820549",
+   "created_date": "2025-10-10T00:00:00"
+  }
+ ]
+}

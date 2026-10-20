@@ -1,0 +1,7835 @@
+{
+ "query": "EPANET 2.2 pressure driven analysis users manual",
+ "pass": "B-TOOL",
+ "y0": 2018,
+ "y1": 2026,
+ "results": [
+  {
+   "id": "https://openalex.org/W7165686460",
+   "doi": "https://doi.org/10.37789/rjce.2026.17.2.4",
+   "title": "Adaptation of the pressure-based algorithm used by EPANET 2.2 to the provisions in force for different situations",
+   "display_name": "Adaptation of the pressure-based algorithm used by EPANET 2.2 to the provisions in force for different situations",
+   "relevance_score": 49.716747,
+   "publication_year": 2026,
+   "publication_date": "2026-06-12",
+   "ids": {
+    "openalex": "https://openalex.org/W7165686460",
+    "doi": "https://doi.org/10.37789/rjce.2026.17.2.4"
+   },
+   "language": null,
+   "primary_location": {
+    "id": "doi:10.37789/rjce.2026.17.2.4",
+    "doi": "https://doi.org/10.37789/rjce.2026.17.2.4",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37789/rjce.2026.17.2.4",
+    "pdf_url": "https://doi.org/10.37789/rjce.2026.17.2.4",
+    "source": {
+     "id": "https://openalex.org/S4210184593",
+     "display_name": "Revista Romana de Inginerie Civila/Romanian Journal of Civil Engineering",
+     "issn_l": "2068-3987",
+     "issn": [
+      "2068-3987",
+      "2559-7485"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [
+      "erih-plus"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Revista Romana de Inginerie Civila/Romanian Journal of Civil Engineering",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://doi.org/10.37789/rjce.2026.17.2.4",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5119625651",
+      "display_name": "Hocine Lakhdari",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I148178115",
+       "display_name": "Technical University of Civil Engineering of Bucharest",
+       "ror": "https://ror.org/03d187f57",
+       "country_code": "RO",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ],
+     "countries": [
+      "RO"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Hocine Lakhdari",
+     "raw_affiliation_strings": [
+      "Faculty of Hydrotechnics , department of Hydraulics , Sanitary Environmental Protection , Technical University of Civil Engineering of Bucharest , Romania"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Faculty of Hydrotechnics , department of Hydraulics , Sanitary Environmental Protection , Technical University of Civil Engineering of Bucharest , Romania",
+       "institution_ids": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5048875780",
+      "display_name": "Andrei-Mugur Georgescu",
+      "orcid": "https://orcid.org/0000-0002-3392-3173",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3392-3173"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I148178115",
+       "display_name": "Technical University of Civil Engineering of Bucharest",
+       "ror": "https://ror.org/03d187f57",
+       "country_code": "RO",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ],
+     "countries": [
+      "RO"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Andrei-Mugur Georgescu",
+     "raw_affiliation_strings": [
+      "Faculty of Hydrotechnics , department of Hydraulics , Sanitary Environmental Protection , Technical University of Civil Engineering of Bucharest , Romania"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Faculty of Hydrotechnics , department of Hydraulics , Sanitary Environmental Protection , Technical University of Civil Engineering of Bucharest , Romania",
+       "institution_ids": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I148178115"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 0.0,
+   "has_fulltext": true,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": {
+    "value": 0.38949599,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": "17",
+    "issue": "2",
+    "first_page": "167",
+    "last_page": "189"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11220",
+    "display_name": "Water Systems and Optimization",
+    "score": 1.0,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2205",
+     "display_name": "Civil and Structural Engineering"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11220",
+     "display_name": "Water Systems and Optimization",
+     "score": 1.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10969",
+     "display_name": "Water resources management and optimization",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12022",
+     "display_name": "Hydraulic flow and structures",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/pressure-based-algorithm",
+     "display_name": "pressure-based algorithm",
+     "score": 0.9110000133514404
+    },
+    {
+     "id": "https://openalex.org/keywords/pressure-driven-analysis",
+     "display_name": "pressure-driven analysis",
+     "score": 0.6790000200271606
+    },
+    {
+     "id": "https://openalex.org/keywords/demand-driven-analysis",
+     "display_name": "demand-driven analysis",
+     "score": 0.824999988079071
+    },
+    {
+     "id": "https://openalex.org/keywords/discharge-coefficient",
+     "display_name": "discharge coefficient",
+     "score": 0.7509999871253967
+    },
+    {
+     "id": "https://openalex.org/keywords/pressure-exponent",
+     "display_name": "pressure exponent",
+     "score": 0.9610000252723694
+    },
+    {
+     "id": "https://openalex.org/keywords/water-distribution-networks",
+     "display_name": "water distribution systems",
+     "score": 0.7599999904632568
+    },
+    {
+     "id": "https://openalex.org/keywords/plumbing-standards",
+     "display_name": "plumbing standards",
+     "score": 0.8450000286102295
+    },
+    {
+     "id": "https://openalex.org/keywords/architectural-typology",
+     "display_name": "architectural typology",
+     "score": 0.609000027179718
+    },
+    {
+     "id": "https://openalex.org/keywords/algeria",
+     "display_name": "Algeria",
+     "score": 0.8019999861717224
+    },
+    {
+     "id": "https://openalex.org/keywords/romania",
+     "display_name": "Romania",
+     "score": 1.0
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.5673999786376953
+    },
+    {
+     "id": "https://openalex.org/C11413529",
+     "wikidata": "https://www.wikidata.org/wiki/Q8366",
+     "display_name": "Algorithm",
+     "level": 1,
+     "score": 0.550599992275238
+    },
+    {
+     "id": "https://openalex.org/C38349280",
+     "wikidata": "https://www.wikidata.org/wiki/Q1434290",
+     "display_name": "Flow (mathematics)",
+     "level": 2,
+     "score": 0.49459999799728394
+    },
+    {
+     "id": "https://openalex.org/C139807058",
+     "wikidata": "https://www.wikidata.org/wiki/Q352374",
+     "display_name": "Adaptation (eye)",
+     "level": 2,
+     "score": 0.47699999809265137
+    },
+    {
+     "id": "https://openalex.org/C110121322",
+     "wikidata": "https://www.wikidata.org/wiki/Q865811",
+     "display_name": "Distribution (mathematics)",
+     "level": 2,
+     "score": 0.3919000029563904
+    },
+    {
+     "id": "https://openalex.org/C126255220",
+     "wikidata": "https://www.wikidata.org/wiki/Q141495",
+     "display_name": "Mathematical optimization",
+     "level": 1,
+     "score": 0.31859999895095825
+    },
+    {
+     "id": "https://openalex.org/C2780009758",
+     "wikidata": "https://www.wikidata.org/wiki/Q6804172",
+     "display_name": "Measure (data warehouse)",
+     "level": 2,
+     "score": 0.31690001487731934
+    },
+    {
+     "id": "https://openalex.org/C2780388253",
+     "wikidata": "https://www.wikidata.org/wiki/Q5421508",
+     "display_name": "Exponent",
+     "level": 2,
+     "score": 0.31439998745918274
+    },
+    {
+     "id": "https://openalex.org/C26517878",
+     "wikidata": "https://www.wikidata.org/wiki/Q228039",
+     "display_name": "Key (lock)",
+     "level": 2,
+     "score": 0.303600013256073
+    },
+    {
+     "id": "https://openalex.org/C44154836",
+     "wikidata": "https://www.wikidata.org/wiki/Q45045",
+     "display_name": "Simulation",
+     "level": 1,
+     "score": 0.2969000041484833
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.2700999975204468
+    },
+    {
+     "id": "https://openalex.org/C124101348",
+     "wikidata": "https://www.wikidata.org/wiki/Q172491",
+     "display_name": "Data mining",
+     "level": 1,
+     "score": 0.2694000005722046
+    },
+    {
+     "id": "https://openalex.org/C13736549",
+     "wikidata": "https://www.wikidata.org/wiki/Q4489420",
+     "display_name": "Industrial engineering",
+     "level": 1,
+     "score": 0.2685999870300293
+    },
+    {
+     "id": "https://openalex.org/C2781424430",
+     "wikidata": "https://www.wikidata.org/wiki/Q5462093",
+     "display_name": "Flow conditions",
+     "level": 3,
+     "score": 0.26100000739097595
+    },
+    {
+     "id": "https://openalex.org/C2778755073",
+     "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+     "display_name": "Scale (ratio)",
+     "level": 2,
+     "score": 0.260699987411499
+    },
+    {
+     "id": "https://openalex.org/C42475967",
+     "wikidata": "https://www.wikidata.org/wiki/Q194292",
+     "display_name": "Operations research",
+     "level": 1,
+     "score": 0.2515000104904175
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.37789/rjce.2026.17.2.4",
+     "doi": "https://doi.org/10.37789/rjce.2026.17.2.4",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.37789/rjce.2026.17.2.4",
+     "pdf_url": "https://doi.org/10.37789/rjce.2026.17.2.4",
+     "source": {
+      "id": "https://openalex.org/S4210184593",
+      "display_name": "Revista Romana de Inginerie Civila/Romanian Journal of Civil Engineering",
+      "issn_l": "2068-3987",
+      "issn": [
+       "2068-3987",
+       "2559-7485"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [
+       "erih-plus"
+      ],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Revista Romana de Inginerie Civila/Romanian Journal of Civil Engineering",
+     "raw_type": "journal-article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.37789/rjce.2026.17.2.4",
+    "doi": "https://doi.org/10.37789/rjce.2026.17.2.4",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37789/rjce.2026.17.2.4",
+    "pdf_url": "https://doi.org/10.37789/rjce.2026.17.2.4",
+    "source": {
+     "id": "https://openalex.org/S4210184593",
+     "display_name": "Revista Romana de Inginerie Civila/Romanian Journal of Civil Engineering",
+     "issn_l": "2068-3987",
+     "issn": [
+      "2068-3987",
+      "2559-7485"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [
+      "erih-plus"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Revista Romana de Inginerie Civila/Romanian Journal of Civil Engineering",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "score": 0.8999999761581421,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    },
+    {
+     "score": 0.7250000238418579,
+     "display_name": "Sustainable cities and communities",
+     "id": "https://metadata.un.org/sdg/11"
+    },
+    {
+     "score": 0.5378999710083008,
+     "display_name": "Industry, innovation and infrastructure",
+     "id": "https://metadata.un.org/sdg/9"
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "score": 0.783327043056488,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7165686460.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7165686460.grobid-xml"
+   },
+   "referenced_works_count": 0,
+   "referenced_works": [],
+   "related_works": [],
+   "abstract_inverted_index": {
+    "This": [
+     0
+    ],
+    "paper": [
+     1
+    ],
+    "adapts": [
+     2
+    ],
+    "the": [
+     3,
+     24,
+     66
+    ],
+    "pressure-based": [
+     4
+    ],
+    "algorithm": [
+     5
+    ],
+    "of": [
+     6,
+     68
+    ],
+    "EPANET": [
+     7
+    ],
+    "2.2": [
+     8
+    ],
+    "to": [
+     9,
+     61
+    ],
+    "comply": [
+     10
+    ],
+    "with": [
+     11,
+     52
+    ],
+    "national": [
+     12
+    ],
+    "plumbing": [
+     13
+    ],
+    "standards": [
+     14
+    ],
+    "under": [
+     15
+    ],
+    "different": [
+     16
+    ],
+    "operating": [
+     17
+    ],
+    "contexts.": [
+     18
+    ],
+    "The": [
+     19
+    ],
+    "study": [
+     20
+    ],
+    "focuses": [
+     21
+    ],
+    "on": [
+     22
+    ],
+    "calibrating": [
+     23
+    ],
+    "discharge": [
+     25
+    ],
+    "coefficient": [
+     26
+    ],
+    "(C)": [
+     27
+    ],
+    "and": [
+     28,
+     43,
+     57
+    ],
+    "pressure": [
+     29
+    ],
+    "exponent": [
+     30
+    ],
+    "(\u03b3),": [
+     31
+    ],
+    "which": [
+     32
+    ],
+    "govern": [
+     33
+    ],
+    "flow": [
+     34
+    ],
+    "behavior": [
+     35
+    ],
+    "in": [
+     36,
+     41
+    ],
+    "pressure-driven": [
+     37
+    ],
+    "conditions.": [
+     38
+    ],
+    "Case": [
+     39
+    ],
+    "studies": [
+     40
+    ],
+    "Algeria": [
+     42
+    ],
+    "Romania": [
+     44
+    ],
+    "demonstrate": [
+     45
+    ],
+    "how": [
+     46
+    ],
+    "regulatory": [
+     47
+    ],
+    "provisions": [
+     48
+    ],
+    "influence": [
+     49
+    ],
+    "these": [
+     50
+    ],
+    "parameters,": [
+     51
+    ],
+    "\u03b3": [
+     53
+    ],
+    "converging": [
+     54
+    ],
+    "around": [
+     55
+    ],
+    "0.6": [
+     56
+    ],
+    "C": [
+     58
+    ],
+    "varying": [
+     59
+    ],
+    "according": [
+     60
+    ],
+    "building": [
+     62
+    ],
+    "typologies.": [
+     63
+    ],
+    "Results": [
+     64
+    ],
+    "highlight": [
+     65
+    ],
+    "advantages": [
+     67
+    ],
+    "Pressure": [
+     69
+    ],
+    "Driven": [
+     70,
+     75
+    ],
+    "Analysis": [
+     71,
+     76
+    ],
+    "(PDA)": [
+     72
+    ],
+    "over": [
+     73
+    ],
+    "Demand": [
+     74
+    ],
+    "(DDA),": [
+     77
+    ],
+    "offering": [
+     78
+    ],
+    "more": [
+     79
+    ],
+    "realistic": [
+     80
+    ],
+    "simulations": [
+     81
+    ],
+    "for": [
+     82
+    ],
+    "water": [
+     83
+    ],
+    "distribution": [
+     84
+    ],
+    "networks.": [
+     85
+    ]
+   },
+   "counts_by_year": [],
+   "updated_date": "2026-08-24T07:32:12.397491",
+   "created_date": "2026-06-24T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W7212313817",
+   "doi": "https://doi.org/10.2478/mmce-2026-0007",
+   "title": "Network Analysis of Water Distribution System in Urban Areas Using EPANET 2.2 Software",
+   "display_name": "Network Analysis of Water Distribution System in Urban Areas Using EPANET 2.2 Software",
+   "relevance_score": 47.941917,
+   "publication_year": 2026,
+   "publication_date": "2026-09-01",
+   "ids": {
+    "openalex": "https://openalex.org/W7212313817",
+    "doi": "https://doi.org/10.2478/mmce-2026-0007"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.2478/mmce-2026-0007",
+    "doi": "https://doi.org/10.2478/mmce-2026-0007",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2478/mmce-2026-0007",
+    "pdf_url": "https://reference-global.com/download/article/10.2478/mmce-2026-0007.pdf",
+    "source": {
+     "id": "https://openalex.org/S4387281690",
+     "display_name": "Modelling in Civil Environmental Engineering",
+     "issn_l": "2784-1391",
+     "issn": [
+      "2784-1391"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": false,
+     "listed_in": [
+      "doaj"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Modelling in Civil Environmental Engineering",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref",
+    "doaj"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://reference-global.com/download/article/10.2478/mmce-2026-0007.pdf",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5119625651",
+      "display_name": "Hocine Lakhdari",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I148178115",
+       "display_name": "Technical University of Civil Engineering of Bucharest",
+       "ror": "https://ror.org/03d187f57",
+       "country_code": "RO",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ],
+     "countries": [
+      "RO"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Hocine Lakhdari",
+     "raw_affiliation_strings": [
+      "1 Student, PhD, Technical University of Civil Engineering"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "1 Student, PhD, Technical University of Civil Engineering",
+       "institution_ids": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5048875780",
+      "display_name": "Andrei-Mugur Georgescu",
+      "orcid": "https://orcid.org/0000-0002-3392-3173",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3392-3173"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I148178115",
+       "display_name": "Technical University of Civil Engineering of Bucharest",
+       "ror": "https://ror.org/03d187f57",
+       "country_code": "RO",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ],
+     "countries": [
+      "RO"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Andrei-Mugur Georgescu",
+     "raw_affiliation_strings": [
+      "2 Prof. univ. dr. ing. PhD Thesis Supervisor, Technical University of Civil Engineering , Faculty of Hydrotechnics, Construction and Environmental Protection"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "2 Prof. univ. dr. ing. PhD Thesis Supervisor, Technical University of Civil Engineering , Faculty of Hydrotechnics, Construction and Environmental Protection",
+       "institution_ids": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I148178115"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 0.0,
+   "has_fulltext": true,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": {
+    "value": 0.66769347,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": "21",
+    "issue": "1",
+    "first_page": "1",
+    "last_page": "25"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11220",
+    "display_name": "Water Systems and Optimization",
+    "score": 1.0,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2205",
+     "display_name": "Civil and Structural Engineering"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11220",
+     "display_name": "Water Systems and Optimization",
+     "score": 1.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10969",
+     "display_name": "Water resources management and optimization",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12022",
+     "display_name": "Hydraulic flow and structures",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/water-distribution-networks",
+     "display_name": "water distribution systems",
+     "score": 0.7110000252723694
+    },
+    {
+     "id": "https://openalex.org/keywords/urban-water-supply",
+     "display_name": "urban water supply",
+     "score": 0.8370000123977661
+    },
+    {
+     "id": "https://openalex.org/keywords/pressure-driven-analysis",
+     "display_name": "pressure-driven analysis",
+     "score": 0.7120000123977661
+    },
+    {
+     "id": "https://openalex.org/keywords/demand-driven-analysis",
+     "display_name": "demand-driven analysis",
+     "score": 0.996999979019165
+    },
+    {
+     "id": "https://openalex.org/keywords/nodal-pressure",
+     "display_name": "nodal pressure",
+     "score": 0.925000011920929
+    },
+    {
+     "id": "https://openalex.org/keywords/pipe-flow-velocity",
+     "display_name": "pipe flow velocity",
+     "score": 0.9599999785423279
+    },
+    {
+     "id": "https://openalex.org/keywords/demand-satisfaction",
+     "display_name": "demand satisfaction",
+     "score": 0.9169999957084656
+    },
+    {
+     "id": "https://openalex.org/keywords/oradea",
+     "display_name": "Oradea",
+     "score": 0.8090000152587891
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C157115227",
+     "wikidata": "https://www.wikidata.org/wiki/Q2162400",
+     "display_name": "Pipe network analysis",
+     "level": 2,
+     "score": 0.47749999165534973
+    },
+    {
+     "id": "https://openalex.org/C38349280",
+     "wikidata": "https://www.wikidata.org/wiki/Q1434290",
+     "display_name": "Flow (mathematics)",
+     "level": 2,
+     "score": 0.44449999928474426
+    },
+    {
+     "id": "https://openalex.org/C11394606",
+     "wikidata": "https://www.wikidata.org/wiki/Q1972552",
+     "display_name": "Hydraulic machinery",
+     "level": 2,
+     "score": 0.4059999883174896
+    },
+    {
+     "id": "https://openalex.org/C32946077",
+     "wikidata": "https://www.wikidata.org/wiki/Q618079",
+     "display_name": "Network analysis",
+     "level": 2,
+     "score": 0.39410001039505005
+    },
+    {
+     "id": "https://openalex.org/C2777904410",
+     "wikidata": "https://www.wikidata.org/wiki/Q7397",
+     "display_name": "Software",
+     "level": 2,
+     "score": 0.3878999948501587
+    },
+    {
+     "id": "https://openalex.org/C104122410",
+     "wikidata": "https://www.wikidata.org/wiki/Q1416406",
+     "display_name": "Network model",
+     "level": 2,
+     "score": 0.3813999891281128
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.3684999942779541
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.36239999532699585
+    },
+    {
+     "id": "https://openalex.org/C26517878",
+     "wikidata": "https://www.wikidata.org/wiki/Q228039",
+     "display_name": "Key (lock)",
+     "level": 2,
+     "score": 0.35199999809265137
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.3508000075817108
+    },
+    {
+     "id": "https://openalex.org/C2781424430",
+     "wikidata": "https://www.wikidata.org/wiki/Q5462093",
+     "display_name": "Flow conditions",
+     "level": 3,
+     "score": 0.3434999883174896
+    },
+    {
+     "id": "https://openalex.org/C2988574769",
+     "wikidata": "https://www.wikidata.org/wiki/Q2259545",
+     "display_name": "Water flow",
+     "level": 2,
+     "score": 0.3425000011920929
+    },
+    {
+     "id": "https://openalex.org/C177803969",
+     "wikidata": "https://www.wikidata.org/wiki/Q29205",
+     "display_name": "Uncertainty analysis",
+     "level": 2,
+     "score": 0.3424000144004822
+    },
+    {
+     "id": "https://openalex.org/C7879346",
+     "wikidata": "https://www.wikidata.org/wiki/Q1130265",
+     "display_name": "Hydraulic engineering",
+     "level": 2,
+     "score": 0.34040001034736633
+    },
+    {
+     "id": "https://openalex.org/C147176958",
+     "wikidata": "https://www.wikidata.org/wiki/Q77590",
+     "display_name": "Civil engineering",
+     "level": 1,
+     "score": 0.3246000111103058
+    },
+    {
+     "id": "https://openalex.org/C135510737",
+     "wikidata": "https://www.wikidata.org/wiki/Q860554",
+     "display_name": "Performance indicator",
+     "level": 2,
+     "score": 0.31540000438690186
+    },
+    {
+     "id": "https://openalex.org/C91757755",
+     "wikidata": "https://www.wikidata.org/wiki/Q11121294",
+     "display_name": "Simulation software",
+     "level": 3,
+     "score": 0.3131999969482422
+    },
+    {
+     "id": "https://openalex.org/C169961344",
+     "wikidata": "https://www.wikidata.org/wiki/Q177784",
+     "display_name": "Hydraulics",
+     "level": 2,
+     "score": 0.31290000677108765
+    },
+    {
+     "id": "https://openalex.org/C182365436",
+     "wikidata": "https://www.wikidata.org/wiki/Q50701",
+     "display_name": "Variable (mathematics)",
+     "level": 2,
+     "score": 0.299699991941452
+    },
+    {
+     "id": "https://openalex.org/C78762247",
+     "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+     "display_name": "Petroleum engineering",
+     "level": 1,
+     "score": 0.29829999804496765
+    },
+    {
+     "id": "https://openalex.org/C2776359362",
+     "wikidata": "https://www.wikidata.org/wiki/Q2145286",
+     "display_name": "Representation (politics)",
+     "level": 3,
+     "score": 0.29760000109672546
+    },
+    {
+     "id": "https://openalex.org/C126197015",
+     "wikidata": "https://www.wikidata.org/wiki/Q1586683",
+     "display_name": "Hydrological modelling",
+     "level": 2,
+     "score": 0.28220000863075256
+    },
+    {
+     "id": "https://openalex.org/C44154836",
+     "wikidata": "https://www.wikidata.org/wiki/Q45045",
+     "display_name": "Simulation",
+     "level": 1,
+     "score": 0.2782999873161316
+    },
+    {
+     "id": "https://openalex.org/C114809511",
+     "wikidata": "https://www.wikidata.org/wiki/Q1412924",
+     "display_name": "Flow network",
+     "level": 2,
+     "score": 0.26019999384880066
+    },
+    {
+     "id": "https://openalex.org/C139940560",
+     "wikidata": "https://www.wikidata.org/wiki/Q290036",
+     "display_name": "Network simulation",
+     "level": 2,
+     "score": 0.26010000705718994
+    },
+    {
+     "id": "https://openalex.org/C172120300",
+     "wikidata": "https://www.wikidata.org/wiki/Q1134348",
+     "display_name": "Volumetric flow rate",
+     "level": 2,
+     "score": 0.2572000026702881
+    },
+    {
+     "id": "https://openalex.org/C3019813237",
+     "wikidata": "https://www.wikidata.org/wiki/Q65089264",
+     "display_name": "Model validation",
+     "level": 2,
+     "score": 0.25519999861717224
+    }
+   ],
+   "mesh": [],
+   "locations_count": 2,
+   "locations": [
+    {
+     "id": "doi:10.2478/mmce-2026-0007",
+     "doi": "https://doi.org/10.2478/mmce-2026-0007",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.2478/mmce-2026-0007",
+     "pdf_url": "https://reference-global.com/download/article/10.2478/mmce-2026-0007.pdf",
+     "source": {
+      "id": "https://openalex.org/S4387281690",
+      "display_name": "Modelling in Civil Environmental Engineering",
+      "issn_l": "2784-1391",
+      "issn": [
+       "2784-1391"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": false,
+      "listed_in": [
+       "doaj"
+      ],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+     },
+     "license": "cc-by-nc-nd",
+     "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Modelling in Civil Environmental Engineering",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "pmh:oai:doaj.org/article:6bf75dc2e4c649abab60ccc6f7850128",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "https://doaj.org/article/6bf75dc2e4c649abab60ccc6f7850128",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401280",
+      "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "Modelling in Civil Environmental Engineering, Vol 21, Iss 1, Pp 1-25 (2026)",
+     "raw_type": "article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.2478/mmce-2026-0007",
+    "doi": "https://doi.org/10.2478/mmce-2026-0007",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2478/mmce-2026-0007",
+    "pdf_url": "https://reference-global.com/download/article/10.2478/mmce-2026-0007.pdf",
+    "source": {
+     "id": "https://openalex.org/S4387281690",
+     "display_name": "Modelling in Civil Environmental Engineering",
+     "issn_l": "2784-1391",
+     "issn": [
+      "2784-1391"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": false,
+     "listed_in": [
+      "doaj"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Modelling in Civil Environmental Engineering",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "score": 0.9090999960899353,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    },
+    {
+     "score": 0.7250000238418579,
+     "display_name": "Sustainable cities and communities",
+     "id": "https://metadata.un.org/sdg/11"
+    },
+    {
+     "score": 0.428600013256073,
+     "display_name": "Industry, innovation and infrastructure",
+     "id": "https://metadata.un.org/sdg/9"
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "score": 0.45018699765205383,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7212313817.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7212313817.grobid-xml"
+   },
+   "referenced_works_count": 9,
+   "referenced_works": [
+    "https://openalex.org/W1992166786",
+    "https://openalex.org/W2034013239",
+    "https://openalex.org/W2048523204",
+    "https://openalex.org/W2096999770",
+    "https://openalex.org/W2138840975",
+    "https://openalex.org/W2466754070",
+    "https://openalex.org/W2995510167",
+    "https://openalex.org/W3033672787",
+    "https://openalex.org/W4414214347"
+   ],
+   "related_works": [],
+   "abstract_inverted_index": {
+    "Abstract": [
+     0
+    ],
+    "This": [
+     1
+    ],
+    "study": [
+     2
+    ],
+    "evaluates": [
+     3
+    ],
+    "the": [
+     4,
+     8,
+     13,
+     40,
+     44,
+     69,
+     80,
+     92,
+     115,
+     141,
+     183,
+     198,
+     204
+    ],
+    "hydraulic": [
+     5,
+     22,
+     47,
+     86,
+     89,
+     121,
+     194
+    ],
+    "performance": [
+     6,
+     76,
+     90,
+     206
+    ],
+    "of": [
+     7,
+     12,
+     15,
+     25,
+     43,
+     71,
+     82,
+     91,
+     143,
+     167,
+     185,
+     200,
+     207
+    ],
+    "water": [
+     9,
+     209
+    ],
+    "distribution": [
+     10,
+     210
+    ],
+    "network": [
+     11,
+     75,
+     116,
+     168
+    ],
+    "Municipality": [
+     14
+    ],
+    "Oradea,": [
+     16
+    ],
+    "Romania,": [
+     17
+    ],
+    "using": [
+     18,
+     96
+    ],
+    "EPANET": [
+     19,
+     186
+    ],
+    "2.2.": [
+     20
+    ],
+    "A": [
+     21
+    ],
+    "model": [
+     23
+    ],
+    "consisting": [
+     24
+    ],
+    "270": [
+     26
+    ],
+    "pipes,": [
+     27
+    ],
+    "260": [
+     28
+    ],
+    "junction": [
+     29
+    ],
+    "nodes,": [
+     30
+    ],
+    "pumping": [
+     31
+    ],
+    "stations,": [
+     32
+    ],
+    "and": [
+     33,
+     56,
+     77,
+     107,
+     148,
+     196
+    ],
+    "storage": [
+     34
+    ],
+    "reservoirs": [
+     35
+    ],
+    "was": [
+     36,
+     94
+    ],
+    "developed": [
+     37
+    ],
+    "to": [
+     38,
+     67,
+     78,
+     127,
+     137
+    ],
+    "assess": [
+     39
+    ],
+    "operational": [
+     41,
+     205
+    ],
+    "behavior": [
+     42,
+     169
+    ],
+    "network.": [
+     45
+    ],
+    "Two": [
+     46
+    ],
+    "simulation": [
+     48,
+     111
+    ],
+    "approaches": [
+     49,
+     65
+    ],
+    "were": [
+     50,
+     135
+    ],
+    "applied:": [
+     51
+    ],
+    "Demand": [
+     52
+    ],
+    "Driven": [
+     53,
+     58,
+     159
+    ],
+    "Analysis": [
+     54,
+     59,
+     160
+    ],
+    "(DDA)": [
+     55
+    ],
+    "Pressure": [
+     57,
+     123,
+     158
+    ],
+    "(PDA).": [
+     60
+    ],
+    "The": [
+     61,
+     88,
+     110,
+     153,
+     180
+    ],
+    "comparison": [
+     62
+    ],
+    "between": [
+     63
+    ],
+    "these": [
+     64
+    ],
+    "aimed": [
+     66
+    ],
+    "investigate": [
+     68
+    ],
+    "influence": [
+     70
+    ],
+    "pressure-dependent": [
+     72,
+     177
+    ],
+    "demand": [
+     73,
+     108,
+     178
+    ],
+    "on": [
+     74
+    ],
+    "determine": [
+     79
+    ],
+    "suitability": [
+     81
+    ],
+    "each": [
+     83
+    ],
+    "method": [
+     84
+    ],
+    "for": [
+     85,
+     176,
+     192,
+     202
+    ],
+    "assessment.": [
+     87
+    ],
+    "system": [
+     93
+    ],
+    "evaluated": [
+     95
+    ],
+    "key": [
+     97
+    ],
+    "indicators": [
+     98
+    ],
+    "including": [
+     99
+    ],
+    "nodal": [
+     100
+    ],
+    "pressure,": [
+     101
+    ],
+    "pipe": [
+     102,
+     132
+    ],
+    "flow": [
+     103,
+     133
+    ],
+    "velocity,": [
+     104
+    ],
+    "pressure": [
+     105,
+     172
+    ],
+    "reliability,": [
+     106
+    ],
+    "satisfaction.": [
+     109
+    ],
+    "results": [
+     112,
+     181
+    ],
+    "showed": [
+     113
+    ],
+    "that": [
+     114,
+     157
+    ],
+    "generally": [
+     117
+    ],
+    "operates": [
+     118
+    ],
+    "within": [
+     119
+    ],
+    "acceptable": [
+     120
+    ],
+    "limits.": [
+     122
+    ],
+    "values": [
+     124
+    ],
+    "remained": [
+     125
+    ],
+    "sufficient": [
+     126
+    ],
+    "satisfy": [
+     128
+    ],
+    "consumer": [
+     129
+    ],
+    "demands,": [
+     130
+    ],
+    "while": [
+     131
+    ],
+    "velocities": [
+     134
+    ],
+    "found": [
+     136
+    ],
+    "be": [
+     138
+    ],
+    "consistent": [
+     139
+    ],
+    "with": [
+     140
+    ],
+    "recommendations": [
+     142
+    ],
+    "European": [
+     144
+    ],
+    "standard": [
+     145,
+     150
+    ],
+    "EN": [
+     146
+    ],
+    "805": [
+     147
+    ],
+    "Romanian": [
+     149
+    ],
+    "NP": [
+     151
+    ],
+    "133-2022.": [
+     152
+    ],
+    "comparative": [
+     154
+    ],
+    "analysis": [
+     155
+    ],
+    "demonstrated": [
+     156
+    ],
+    "(PDA)": [
+     161
+    ],
+    "provides": [
+     162
+    ],
+    "a": [
+     163
+    ],
+    "more": [
+     164
+    ],
+    "realistic": [
+     165,
+     213
+    ],
+    "representation": [
+     166
+    ],
+    "under": [
+     170,
+     212
+    ],
+    "variable": [
+     171
+    ],
+    "conditions": [
+     173
+    ],
+    "by": [
+     174
+    ],
+    "accounting": [
+     175
+    ],
+    "variations.": [
+     179
+    ],
+    "confirm": [
+     182
+    ],
+    "applicability": [
+     184
+    ],
+    "2.2": [
+     187
+    ],
+    "as": [
+     188
+    ],
+    "an": [
+     189
+    ],
+    "effective": [
+     190
+    ],
+    "tool": [
+     191
+    ],
+    "simulating": [
+     193
+    ],
+    "systems": [
+     195,
+     211
+    ],
+    "demonstrate": [
+     197
+    ],
+    "advantages": [
+     199
+    ],
+    "PDA": [
+     201
+    ],
+    "evaluating": [
+     203
+    ],
+    "urban": [
+     208
+    ],
+    "operating": [
+     214
+    ],
+    "conditions.": [
+     215
+    ]
+   },
+   "counts_by_year": [],
+   "updated_date": "2026-09-17T22:18:28.273824",
+   "created_date": "2026-09-12T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W4220969398",
+   "doi": "https://doi.org/10.2166/hydro.2022.172",
+   "title": "Smart pressure management extension for EPANET: source code enhancement with a dynamic pressure reducing valve model",
+   "display_name": "Smart pressure management extension for EPANET: source code enhancement with a dynamic pressure reducing valve model",
+   "relevance_score": 44.06639,
+   "publication_year": 2022,
+   "publication_date": "2022-03-25",
+   "ids": {
+    "openalex": "https://openalex.org/W4220969398",
+    "doi": "https://doi.org/10.2166/hydro.2022.172"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.2166/hydro.2022.172",
+    "doi": "https://doi.org/10.2166/hydro.2022.172",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2166/hydro.2022.172",
+    "pdf_url": "https://iwaponline.com/jh/article-pdf/24/3/642/1054037/jh0240642.pdf",
+    "source": {
+     "id": "https://openalex.org/S79392371",
+     "display_name": "Journal of Hydroinformatics",
+     "issn_l": "1464-7141",
+     "issn": [
+      "1464-7141",
+      "1465-1734"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doaj",
+      "jufo-1",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310320298",
+     "host_organization_name": "IWA Publishing",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320298"
+     ],
+     "host_organization_lineage_names": [
+      "IWA Publishing"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Hydroinformatics",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref",
+    "datacite",
+    "doaj"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://iwaponline.com/jh/article-pdf/24/3/642/1054037/jh0240642.pdf",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5004207405",
+      "display_name": "Mehmet Melih Ko\u015fucu",
+      "orcid": "https://orcid.org/0000-0001-5907-6964",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5907-6964"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I48912391",
+       "display_name": "Istanbul Technical University",
+       "ror": "https://ror.org/059636586",
+       "country_code": "TR",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I48912391"
+       ]
+      }
+     ],
+     "countries": [
+      "TR"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Mehmet Melih Ko\u015fucu",
+     "raw_affiliation_strings": [
+      "a Dept. of Civil Engineering, Hydraulics Div., Istanbul Technical University, ITU Maslak Campus, Hydraulics Lab., Sar\u0131yer, Istanbul, Turkey",
+      "b Hydraulics and Marine Sciences Research Center, Istanbul Technical University, Maslak, Istanbul, Turkey",
+      "Dept. of Civil Engineering, Hydraulics Div., Istanbul Technical University, ITU Maslak Campus, Hydraulics Lab., Sar\u0131yer, Istanbul, Turkey"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-5907-6964",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "a Dept. of Civil Engineering, Hydraulics Div., Istanbul Technical University, ITU Maslak Campus, Hydraulics Lab., Sar\u0131yer, Istanbul, Turkey",
+       "institution_ids": [
+        "https://openalex.org/I48912391"
+       ]
+      },
+      {
+       "raw_affiliation_string": "b Hydraulics and Marine Sciences Research Center, Istanbul Technical University, Maslak, Istanbul, Turkey",
+       "institution_ids": [
+        "https://openalex.org/I48912391"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Dept. of Civil Engineering, Hydraulics Div., Istanbul Technical University, ITU Maslak Campus, Hydraulics Lab., Sar\u0131yer, Istanbul, Turkey",
+       "institution_ids": [
+        "https://openalex.org/I48912391"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5004959713",
+      "display_name": "Mehmet C\u00fcneyd Demirel",
+      "orcid": "https://orcid.org/0000-0003-4402-906X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4402-906X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I48912391",
+       "display_name": "Istanbul Technical University",
+       "ror": "https://ror.org/059636586",
+       "country_code": "TR",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I48912391"
+       ]
+      }
+     ],
+     "countries": [
+      "TR"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Mehmet C\u00fcneyd Demirel",
+     "raw_affiliation_strings": [
+      "a Dept. of Civil Engineering, Hydraulics Div., Istanbul Technical University, ITU Maslak Campus, Hydraulics Lab., Sar\u0131yer, Istanbul, Turkey",
+      "b Hydraulics and Marine Sciences Research Center, Istanbul Technical University, Maslak, Istanbul, Turkey",
+      "Dept. of Civil Engineering, Hydraulics Div., Istanbul Technical University, ITU Maslak Campus, Hydraulics Lab., Sar\u0131yer, Istanbul, Turkey"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0003-4402-906X",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "a Dept. of Civil Engineering, Hydraulics Div., Istanbul Technical University, ITU Maslak Campus, Hydraulics Lab., Sar\u0131yer, Istanbul, Turkey",
+       "institution_ids": [
+        "https://openalex.org/I48912391"
+       ]
+      },
+      {
+       "raw_affiliation_string": "b Hydraulics and Marine Sciences Research Center, Istanbul Technical University, Maslak, Istanbul, Turkey",
+       "institution_ids": [
+        "https://openalex.org/I48912391"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Dept. of Civil Engineering, Hydraulics Div., Istanbul Technical University, ITU Maslak Campus, Hydraulics Lab., Sar\u0131yer, Istanbul, Turkey",
+       "institution_ids": [
+        "https://openalex.org/I48912391"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5004207405"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I48912391"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 1.2285,
+   "has_fulltext": true,
+   "cited_by_count": 19,
+   "citation_normalized_percentile": {
+    "value": 0.7506307,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": {
+    "min": 93,
+    "max": 99
+   },
+   "biblio": {
+    "volume": "24",
+    "issue": "3",
+    "first_page": "642",
+    "last_page": "658"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11220",
+    "display_name": "Water Systems and Optimization",
+    "score": 1.0,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2205",
+     "display_name": "Civil and Structural Engineering"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11220",
+     "display_name": "Water Systems and Optimization",
+     "score": 1.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10969",
+     "display_name": "Water resources management and optimization",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11119",
+     "display_name": "Urban Stormwater Management Solutions",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/pressure-management",
+     "display_name": "pressure management",
+     "score": 0.9860000014305115
+    },
+    {
+     "id": "https://openalex.org/keywords/pressure-reducing-valves",
+     "display_name": "pressure reducing valves",
+     "score": 0.875
+    },
+    {
+     "id": "https://openalex.org/keywords/water-distribution-networks",
+     "display_name": "water distribution systems",
+     "score": 0.9139999747276306
+    },
+    {
+     "id": "https://openalex.org/keywords/epanet",
+     "display_name": "EPANET",
+     "score": 0.7940000295639038
+    },
+    {
+     "id": "https://openalex.org/keywords/water-leakage",
+     "display_name": "water leakage",
+     "score": 0.5009999871253967
+    },
+    {
+     "id": "https://openalex.org/keywords/hydraulic-pressure",
+     "display_name": "hydraulic pressure",
+     "score": 0.6430000066757202
+    },
+    {
+     "id": "https://openalex.org/keywords/software-extension",
+     "display_name": "software extension",
+     "score": 0.4790000021457672
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C2777904410",
+     "wikidata": "https://www.wikidata.org/wiki/Q7397",
+     "display_name": "Software",
+     "level": 2,
+     "score": 0.577784538269043
+    },
+    {
+     "id": "https://openalex.org/C43126263",
+     "wikidata": "https://www.wikidata.org/wiki/Q128751",
+     "display_name": "Source code",
+     "level": 2,
+     "score": 0.5770068764686584
+    },
+    {
+     "id": "https://openalex.org/C2777042071",
+     "wikidata": "https://www.wikidata.org/wiki/Q6509304",
+     "display_name": "Leakage (economics)",
+     "level": 2,
+     "score": 0.517305850982666
+    },
+    {
+     "id": "https://openalex.org/C2776760102",
+     "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+     "display_name": "Code (set theory)",
+     "level": 3,
+     "score": 0.5006058216094971
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.4998621940612793
+    },
+    {
+     "id": "https://openalex.org/C62611344",
+     "wikidata": "https://www.wikidata.org/wiki/Q1062658",
+     "display_name": "Node (physics)",
+     "level": 2,
+     "score": 0.49872589111328125
+    },
+    {
+     "id": "https://openalex.org/C44154836",
+     "wikidata": "https://www.wikidata.org/wiki/Q45045",
+     "display_name": "Simulation",
+     "level": 1,
+     "score": 0.36713534593582153
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.35766810178756714
+    },
+    {
+     "id": "https://openalex.org/C66938386",
+     "wikidata": "https://www.wikidata.org/wiki/Q633538",
+     "display_name": "Structural engineering",
+     "level": 1,
+     "score": 0.18146851658821106
+    },
+    {
+     "id": "https://openalex.org/C111919701",
+     "wikidata": "https://www.wikidata.org/wiki/Q9135",
+     "display_name": "Operating system",
+     "level": 1,
+     "score": 0.11559182405471802
+    },
+    {
+     "id": "https://openalex.org/C139719470",
+     "wikidata": "https://www.wikidata.org/wiki/Q39680",
+     "display_name": "Macroeconomics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C199360897",
+     "wikidata": "https://www.wikidata.org/wiki/Q9143",
+     "display_name": "Programming language",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C162324750",
+     "wikidata": "https://www.wikidata.org/wiki/Q8134",
+     "display_name": "Economics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C177264268",
+     "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+     "display_name": "Set (abstract data type)",
+     "level": 2,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 5,
+   "locations": [
+    {
+     "id": "doi:10.2166/hydro.2022.172",
+     "doi": "https://doi.org/10.2166/hydro.2022.172",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.2166/hydro.2022.172",
+     "pdf_url": "https://iwaponline.com/jh/article-pdf/24/3/642/1054037/jh0240642.pdf",
+     "source": {
+      "id": "https://openalex.org/S79392371",
+      "display_name": "Journal of Hydroinformatics",
+      "issn_l": "1464-7141",
+      "issn": [
+       "1464-7141",
+       "1465-1734"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+       "cwts-core",
+       "doaj",
+       "jufo-1",
+       "norway-1",
+       "poland-70",
+       "russia-white-list-1"
+      ],
+      "host_organization": "https://openalex.org/P4310320298",
+      "host_organization_name": "IWA Publishing",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310320298"
+      ],
+      "host_organization_lineage_names": [
+       "IWA Publishing"
+      ],
+      "type": "journal"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Journal of Hydroinformatics",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "pmh:oai:doaj.org/article:1a63a2c46d5e4ad5b4ed1d2a7363cd19",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "https://doaj.org/article/1a63a2c46d5e4ad5b4ed1d2a7363cd19",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401280",
+      "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by-sa",
+     "license_id": "https://openalex.org/licenses/cc-by-sa",
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "Journal of Hydroinformatics, Vol 24, Iss 3, Pp 642-658 (2022)",
+     "raw_type": "article"
+    },
+    {
+     "id": "pmh:oai:polen.itu.edu.tr:11527/33650",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "https://hdl.handle.net/11527/33650",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400460",
+      "display_name": "Istanbul Technical University Academic Open Archive (Istanbul Technical University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I48912391",
+      "host_organization_name": "Istanbul Technical University",
+      "host_organization_lineage": [
+       "https://openalex.org/I48912391"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "Other literature type"
+    },
+    {
+     "id": "doi:10.60692/5wd87-x9k41",
+     "doi": "https://doi.org/10.60692/5wd87-x9k41",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.60692/5wd87-x9k41",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S7407051682",
+      "display_name": "Greater South Information System",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": null,
+     "is_accepted": false,
+     "is_published": null,
+     "raw_source_name": null,
+     "raw_type": "article-journal"
+    },
+    {
+     "id": "doi:10.60692/z3yvc-20v82",
+     "doi": "https://doi.org/10.60692/z3yvc-20v82",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.60692/z3yvc-20v82",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S7407051682",
+      "display_name": "Greater South Information System",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": null,
+     "is_accepted": false,
+     "is_published": null,
+     "raw_source_name": null,
+     "raw_type": "article-journal"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.2166/hydro.2022.172",
+    "doi": "https://doi.org/10.2166/hydro.2022.172",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2166/hydro.2022.172",
+    "pdf_url": "https://iwaponline.com/jh/article-pdf/24/3/642/1054037/jh0240642.pdf",
+    "source": {
+     "id": "https://openalex.org/S79392371",
+     "display_name": "Journal of Hydroinformatics",
+     "issn_l": "1464-7141",
+     "issn": [
+      "1464-7141",
+      "1465-1734"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doaj",
+      "jufo-1",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310320298",
+     "host_organization_name": "IWA Publishing",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320298"
+     ],
+     "host_organization_lineage_names": [
+      "IWA Publishing"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Hydroinformatics",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "score": 0.6618000268936157,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    },
+    {
+     "score": 0.5142999887466431,
+     "display_name": "Sustainable cities and communities",
+     "id": "https://metadata.un.org/sdg/11"
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "score": 0.800000011920929,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    }
+   ],
+   "study_designs": [],
+   "awards": [
+    {
+     "id": "https://openalex.org/G6683715108",
+     "display_name": null,
+     "funder_award_id": "118C020",
+     "funder_id": "https://openalex.org/F4320322626",
+     "funder_display_name": "T\u00fcrkiye Bilimsel ve Teknolojik Ara\u015ft\u0131rma Kurumu"
+    }
+   ],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320317245",
+     "display_name": "Ulusal Y\u00fcksek Ba\u015far\u0131ml\u0131 Hesaplama Merkezi, Istanbul Teknik \u00dcniversitesi",
+     "ror": "https://ror.org/03hx70339"
+    },
+    {
+     "id": "https://openalex.org/F4320322626",
+     "display_name": "T\u00fcrkiye Bilimsel ve Teknolojik Ara\u015ft\u0131rma Kurumu",
+     "ror": "https://ror.org/04w9kkr77"
+    }
+   ],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4220969398.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4220969398.grobid-xml"
+   },
+   "referenced_works_count": 40,
+   "referenced_works": [
+    "https://openalex.org/W156300172",
+    "https://openalex.org/W1159622284",
+    "https://openalex.org/W1771523674",
+    "https://openalex.org/W1965042007",
+    "https://openalex.org/W1976423574",
+    "https://openalex.org/W1989989854",
+    "https://openalex.org/W1993063364",
+    "https://openalex.org/W2002523493",
+    "https://openalex.org/W2008836942",
+    "https://openalex.org/W2042411804",
+    "https://openalex.org/W2062612550",
+    "https://openalex.org/W2068052225",
+    "https://openalex.org/W2093828402",
+    "https://openalex.org/W2098596808",
+    "https://openalex.org/W2107529379",
+    "https://openalex.org/W2119490250",
+    "https://openalex.org/W2122394021",
+    "https://openalex.org/W2132022499",
+    "https://openalex.org/W2154611485",
+    "https://openalex.org/W2156584118",
+    "https://openalex.org/W2163611838",
+    "https://openalex.org/W2305626292",
+    "https://openalex.org/W2346271771",
+    "https://openalex.org/W2495304642",
+    "https://openalex.org/W2524266546",
+    "https://openalex.org/W2564012164",
+    "https://openalex.org/W2613881409",
+    "https://openalex.org/W2787113846",
+    "https://openalex.org/W2788582274",
+    "https://openalex.org/W2788886194",
+    "https://openalex.org/W2952646710",
+    "https://openalex.org/W2991885546",
+    "https://openalex.org/W3036539139",
+    "https://openalex.org/W3093324060",
+    "https://openalex.org/W3161169419",
+    "https://openalex.org/W3183523461",
+    "https://openalex.org/W6606377357",
+    "https://openalex.org/W6748525769",
+    "https://openalex.org/W6931352306",
+    "https://openalex.org/W6931397934"
+   ],
+   "related_works": [
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2373724792",
+    "https://openalex.org/W2164324468",
+    "https://openalex.org/W2383650581",
+    "https://openalex.org/W2377966044",
+    "https://openalex.org/W3013959128",
+    "https://openalex.org/W2405379563",
+    "https://openalex.org/W2281360585",
+    "https://openalex.org/W2068185143",
+    "https://openalex.org/W1485627940"
+   ],
+   "abstract_inverted_index": {
+    "Abstract": [
+     0
+    ],
+    "Applying": [
+     1
+    ],
+    "pressure": [
+     2,
+     23,
+     44,
+     48,
+     57,
+     80,
+     101
+    ],
+    "management": [
+     3,
+     24,
+     45,
+     81
+    ],
+    "reduces": [
+     4,
+     113
+    ],
+    "lost": [
+     5,
+     114
+    ],
+    "water": [
+     6,
+     12,
+     115
+    ],
+    "and": [
+     7,
+     35,
+     61,
+     91,
+     103,
+     117
+    ],
+    "excessive": [
+     8,
+     118
+    ],
+    "hydraulic": [
+     9,
+     119
+    ],
+    "pressures": [
+     10,
+     120
+    ],
+    "in": [
+     11,
+     25,
+     43,
+     121,
+     142
+    ],
+    "distribution": [
+     13
+    ],
+    "networks": [
+     14
+    ],
+    "(WDNs).": [
+     15
+    ],
+    "There": [
+     16
+    ],
+    "are": [
+     17
+    ],
+    "currently": [
+     18
+    ],
+    "four": [
+     19,
+     78
+    ],
+    "different": [
+     20,
+     79,
+     96
+    ],
+    "types": [
+     21,
+     82
+    ],
+    "of": [
+     22,
+     87,
+     95
+    ],
+    "the": [
+     26,
+     47,
+     55,
+     73,
+     84,
+     93,
+     122
+    ],
+    "literature,": [
+     27
+    ],
+    "i.e.": [
+     28
+    ],
+    "fixed": [
+     29
+    ],
+    "outlet,": [
+     30
+    ],
+    "time": [
+     31
+    ],
+    "modulated,": [
+     32,
+     34
+    ],
+    "flow": [
+     33
+    ],
+    "remote": [
+     36
+    ],
+    "node": [
+     37
+    ],
+    "modulated.": [
+     38
+    ],
+    "The": [
+     39,
+     106
+    ],
+    "primary": [
+     40
+    ],
+    "device": [
+     41
+    ],
+    "used": [
+     42
+    ],
+    "is": [
+     46,
+     127,
+     139
+    ],
+    "reducing": [
+     49
+    ],
+    "valve": [
+     50,
+     65,
+     97,
+     125
+    ],
+    "(PRV)": [
+     51
+    ],
+    "that": [
+     52,
+     109
+    ],
+    "dynamically": [
+     53
+    ],
+    "controls": [
+     54
+    ],
+    "outlet": [
+     56
+    ],
+    "by": [
+     58
+    ],
+    "moving": [
+     59
+    ],
+    "up": [
+     60
+    ],
+    "down": [
+     62
+    ],
+    "its": [
+     63
+    ],
+    "main": [
+     64
+    ],
+    "element.": [
+     66
+    ],
+    "In": [
+     67
+    ],
+    "this": [
+     68
+    ],
+    "study,": [
+     69
+    ],
+    "we": [
+     70
+    ],
+    "firstly": [
+     71
+    ],
+    "introduce": [
+     72
+    ],
+    "dynamic": [
+     74,
+     110
+    ],
+    "PRV": [
+     75,
+     111
+    ],
+    "model": [
+     76
+    ],
+    "with": [
+     77
+    ],
+    "to": [
+     83
+    ],
+    "source": [
+     85
+    ],
+    "code": [
+     86
+    ],
+    "EPANET": [
+     88,
+     136
+    ],
+    "v3.1": [
+     89,
+     137
+    ],
+    "software": [
+     90,
+     138
+    ],
+    "assess": [
+     92
+    ],
+    "effect": [
+     94
+    ],
+    "opening": [
+     98,
+     126
+    ],
+    "schemes": [
+     99
+    ],
+    "on": [
+     100
+    ],
+    "graphs": [
+     102
+    ],
+    "leakage": [
+     104
+    ],
+    "quantities.": [
+     105
+    ],
+    "results": [
+     107
+    ],
+    "showed": [
+     108
+    ],
+    "significantly": [
+     112
+    ],
+    "amounts": [
+     116
+    ],
+    "WDN": [
+     123
+    ],
+    "when": [
+     124
+    ],
+    "continuously": [
+     128
+    ],
+    "adjusted.": [
+     129
+    ],
+    "Our": [
+     130
+    ],
+    "smart": [
+     131
+    ],
+    "PM": [
+     132
+    ],
+    "extension": [
+     133
+    ],
+    "implemented": [
+     134
+    ],
+    "into": [
+     135
+    ],
+    "publicly": [
+     140
+    ],
+    "available": [
+     141
+    ],
+    "Zenodo": [
+     143
+    ],
+    "repositories": [
+     144
+    ],
+    "(https://zenodo.org/record/6243078).": [
+     145
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 8
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 2
+    }
+   ],
+   "updated_date": "2026-10-14T16:39:01.820549",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W4294233692",
+   "doi": "https://doi.org/10.3390/w14172707",
+   "title": "A Novel EPANET Integration for the Diffusive\u2013Dispersive Transport of Contaminants",
+   "display_name": "A Novel EPANET Integration for the Diffusive\u2013Dispersive Transport of Contaminants",
+   "relevance_score": 40.16111,
+   "publication_year": 2022,
+   "publication_date": "2022-08-31",
+   "ids": {
+    "openalex": "https://openalex.org/W4294233692",
+    "doi": "https://doi.org/10.3390/w14172707"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.3390/w14172707",
+    "doi": "https://doi.org/10.3390/w14172707",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/w14172707",
+    "pdf_url": "https://www.mdpi.com/2073-4441/14/17/2707/pdf?version=1661935986",
+    "source": {
+     "id": "https://openalex.org/S134216166",
+     "display_name": "Water",
+     "issn_l": "2073-4441",
+     "issn": [
+      "2073-4441"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "norway-1",
+      "poland-100",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310310987",
+     "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310310987"
+     ],
+     "host_organization_lineage_names": [
+      "Multidisciplinary Digital Publishing Institute"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref",
+    "doaj"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2073-4441/14/17/2707/pdf?version=1661935986",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5032567976",
+      "display_name": "Stefania Piazza",
+      "orcid": "https://orcid.org/0000-0002-4528-4727",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-4528-4727"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I246010334",
+       "display_name": "Universit\u00e0 degli Studi di Enna Kore",
+       "ror": "https://ror.org/04vd28p53",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I246010334"
+       ]
+      }
+     ],
+     "countries": [
+      "IT"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Stefania Piazza",
+     "raw_affiliation_strings": [
+      "School of Engineering and Architecture, University of Enna \u201cKore\u201d, Cittadella Universitaria, 94100 Enna, Italy",
+      "School of Engineering and Architecture, University of Enna \"Kore\", Cittadella Universitaria, 94100 Enna, Italy"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Engineering and Architecture, University of Enna \u201cKore\u201d, Cittadella Universitaria, 94100 Enna, Italy",
+       "institution_ids": [
+        "https://openalex.org/I246010334"
+       ]
+      },
+      {
+       "raw_affiliation_string": "School of Engineering and Architecture, University of Enna \"Kore\", Cittadella Universitaria, 94100 Enna, Italy",
+       "institution_ids": [
+        "https://openalex.org/I246010334"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5021765009",
+      "display_name": "Mariacrocetta Sambito",
+      "orcid": "https://orcid.org/0000-0003-4277-8622",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4277-8622"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I246010334",
+       "display_name": "Universit\u00e0 degli Studi di Enna Kore",
+       "ror": "https://ror.org/04vd28p53",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I246010334"
+       ]
+      }
+     ],
+     "countries": [
+      "IT"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Mariacrocetta Sambito",
+     "raw_affiliation_strings": [
+      "School of Engineering and Architecture, University of Enna \u201cKore\u201d, Cittadella Universitaria, 94100 Enna, Italy",
+      "School of Engineering and Architecture, University of Enna \"Kore\", Cittadella Universitaria, 94100 Enna, Italy"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0003-4277-8622",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Engineering and Architecture, University of Enna \u201cKore\u201d, Cittadella Universitaria, 94100 Enna, Italy",
+       "institution_ids": [
+        "https://openalex.org/I246010334"
+       ]
+      },
+      {
+       "raw_affiliation_string": "School of Engineering and Architecture, University of Enna \"Kore\", Cittadella Universitaria, 94100 Enna, Italy",
+       "institution_ids": [
+        "https://openalex.org/I246010334"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5040349253",
+      "display_name": "Gabriele Freni",
+      "orcid": "https://orcid.org/0000-0002-8019-6378",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-8019-6378"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I246010334",
+       "display_name": "Universit\u00e0 degli Studi di Enna Kore",
+       "ror": "https://ror.org/04vd28p53",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I246010334"
+       ]
+      }
+     ],
+     "countries": [
+      "IT"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Gabriele Freni",
+     "raw_affiliation_strings": [
+      "School of Engineering and Architecture, University of Enna \u201cKore\u201d, Cittadella Universitaria, 94100 Enna, Italy",
+      "School of Engineering and Architecture, University of Enna \"Kore\", Cittadella Universitaria, 94100 Enna, Italy"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-8019-6378",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Engineering and Architecture, University of Enna \u201cKore\u201d, Cittadella Universitaria, 94100 Enna, Italy",
+       "institution_ids": [
+        "https://openalex.org/I246010334"
+       ]
+      },
+      {
+       "raw_affiliation_string": "School of Engineering and Architecture, University of Enna \"Kore\", Cittadella Universitaria, 94100 Enna, Italy",
+       "institution_ids": [
+        "https://openalex.org/I246010334"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5040349253"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I246010334"
+   ],
+   "apc_list": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2303
+   },
+   "apc_paid": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2303
+   },
+   "fwci": 1.4519,
+   "has_fulltext": true,
+   "cited_by_count": 16,
+   "citation_normalized_percentile": {
+    "value": 0.79053667,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": {
+    "min": 88,
+    "max": 98
+   },
+   "biblio": {
+    "volume": "14",
+    "issue": "17",
+    "first_page": "2707",
+    "last_page": "2707"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11220",
+    "display_name": "Water Systems and Optimization",
+    "score": 1.0,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2205",
+     "display_name": "Civil and Structural Engineering"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11220",
+     "display_name": "Water Systems and Optimization",
+     "score": 1.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10894",
+     "display_name": "Groundwater flow and contamination studies",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11119",
+     "display_name": "Urban Stormwater Management Solutions",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/contaminant-transport",
+     "display_name": "contaminant transport",
+     "score": 0.8740000128746033
+    },
+    {
+     "id": "https://openalex.org/keywords/water-distribution-networks",
+     "display_name": "water distribution systems",
+     "score": 0.9670000076293945
+    },
+    {
+     "id": "https://openalex.org/keywords/random-walk-algorithm",
+     "display_name": "random walk algorithm",
+     "score": 0.7279999852180481
+    },
+    {
+     "id": "https://openalex.org/keywords/water-quality-modeling",
+     "display_name": "water quality modeling",
+     "score": 0.8230000138282776
+    },
+    {
+     "id": "https://openalex.org/keywords/epanet",
+     "display_name": "EPANET",
+     "score": 0.8169999718666077
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C177562468",
+     "wikidata": "https://www.wikidata.org/wiki/Q182893",
+     "display_name": "Dispersion (optics)",
+     "level": 2,
+     "score": 0.6343966722488403
+    },
+    {
+     "id": "https://openalex.org/C5072599",
+     "wikidata": "https://www.wikidata.org/wiki/Q379788",
+     "display_name": "Advection",
+     "level": 2,
+     "score": 0.6280008554458618
+    },
+    {
+     "id": "https://openalex.org/C38349280",
+     "wikidata": "https://www.wikidata.org/wiki/Q1434290",
+     "display_name": "Flow (mathematics)",
+     "level": 2,
+     "score": 0.5542440414428711
+    },
+    {
+     "id": "https://openalex.org/C69357855",
+     "wikidata": "https://www.wikidata.org/wiki/Q163214",
+     "display_name": "Diffusion",
+     "level": 2,
+     "score": 0.5361416935920715
+    },
+    {
+     "id": "https://openalex.org/C17456955",
+     "wikidata": "https://www.wikidata.org/wiki/Q343279",
+     "display_name": "Convection\u2013diffusion equation",
+     "level": 2,
+     "score": 0.43919411301612854
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.3742215037345886
+    },
+    {
+     "id": "https://openalex.org/C57879066",
+     "wikidata": "https://www.wikidata.org/wiki/Q41217",
+     "display_name": "Mechanics",
+     "level": 1,
+     "score": 0.36978524923324585
+    },
+    {
+     "id": "https://openalex.org/C28826006",
+     "wikidata": "https://www.wikidata.org/wiki/Q33521",
+     "display_name": "Applied mathematics",
+     "level": 1,
+     "score": 0.35460418462753296
+    },
+    {
+     "id": "https://openalex.org/C121332964",
+     "wikidata": "https://www.wikidata.org/wiki/Q413",
+     "display_name": "Physics",
+     "level": 0,
+     "score": 0.2812681496143341
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.24101439118385315
+    },
+    {
+     "id": "https://openalex.org/C97355855",
+     "wikidata": "https://www.wikidata.org/wiki/Q11473",
+     "display_name": "Thermodynamics",
+     "level": 1,
+     "score": 0.14788666367530823
+    },
+    {
+     "id": "https://openalex.org/C120665830",
+     "wikidata": "https://www.wikidata.org/wiki/Q14620",
+     "display_name": "Optics",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 2,
+   "locations": [
+    {
+     "id": "doi:10.3390/w14172707",
+     "doi": "https://doi.org/10.3390/w14172707",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.3390/w14172707",
+     "pdf_url": "https://www.mdpi.com/2073-4441/14/17/2707/pdf?version=1661935986",
+     "source": {
+      "id": "https://openalex.org/S134216166",
+      "display_name": "Water",
+      "issn_l": "2073-4441",
+      "issn": [
+       "2073-4441"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "anvur-scientific",
+       "cwts-core",
+       "norway-1",
+       "poland-100",
+       "russia-white-list-1",
+       "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+       "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Water",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "pmh:oai:doaj.org/article:7641fd5c56584b71b82a0abce9461273",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "https://doaj.org/article/7641fd5c56584b71b82a0abce9461273",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401280",
+      "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by-sa",
+     "license_id": "https://openalex.org/licenses/cc-by-sa",
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "Water, Vol 14, Iss 17, p 2707 (2022)",
+     "raw_type": "article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.3390/w14172707",
+    "doi": "https://doi.org/10.3390/w14172707",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/w14172707",
+    "pdf_url": "https://www.mdpi.com/2073-4441/14/17/2707/pdf?version=1661935986",
+    "source": {
+     "id": "https://openalex.org/S134216166",
+     "display_name": "Water",
+     "issn_l": "2073-4441",
+     "issn": [
+      "2073-4441"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "norway-1",
+      "poland-100",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310310987",
+     "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310310987"
+     ],
+     "host_organization_lineage_names": [
+      "Multidisciplinary Digital Publishing Institute"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "score": 0.8571000099182129,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "score": 0.8500000238418579,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4294233692.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4294233692.grobid-xml"
+   },
+   "referenced_works_count": 13,
+   "referenced_works": [
+    "https://openalex.org/W70475223",
+    "https://openalex.org/W1969965325",
+    "https://openalex.org/W1989886596",
+    "https://openalex.org/W2011754774",
+    "https://openalex.org/W2027021130",
+    "https://openalex.org/W2033904036",
+    "https://openalex.org/W2041826815",
+    "https://openalex.org/W2058998445",
+    "https://openalex.org/W2108235931",
+    "https://openalex.org/W2138763184",
+    "https://openalex.org/W2140325612",
+    "https://openalex.org/W2327932437",
+    "https://openalex.org/W2973491543"
+   ],
+   "related_works": [
+    "https://openalex.org/W3036101264",
+    "https://openalex.org/W2163151373",
+    "https://openalex.org/W1986676657",
+    "https://openalex.org/W4238257821",
+    "https://openalex.org/W2165001118",
+    "https://openalex.org/W2022713607",
+    "https://openalex.org/W2794551621",
+    "https://openalex.org/W2276761141",
+    "https://openalex.org/W2084691910",
+    "https://openalex.org/W2054863511"
+   ],
+   "abstract_inverted_index": {
+    "The": [
+     0,
+     17,
+     107,
+     154,
+     182
+    ],
+    "EPANET": [
+     1,
+     201
+    ],
+    "model": [
+     2,
+     7,
+     22,
+     55,
+     155,
+     188
+    ],
+    "is": [
+     3
+    ],
+    "commonly": [
+     4
+    ],
+    "used": [
+     5
+    ],
+    "to": [
+     6,
+     64,
+     81,
+     90,
+     129,
+     158,
+     166
+    ],
+    "hydraulic": [
+     8
+    ],
+    "behaviour": [
+     9
+    ],
+    "and": [
+     10,
+     44,
+     89,
+     99,
+     145,
+     151
+    ],
+    "water": [
+     11,
+     14,
+     69
+    ],
+    "quality": [
+     12,
+     70
+    ],
+    "within": [
+     13,
+     77
+    ],
+    "distribution": [
+     15
+    ],
+    "networks.": [
+     16
+    ],
+    "standard": [
+     18
+    ],
+    "version": [
+     19
+    ],
+    "of": [
+     20,
+     33,
+     53,
+     68,
+     74,
+     85,
+     114,
+     161,
+     178,
+     199
+    ],
+    "the": [
+     21,
+     24,
+     34,
+     41,
+     49,
+     54,
+     66,
+     72,
+     78,
+     83,
+     96,
+     101,
+     115,
+     121,
+     133,
+     137,
+     143,
+     159,
+     176,
+     186,
+     192,
+     200
+    ],
+    "solves": [
+     23
+    ],
+    "advective": [
+     25,
+     42
+    ],
+    "transport": [
+     26,
+     43,
+     79,
+     87,
+     123,
+     173
+    ],
+    "equation": [
+     27,
+     80,
+     124
+    ],
+    "by": [
+     28,
+     149
+    ],
+    "solving": [
+     29
+    ],
+    "a": [
+     30,
+     111
+    ],
+    "mass": [
+     31,
+     97
+    ],
+    "balance": [
+     32
+    ],
+    "fundamental": [
+     35
+    ],
+    "plug": [
+     36
+    ],
+    "flow": [
+     37,
+     98,
+     127,
+     180
+    ],
+    "substance": [
+     38
+    ],
+    "that": [
+     39,
+     185
+    ],
+    "considers": [
+     40
+    ],
+    "kinetic": [
+     45
+    ],
+    "reaction": [
+     46
+    ],
+    "processes.": [
+     47
+    ],
+    "Over": [
+     48
+    ],
+    "years,": [
+     50
+    ],
+    "several": [
+     51
+    ],
+    "versions": [
+     52,
+     198
+    ],
+    "have": [
+     56,
+     60
+    ],
+    "been": [
+     57
+    ],
+    "developed,": [
+     58
+    ],
+    "which": [
+     59,
+     119
+    ],
+    "made": [
+     61
+    ],
+    "it": [
+     62
+    ],
+    "possible": [
+     63
+    ],
+    "improve": [
+     65
+    ],
+    "modelling": [
+     67,
+     171
+    ],
+    "through": [
+     71,
+     136
+    ],
+    "introduction": [
+     73
+    ],
+    "additional": [
+     75
+    ],
+    "terms": [
+     76
+    ],
+    "solve": [
+     82
+    ],
+    "problem": [
+     84
+    ],
+    "dispersive": [
+     86
+    ],
+    "(EPANET-AZRED)": [
+     88
+    ],
+    "consider": [
+     91
+    ],
+    "multiple": [
+     92
+    ],
+    "interacting": [
+     93
+    ],
+    "species": [
+     94
+    ],
+    "in": [
+     95,
+     125,
+     132,
+     170,
+     175
+    ],
+    "on": [
+     100
+    ],
+    "pipe": [
+     102
+    ],
+    "walls": [
+     103
+    ],
+    "(EPANET": [
+     104
+    ],
+    "multi-species": [
+     105
+    ],
+    "extension).": [
+     106
+    ],
+    "present": [
+     108
+    ],
+    "study": [
+     109
+    ],
+    "proposes": [
+     110
+    ],
+    "novel": [
+     112
+    ],
+    "integration": [
+     113
+    ],
+    "EPANET-DD": [
+     116,
+     187
+    ],
+    "(dynamic-dispersion)": [
+     117
+    ],
+    "model,": [
+     118
+    ],
+    "enables": [
+     120
+    ],
+    "advective\u2013diffusive\u2013dispersive": [
+     122
+    ],
+    "dynamic": [
+     126
+    ],
+    "conditions": [
+     128
+    ],
+    "be": [
+     130
+    ],
+    "solved": [
+     131
+    ],
+    "two-dimensional": [
+     134
+    ],
+    "case,": [
+     135
+    ],
+    "classical": [
+     138
+    ],
+    "random": [
+     139
+    ],
+    "walk": [
+     140
+    ],
+    "method,": [
+     141
+    ],
+    "implementing": [
+     142
+    ],
+    "diffusion": [
+     144
+    ],
+    "dispersion": [
+     146
+    ],
+    "equations": [
+     147
+    ],
+    "proposed": [
+     148
+    ],
+    "Romero-Gomez": [
+     150
+    ],
+    "Choi": [
+     152
+    ],
+    "(2011).": [
+     153
+    ],
+    "was": [
+     156
+    ],
+    "applied": [
+     157
+    ],
+    "University": [
+     160
+    ],
+    "Enna": [
+     162
+    ],
+    "\u201cKORE\u201d": [
+     163
+    ],
+    "laboratory": [
+     164
+    ],
+    "network": [
+     165
+    ],
+    "verify": [
+     167
+    ],
+    "its": [
+     168
+    ],
+    "effectiveness": [
+     169
+    ],
+    "diffusive\u2013dispersive": [
+     172
+    ],
+    "mechanisms": [
+     174
+    ],
+    "presence": [
+     177
+    ],
+    "variable": [
+     179
+    ],
+    "regimes.": [
+     181
+    ],
+    "results": [
+     183
+    ],
+    "showed": [
+     184
+    ],
+    "could": [
+     189
+    ],
+    "better": [
+     190
+    ],
+    "represent": [
+     191
+    ],
+    "actual": [
+     193
+    ],
+    "data": [
+     194
+    ],
+    "than": [
+     195
+    ],
+    "previously": [
+     196
+    ],
+    "developed": [
+     197
+    ],
+    "model.": [
+     202
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 1
+    }
+   ],
+   "updated_date": "2026-09-20T07:33:13.661266",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W4412582639",
+   "doi": "https://doi.org/10.21203/rs.3.rs-7183610/v1",
+   "title": "Study and Understanding the Basics of EPANET Simulation for Accurate and Realistic Modeling.",
+   "display_name": "Study and Understanding the Basics of EPANET Simulation for Accurate and Realistic Modeling.",
+   "relevance_score": 38.870968,
+   "publication_year": 2025,
+   "publication_date": "2025-07-23",
+   "ids": {
+    "openalex": "https://openalex.org/W4412582639",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7183610/v1"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.21203/rs.3.rs-7183610/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7183610/v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.21203/rs.3.rs-7183610/v1",
+    "pdf_url": "https://www.researchsquare.com/article/rs-7183610/latest.pdf",
+    "source": {
+     "id": "https://openalex.org/S4306525896",
+     "display_name": "Research Square",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "Research Square",
+    "raw_type": "posted-content"
+   },
+   "volume": null,
+   "type": "preprint",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.researchsquare.com/article/rs-7183610/latest.pdf",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5119625651",
+      "display_name": "Hocine Lakhdari",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I148178115",
+       "display_name": "Technical University of Civil Engineering of Bucharest",
+       "ror": "https://ror.org/03d187f57",
+       "country_code": "RO",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ],
+     "countries": [
+      "RO"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Lakhdari Hocine",
+     "raw_affiliation_strings": [
+      "Technical University of Civil Engineering of Bucharest"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Technical University of Civil Engineering of Bucharest",
+       "institution_ids": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5048875780",
+      "display_name": "Andrei-Mugur Georgescu",
+      "orcid": "https://orcid.org/0000-0002-3392-3173",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3392-3173"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I148178115",
+       "display_name": "Technical University of Civil Engineering of Bucharest",
+       "ror": "https://ror.org/03d187f57",
+       "country_code": "RO",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ],
+     "countries": [
+      "RO"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Georgescu Andrei-Mugur",
+     "raw_affiliation_strings": [
+      "Technical University of Civil Engineering of Bucharest, Romania, Faculty of Hydrotechnics, departmentof Hydraulics, Construction and Environmental Protection"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Technical University of Civil Engineering of Bucharest, Romania, Faculty of Hydrotechnics, departmentof Hydraulics, Construction and Environmental Protection",
+       "institution_ids": [
+        "https://openalex.org/I148178115"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I148178115"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": null,
+   "has_fulltext": true,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": null,
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11220",
+    "display_name": "Water Systems and Optimization",
+    "score": 1.0,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2205",
+     "display_name": "Civil and Structural Engineering"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11220",
+     "display_name": "Water Systems and Optimization",
+     "score": 1.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10969",
+     "display_name": "Water resources management and optimization",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12022",
+     "display_name": "Hydraulic flow and structures",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/epanet",
+     "display_name": "EPANET",
+     "score": 1.0
+    },
+    {
+     "id": "https://openalex.org/keywords/water-distribution-networks",
+     "display_name": "water distribution systems",
+     "score": 0.7350000143051147
+    },
+    {
+     "id": "https://openalex.org/keywords/hydraulic-modeling",
+     "display_name": "hydraulic modeling",
+     "score": 0.6830000281333923
+    },
+    {
+     "id": "https://openalex.org/keywords/node-classification",
+     "display_name": "node classification",
+     "score": 0.8209999799728394
+    },
+    {
+     "id": "https://openalex.org/keywords/junctions",
+     "display_name": "junctions",
+     "score": 0.7739999890327454
+    },
+    {
+     "id": "https://openalex.org/keywords/reservoirs",
+     "display_name": "reservoirs",
+     "score": 0.9459999799728394
+    },
+    {
+     "id": "https://openalex.org/keywords/tanks",
+     "display_name": "tanks",
+     "score": 0.9100000262260437
+    },
+    {
+     "id": "https://openalex.org/keywords/emitter",
+     "display_name": "emitter",
+     "score": 0.8190000057220459
+    },
+    {
+     "id": "https://openalex.org/keywords/leakage-modeling",
+     "display_name": "leakage modeling",
+     "score": 0.7940000295639038
+    },
+    {
+     "id": "https://openalex.org/keywords/system-reliability",
+     "display_name": "system reliability",
+     "score": 0.675000011920929
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.6211199760437012
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.21203/rs.3.rs-7183610/v1",
+     "doi": "https://doi.org/10.21203/rs.3.rs-7183610/v1",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.21203/rs.3.rs-7183610/v1",
+     "pdf_url": "https://www.researchsquare.com/article/rs-7183610/latest.pdf",
+     "source": {
+      "id": "https://openalex.org/S4306525896",
+      "display_name": "Research Square",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "acceptedVersion",
+     "is_accepted": true,
+     "is_published": false,
+     "raw_source_name": "Research Square",
+     "raw_type": "posted-content"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.21203/rs.3.rs-7183610/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7183610/v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.21203/rs.3.rs-7183610/v1",
+    "pdf_url": "https://www.researchsquare.com/article/rs-7183610/latest.pdf",
+    "source": {
+     "id": "https://openalex.org/S4306525896",
+     "display_name": "Research Square",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "Research Square",
+    "raw_type": "posted-content"
+   },
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4412582639.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4412582639.grobid-xml"
+   },
+   "referenced_works_count": 9,
+   "referenced_works": [
+    "https://openalex.org/W1975264540",
+    "https://openalex.org/W1983869863",
+    "https://openalex.org/W1990622453",
+    "https://openalex.org/W2027718334",
+    "https://openalex.org/W2071534363",
+    "https://openalex.org/W2332199866",
+    "https://openalex.org/W6606377357",
+    "https://openalex.org/W6619633825",
+    "https://openalex.org/W6988170539"
+   ],
+   "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W4391913857",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W4396701345",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2001405890",
+    "https://openalex.org/W4396696052"
+   ],
+   "abstract_inverted_index": null,
+   "counts_by_year": [],
+   "updated_date": "2026-10-12T09:40:04.860316",
+   "created_date": "2025-07-23T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W4366278221",
+   "doi": "https://doi.org/10.2166/ws.2023.092",
+   "title": "An assessment of the artificial modelling elements approach to the pressure-driven analysis of water distribution networks",
+   "display_name": "An assessment of the artificial modelling elements approach to the pressure-driven analysis of water distribution networks",
+   "relevance_score": 38.18315,
+   "publication_year": 2023,
+   "publication_date": "2023-04-18",
+   "ids": {
+    "openalex": "https://openalex.org/W4366278221",
+    "doi": "https://doi.org/10.2166/ws.2023.092"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.2166/ws.2023.092",
+    "doi": "https://doi.org/10.2166/ws.2023.092",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.2166/ws.2023.092",
+    "pdf_url": "https://iwaponline.com/ws/article-pdf/23/5/1810/1260301/ws023051810.pdf",
+    "source": {
+     "id": "https://openalex.org/S124453322",
+     "display_name": "Water Science & Technology Water Supply",
+     "issn_l": "1606-9749",
+     "issn": [
+      "1606-9749",
+      "1607-0798"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "jufo-1",
+      "ki-jl-1",
+      "norway-1",
+      "poland-20",
+      "russia-white-list-3",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320298",
+     "host_organization_name": "IWA Publishing",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320298"
+     ],
+     "host_organization_lineage_names": [
+      "IWA Publishing"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Supply",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref",
+    "doaj"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://iwaponline.com/ws/article-pdf/23/5/1810/1260301/ws023051810.pdf",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5066346316",
+      "display_name": "P. Sivakumar",
+      "orcid": "https://orcid.org/0000-0002-7631-7907",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-7631-7907"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I160302567",
+       "display_name": "North Eastern Regional Institute of Science and Technology",
+       "ror": "https://ror.org/01wbhqj28",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I160302567"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "P. Sivakumar",
+     "raw_affiliation_strings": [
+      "a Department of Civil Engineering, North Eastern Regional Institute of Science and Technology (Deemed to be Univ.), Nirjuli (Itanagar), Arunachal Pradesh 791109, India",
+      "Department of Civil Engineering, North Eastern Regional Institute of Science and Technology (Deemed to be Univ.), Nirjuli (Itanagar), Arunachal Pradesh 791109, India"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-7631-7907",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "a Department of Civil Engineering, North Eastern Regional Institute of Science and Technology (Deemed to be Univ.), Nirjuli (Itanagar), Arunachal Pradesh 791109, India",
+       "institution_ids": [
+        "https://openalex.org/I160302567"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Civil Engineering, North Eastern Regional Institute of Science and Technology (Deemed to be Univ.), Nirjuli (Itanagar), Arunachal Pradesh 791109, India",
+       "institution_ids": [
+        "https://openalex.org/I160302567"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5040655064",
+      "display_name": "Nikolai B. Gorev",
+      "orcid": "https://orcid.org/0000-0001-6739-5172",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-6739-5172"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I149851306",
+       "display_name": "National Academy of Sciences of Ukraine",
+       "ror": "https://ror.org/00je4t102",
+       "country_code": "UA",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I149851306"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4405263798",
+       "display_name": "The Institute of Technical Mechanics of the National Academy of Sciences of Ukraine and the State Space Agency of Ukraine",
+       "ror": "https://ror.org/003ed9546",
+       "country_code": "UA",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I149851306",
+        "https://openalex.org/I4405263798"
+       ]
+      }
+     ],
+     "countries": [
+      "UA"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Nikolai B. Gorev",
+     "raw_affiliation_strings": [
+      "b Department for Functional Elements of Control Systems, Institute of Technical Mechanics, National Academy of Sciences of Ukraine, 15 Leshko-Popel St., Dnipro 49005, Ukraine",
+      "Department for Functional Elements of Control Systems, Institute of Technical Mechanics, National Academy of Sciences of Ukraine, 15 Leshko-Popel St., Dnipro 49005, Ukraine"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "b Department for Functional Elements of Control Systems, Institute of Technical Mechanics, National Academy of Sciences of Ukraine, 15 Leshko-Popel St., Dnipro 49005, Ukraine",
+       "institution_ids": [
+        "https://openalex.org/I149851306",
+        "https://openalex.org/I4405263798"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department for Functional Elements of Control Systems, Institute of Technical Mechanics, National Academy of Sciences of Ukraine, 15 Leshko-Popel St., Dnipro 49005, Ukraine",
+       "institution_ids": [
+        "https://openalex.org/I149851306",
+        "https://openalex.org/I4405263798"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5084607523",
+      "display_name": "S. Nivedita",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I21234101",
+       "display_name": "Thiagarajar College of Engineering",
+       "ror": "https://ror.org/01rgfv364",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I21234101"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "S. Nivedita",
+     "raw_affiliation_strings": [
+      "c Department of Civil Engineering, Thiagarajar College of Engineering, Madurai, Tamil Nadu 625 015, India",
+      "Department of Civil Engineering, Thiagarajar College of Engineering, Madurai, Tamil Nadu 625 015, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "c Department of Civil Engineering, Thiagarajar College of Engineering, Madurai, Tamil Nadu 625 015, India",
+       "institution_ids": [
+        "https://openalex.org/I21234101"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Civil Engineering, Thiagarajar College of Engineering, Madurai, Tamil Nadu 625 015, India",
+       "institution_ids": [
+        "https://openalex.org/I21234101"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5051868941",
+      "display_name": "C. R. Suribabu",
+      "orcid": "https://orcid.org/0000-0002-3927-8179",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3927-8179"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I932239252",
+       "display_name": "SASTRA University",
+       "ror": "https://ror.org/032jk8892",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I932239252"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "C. R. Suribabu",
+     "raw_affiliation_strings": [
+      "d Centre for Advanced Research in Environment, School of Civil Engineering, SASTRA Deemed Univ., Thanjavur, Tamil Nadu 613401, India",
+      "Centre for Advanced Research in Environment, School of Civil Engineering, SASTRA Deemed Univ., Thanjavur, Tamil Nadu 613401, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "d Centre for Advanced Research in Environment, School of Civil Engineering, SASTRA Deemed Univ., Thanjavur, Tamil Nadu 613401, India",
+       "institution_ids": [
+        "https://openalex.org/I932239252"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Centre for Advanced Research in Environment, School of Civil Engineering, SASTRA Deemed Univ., Thanjavur, Tamil Nadu 613401, India",
+       "institution_ids": [
+        "https://openalex.org/I932239252"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5012099411",
+      "display_name": "Rajesh Gupta",
+      "orcid": "https://orcid.org/0000-0002-6098-0595",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6098-0595"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I167153416",
+       "display_name": "Visvesvaraya National Institute of Technology",
+       "ror": "https://ror.org/02zrtpp84",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I167153416"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Rajesh Gupta",
+     "raw_affiliation_strings": [
+      "e Department of Civil Engineering, Visvesvaraya National Institute of Technology, Nagpur, Maharastra 440010, India",
+      "Department of Civil Engineering, Visvesvaraya National Institute of Technology, Nagpur, Maharastra 440010, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "e Department of Civil Engineering, Visvesvaraya National Institute of Technology, Nagpur, Maharastra 440010, India",
+       "institution_ids": [
+        "https://openalex.org/I167153416"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Civil Engineering, Visvesvaraya National Institute of Technology, Nagpur, Maharastra 440010, India",
+       "institution_ids": [
+        "https://openalex.org/I167153416"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5049594391",
+      "display_name": "Tiku T. Tanyimboh",
+      "orcid": "https://orcid.org/0000-0003-3741-7689",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-3741-7689"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I192619145",
+       "display_name": "University of the Witwatersrand",
+       "ror": "https://ror.org/03rp50x72",
+       "country_code": "ZA",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I192619145"
+       ]
+      }
+     ],
+     "countries": [
+      "ZA"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Tiku T. Tanyimboh",
+     "raw_affiliation_strings": [
+      "f School of Civil and Environmental Engineering, University of the Witwatersrand, Johannesburg, Private Bag 3, WITS 2050, South Africa",
+      "School of Civil and Environmental Engineering, University of the Witwatersrand, Johannesburg, Private Bag 3, WITS 2050, South Africa"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "f School of Civil and Environmental Engineering, University of the Witwatersrand, Johannesburg, Private Bag 3, WITS 2050, South Africa",
+       "institution_ids": [
+        "https://openalex.org/I192619145"
+       ]
+      },
+      {
+       "raw_affiliation_string": "School of Civil and Environmental Engineering, University of the Witwatersrand, Johannesburg, Private Bag 3, WITS 2050, South Africa",
+       "institution_ids": [
+        "https://openalex.org/I192619145"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 3,
+   "institutions_distinct_count": 7,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5066346316"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I160302567"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 1.0593,
+   "has_fulltext": true,
+   "cited_by_count": 9,
+   "citation_normalized_percentile": {
+    "value": 0.71856392,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": {
+    "min": 95,
+    "max": 98
+   },
+   "biblio": {
+    "volume": "23",
+    "issue": "5",
+    "first_page": "1810",
+    "last_page": "1826"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11220",
+    "display_name": "Water Systems and Optimization",
+    "score": 1.0,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2205",
+     "display_name": "Civil and Structural Engineering"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11220",
+     "display_name": "Water Systems and Optimization",
+     "score": 1.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10969",
+     "display_name": "Water resources management and optimization",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12022",
+     "display_name": "Hydraulic flow and structures",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/pressure-driven-analysis",
+     "display_name": "pressure-driven analysis",
+     "score": 0.8759999871253967
+    },
+    {
+     "id": "https://openalex.org/keywords/water-distribution-networks",
+     "display_name": "water distribution systems",
+     "score": 0.9629999995231628
+    },
+    {
+     "id": "https://openalex.org/keywords/extended-period-simulation",
+     "display_name": "extended period simulation",
+     "score": 0.7850000262260437
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C2777303404",
+     "wikidata": "https://www.wikidata.org/wiki/Q759757",
+     "display_name": "Convergence (economics)",
+     "level": 2,
+     "score": 0.7363502383232117
+    },
+    {
+     "id": "https://openalex.org/C97256817",
+     "wikidata": "https://www.wikidata.org/wiki/Q1462316",
+     "display_name": "Spurious relationship",
+     "level": 2,
+     "score": 0.73119056224823
+    },
+    {
+     "id": "https://openalex.org/C185798385",
+     "wikidata": "https://www.wikidata.org/wiki/Q1161707",
+     "display_name": "Benchmark (surveying)",
+     "level": 2,
+     "score": 0.664419949054718
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.6607555747032166
+    },
+    {
+     "id": "https://openalex.org/C128871136",
+     "wikidata": "https://www.wikidata.org/wiki/Q1190625",
+     "display_name": "Pressure head",
+     "level": 2,
+     "score": 0.4755363464355469
+    },
+    {
+     "id": "https://openalex.org/C157115227",
+     "wikidata": "https://www.wikidata.org/wiki/Q2162400",
+     "display_name": "Pipe network analysis",
+     "level": 2,
+     "score": 0.41001924872398376
+    },
+    {
+     "id": "https://openalex.org/C44154836",
+     "wikidata": "https://www.wikidata.org/wiki/Q45045",
+     "display_name": "Simulation",
+     "level": 1,
+     "score": 0.33533555269241333
+    },
+    {
+     "id": "https://openalex.org/C126255220",
+     "wikidata": "https://www.wikidata.org/wiki/Q141495",
+     "display_name": "Mathematical optimization",
+     "level": 1,
+     "score": 0.33099472522735596
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.15994080901145935
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.13194048404693604
+    },
+    {
+     "id": "https://openalex.org/C119857082",
+     "wikidata": "https://www.wikidata.org/wiki/Q2539",
+     "display_name": "Machine learning",
+     "level": 1,
+     "score": 0.12698203325271606
+    },
+    {
+     "id": "https://openalex.org/C78519656",
+     "wikidata": "https://www.wikidata.org/wiki/Q101333",
+     "display_name": "Mechanical engineering",
+     "level": 1,
+     "score": 0.10014048218727112
+    },
+    {
+     "id": "https://openalex.org/C97355855",
+     "wikidata": "https://www.wikidata.org/wiki/Q11473",
+     "display_name": "Thermodynamics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C121332964",
+     "wikidata": "https://www.wikidata.org/wiki/Q413",
+     "display_name": "Physics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C50522688",
+     "wikidata": "https://www.wikidata.org/wiki/Q189833",
+     "display_name": "Economic growth",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C162324750",
+     "wikidata": "https://www.wikidata.org/wiki/Q8134",
+     "display_name": "Economics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C13280743",
+     "wikidata": "https://www.wikidata.org/wiki/Q131089",
+     "display_name": "Geodesy",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 2,
+   "locations": [
+    {
+     "id": "doi:10.2166/ws.2023.092",
+     "doi": "https://doi.org/10.2166/ws.2023.092",
+     "is_oa": true,
+     "landing_page_url": "http://dx.doi.org/10.2166/ws.2023.092",
+     "pdf_url": "https://iwaponline.com/ws/article-pdf/23/5/1810/1260301/ws023051810.pdf",
+     "source": {
+      "id": "https://openalex.org/S124453322",
+      "display_name": "Water Science & Technology Water Supply",
+      "issn_l": "1606-9749",
+      "issn": [
+       "1606-9749",
+       "1607-0798"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "anvur-scientific",
+       "cwts-core",
+       "jufo-1",
+       "ki-jl-1",
+       "norway-1",
+       "poland-20",
+       "russia-white-list-3",
+       "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320298",
+      "host_organization_name": "IWA Publishing",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310320298"
+      ],
+      "host_organization_lineage_names": [
+       "IWA Publishing"
+      ],
+      "type": "journal"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Water Supply",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "pmh:oai:doaj.org/article:580cfb5829514119a48c017bd6a7ff70",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "https://doaj.org/article/580cfb5829514119a48c017bd6a7ff70",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401280",
+      "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "Water Supply, Vol 23, Iss 5, Pp 1810-1826 (2023)",
+     "raw_type": "article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.2166/ws.2023.092",
+    "doi": "https://doi.org/10.2166/ws.2023.092",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.2166/ws.2023.092",
+    "pdf_url": "https://iwaponline.com/ws/article-pdf/23/5/1810/1260301/ws023051810.pdf",
+    "source": {
+     "id": "https://openalex.org/S124453322",
+     "display_name": "Water Science & Technology Water Supply",
+     "issn_l": "1606-9749",
+     "issn": [
+      "1606-9749",
+      "1607-0798"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "jufo-1",
+      "ki-jl-1",
+      "norway-1",
+      "poland-20",
+      "russia-white-list-3",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320298",
+     "host_organization_name": "IWA Publishing",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320298"
+     ],
+     "host_organization_lineage_names": [
+      "IWA Publishing"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Supply",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "score": 0.6618000268936157,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "score": 0.7400000095367432,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4366278221.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4366278221.grobid-xml"
+   },
+   "referenced_works_count": 18,
+   "referenced_works": [
+    "https://openalex.org/W1967346340",
+    "https://openalex.org/W1967763757",
+    "https://openalex.org/W1998403264",
+    "https://openalex.org/W2019068125",
+    "https://openalex.org/W2026519595",
+    "https://openalex.org/W2027718334",
+    "https://openalex.org/W2063847453",
+    "https://openalex.org/W2086212073",
+    "https://openalex.org/W2089427117",
+    "https://openalex.org/W2107529379",
+    "https://openalex.org/W2131809486",
+    "https://openalex.org/W2148035059",
+    "https://openalex.org/W2611873458",
+    "https://openalex.org/W2790464099",
+    "https://openalex.org/W2794439414",
+    "https://openalex.org/W3104238412",
+    "https://openalex.org/W3134789250",
+    "https://openalex.org/W3163461018"
+   ],
+   "related_works": [
+    "https://openalex.org/W2162899405",
+    "https://openalex.org/W3113091479",
+    "https://openalex.org/W941090075",
+    "https://openalex.org/W3201129217",
+    "https://openalex.org/W3004393137",
+    "https://openalex.org/W2077005348",
+    "https://openalex.org/W2006277350",
+    "https://openalex.org/W2951067713",
+    "https://openalex.org/W2916713005",
+    "https://openalex.org/W2914874577"
+   ],
+   "abstract_inverted_index": {
+    "Abstract": [
+     0
+    ],
+    "EPANET": [
+     1,
+     10,
+     58,
+     92,
+     113,
+     132,
+     190
+    ],
+    "2.2": [
+     2,
+     59,
+     93,
+     114,
+     191
+    ],
+    "is": [
+     3,
+     60,
+     81,
+     85,
+     136
+    ],
+    "a": [
+     4
+    ],
+    "newly": [
+     5
+    ],
+    "introduced": [
+     6
+    ],
+    "upgraded": [
+     7
+    ],
+    "version": [
+     8
+    ],
+    "of": [
+     9,
+     25,
+     53,
+     57,
+     91,
+     116,
+     141,
+     158,
+     172
+    ],
+    "2": [
+     11,
+     133
+    ],
+    "that": [
+     12,
+     87,
+     126
+    ],
+    "can": [
+     13,
+     94
+    ],
+    "be": [
+     14,
+     95
+    ],
+    "used": [
+     15,
+     42
+    ],
+    "for": [
+     16,
+     43,
+     77,
+     134
+    ],
+    "both": [
+     17,
+     184
+    ],
+    "pressure-driven": [
+     18
+    ],
+    "analysis": [
+     19,
+     23
+    ],
+    "(PDA)": [
+     20
+    ],
+    "and": [
+     21,
+     37,
+     83,
+     170,
+     177,
+     189,
+     192
+    ],
+    "demand-driven": [
+     22
+    ],
+    "(DDA)": [
+     24
+    ],
+    "water": [
+     26
+    ],
+    "distribution": [
+     27
+    ],
+    "networks.": [
+     28
+    ],
+    "Moreover,": [
+     29
+    ],
+    "it": [
+     30,
+     84
+    ],
+    "has": [
+     31
+    ],
+    "certain": [
+     32
+    ],
+    "limitations": [
+     33
+    ],
+    "concerning": [
+     34
+    ],
+    "the": [
+     35,
+     54,
+     75,
+     78,
+     88,
+     99,
+     106,
+     112,
+     119,
+     124,
+     142,
+     149,
+     185,
+     193
+    ],
+    "minimum": [
+     36
+    ],
+    "required": [
+     38
+    ],
+    "pressure": [
+     39
+    ],
+    "head": [
+     40
+    ],
+    "parameters": [
+     41
+    ],
+    "PDA,": [
+     44
+    ],
+    "which": [
+     45
+    ],
+    "leads": [
+     46
+    ],
+    "to": [
+     47,
+     63,
+     104
+    ],
+    "inaccurate": [
+     48
+    ],
+    "simulation": [
+     49,
+     157
+    ],
+    "results.": [
+     50
+    ],
+    "Another": [
+     51
+    ],
+    "limitation": [
+     52
+    ],
+    "PDA": [
+     55,
+     135,
+     151,
+     187
+    ],
+    "option": [
+     56
+    ],
+    "its": [
+     61
+    ],
+    "inability": [
+     62
+    ],
+    "simultaneously": [
+     64
+    ],
+    "consider": [
+     65
+    ],
+    "pressure-dependent": [
+     66
+    ],
+    "demands": [
+     67
+    ],
+    "with": [
+     68,
+     161
+    ],
+    "pressure-independent": [
+     69
+    ],
+    "fire": [
+     70
+    ],
+    "demands.": [
+     71
+    ],
+    "In": [
+     72
+    ],
+    "this": [
+     73,
+     146
+    ],
+    "article,": [
+     74
+    ],
+    "reason": [
+     76
+    ],
+    "spurious": [
+     79,
+     89
+    ],
+    "convergence": [
+     80,
+     90,
+     102
+    ],
+    "identified,": [
+     82
+    ],
+    "shown": [
+     86
+    ],
+    "addressed": [
+     96
+    ],
+    "by": [
+     97,
+     183
+    ],
+    "extending": [
+     98
+    ],
+    "energy": [
+     100
+    ],
+    "balance": [
+     101
+    ],
+    "criterion": [
+     103
+    ],
+    "include": [
+     105
+    ],
+    "virtual": [
+     107
+    ],
+    "demand": [
+     108,
+     163
+    ],
+    "links": [
+     109
+    ],
+    "employed": [
+     110
+    ],
+    "in": [
+     111,
+     123,
+     131,
+     145
+    ],
+    "formulation": [
+     115
+    ],
+    "PDA.": [
+     117
+    ],
+    "On": [
+     118
+    ],
+    "other": [
+     120
+    ],
+    "hand,": [
+     121
+    ],
+    "interest": [
+     122
+    ],
+    "methods": [
+     125
+    ],
+    "use": [
+     127
+    ],
+    "artificial": [
+     128
+    ],
+    "modelling": [
+     129
+    ],
+    "elements": [
+     130
+    ],
+    "increasing": [
+     137
+    ],
+    "rapidly.": [
+     138
+    ],
+    "The": [
+     139
+    ],
+    "implementation": [
+     140
+    ],
+    "method": [
+     143
+    ],
+    "presented": [
+     144
+    ],
+    "paper": [
+     147
+    ],
+    "(termed": [
+     148
+    ],
+    "alternative": [
+     150,
+     186
+    ],
+    "approach)": [
+     152
+    ],
+    "allows": [
+     153
+    ],
+    "an": [
+     154
+    ],
+    "extended": [
+     155
+    ],
+    "period": [
+     156
+    ],
+    "large": [
+     159
+    ],
+    "networks": [
+     160,
+     176,
+     180
+    ],
+    "complex": [
+     162
+    ],
+    "patterns,": [
+     164
+    ],
+    "multiple": [
+     165
+    ],
+    "tanks,": [
+     166
+    ],
+    "reservoirs,": [
+     167
+    ],
+    "pumps,": [
+     168
+    ],
+    "valves,": [
+     169
+    ],
+    "thousands": [
+     171
+    ],
+    "pipes.": [
+     173
+    ],
+    "Two": [
+     174
+    ],
+    "benchmark": [
+     175
+    ],
+    "two": [
+     178
+    ],
+    "real-world": [
+     179
+    ],
+    "were": [
+     181,
+     195
+    ],
+    "analysed": [
+     182
+    ],
+    "approach": [
+     188
+    ],
+    "results": [
+     194
+    ],
+    "compared.": [
+     196
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 3
+    }
+   ],
+   "updated_date": "2026-09-25T08:18:29.962427",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W4405911450",
+   "doi": "https://doi.org/10.58578/ajstea.v3i1.4513",
+   "title": "Analysis of the Clean Water Distribution Scheme in Tamangil Nuhuten Village, Kei Besar Selatan Sub-District of Southeast Maluku Regency, Using EPANET 2.2",
+   "display_name": "Analysis of the Clean Water Distribution Scheme in Tamangil Nuhuten Village, Kei Besar Selatan Sub-District of Southeast Maluku Regency, Using EPANET 2.2",
+   "relevance_score": 34.505695,
+   "publication_year": 2024,
+   "publication_date": "2024-12-30",
+   "ids": {
+    "openalex": "https://openalex.org/W4405911450",
+    "doi": "https://doi.org/10.58578/ajstea.v3i1.4513"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.58578/ajstea.v3i1.4513",
+    "doi": "https://doi.org/10.58578/ajstea.v3i1.4513",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.58578/ajstea.v3i1.4513",
+    "pdf_url": "https://ejournal.yasin-alsys.org/AJSTEA/article/download/4513/3500",
+    "source": {
+     "id": "https://openalex.org/S4394736466",
+     "display_name": "Asian Journal of Science Technology Engineering and Art",
+     "issn_l": "3025-4507",
+     "issn": [
+      "3025-4507",
+      "3025-5287"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Asian Journal of Science, Technology, Engineering, and Art",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://ejournal.yasin-alsys.org/AJSTEA/article/download/4513/3500",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5092232533",
+      "display_name": "Paschal Rumihin",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210122635",
+       "display_name": "Universitas 17 Agustus 1945 Surabaya",
+       "ror": "https://ror.org/02xrm8562",
+       "country_code": "ID",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I4210122635"
+       ]
+      }
+     ],
+     "countries": [
+      "ID"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Paschal Rumihin",
+     "raw_affiliation_strings": [
+      "Universitas 17 Agustus 1945 Surabaya, Indonesia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Universitas 17 Agustus 1945 Surabaya, Indonesia",
+       "institution_ids": [
+        "https://openalex.org/I4210122635"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5008596590",
+      "display_name": "Andi Patriadi",
+      "orcid": "https://orcid.org/0000-0001-7293-9840",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-7293-9840"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210122635",
+       "display_name": "Universitas 17 Agustus 1945 Surabaya",
+       "ror": "https://ror.org/02xrm8562",
+       "country_code": "ID",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I4210122635"
+       ]
+      }
+     ],
+     "countries": [
+      "ID"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Andi Patriadi",
+     "raw_affiliation_strings": [
+      "Universitas 17 Agustus 1945 Surabaya, Indonesia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Universitas 17 Agustus 1945 Surabaya, Indonesia",
+       "institution_ids": [
+        "https://openalex.org/I4210122635"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5008281008",
+      "display_name": "Sajiyo Sajiyo",
+      "orcid": "https://orcid.org/0000-0001-9013-2565",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9013-2565"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210122635",
+       "display_name": "Universitas 17 Agustus 1945 Surabaya",
+       "ror": "https://ror.org/02xrm8562",
+       "country_code": "ID",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I4210122635"
+       ]
+      }
+     ],
+     "countries": [
+      "ID"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Sajiyo Sajiyo",
+     "raw_affiliation_strings": [
+      "Universitas 17 Agustus 1945 Surabaya, Indonesia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Universitas 17 Agustus 1945 Surabaya, Indonesia",
+       "institution_ids": [
+        "https://openalex.org/I4210122635"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5092232533"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I4210122635"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 0.0,
+   "has_fulltext": true,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": {
+    "value": 0.21895701,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": "3",
+    "issue": "1",
+    "first_page": "81",
+    "last_page": "95"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11220",
+    "display_name": "Water Systems and Optimization",
+    "score": 0.6582000255584717,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2205",
+     "display_name": "Civil and Structural Engineering"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11220",
+     "display_name": "Water Systems and Optimization",
+     "score": 0.6582000255584717,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T14232",
+     "display_name": "Water Resource Management and Quality",
+     "score": 0.3061999976634979,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2312",
+      "display_name": "Water Science and Technology"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12248",
+     "display_name": "Water Governance and Infrastructure",
+     "score": 0.006599999964237213,
+     "subfield": {
+      "id": "https://openalex.org/subfields/3320",
+      "display_name": "Political Science and International Relations"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/clean-water-distribution",
+     "display_name": "clean water distribution",
+     "score": 0.9629999995231628
+    },
+    {
+     "id": "https://openalex.org/keywords/village-water-supply",
+     "display_name": "village water supply",
+     "score": 0.7390000224113464
+    },
+    {
+     "id": "https://openalex.org/keywords/springs",
+     "display_name": "springs",
+     "score": 0.5040000081062317
+    },
+    {
+     "id": "https://openalex.org/keywords/waterborne-diseases",
+     "display_name": "waterborne diseases",
+     "score": 0.6539999842643738
+    },
+    {
+     "id": "https://openalex.org/keywords/diarrhea",
+     "display_name": "diarrhea",
+     "score": 0.9679999947547913
+    },
+    {
+     "id": "https://openalex.org/keywords/water-transport",
+     "display_name": "water transport",
+     "score": 0.3400000035762787
+    },
+    {
+     "id": "https://openalex.org/keywords/water-infrastructure",
+     "display_name": "water infrastructure",
+     "score": 0.48399999737739563
+    },
+    {
+     "id": "https://openalex.org/keywords/community-engagement",
+     "display_name": "community participation",
+     "score": 0.8289999961853027
+    },
+    {
+     "id": "https://openalex.org/keywords/southeast-maluku",
+     "display_name": "Southeast Maluku",
+     "score": 0.9359999895095825
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C2994102451",
+     "wikidata": "https://www.wikidata.org/wiki/Q7892",
+     "display_name": "Clean water",
+     "level": 2,
+     "score": 0.46072912216186523
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.37407028675079346
+    },
+    {
+     "id": "https://openalex.org/C524765639",
+     "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+     "display_name": "Water resource management",
+     "level": 1,
+     "score": 0.3285757303237915
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.3230772018432617
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.2022133767604828
+    },
+    {
+     "id": "https://openalex.org/C548081761",
+     "wikidata": "https://www.wikidata.org/wiki/Q180388",
+     "display_name": "Waste management",
+     "level": 1,
+     "score": 0.15159198641777039
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.58578/ajstea.v3i1.4513",
+     "doi": "https://doi.org/10.58578/ajstea.v3i1.4513",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.58578/ajstea.v3i1.4513",
+     "pdf_url": "https://ejournal.yasin-alsys.org/AJSTEA/article/download/4513/3500",
+     "source": {
+      "id": "https://openalex.org/S4394736466",
+      "display_name": "Asian Journal of Science Technology Engineering and Art",
+      "issn_l": "3025-4507",
+      "issn": [
+       "3025-4507",
+       "3025-5287"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+     },
+     "license": "cc-by-nc-sa",
+     "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Asian Journal of Science, Technology, Engineering, and Art",
+     "raw_type": "journal-article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.58578/ajstea.v3i1.4513",
+    "doi": "https://doi.org/10.58578/ajstea.v3i1.4513",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.58578/ajstea.v3i1.4513",
+    "pdf_url": "https://ejournal.yasin-alsys.org/AJSTEA/article/download/4513/3500",
+    "source": {
+     "id": "https://openalex.org/S4394736466",
+     "display_name": "Asian Journal of Science Technology Engineering and Art",
+     "issn_l": "3025-4507",
+     "issn": [
+      "3025-4507",
+      "3025-5287"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Asian Journal of Science, Technology, Engineering, and Art",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "score": 1.0,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    },
+    {
+     "score": 0.708299994468689,
+     "display_name": "Reduced inequalities",
+     "id": "https://metadata.un.org/sdg/10"
+    },
+    {
+     "score": 0.5142999887466431,
+     "display_name": "Sustainable cities and communities",
+     "id": "https://metadata.un.org/sdg/11"
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "score": 0.4699999988079071,
+     "display_name": "Industry, innovation and infrastructure",
+     "id": "https://metadata.un.org/sdg/9"
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4405911450.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4405911450.grobid-xml"
+   },
+   "referenced_works_count": 0,
+   "referenced_works": [],
+   "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2970510221",
+    "https://openalex.org/W3204136453",
+    "https://openalex.org/W4289767474",
+    "https://openalex.org/W4320067905",
+    "https://openalex.org/W4205870849",
+    "https://openalex.org/W3159011278",
+    "https://openalex.org/W4312250688",
+    "https://openalex.org/W4285326243",
+    "https://openalex.org/W3080324332"
+   ],
+   "abstract_inverted_index": {
+    "The": [
+     0,
+     55
+    ],
+    "availability": [
+     1
+    ],
+    "of": [
+     2,
+     14,
+     37,
+     57,
+     64,
+     78,
+     85,
+     96,
+     106,
+     113,
+     121,
+     144,
+     175,
+     183,
+     189,
+     208
+    ],
+    "clean": [
+     3,
+     38,
+     46,
+     65,
+     97,
+     171,
+     237
+    ],
+    "water": [
+     4,
+     47,
+     66,
+     128,
+     137,
+     158,
+     209,
+     219,
+     238
+    ],
+    "is": [
+     5
+    ],
+    "a": [
+     6,
+     140,
+     194
+    ],
+    "very": [
+     7
+    ],
+    "basic": [
+     8
+    ],
+    "need": [
+     9
+    ],
+    "to": [
+     10,
+     43,
+     126,
+     135,
+     160,
+     169,
+     205
+    ],
+    "support": [
+     11
+    ],
+    "the": [
+     12,
+     22,
+     33,
+     45,
+     58,
+     62,
+     83,
+     86,
+     89,
+     103,
+     110,
+     131,
+     201,
+     206,
+     215,
+     241
+    ],
+    "lives": [
+     13
+    ],
+    "village": [
+     15
+    ],
+    "communities.": [
+     16
+    ],
+    "Tamangil": [
+     17,
+     51,
+     68
+    ],
+    "Nuhuten": [
+     18,
+     69
+    ],
+    "Village,": [
+     19,
+     52
+    ],
+    "located": [
+     20
+    ],
+    "in": [
+     21,
+     32,
+     50,
+     67,
+     76,
+     197,
+     223,
+     236,
+     244
+    ],
+    "South": [
+     23
+    ],
+    "Kei": [
+     24
+    ],
+    "Besar": [
+     25
+    ],
+    "area,": [
+     26
+    ],
+    "Southeast": [
+     27,
+     53
+    ],
+    "Maluku,": [
+     28
+    ],
+    "faces": [
+     29,
+     72
+    ],
+    "various": [
+     30,
+     73
+    ],
+    "challenges": [
+     31
+    ],
+    "supply": [
+     34
+    ],
+    "and": [
+     35,
+     81,
+     226,
+     232
+    ],
+    "distribution": [
+     36,
+     48,
+     63,
+     230,
+     248
+    ],
+    "water.": [
+     39,
+     172
+    ],
+    "This": [
+     40,
+     147,
+     173
+    ],
+    "study": [
+     41,
+     59
+    ],
+    "aims": [
+     42
+    ],
+    "analyze": [
+     44
+    ],
+    "scheme": [
+     49
+    ],
+    "Nuhuten.": [
+     54
+    ],
+    "results": [
+     56
+    ],
+    "show": [
+     60
+    ],
+    "that": [
+     61,
+     93
+    ],
+    "Village": [
+     70
+    ],
+    "still": [
+     71
+    ],
+    "challenges,": [
+     74
+    ],
+    "especially": [
+     75,
+     152
+    ],
+    "terms": [
+     77
+    ],
+    "accessibility,": [
+     79
+    ],
+    "infrastructure,": [
+     80
+    ],
+    "meeting": [
+     82
+    ],
+    "needs": [
+     84
+    ],
+    "community.": [
+     87
+    ],
+    "Of": [
+     88
+    ],
+    "three": [
+     90
+    ],
+    "main": [
+     91,
+     242
+    ],
+    "springs": [
+     92
+    ],
+    "are": [
+     94,
+     240
+    ],
+    "sources": [
+     95
+    ],
+    "water,": [
+     98
+    ],
+    "only": [
+     99,
+     119,
+     145
+    ],
+    "Spring": [
+     100
+    ],
+    "A": [
+     101
+    ],
+    "has": [
+     102,
+     177
+    ],
+    "highest": [
+     104
+    ],
+    "discharge": [
+     105
+    ],
+    "10": [
+     107
+    ],
+    "liters/second": [
+     108
+    ],
+    "with": [
+     109,
+     139
+    ],
+    "closest": [
+     111
+    ],
+    "distance": [
+     112
+    ],
+    "1.5": [
+     114
+    ],
+    "km": [
+     115
+    ],
+    "from": [
+     116,
+     157,
+     210
+    ],
+    "settlements.": [
+     117
+    ],
+    "However,": [
+     118
+    ],
+    "20%": [
+     120
+    ],
+    "households": [
+     122
+    ],
+    "have": [
+     123,
+     134
+    ],
+    "direct": [
+     124
+    ],
+    "access": [
+     125,
+     176
+    ],
+    "simple": [
+     127
+    ],
+    "pipelines,": [
+     129
+    ],
+    "while": [
+     130
+    ],
+    "other": [
+     132
+    ],
+    "80%": [
+     133
+    ],
+    "transport": [
+     136
+    ],
+    "manually,": [
+     138
+    ],
+    "daily": [
+     141
+    ],
+    "fulfillment": [
+     142
+    ],
+    "rate": [
+     143
+    ],
+    "35%.": [
+     146
+    ],
+    "condition": [
+     148
+    ],
+    "causes": [
+     149
+    ],
+    "most": [
+     150
+    ],
+    "people,": [
+     151
+    ],
+    "those": [
+     153
+    ],
+    "who": [
+     154
+    ],
+    "live": [
+     155
+    ],
+    "far": [
+     156
+    ],
+    "sources,": [
+     159
+    ],
+    "spend": [
+     161
+    ],
+    "more": [
+     162
+    ],
+    "than": [
+     163
+    ],
+    "two": [
+     164
+    ],
+    "hours": [
+     165
+    ],
+    "per": [
+     166
+    ],
+    "day": [
+     167
+    ],
+    "just": [
+     168
+    ],
+    "get": [
+     170
+    ],
+    "inequality": [
+     174
+    ],
+    "an": [
+     178,
+     186,
+     246
+    ],
+    "impact": [
+     179
+    ],
+    "on": [
+     180
+    ],
+    "people's": [
+     181,
+     221
+    ],
+    "quality": [
+     182
+    ],
+    "life,": [
+     184
+    ],
+    "including": [
+     185
+    ],
+    "increased": [
+     187
+    ],
+    "risk": [
+     188
+    ],
+    "waterborne": [
+     190
+    ],
+    "diseases.": [
+     191
+    ],
+    "Data": [
+     192
+    ],
+    "shows": [
+     193
+    ],
+    "15%": [
+     195
+    ],
+    "increase": [
+     196
+    ],
+    "diarrhoea": [
+     198
+    ],
+    "cases": [
+     199
+    ],
+    "during": [
+     200
+    ],
+    "dry": [
+     202
+    ],
+    "season": [
+     203
+    ],
+    "due": [
+     204
+    ],
+    "use": [
+     207
+    ],
+    "unprotected": [
+     211
+    ],
+    "sources.": [
+     212
+    ],
+    "In": [
+     213
+    ],
+    "addition,": [
+     214
+    ],
+    "time": [
+     216
+    ],
+    "spent": [
+     217
+    ],
+    "transporting": [
+     218
+    ],
+    "reduces": [
+     220
+    ],
+    "productivity": [
+     222
+    ],
+    "economic": [
+     224
+    ],
+    "activities": [
+     225
+    ],
+    "children's": [
+     227
+    ],
+    "education.": [
+     228
+    ],
+    "Limited": [
+     229
+    ],
+    "infrastructure": [
+     231
+    ],
+    "low": [
+     233
+    ],
+    "community": [
+     234
+    ],
+    "participation": [
+     235
+    ],
+    "management": [
+     239
+    ],
+    "obstacles": [
+     243
+    ],
+    "creating": [
+     245
+    ],
+    "efficient": [
+     247
+    ],
+    "scheme.": [
+     249
+    ]
+   },
+   "counts_by_year": [],
+   "updated_date": "2026-09-21T07:43:02.447757",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W4410506368",
+   "doi": "https://doi.org/10.3390/buildings15101694",
+   "title": "DyEHS: An Integrated Dynamo\u2013EPANET\u2013Harmony Search Framework for the Optimal Design of Water Distribution Networks",
+   "display_name": "DyEHS: An Integrated Dynamo\u2013EPANET\u2013Harmony Search Framework for the Optimal Design of Water Distribution Networks",
+   "relevance_score": 33.139732,
+   "publication_year": 2025,
+   "publication_date": "2025-05-17",
+   "ids": {
+    "openalex": "https://openalex.org/W4410506368",
+    "doi": "https://doi.org/10.3390/buildings15101694"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.3390/buildings15101694",
+    "doi": "https://doi.org/10.3390/buildings15101694",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/buildings15101694",
+    "pdf_url": "https://www.mdpi.com/2075-5309/15/10/1694/pdf?version=1747470763",
+    "source": {
+     "id": "https://openalex.org/S4210191137",
+     "display_name": "Buildings",
+     "issn_l": "2075-5309",
+     "issn": [
+      "2075-5309"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "anvur-class-a",
+      "anvur-scientific",
+      "cwts-core",
+      "doaj",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310310987",
+     "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310310987"
+     ],
+     "host_organization_lineage_names": [
+      "Multidisciplinary Digital Publishing Institute"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Buildings",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref",
+    "doaj"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2075-5309/15/10/1694/pdf?version=1747470763",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5091631186",
+      "display_name": "Francesco M. De Paola",
+      "orcid": "https://orcid.org/0000-0003-0036-1191",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-0036-1191"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I71267560",
+       "display_name": "University of Naples Federico II",
+       "ror": "https://ror.org/05290cv24",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I71267560"
+       ]
+      }
+     ],
+     "countries": [
+      "IT"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Francesco De Paola",
+     "raw_affiliation_strings": [
+      "Department of Civil, Architectural and Envoronmental Engineering, University of Naples Federico II, Via Claudio 21, 80125 Napoli, Italy"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0003-0036-1191",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Civil, Architectural and Envoronmental Engineering, University of Naples Federico II, Via Claudio 21, 80125 Napoli, Italy",
+       "institution_ids": [
+        "https://openalex.org/I71267560"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5057759684",
+      "display_name": "Giuseppe Speranza",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I71267560",
+       "display_name": "University of Naples Federico II",
+       "ror": "https://ror.org/05290cv24",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I71267560"
+       ]
+      }
+     ],
+     "countries": [
+      "IT"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Giuseppe Speranza",
+     "raw_affiliation_strings": [
+      "Department of Civil, Architectural and Envoronmental Engineering, University of Naples Federico II, Via Claudio 21, 80125 Napoli, Italy"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Civil, Architectural and Envoronmental Engineering, University of Naples Federico II, Via Claudio 21, 80125 Napoli, Italy",
+       "institution_ids": [
+        "https://openalex.org/I71267560"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5084939179",
+      "display_name": "Giuseppe Ascione",
+      "orcid": "https://orcid.org/0000-0003-4426-9733",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4426-9733"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I71267560",
+       "display_name": "University of Naples Federico II",
+       "ror": "https://ror.org/05290cv24",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I71267560"
+       ]
+      }
+     ],
+     "countries": [
+      "IT"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Giuseppe Ascione",
+     "raw_affiliation_strings": [
+      "Department of Civil, Architectural and Envoronmental Engineering, University of Naples Federico II, Via Claudio 21, 80125 Napoli, Italy"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0003-4426-9733",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Civil, Architectural and Envoronmental Engineering, University of Naples Federico II, Via Claudio 21, 80125 Napoli, Italy",
+       "institution_ids": [
+        "https://openalex.org/I71267560"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5048028629",
+      "display_name": "Nunzio Marrone",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I71267560",
+       "display_name": "University of Naples Federico II",
+       "ror": "https://ror.org/05290cv24",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I71267560"
+       ]
+      }
+     ],
+     "countries": [
+      "IT"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Nunzio Marrone",
+     "raw_affiliation_strings": [
+      "Department of Civil, Architectural and Envoronmental Engineering, University of Naples Federico II, Via Claudio 21, 80125 Napoli, Italy"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Civil, Architectural and Envoronmental Engineering, University of Naples Federico II, Via Claudio 21, 80125 Napoli, Italy",
+       "institution_ids": [
+        "https://openalex.org/I71267560"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5091631186"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I71267560"
+   ],
+   "apc_list": {
+    "value": 2600,
+    "currency": "CHF",
+    "value_usd": 3137
+   },
+   "apc_paid": {
+    "value": 2600,
+    "currency": "CHF",
+    "value_usd": 3137
+   },
+   "fwci": 0.7529,
+   "has_fulltext": true,
+   "cited_by_count": 2,
+   "citation_normalized_percentile": {
+    "value": 0.66376999,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": {
+    "min": 96,
+    "max": 97
+   },
+   "biblio": {
+    "volume": "15",
+    "issue": "10",
+    "first_page": "1694",
+    "last_page": "1694"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11220",
+    "display_name": "Water Systems and Optimization",
+    "score": 1.0,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2205",
+     "display_name": "Civil and Structural Engineering"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11220",
+     "display_name": "Water Systems and Optimization",
+     "score": 1.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2205",
+      "display_name": "Civil and Structural Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11006",
+     "display_name": "BIM and Construction Integration",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2215",
+      "display_name": "Building and Construction"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10454",
+     "display_name": "Optimal Power Flow Distribution",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/water-distribution-networks",
+     "display_name": "water distribution systems",
+     "score": 0.9160000085830688
+    },
+    {
+     "id": "https://openalex.org/keywords/network-design-optimization",
+     "display_name": "network design optimization",
+     "score": 0.7540000081062317
+    },
+    {
+     "id": "https://openalex.org/keywords/harmony-search-algorithm",
+     "display_name": "harmony search algorithm",
+     "score": 0.7900000214576721
+    },
+    {
+     "id": "https://openalex.org/keywords/dynamo",
+     "display_name": "dynamo",
+     "score": 0.5839999914169312
+    },
+    {
+     "id": "https://openalex.org/keywords/epanet",
+     "display_name": "EPANET",
+     "score": 0.8930000066757202
+    },
+    {
+     "id": "https://openalex.org/keywords/autodesk-civil-3d",
+     "display_name": "AutoCAD Civil 3D",
+     "score": 0.902999997138977
+    },
+    {
+     "id": "https://openalex.org/keywords/building-information-modeling",
+     "display_name": "building information modeling",
+     "score": 0.8830000162124634
+    },
+    {
+     "id": "https://openalex.org/keywords/pipe-diameter-optimization",
+     "display_name": "pipe diameter optimization",
+     "score": 0.878000020980835
+    },
+    {
+     "id": "https://openalex.org/keywords/network-layout-optimization",
+     "display_name": "network layout optimization",
+     "score": 0.7570000290870667
+    },
+    {
+     "id": "https://openalex.org/keywords/capital-cost-minimization",
+     "display_name": "investment cost minimization",
+     "score": 0.9089999794960022
+    },
+    {
+     "id": "https://openalex.org/keywords/hydraulic-constraints",
+     "display_name": "hydraulic constraints",
+     "score": 0.9089999794960022
+    },
+    {
+     "id": "https://openalex.org/keywords/pressure-constraints",
+     "display_name": "pressure constraints",
+     "score": 0.49900001287460327
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C33099171",
+     "wikidata": "https://www.wikidata.org/wiki/Q26208718",
+     "display_name": "Harmony search",
+     "level": 2,
+     "score": 0.9107145071029663
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.5016574859619141
+    },
+    {
+     "id": "https://openalex.org/C135757623",
+     "wikidata": "https://www.wikidata.org/wiki/Q719861",
+     "display_name": "Dynamo",
+     "level": 3,
+     "score": 0.4395657479763031
+    },
+    {
+     "id": "https://openalex.org/C2776453491",
+     "wikidata": "https://www.wikidata.org/wiki/Q5659234",
+     "display_name": "Harmony (color)",
+     "level": 2,
+     "score": 0.42096567153930664
+    },
+    {
+     "id": "https://openalex.org/C126255220",
+     "wikidata": "https://www.wikidata.org/wiki/Q141495",
+     "display_name": "Mathematical optimization",
+     "level": 1,
+     "score": 0.37995901703834534
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.24412289261817932
+    },
+    {
+     "id": "https://openalex.org/C154945302",
+     "wikidata": "https://www.wikidata.org/wiki/Q11660",
+     "display_name": "Artificial intelligence",
+     "level": 1,
+     "score": 0.18273437023162842
+    },
+    {
+     "id": "https://openalex.org/C121332964",
+     "wikidata": "https://www.wikidata.org/wiki/Q413",
+     "display_name": "Physics",
+     "level": 0,
+     "score": 0.17489174008369446
+    },
+    {
+     "id": "https://openalex.org/C120665830",
+     "wikidata": "https://www.wikidata.org/wiki/Q14620",
+     "display_name": "Optics",
+     "level": 1,
+     "score": 0.0753212571144104
+    },
+    {
+     "id": "https://openalex.org/C62520636",
+     "wikidata": "https://www.wikidata.org/wiki/Q944",
+     "display_name": "Quantum mechanics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C115260700",
+     "wikidata": "https://www.wikidata.org/wiki/Q11408",
+     "display_name": "Magnetic field",
+     "level": 2,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 3,
+   "locations": [
+    {
+     "id": "doi:10.3390/buildings15101694",
+     "doi": "https://doi.org/10.3390/buildings15101694",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.3390/buildings15101694",
+     "pdf_url": "https://www.mdpi.com/2075-5309/15/10/1694/pdf?version=1747470763",
+     "source": {
+      "id": "https://openalex.org/S4210191137",
+      "display_name": "Buildings",
+      "issn_l": "2075-5309",
+      "issn": [
+       "2075-5309"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+       "anvur-class-a",
+       "anvur-scientific",
+       "cwts-core",
+       "doaj",
+       "norway-1",
+       "poland-70",
+       "russia-white-list-1"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+       "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Buildings",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "doi:10.20944/preprints202503.0995.v1",
+     "doi": "https://doi.org/10.20944/preprints202503.0995.v1",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.20944/preprints202503.0995.v1",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S6309402219",
+      "display_name": "Preprints.org",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [
+       "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+       "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "repository"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "acceptedVersion",
+     "is_accepted": true,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "posted-content"
+    },
+    {
+     "id": "pmh:oai:doaj.org/article:38f6cec101ab4b1fb377452ce5555558",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "https://doaj.org/article/38f6cec101ab4b1fb377452ce5555558",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401280",
+      "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by-sa",
+     "license_id": "https://openalex.org/licenses/cc-by-sa",
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "Buildings, Vol 15, Iss 10, p 1694 (2025)",
+     "raw_type": "article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.3390/buildings15101694",
+    "doi": "https://doi.org/10.3390/buildings15101694",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/buildings15101694",
+    "pdf_url": "https://www.mdpi.com/2075-5309/15/10/1694/pdf?version=1747470763",
+    "source": {
+     "id": "https://openalex.org/S4210191137",
+     "display_name": "Buildings",
+     "issn_l": "2075-5309",
+     "issn": [
+      "2075-5309"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "anvur-class-a",
+      "anvur-scientific",
+      "cwts-core",
+      "doaj",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310310987",
+     "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310310987"
+     ],
+     "host_organization_lineage_names": [
+      "Multidisciplinary Digital Publishing Institute"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Buildings",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "score": 1.0,
+     "display_name": "Industry, innovation and infrastructure",
+     "id": "https://metadata.un.org/sdg/9"
+    },
+    {
+     "score": 0.8669999837875366,
+     "display_name": "Clean water and sanitation",
+     "id": "https://metadata.un.org/sdg/6"
+    },
+    {
+     "score": 0.7646999955177307,
+     "display_name": "Sustainable cities and communities",
+     "id": "https://metadata.un.org/sdg/11"
+    }
+   ],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4410506368.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4410506368.grobid-xml"
+   },
+   "referenced_works_count": 28,
+   "referenced_works": [
+    "https://openalex.org/W1548546914",
+    "https://openalex.org/W1595159159",
+    "https://openalex.org/W1665823954",
+    "https://openalex.org/W1992166786",
+    "https://openalex.org/W1993885071",
+    "https://openalex.org/W1997621454",
+    "https://openalex.org/W2011703887",
+    "https://openalex.org/W2013082086",
+    "https://openalex.org/W2028017445",
+    "https://openalex.org/W2028173167",
+    "https://openalex.org/W2035564297",
+    "https://openalex.org/W2037801859",
+    "https://openalex.org/W2066368882",
+    "https://openalex.org/W2074271124",
+    "https://openalex.org/W2092148016",
+    "https://openalex.org/W2106905228",
+    "https://openalex.org/W2590697555",
+    "https://openalex.org/W2615663411",
+    "https://openalex.org/W2733413038",
+    "https://openalex.org/W2964983564",
+    "https://openalex.org/W3134905449",
+    "https://openalex.org/W4220876697",
+    "https://openalex.org/W4247864970",
+    "https://openalex.org/W4294537187",
+    "https://openalex.org/W4386781027",
+    "https://openalex.org/W4387419881",
+    "https://openalex.org/W6601101277",
+    "https://openalex.org/W6697807983"
+   ],
+   "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W1571647383",
+    "https://openalex.org/W4312263599",
+    "https://openalex.org/W3186397156",
+    "https://openalex.org/W3101934416",
+    "https://openalex.org/W2017525173",
+    "https://openalex.org/W4240464679",
+    "https://openalex.org/W1630364708"
+   ],
+   "abstract_inverted_index": {
+    "Digital": [
+     0
+    ],
+    "models": [
+     1
+    ],
+    "of": [
+     2,
+     14,
+     36,
+     49,
+     68,
+     82,
+     104,
+     117,
+     142,
+     150
+    ],
+    "water": [
+     3,
+     118,
+     161
+    ],
+    "distribution": [
+     4,
+     119,
+     162
+    ],
+    "networks": [
+     5
+    ],
+    "are": [
+     6
+    ],
+    "essential": [
+     7
+    ],
+    "for": [
+     8,
+     32,
+     46,
+     55,
+     77,
+     160
+    ],
+    "the": [
+     9,
+     33,
+     47,
+     69,
+     97,
+     102,
+     109,
+     115,
+     140,
+     144,
+     151
+    ],
+    "optimal": [
+     10
+    ],
+    "design": [
+     11,
+     35,
+     116
+    ],
+    "and": [
+     12,
+     80,
+     108,
+     132,
+     147,
+     157
+    ],
+    "management": [
+     13,
+     81,
+     141
+    ],
+    "infrastructure": [
+     15,
+     83
+    ],
+    "systems.": [
+     16
+    ],
+    "By": [
+     17
+    ],
+    "utilizing": [
+     18
+    ],
+    "Building": [
+     19
+    ],
+    "Information": [
+     20
+    ],
+    "Modeling": [
+     21
+    ],
+    "(BIM)": [
+     22
+    ],
+    "technology,": [
+     23
+    ],
+    "it": [
+     24,
+     154
+    ],
+    "is": [
+     25,
+     66
+    ],
+    "possible": [
+     26
+    ],
+    "to": [
+     27,
+     113
+    ],
+    "develop": [
+     28
+    ],
+    "new": [
+     29,
+     91
+    ],
+    "flow": [
+     30
+    ],
+    "charts": [
+     31
+    ],
+    "efficient": [
+     34,
+     156
+    ],
+    "hydraulic": [
+     37
+    ],
+    "infrastructures.": [
+     38
+    ],
+    "The": [
+     39,
+     121
+    ],
+    "interoperability": [
+     40
+    ],
+    "offered": [
+     41
+    ],
+    "by": [
+     42
+    ],
+    "these": [
+     43,
+     60
+    ],
+    "technologies": [
+     44
+    ],
+    "allows": [
+     45
+    ],
+    "integration": [
+     48,
+     79
+    ],
+    "various": [
+     50
+    ],
+    "workflows,": [
+     51
+    ],
+    "enabling": [
+     52
+    ],
+    "tailored": [
+     53
+    ],
+    "solutions": [
+     54,
+     76
+    ],
+    "specific": [
+     56
+    ],
+    "case": [
+     57
+    ],
+    "studies.": [
+     58
+    ],
+    "Among": [
+     59
+    ],
+    "tools,": [
+     61
+    ],
+    "AutoCAD": [
+     62
+    ],
+    "Civil": [
+     63
+    ],
+    "3D": [
+     64,
+     126
+    ],
+    "(C3D)": [
+     65
+    ],
+    "one": [
+     67
+    ],
+    "most": [
+     70
+    ],
+    "versatile": [
+     71
+    ],
+    "BIM": [
+     72,
+     127
+    ],
+    "platforms,": [
+     73
+    ],
+    "providing": [
+     74
+    ],
+    "robust": [
+     75
+    ],
+    "better": [
+     78
+    ],
+    "projects.": [
+     84,
+     163
+    ],
+    "This": [
+     85
+    ],
+    "paper": [
+     86
+    ],
+    "introduces": [
+     87
+    ],
+    "DyEHS,": [
+     88
+    ],
+    "a": [
+     89,
+     124
+    ],
+    "powerful": [
+     90
+    ],
+    "tool": [
+     92,
+     122
+    ],
+    "that": [
+     93
+    ],
+    "integrates": [
+     94
+    ],
+    "seamlessly": [
+     95
+    ],
+    "within": [
+     96
+    ],
+    "C3D": [
+     98,
+     135
+    ],
+    "environment.": [
+     99
+    ],
+    "DyEHS": [
+     100,
+     138
+    ],
+    "combines": [
+     101
+    ],
+    "capabilities": [
+     103
+    ],
+    "Dynamo,": [
+     105
+    ],
+    "EPANET": [
+     106
+    ],
+    "2.2,": [
+     107
+    ],
+    "Harmony": [
+     110
+    ],
+    "Search": [
+     111
+    ],
+    "algorithm": [
+     112
+    ],
+    "optimize": [
+     114
+    ],
+    "networks.": [
+     120
+    ],
+    "generates": [
+     123
+    ],
+    "comprehensive": [
+     125
+    ],
+    "model,": [
+     128
+    ],
+    "automatically": [
+     129
+    ],
+    "recognizing": [
+     130
+    ],
+    "fittings": [
+     131
+    ],
+    "appurtenances": [
+     133
+    ],
+    "(in": [
+     134
+    ],
+    "environment).": [
+     136
+    ],
+    "Additionally,": [
+     137
+    ],
+    "simplifies": [
+     139
+    ],
+    "both": [
+     143
+    ],
+    "horizontal": [
+     145
+    ],
+    "layout": [
+     146
+    ],
+    "vertical": [
+     148
+    ],
+    "profiles": [
+     149
+    ],
+    "network,": [
+     152
+    ],
+    "making": [
+     153
+    ],
+    "an": [
+     155
+    ],
+    "adaptable": [
+     158
+    ],
+    "solution": [
+     159
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 2
+    }
+   ],
+   "updated_date": "2026-10-11T09:32:39.932853",
+   "created_date": "2025-10-10T00:00:00"
+  }
+ ]
+}

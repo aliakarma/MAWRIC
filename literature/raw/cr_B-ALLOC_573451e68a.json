@@ -1,0 +1,432 @@
+{
+ "query": "urban water supply alternative sources quality fit for purpose matching end use demand",
+ "items": [
+  {
+   "DOI": "10.3368/wplj.39.1.1",
+   "title": [
+    "Answering the Supply\u2013Demand Gap with Alternative Water Sources: Retrofitting Cities to Achieve Net Zero Urban Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "Landscape Journal"
+   ],
+   "author": [
+    {
+     "given": "Courtney",
+     "family": "Crosson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.3368/lj.39.1.1",
+   "title": [
+    "Answering the Supply\u2013Demand Gap with Alternative Water Sources: Retrofitting Cities to Achieve Net Zero Urban Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "Landscape Journal"
+   ],
+   "author": [
+    {
+     "given": "Courtney",
+     "family": "Crosson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.2166/wpt.2022.031",
+   "title": [
+    "Demand-side water management using alternative water sources based on residential end-use"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      4,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Practice and Technology"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9828-3448",
+     "authenticated-orcid": false,
+     "given": "Y.",
+     "family": "Otaki",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Graduate School of Social Science, Hitotsubashi University, 2-1 Naka, Kunitachi, Tokyo, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Otaki",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Human Environmental Sciences, Ochanomizu University, 2-1-1 Otsuka, Bunkyo, Tokyo, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "T.",
+     "family": "Chaminda",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Engineering, University of Ruhuna, Hapugala, Wakwella Rd, Galle, Sri Lanka"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "T.",
+     "family": "Matsui",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Graduate School of Social Science, Hitotsubashi University, 2-1 Naka, Kunitachi, Tokyo, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "R.",
+     "family": "Bokalamulla",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Engineering, University of Ruhuna, Hapugala, Wakwella Rd, Galle, Sri Lanka"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "R.",
+     "family": "Thathsarani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Engineering, University of Ruhuna, Hapugala, Wakwella Rd, Galle, Sri Lanka"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "T.",
+     "family": "Joganathan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Engineering, University of Ruhuna, Hapugala, Wakwella Rd, Galle, Sri Lanka"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 8,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.2166/9781780409207_0021",
+   "title": [
+    "Water distribution systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      3,
+      15
+     ]
+    ]
+   },
+   "container-title": [
+    "Improving Water Supply Networks: Fit for Purpose Strategies and Technologies"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.2139/ssrn.4581209",
+   "title": [
+    "Urban Greenery and Alternative Water Sources Link Water Supply, Cooling, and Drainage in Urban Precincts"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Cassady  Eve",
+     "family": "Swinbourne",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Steven",
+     "family": "Kenway",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kate",
+     "family": "O&apos;Brien",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  },
+  {
+   "DOI": "10.2166/9781780409207_xiii",
+   "title": [
+    "Preface"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      3,
+      15
+     ]
+    ]
+   },
+   "container-title": [
+    "Improving Water Supply Networks: Fit for Purpose Strategies and Technologies"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.2139/ssrn.5077569",
+   "title": [
+    "A Multi-Purpose Evaluation Method for Urban Smart Water Supply System Based on Fit-for-Purpose Concept and Association Rule Mining"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Nan",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Manuel  Sebastian",
+     "family": "Fiallos-Salguero",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Soon-Thiam",
+     "family": "Khu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jia",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  },
+  {
+   "DOI": "10.1016/j.uclim.2024.101812",
+   "title": [
+    "Urban greenery and alternative water sources critically interconnect water supply, cooling, and drainage in urban precincts"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Urban Climate"
+   ],
+   "author": [
+    {
+     "given": "Cassady",
+     "family": "Swinbourne",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Steven",
+     "family": "Kenway",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Katherine R.",
+     "family": "O'Brien",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 5,
+   "type": "journal-article"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "query": "How Much Does Reclaimed Wastewater Cost? A Comprehensive Analysis for Irrigation Uses in the European Mediterranean Context",
+ "items": [
+  {
+   "DOI": "10.35483/acsa.am.108.7",
+   "title": [
+    "How Much Does Zero Energy Building Cost?"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "container-title": [
+    "Open"
+   ],
+   "author": [
+    {
+     "name": "University of Maryland",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.5040/9798216403357.0005",
+   "title": [
+    "Introduction"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "How Much Does a Great School Cost?"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "other"
+  },
+  {
+   "DOI": "10.5040/9798216403357.0006",
+   "title": [
+    "Epilogue"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "How Much Does a Great School Cost?"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "other"
+  },
+  {
+   "DOI": "10.1007/978-3-030-57373-7_20",
+   "title": [
+    "How Much Does the Sleeve Cost"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "Laparoscopic Sleeve Gastrectomy"
+   ],
+   "author": [
+    {
+     "given": "Eliana",
+     "family": "Al Haddad",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.26417/337qbr71x",
+   "title": [
+    "How Much and to Whom Does Free Education Cost? Human Right Based on Solidarity"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      15
+     ]
+    ]
+   },
+   "container-title": [
+    "European Journal of Social Sciences"
+   ],
+   "author": [
+    {
+     "given": "Gabriele",
+     "family": "Taminskaite",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "journal-article"
+  }
+ ]
+}

@@ -1,0 +1,6176 @@
+{
+ "query": "energy requirements for water production treatment end use reclamation disposal",
+ "pass": "B-PAR",
+ "y0": 2011,
+ "y1": 2013,
+ "results": [
+  {
+   "id": "https://openalex.org/W1999595821",
+   "doi": "https://doi.org/10.1016/j.rser.2012.05.022",
+   "title": "Energy requirements for water production, treatment, end use, reclamation, and disposal",
+   "display_name": "Energy requirements for water production, treatment, end use, reclamation, and disposal",
+   "relevance_score": 250.57999,
+   "publication_year": 2012,
+   "publication_date": "2012-06-27",
+   "ids": {
+    "openalex": "https://openalex.org/W1999595821",
+    "doi": "https://doi.org/10.1016/j.rser.2012.05.022",
+    "mag": "1999595821"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.1016/j.rser.2012.05.022",
+    "doi": "https://doi.org/10.1016/j.rser.2012.05.022",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.rser.2012.05.022",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S68497187",
+     "display_name": "Renewable and Sustainable Energy Reviews",
+     "issn_l": "1364-0321",
+     "issn": [
+      "1364-0321",
+      "1879-0690"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "abdc-a",
+      "anvur-class-a",
+      "anvur-scientific",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-2",
+      "ki-jl-2",
+      "norway-2",
+      "poland-200",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320990",
+     "host_organization_name": "Elsevier BV",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320990"
+     ],
+     "host_organization_lineage_names": [
+      "Elsevier BV"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Renewable and Sustainable Energy Reviews",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5053310015",
+      "display_name": "Anand Krishnan Plappally",
+      "orcid": "https://orcid.org/0000-0002-7719-9869",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-7719-9869"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I63966007",
+       "display_name": "Massachusetts Institute of Technology",
+       "ror": "https://ror.org/042nb2s44",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I63966007"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "A.K. Plappally",
+     "raw_affiliation_strings": [
+      "Center for Clean Water and Clean Energy, Department of Mechanical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Room 3-162, Cambridge, MA 02139-4307, USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Center for Clean Water and Clean Energy, Department of Mechanical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Room 3-162, Cambridge, MA 02139-4307, USA",
+       "institution_ids": [
+        "https://openalex.org/I63966007"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5056726834",
+      "display_name": "John H. Lienhard",
+      "orcid": "https://orcid.org/0000-0002-2901-0638",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-2901-0638"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I63966007",
+       "display_name": "Massachusetts Institute of Technology",
+       "ror": "https://ror.org/042nb2s44",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I63966007"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "J.H. Lienhard V",
+     "raw_affiliation_strings": [
+      "Center for Clean Water and Clean Energy, Department of Mechanical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Room 3-162, Cambridge, MA 02139-4307, USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Center for Clean Water and Clean Energy, Department of Mechanical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Room 3-162, Cambridge, MA 02139-4307, USA",
+       "institution_ids": [
+        "https://openalex.org/I63966007"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5056726834"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I63966007"
+   ],
+   "apc_list": {
+    "value": 5220,
+    "currency": "USD",
+    "value_usd": 5220
+   },
+   "apc_paid": null,
+   "fwci": 25.3221,
+   "has_fulltext": false,
+   "cited_by_count": 646,
+   "citation_normalized_percentile": {
+    "value": 0.99864146,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 94,
+    "max": 100
+   },
+   "biblio": {
+    "volume": "16",
+    "issue": "7",
+    "first_page": "4818",
+    "last_page": "4848"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T12724",
+    "display_name": "Water-Energy-Food Nexus Studies",
+    "score": 0.9692000150680542,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2312",
+     "display_name": "Water Science and Technology"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/23",
+     "display_name": "Environmental Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T12724",
+     "display_name": "Water-Energy-Food Nexus Studies",
+     "score": 0.9692000150680542,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2312",
+      "display_name": "Water Science and Technology"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10969",
+     "display_name": "Water resources management and optimization",
+     "score": 0.010499999858438969,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10435",
+     "display_name": "Environmental Impact and Sustainability",
+     "score": 0.006399999838322401,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/energy-intensity",
+     "display_name": "energy intensity",
+     "score": 0.6949999928474426
+    },
+    {
+     "id": "https://openalex.org/keywords/water-cycle",
+     "display_name": "water cycle",
+     "score": 0.8930000066757202
+    },
+    {
+     "id": "https://openalex.org/keywords/water-supply",
+     "display_name": "water supply",
+     "score": 0.906000018119812
+    },
+    {
+     "id": "https://openalex.org/keywords/water-treatment",
+     "display_name": "water treatment",
+     "score": 0.9869999885559082
+    },
+    {
+     "id": "https://openalex.org/keywords/wastewater-treatment",
+     "display_name": "wastewater treatment",
+     "score": 0.9789999723434448
+    },
+    {
+     "id": "https://openalex.org/keywords/irrigation",
+     "display_name": "irrigation",
+     "score": 0.5239999890327454
+    },
+    {
+     "id": "https://openalex.org/keywords/desalination",
+     "display_name": "desalination",
+     "score": 0.9179999828338623
+    },
+    {
+     "id": "https://openalex.org/keywords/hot-water-use",
+     "display_name": "hot water use",
+     "score": 0.6420000195503235
+    },
+    {
+     "id": "https://openalex.org/keywords/agricultural-water-use",
+     "display_name": "agricultural water use",
+     "score": 0.6830000281333923
+    },
+    {
+     "id": "https://openalex.org/keywords/municipal-water-use",
+     "display_name": "municipal water use",
+     "score": 0.7260000109672546
+    },
+    {
+     "id": "https://openalex.org/keywords/water-pumping",
+     "display_name": "water pumping",
+     "score": 0.5590000152587891
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-consumption",
+     "display_name": "energy consumption",
+     "score": 0.7360000014305115
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.7198604345321655
+    },
+    {
+     "id": "https://openalex.org/C97615858",
+     "wikidata": "https://www.wikidata.org/wiki/Q1341351",
+     "display_name": "Energy intensity",
+     "level": 3,
+     "score": 0.7092974185943604
+    },
+    {
+     "id": "https://openalex.org/C87717796",
+     "wikidata": "https://www.wikidata.org/wiki/Q146326",
+     "display_name": "Environmental engineering",
+     "level": 1,
+     "score": 0.5279903411865234
+    },
+    {
+     "id": "https://openalex.org/C113360713",
+     "wikidata": "https://www.wikidata.org/wiki/Q7973219",
+     "display_name": "Water-energy nexus",
+     "level": 3,
+     "score": 0.49476951360702515
+    },
+    {
+     "id": "https://openalex.org/C2780165032",
+     "wikidata": "https://www.wikidata.org/wiki/Q16869822",
+     "display_name": "Energy consumption",
+     "level": 2,
+     "score": 0.4900127947330475
+    },
+    {
+     "id": "https://openalex.org/C2778706760",
+     "wikidata": "https://www.wikidata.org/wiki/Q581950",
+     "display_name": "Life-cycle assessment",
+     "level": 3,
+     "score": 0.475844144821167
+    },
+    {
+     "id": "https://openalex.org/C149207113",
+     "wikidata": "https://www.wikidata.org/wiki/Q26534",
+     "display_name": "Water use",
+     "level": 2,
+     "score": 0.4692162275314331
+    },
+    {
+     "id": "https://openalex.org/C88862950",
+     "wikidata": "https://www.wikidata.org/wiki/Q11453",
+     "display_name": "Irrigation",
+     "level": 2,
+     "score": 0.4549644887447357
+    },
+    {
+     "id": "https://openalex.org/C94061648",
+     "wikidata": "https://www.wikidata.org/wiki/Q336191",
+     "display_name": "Wastewater",
+     "level": 2,
+     "score": 0.4502526819705963
+    },
+    {
+     "id": "https://openalex.org/C146357865",
+     "wikidata": "https://www.wikidata.org/wiki/Q1123245",
+     "display_name": "Stage (stratigraphy)",
+     "level": 2,
+     "score": 0.44845929741859436
+    },
+    {
+     "id": "https://openalex.org/C548081761",
+     "wikidata": "https://www.wikidata.org/wiki/Q180388",
+     "display_name": "Waste management",
+     "level": 1,
+     "score": 0.4468053877353668
+    },
+    {
+     "id": "https://openalex.org/C2776870568",
+     "wikidata": "https://www.wikidata.org/wiki/Q190873",
+     "display_name": "Desalination",
+     "level": 3,
+     "score": 0.4430198073387146
+    },
+    {
+     "id": "https://openalex.org/C2775865663",
+     "wikidata": "https://www.wikidata.org/wiki/Q7247687",
+     "display_name": "Produced water",
+     "level": 2,
+     "score": 0.42256468534469604
+    },
+    {
+     "id": "https://openalex.org/C2778348673",
+     "wikidata": "https://www.wikidata.org/wiki/Q739302",
+     "display_name": "Production (economics)",
+     "level": 2,
+     "score": 0.30846157670021057
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.2317739725112915
+    },
+    {
+     "id": "https://openalex.org/C86803240",
+     "wikidata": "https://www.wikidata.org/wiki/Q420",
+     "display_name": "Biology",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C148609458",
+     "wikidata": "https://www.wikidata.org/wiki/Q7021281",
+     "display_name": "Nexus (standard)",
+     "level": 2,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C149635348",
+     "wikidata": "https://www.wikidata.org/wiki/Q193040",
+     "display_name": "Embedded system",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C119599485",
+     "wikidata": "https://www.wikidata.org/wiki/Q43035",
+     "display_name": "Electrical engineering",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C139719470",
+     "wikidata": "https://www.wikidata.org/wiki/Q39680",
+     "display_name": "Macroeconomics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C151730666",
+     "wikidata": "https://www.wikidata.org/wiki/Q7205",
+     "display_name": "Paleontology",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C54355233",
+     "wikidata": "https://www.wikidata.org/wiki/Q7162",
+     "display_name": "Genetics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C41625074",
+     "wikidata": "https://www.wikidata.org/wiki/Q176088",
+     "display_name": "Membrane",
+     "level": 2,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C162324750",
+     "wikidata": "https://www.wikidata.org/wiki/Q8134",
+     "display_name": "Economics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C18903297",
+     "wikidata": "https://www.wikidata.org/wiki/Q7150",
+     "display_name": "Ecology",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 2,
+   "locations": [
+    {
+     "id": "doi:10.1016/j.rser.2012.05.022",
+     "doi": "https://doi.org/10.1016/j.rser.2012.05.022",
+     "is_oa": false,
+     "landing_page_url": "https://doi.org/10.1016/j.rser.2012.05.022",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S68497187",
+      "display_name": "Renewable and Sustainable Energy Reviews",
+      "issn_l": "1364-0321",
+      "issn": [
+       "1364-0321",
+       "1879-0690"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "abdc-a",
+       "anvur-class-a",
+       "anvur-scientific",
+       "cwts-core",
+       "dongbi-b",
+       "jufo-2",
+       "ki-jl-2",
+       "norway-2",
+       "poland-200",
+       "russia-white-list-1",
+       "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+       "Elsevier BV"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Renewable and Sustainable Energy Reviews",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "pmh:oai:RePEc:eee:rensus:v:16:y:2012:i:7:p:4818-4848",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://www.sciencedirect.com/science/article/pii/S1364032112003541",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401271",
+      "display_name": "RePEc: Research Papers in Economics",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I77793887",
+      "host_organization_name": "Federal Reserve Bank of St. Louis",
+      "host_organization_lineage": [
+       "https://openalex.org/I77793887"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "article"
+    }
+   ],
+   "best_oa_location": null,
+   "sustainable_development_goals": [
+    {
+     "id": "https://metadata.un.org/sdg/6",
+     "score": 0.965499997138977,
+     "display_name": "Clean water and sanitation"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/12",
+     "score": 0.7811999917030334,
+     "display_name": "Responsible consumption and production"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/7",
+     "score": 0.75,
+     "display_name": "Affordable and clean energy"
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "id": "https://metadata.un.org/sdg/6",
+     "score": 0.8100000023841858,
+     "display_name": "Clean water and sanitation"
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 135,
+   "referenced_works": [
+    "https://openalex.org/W61521711",
+    "https://openalex.org/W101466279",
+    "https://openalex.org/W183490167",
+    "https://openalex.org/W583408546",
+    "https://openalex.org/W1479774196",
+    "https://openalex.org/W1496419786",
+    "https://openalex.org/W1501779824",
+    "https://openalex.org/W1511267833",
+    "https://openalex.org/W1511418098",
+    "https://openalex.org/W1530100561",
+    "https://openalex.org/W1540502003",
+    "https://openalex.org/W1545623967",
+    "https://openalex.org/W1556753415",
+    "https://openalex.org/W1565058633",
+    "https://openalex.org/W1574201220",
+    "https://openalex.org/W1588115571",
+    "https://openalex.org/W1600406586",
+    "https://openalex.org/W1612840969",
+    "https://openalex.org/W1614569124",
+    "https://openalex.org/W1768324739",
+    "https://openalex.org/W1804244992",
+    "https://openalex.org/W1965701089",
+    "https://openalex.org/W1966191442",
+    "https://openalex.org/W1966965432",
+    "https://openalex.org/W1969617598",
+    "https://openalex.org/W1974394235",
+    "https://openalex.org/W1976130691",
+    "https://openalex.org/W1980526420",
+    "https://openalex.org/W1982533702",
+    "https://openalex.org/W1983264913",
+    "https://openalex.org/W1983548496",
+    "https://openalex.org/W1984017220",
+    "https://openalex.org/W1984413343",
+    "https://openalex.org/W1987243139",
+    "https://openalex.org/W1989254529",
+    "https://openalex.org/W1989829576",
+    "https://openalex.org/W1990439580",
+    "https://openalex.org/W1991676311",
+    "https://openalex.org/W1993419946",
+    "https://openalex.org/W1996045323",
+    "https://openalex.org/W1999436561",
+    "https://openalex.org/W2004651588",
+    "https://openalex.org/W2005327918",
+    "https://openalex.org/W2005549961",
+    "https://openalex.org/W2006070970",
+    "https://openalex.org/W2007226613",
+    "https://openalex.org/W2008942183",
+    "https://openalex.org/W2011599735",
+    "https://openalex.org/W2016612416",
+    "https://openalex.org/W2017968237",
+    "https://openalex.org/W2019069826",
+    "https://openalex.org/W2019369471",
+    "https://openalex.org/W2019835127",
+    "https://openalex.org/W2019900581",
+    "https://openalex.org/W2021613571",
+    "https://openalex.org/W2030437563",
+    "https://openalex.org/W2032247918",
+    "https://openalex.org/W2035119419",
+    "https://openalex.org/W2036204439",
+    "https://openalex.org/W2038936040",
+    "https://openalex.org/W2040482443",
+    "https://openalex.org/W2041054712",
+    "https://openalex.org/W2042044583",
+    "https://openalex.org/W2042738426",
+    "https://openalex.org/W2042912488",
+    "https://openalex.org/W2043127452",
+    "https://openalex.org/W2044147880",
+    "https://openalex.org/W2044317054",
+    "https://openalex.org/W2047599738",
+    "https://openalex.org/W2050251662",
+    "https://openalex.org/W2053128831",
+    "https://openalex.org/W2055638681",
+    "https://openalex.org/W2055759818",
+    "https://openalex.org/W2055898148",
+    "https://openalex.org/W2059626551",
+    "https://openalex.org/W2061520206",
+    "https://openalex.org/W2063565361",
+    "https://openalex.org/W2064892972",
+    "https://openalex.org/W2072260647",
+    "https://openalex.org/W2075100544",
+    "https://openalex.org/W2077848991",
+    "https://openalex.org/W2081245481",
+    "https://openalex.org/W2081576181",
+    "https://openalex.org/W2084024028",
+    "https://openalex.org/W2087008170",
+    "https://openalex.org/W2088584649",
+    "https://openalex.org/W2093987900",
+    "https://openalex.org/W2094420182",
+    "https://openalex.org/W2096954549",
+    "https://openalex.org/W2097644508",
+    "https://openalex.org/W2098014929",
+    "https://openalex.org/W2098052982",
+    "https://openalex.org/W2111348289",
+    "https://openalex.org/W2113161894",
+    "https://openalex.org/W2121397451",
+    "https://openalex.org/W2125450434",
+    "https://openalex.org/W2131901707",
+    "https://openalex.org/W2134455893",
+    "https://openalex.org/W2145110071",
+    "https://openalex.org/W2145255171",
+    "https://openalex.org/W2145875183",
+    "https://openalex.org/W2147611336",
+    "https://openalex.org/W2164195355",
+    "https://openalex.org/W2166507912",
+    "https://openalex.org/W2167190610",
+    "https://openalex.org/W2171183174",
+    "https://openalex.org/W2181793822",
+    "https://openalex.org/W2185112439",
+    "https://openalex.org/W2259848152",
+    "https://openalex.org/W2275569146",
+    "https://openalex.org/W2304720898",
+    "https://openalex.org/W2318393628",
+    "https://openalex.org/W2320842685",
+    "https://openalex.org/W2365982637",
+    "https://openalex.org/W2499564822",
+    "https://openalex.org/W2506480909",
+    "https://openalex.org/W2508276758",
+    "https://openalex.org/W2554895238",
+    "https://openalex.org/W2728892519",
+    "https://openalex.org/W2910855614",
+    "https://openalex.org/W2944905213",
+    "https://openalex.org/W2992277087",
+    "https://openalex.org/W3044239230",
+    "https://openalex.org/W3143934687",
+    "https://openalex.org/W3144462128",
+    "https://openalex.org/W3209932839",
+    "https://openalex.org/W6630506195",
+    "https://openalex.org/W6633806382",
+    "https://openalex.org/W6634150409",
+    "https://openalex.org/W6674775782",
+    "https://openalex.org/W6681675295",
+    "https://openalex.org/W6699440804",
+    "https://openalex.org/W6780983365",
+    "https://openalex.org/W6815565258",
+    "https://openalex.org/W7130663293"
+   ],
+   "related_works": [
+    "https://openalex.org/W3025425035",
+    "https://openalex.org/W1504142001",
+    "https://openalex.org/W3000512637",
+    "https://openalex.org/W3089257545",
+    "https://openalex.org/W3158901785",
+    "https://openalex.org/W2982374159",
+    "https://openalex.org/W2045871299",
+    "https://openalex.org/W2990882137",
+    "https://openalex.org/W2150133147",
+    "https://openalex.org/W3101162604"
+   ],
+   "abstract_inverted_index": null,
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 54
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 47
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 48
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 65
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 44
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 50
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 59
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 53
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 50
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 54
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 33
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 35
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 25
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 25
+    },
+    {
+     "year": 2012,
+     "cited_by_count": 2
+    }
+   ],
+   "updated_date": "2026-10-15T10:00:46.086208",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W2148155489",
+   "doi": "https://doi.org/10.1093/ijlct/cts049",
+   "title": "Produced water treatment technologies",
+   "display_name": "Produced water treatment technologies",
+   "relevance_score": 41.26553,
+   "publication_year": 2012,
+   "publication_date": "2012-07-04",
+   "ids": {
+    "openalex": "https://openalex.org/W2148155489",
+    "doi": "https://doi.org/10.1093/ijlct/cts049",
+    "mag": "2148155489"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.1093/ijlct/cts049",
+    "doi": "https://doi.org/10.1093/ijlct/cts049",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1093/ijlct/cts049",
+    "pdf_url": "https://academic.oup.com/ijlct/article-pdf/9/3/157/9644076/cts049.pdf",
+    "source": {
+     "id": "https://openalex.org/S200298645",
+     "display_name": "International Journal of Low-Carbon Technologies",
+     "issn_l": "1748-1317",
+     "issn": [
+      "1748-1317",
+      "1748-1325"
+     ],
+     "is_oa": false,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "anvur-class-a",
+      "anvur-scientific",
+      "cwts-core",
+      "doaj",
+      "dongbi-d",
+      "jufo-1",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310311648",
+     "host_organization_name": "Oxford University Press",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310311648",
+      "https://openalex.org/P4310311647"
+     ],
+     "host_organization_lineage_names": [
+      "Oxford University Press",
+      "University of Oxford"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Low-Carbon Technologies",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref",
+    "doaj"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://academic.oup.com/ijlct/article-pdf/9/3/157/9644076/cts049.pdf",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5031486173",
+      "display_name": "Ebenezer T. Igunnu",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I142263535",
+       "display_name": "University of Nottingham",
+       "ror": "https://ror.org/01ee9ar58",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I142263535"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ebenezer T. Igunnu",
+     "raw_affiliation_strings": [
+      "Faculty of Engineering, Department of Chemical and Environmental Engineering, and Energy and Sustainability Research Division, University of Nottingham, Nottingham NG7 2RD, UK"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Faculty of Engineering, Department of Chemical and Environmental Engineering, and Energy and Sustainability Research Division, University of Nottingham, Nottingham NG7 2RD, UK",
+       "institution_ids": [
+        "https://openalex.org/I142263535"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5100749714",
+      "display_name": "George Zheng Chen",
+      "orcid": "https://orcid.org/0000-0002-5589-5767",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5589-5767"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I142263535",
+       "display_name": "University of Nottingham",
+       "ror": "https://ror.org/01ee9ar58",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I142263535"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "George Z. Chen",
+     "raw_affiliation_strings": [
+      "Faculty of Engineering, Department of Chemical and Environmental Engineering, and Energy and Sustainability Research Division, University of Nottingham, Nottingham NG7 2RD, UK"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Faculty of Engineering, Department of Chemical and Environmental Engineering, and Energy and Sustainability Research Division, University of Nottingham, Nottingham NG7 2RD, UK",
+       "institution_ids": [
+        "https://openalex.org/I142263535"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I142263535"
+   ],
+   "apc_list": {
+    "value": 2886,
+    "currency": "USD",
+    "value_usd": 2886
+   },
+   "apc_paid": {
+    "value": 2886,
+    "currency": "USD",
+    "value_usd": 2886
+   },
+   "fwci": 17.1725,
+   "has_fulltext": true,
+   "cited_by_count": 804,
+   "citation_normalized_percentile": {
+    "value": 0.99586657,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+   },
+   "biblio": {
+    "volume": "9",
+    "issue": "3",
+    "first_page": "157",
+    "last_page": "177"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T10210",
+    "display_name": "Advanced oxidation water treatment",
+    "score": 0.271699994802475,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2312",
+     "display_name": "Water Science and Technology"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/23",
+     "display_name": "Environmental Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T10210",
+     "display_name": "Advanced oxidation water treatment",
+     "score": 0.271699994802475,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2312",
+      "display_name": "Water Science and Technology"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11781",
+     "display_name": "Wastewater Treatment and Reuse",
+     "score": 0.20520000159740448,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2311",
+      "display_name": "Waste Management and Disposal"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10197",
+     "display_name": "Membrane Separation Technologies",
+     "score": 0.15279999375343323,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2312",
+      "display_name": "Water Science and Technology"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/produced-water",
+     "display_name": "produced water",
+     "score": 0.8270000219345093
+    },
+    {
+     "id": "https://openalex.org/keywords/produced-water-treatment",
+     "display_name": "produced water treatment",
+     "score": 0.9449999928474426
+    },
+    {
+     "id": "https://openalex.org/keywords/produced-water-management",
+     "display_name": "produced water management",
+     "score": 0.8500000238418579
+    },
+    {
+     "id": "https://openalex.org/keywords/electrochemical-treatment",
+     "display_name": "electrochemical treatment",
+     "score": 0.8659999966621399
+    },
+    {
+     "id": "https://openalex.org/keywords/photoelectrochemistry",
+     "display_name": "photoelectrochemistry",
+     "score": 0.9240000247955322
+    },
+    {
+     "id": "https://openalex.org/keywords/water-electrolysis",
+     "display_name": "water electrolysis",
+     "score": 0.9959999918937683
+    },
+    {
+     "id": "https://openalex.org/keywords/fuel-cells",
+     "display_name": "fuel cells",
+     "score": 0.9860000014305115
+    },
+    {
+     "id": "https://openalex.org/keywords/electrodeposition",
+     "display_name": "electrodeposition",
+     "score": 1.0
+    },
+    {
+     "id": "https://openalex.org/keywords/metal-recovery",
+     "display_name": "metal recovery",
+     "score": 0.6000000238418579
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-storage",
+     "display_name": "energy storage",
+     "score": 0.7360000014305115
+    },
+    {
+     "id": "https://openalex.org/keywords/water-reuse",
+     "display_name": "water reuse",
+     "score": 0.6159999966621399
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C163127949",
+     "wikidata": "https://www.wikidata.org/wiki/Q64403",
+     "display_name": "Electrolysis",
+     "level": 4,
+     "score": 0.6717687845230103
+    },
+    {
+     "id": "https://openalex.org/C2775865663",
+     "wikidata": "https://www.wikidata.org/wiki/Q7247687",
+     "display_name": "Produced water",
+     "level": 2,
+     "score": 0.6644259095191956
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.6247931122779846
+    },
+    {
+     "id": "https://openalex.org/C48256821",
+     "wikidata": "https://www.wikidata.org/wiki/Q903456",
+     "display_name": "Electrolysis of water",
+     "level": 5,
+     "score": 0.5574489235877991
+    },
+    {
+     "id": "https://openalex.org/C548081761",
+     "wikidata": "https://www.wikidata.org/wiki/Q180388",
+     "display_name": "Waste management",
+     "level": 1,
+     "score": 0.5223573446273804
+    },
+    {
+     "id": "https://openalex.org/C190960625",
+     "wikidata": "https://www.wikidata.org/wiki/Q1058719",
+     "display_name": "Water treatment",
+     "level": 2,
+     "score": 0.500312328338623
+    },
+    {
+     "id": "https://openalex.org/C94061648",
+     "wikidata": "https://www.wikidata.org/wiki/Q336191",
+     "display_name": "Wastewater",
+     "level": 2,
+     "score": 0.4415636658668518
+    },
+    {
+     "id": "https://openalex.org/C87717796",
+     "wikidata": "https://www.wikidata.org/wiki/Q146326",
+     "display_name": "Environmental engineering",
+     "level": 1,
+     "score": 0.36441367864608765
+    },
+    {
+     "id": "https://openalex.org/C68801617",
+     "wikidata": "https://www.wikidata.org/wiki/Q162908",
+     "display_name": "Electrolyte",
+     "level": 3,
+     "score": 0.2695878744125366
+    },
+    {
+     "id": "https://openalex.org/C185592680",
+     "wikidata": "https://www.wikidata.org/wiki/Q2329",
+     "display_name": "Chemistry",
+     "level": 0,
+     "score": 0.20113122463226318
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.13937130570411682
+    },
+    {
+     "id": "https://openalex.org/C17525397",
+     "wikidata": "https://www.wikidata.org/wiki/Q176140",
+     "display_name": "Electrode",
+     "level": 2,
+     "score": 0.12192016839981079
+    },
+    {
+     "id": "https://openalex.org/C147789679",
+     "wikidata": "https://www.wikidata.org/wiki/Q11372",
+     "display_name": "Physical chemistry",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 3,
+   "locations": [
+    {
+     "id": "doi:10.1093/ijlct/cts049",
+     "doi": "https://doi.org/10.1093/ijlct/cts049",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.1093/ijlct/cts049",
+     "pdf_url": "https://academic.oup.com/ijlct/article-pdf/9/3/157/9644076/cts049.pdf",
+     "source": {
+      "id": "https://openalex.org/S200298645",
+      "display_name": "International Journal of Low-Carbon Technologies",
+      "issn_l": "1748-1317",
+      "issn": [
+       "1748-1317",
+       "1748-1325"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+       "anvur-class-a",
+       "anvur-scientific",
+       "cwts-core",
+       "doaj",
+       "dongbi-d",
+       "jufo-1",
+       "norway-1",
+       "poland-70",
+       "russia-white-list-1"
+      ],
+      "host_organization": "https://openalex.org/P4310311648",
+      "host_organization_name": "Oxford University Press",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310311648",
+       "https://openalex.org/P4310311647"
+      ],
+      "host_organization_lineage_names": [
+       "Oxford University Press",
+       "University of Oxford"
+      ],
+      "type": "journal"
+     },
+     "license": "cc-by-nc",
+     "license_id": "https://openalex.org/licenses/cc-by-nc",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "International Journal of Low-Carbon Technologies",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "pmh:oai:RePEc:oup:ijlctc:v:9:y:2014:i:3:p:157-177.",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://hdl.handle.net/10.1093/ijlct/cts049",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401271",
+      "display_name": "RePEc: Research Papers in Economics",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I77793887",
+      "host_organization_name": "Federal Reserve Bank of St. Louis",
+      "host_organization_lineage": [
+       "https://openalex.org/I77793887"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "article"
+    },
+    {
+     "id": "pmh:oai:nottingham-repository.worktribe.com:3213686",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "https://nottingham-repository.worktribe.com/output/3213686",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306402483",
+      "display_name": "Repository@Nottingham (University of Nottingham)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I142263535",
+      "host_organization_name": "University of Nottingham",
+      "host_organization_lineage": [
+       "https://openalex.org/I142263535"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by-nc",
+     "license_id": "https://openalex.org/licenses/cc-by-nc",
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "",
+     "raw_type": "Journal Article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.1093/ijlct/cts049",
+    "doi": "https://doi.org/10.1093/ijlct/cts049",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1093/ijlct/cts049",
+    "pdf_url": "https://academic.oup.com/ijlct/article-pdf/9/3/157/9644076/cts049.pdf",
+    "source": {
+     "id": "https://openalex.org/S200298645",
+     "display_name": "International Journal of Low-Carbon Technologies",
+     "issn_l": "1748-1317",
+     "issn": [
+      "1748-1317",
+      "1748-1325"
+     ],
+     "is_oa": false,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "anvur-class-a",
+      "anvur-scientific",
+      "cwts-core",
+      "doaj",
+      "dongbi-d",
+      "jufo-1",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310311648",
+     "host_organization_name": "Oxford University Press",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310311648",
+      "https://openalex.org/P4310311647"
+     ],
+     "host_organization_lineage_names": [
+      "Oxford University Press",
+      "University of Oxford"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Low-Carbon Technologies",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "id": "https://metadata.un.org/sdg/6",
+     "score": 0.8999999761581421,
+     "display_name": "Clean water and sanitation"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/7",
+     "score": 0.878000020980835,
+     "display_name": "Affordable and clean energy"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/12",
+     "score": 0.807699978351593,
+     "display_name": "Responsible consumption and production"
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "id": "https://metadata.un.org/sdg/9",
+     "score": 0.41999998688697815,
+     "display_name": "Industry, innovation and infrastructure"
+    }
+   ],
+   "study_designs": [],
+   "awards": [
+    {
+     "id": "https://openalex.org/G1805754632",
+     "display_name": null,
+     "funder_award_id": "EP/F026412/1",
+     "funder_id": "https://openalex.org/F4320334627",
+     "funder_display_name": "Engineering and Physical Sciences Research Council"
+    },
+    {
+     "id": "https://openalex.org/G7110355673",
+     "display_name": null,
+     "funder_award_id": "EP/J000582/1",
+     "funder_id": "https://openalex.org/F4320334627",
+     "funder_display_name": "Engineering and Physical Sciences Research Council"
+    }
+   ],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320334627",
+     "display_name": "Engineering and Physical Sciences Research Council",
+     "ror": "https://ror.org/0439y7842"
+    }
+   ],
+   "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2148155489.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2148155489.grobid-xml"
+   },
+   "referenced_works_count": 90,
+   "referenced_works": [
+    "https://openalex.org/W25588674",
+    "https://openalex.org/W122827781",
+    "https://openalex.org/W138595551",
+    "https://openalex.org/W635351358",
+    "https://openalex.org/W1495876001",
+    "https://openalex.org/W1500214228",
+    "https://openalex.org/W1522357543",
+    "https://openalex.org/W1586079817",
+    "https://openalex.org/W1597212170",
+    "https://openalex.org/W1864421881",
+    "https://openalex.org/W1960931982",
+    "https://openalex.org/W1964286084",
+    "https://openalex.org/W1966533469",
+    "https://openalex.org/W1967471062",
+    "https://openalex.org/W1967511661",
+    "https://openalex.org/W1967708617",
+    "https://openalex.org/W1969394926",
+    "https://openalex.org/W1974651436",
+    "https://openalex.org/W1976971798",
+    "https://openalex.org/W1979573329",
+    "https://openalex.org/W1980137469",
+    "https://openalex.org/W1984144084",
+    "https://openalex.org/W1986999672",
+    "https://openalex.org/W1988460615",
+    "https://openalex.org/W1996431065",
+    "https://openalex.org/W1996938221",
+    "https://openalex.org/W1997025858",
+    "https://openalex.org/W1999639413",
+    "https://openalex.org/W1999775081",
+    "https://openalex.org/W2013725188",
+    "https://openalex.org/W2017124354",
+    "https://openalex.org/W2019418473",
+    "https://openalex.org/W2023570512",
+    "https://openalex.org/W2026130064",
+    "https://openalex.org/W2027983869",
+    "https://openalex.org/W2028142039",
+    "https://openalex.org/W2034532156",
+    "https://openalex.org/W2035249477",
+    "https://openalex.org/W2035992868",
+    "https://openalex.org/W2039606768",
+    "https://openalex.org/W2040924908",
+    "https://openalex.org/W2042492216",
+    "https://openalex.org/W2043603339",
+    "https://openalex.org/W2044529477",
+    "https://openalex.org/W2046888619",
+    "https://openalex.org/W2049378584",
+    "https://openalex.org/W2049983497",
+    "https://openalex.org/W2059480188",
+    "https://openalex.org/W2060426337",
+    "https://openalex.org/W2061695687",
+    "https://openalex.org/W2065725926",
+    "https://openalex.org/W2066590321",
+    "https://openalex.org/W2068749793",
+    "https://openalex.org/W2070791637",
+    "https://openalex.org/W2076555209",
+    "https://openalex.org/W2078900345",
+    "https://openalex.org/W2080029314",
+    "https://openalex.org/W2080747945",
+    "https://openalex.org/W2081576181",
+    "https://openalex.org/W2082180064",
+    "https://openalex.org/W2082911591",
+    "https://openalex.org/W2086150366",
+    "https://openalex.org/W2086247971",
+    "https://openalex.org/W2086355451",
+    "https://openalex.org/W2087724840",
+    "https://openalex.org/W2088182692",
+    "https://openalex.org/W2089910750",
+    "https://openalex.org/W2092613342",
+    "https://openalex.org/W2093091757",
+    "https://openalex.org/W2095082735",
+    "https://openalex.org/W2114030584",
+    "https://openalex.org/W2129095138",
+    "https://openalex.org/W2129620031",
+    "https://openalex.org/W2134387483",
+    "https://openalex.org/W2134455893",
+    "https://openalex.org/W2149405752",
+    "https://openalex.org/W2399097766",
+    "https://openalex.org/W2460091176",
+    "https://openalex.org/W2519495532",
+    "https://openalex.org/W2530247043",
+    "https://openalex.org/W2746777671",
+    "https://openalex.org/W2999860633",
+    "https://openalex.org/W3083806184",
+    "https://openalex.org/W4205107684",
+    "https://openalex.org/W4205324715",
+    "https://openalex.org/W4210428686",
+    "https://openalex.org/W4211192081",
+    "https://openalex.org/W4229697861",
+    "https://openalex.org/W4234696898",
+    "https://openalex.org/W4285719527"
+   ],
+   "related_works": [
+    "https://openalex.org/W2365769328",
+    "https://openalex.org/W2804758138",
+    "https://openalex.org/W2474641498",
+    "https://openalex.org/W1878511350",
+    "https://openalex.org/W27974291",
+    "https://openalex.org/W2088153101",
+    "https://openalex.org/W4285042748",
+    "https://openalex.org/W4311996103",
+    "https://openalex.org/W1547839164",
+    "https://openalex.org/W2148155489"
+   ],
+   "abstract_inverted_index": {
+    "Produced": [
+     0
+    ],
+    "water": [
+     1,
+     28,
+     35,
+     52,
+     60,
+     111,
+     115,
+     133,
+     148,
+     156
+    ],
+    "is": [
+     2,
+     116
+    ],
+    "a": [
+     3,
+     31,
+     62,
+     117,
+     123
+    ],
+    "complex": [
+     4
+    ],
+    "mixture": [
+     5
+    ],
+    "of": [
+     6,
+     15,
+     25,
+     33,
+     65,
+     78,
+     109,
+     146,
+     151
+    ],
+    "organic": [
+     7
+    ],
+    "and": [
+     8,
+     11,
+     20,
+     40,
+     68,
+     91,
+     137,
+     149
+    ],
+    "inorganic": [
+     9
+    ],
+    "compounds": [
+     10
+    ],
+    "the": [
+     12,
+     41,
+     55,
+     66,
+     76,
+     93,
+     107,
+     164
+    ],
+    "largest": [
+     13
+    ],
+    "volume": [
+     14
+    ],
+    "by-product": [
+     16
+    ],
+    "generated": [
+     17
+    ],
+    "during": [
+     18
+    ],
+    "oil": [
+     19,
+     67
+    ],
+    "gas": [
+     21,
+     69
+    ],
+    "recovery": [
+     22,
+     150
+    ],
+    "operations.The": [
+     23
+    ],
+    "potential": [
+     24,
+     118
+    ],
+    "oilfield": [
+     26
+    ],
+    "produced": [
+     27,
+     51,
+     59,
+     79,
+     110,
+     114,
+     155
+    ],
+    "to": [
+     29,
+     47
+    ],
+    "be": [
+     30,
+     86,
+     106
+    ],
+    "source": [
+     32
+    ],
+    "fresh": [
+     34
+    ],
+    "for": [
+     36,
+     75,
+     95
+    ],
+    "water-stressed": [
+     37
+    ],
+    "oil-producing": [
+     38
+    ],
+    "countries": [
+     39
+    ],
+    "increasing": [
+     42
+    ],
+    "environmental": [
+     43
+    ],
+    "concerns": [
+     44
+    ],
+    "in": [
+     45,
+     88
+    ],
+    "addition": [
+     46
+    ],
+    "stringent": [
+     48
+    ],
+    "legislations": [
+     49
+    ],
+    "on": [
+     50,
+     103,
+     163
+    ],
+    "discharge": [
+     53
+    ],
+    "into": [
+     54
+    ],
+    "environment": [
+     56
+    ],
+    "have": [
+     57
+    ],
+    "made": [
+     58
+    ],
+    "management": [
+     61,
+     77
+    ],
+    "significant": [
+     63
+    ],
+    "part": [
+     64
+    ],
+    "business.This": [
+     70
+    ],
+    "article": [
+     71
+    ],
+    "reviews": [
+     72
+    ],
+    "current": [
+     73
+    ],
+    "technologies": [
+     74,
+     101
+    ],
+    "water,": [
+     80
+    ],
+    "examines": [
+     81
+    ],
+    "how": [
+     82
+    ],
+    "electrochemical": [
+     83,
+     139
+    ],
+    "techniques": [
+     84
+    ],
+    "may": [
+     85
+    ],
+    "used": [
+     87
+    ],
+    "these": [
+     89
+    ],
+    "areas": [
+     90
+    ],
+    "compares": [
+     92
+    ],
+    "prospects": [
+     94
+    ],
+    "future": [
+     96,
+     108
+    ],
+    "development.It": [
+     97
+    ],
+    "suggests": [
+     98
+    ],
+    "that": [
+     99,
+     129
+    ],
+    "treatment": [
+     100
+    ],
+    "based": [
+     102
+    ],
+    "electrochemistry": [
+     104
+    ],
+    "could": [
+     105,
+     141
+    ],
+    "management,": [
+     112
+    ],
+    "since": [
+     113
+    ],
+    "electrolyte": [
+     119
+    ],
+    "because": [
+     120
+    ],
+    "it": [
+     121
+    ],
+    "has": [
+     122
+    ],
+    "relatively": [
+     124
+    ],
+    "good": [
+     125
+    ],
+    "conductivity.It": [
+     126
+    ],
+    "also": [
+     127
+    ],
+    "explains": [
+     128
+    ],
+    "by": [
+     130
+    ],
+    "applying": [
+     131
+    ],
+    "photoelectrochemistry,": [
+     132
+    ],
+    "electrolysis,": [
+     134
+    ],
+    "fuel": [
+     135
+    ],
+    "cell": [
+     136
+    ],
+    "electrodeposition,": [
+     138
+    ],
+    "engineering": [
+     140
+    ],
+    "achieve": [
+     142
+    ],
+    "energy": [
+     143
+    ],
+    "storage,": [
+     144
+    ],
+    "production": [
+     145
+    ],
+    "clean": [
+     147
+    ],
+    "valuable": [
+     152
+    ],
+    "metals": [
+     153
+    ],
+    "from": [
+     154
+    ],
+    "with": [
+     157
+    ],
+    "minimal": [
+     158
+    ],
+    "or": [
+     159
+    ],
+    "no": [
+     160
+    ],
+    "negative": [
+     161
+    ],
+    "impact": [
+     162
+    ],
+    "environment.": [
+     165
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 59
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 64
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 75
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 76
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 110
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 105
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 78
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 55
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 49
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 36
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 37
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 36
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 15
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 8
+    }
+   ],
+   "updated_date": "2026-10-12T09:40:04.860316",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W2104936269",
+   "doi": "https://doi.org/10.5751/es-03781-160102",
+   "title": "The Energy-Water Nexus in Texas",
+   "display_name": "The Energy-Water Nexus in Texas",
+   "relevance_score": 39.97788,
+   "publication_year": 2011,
+   "publication_date": "2011-01-01",
+   "ids": {
+    "openalex": "https://openalex.org/W2104936269",
+    "doi": "https://doi.org/10.5751/es-03781-160102",
+    "mag": "2104936269"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.5751/es-03781-160102",
+    "doi": "https://doi.org/10.5751/es-03781-160102",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5751/es-03781-160102",
+    "pdf_url": "http://www.ecologyandsociety.org/vol16/iss1/art2/ES-2010-3781.pdf",
+    "source": {
+     "id": "https://openalex.org/S148307540",
+     "display_name": "Ecology and Society",
+     "issn_l": "1708-3087",
+     "issn": [
+      "1708-3087"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "anvur-class-a",
+      "anvur-scientific",
+      "cwts-core",
+      "doaj",
+      "dongbi-b",
+      "jufo-1",
+      "ki-jl-1",
+      "norway-1",
+      "poland-140",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310313010",
+     "host_organization_name": "Resilience Alliance",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310313010"
+     ],
+     "host_organization_lineage_names": [
+      "Resilience Alliance"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Ecology and Society",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref",
+    "doaj"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "http://www.ecologyandsociety.org/vol16/iss1/art2/ES-2010-3781.pdf",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5062660361",
+      "display_name": "Ashlynn S. Stillwell",
+      "orcid": "https://orcid.org/0000-0002-6781-6480",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6781-6480"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86519309",
+       "display_name": "The University of Texas at Austin",
+       "ror": "https://ror.org/00hj54h04",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ashlynn S. Stillwell",
+     "raw_affiliation_strings": [
+      "Department of Civil, Architectural, and Environmental Engineering ,",
+      "The University of Texas at Austin ,",
+      "University of Texas at Austin"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Civil, Architectural, and Environmental Engineering ,",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "The University of Texas at Austin ,",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of Texas at Austin",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5041402180",
+      "display_name": "Carey W. King",
+      "orcid": "https://orcid.org/0000-0001-6177-5385",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-6177-5385"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86519309",
+       "display_name": "The University of Texas at Austin",
+       "ror": "https://ror.org/00hj54h04",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Carey W. King",
+     "raw_affiliation_strings": [
+      "Center for International Energy & Environmental Policy ,",
+      "The University of Texas at Austin ,",
+      "University of Texas at Austin"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Center for International Energy & Environmental Policy ,",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "The University of Texas at Austin ,",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of Texas at Austin",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5105707671",
+      "display_name": "Michael E. Webber",
+      "orcid": "https://orcid.org/0000-0003-1359-4680",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-1359-4680"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86519309",
+       "display_name": "The University of Texas at Austin",
+       "ror": "https://ror.org/00hj54h04",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Michael E. Webber",
+     "raw_affiliation_strings": [
+      "Department of Mechanical Engineering ,",
+      "The University of Texas at Austin ,",
+      "University of Texas at Austin#TAB#"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Mechanical Engineering ,",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "The University of Texas at Austin ,",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of Texas at Austin#TAB#",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5075352192",
+      "display_name": "Ian Duncan",
+      "orcid": "https://orcid.org/0000-0001-7786-7604",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-7786-7604"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4403928371",
+       "display_name": "Bureau of Economic Geology",
+       "ror": "https://ror.org/034bxn811",
+       "country_code": null,
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I4403928371",
+        "https://openalex.org/I86519309"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I86519309",
+       "display_name": "The University of Texas at Austin",
+       "ror": "https://ror.org/00hj54h04",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ian J. Duncan",
+     "raw_affiliation_strings": [
+      "Bureau of Economic Geology ,",
+      "The University of Texas at Austin ,",
+      "University of Texas at Austin#TAB#"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Bureau of Economic Geology ,",
+       "institution_ids": [
+        "https://openalex.org/I4403928371"
+       ]
+      },
+      {
+       "raw_affiliation_string": "The University of Texas at Austin ,",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of Texas at Austin#TAB#",
+       "institution_ids": [
+        "https://openalex.org/I86519309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5077760280",
+      "display_name": "Amy Hardberger",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1298723799",
+       "display_name": "Environmental Defense Fund",
+       "ror": "https://ror.org/02tj7r959",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1298723799"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Amy Hardberger",
+     "raw_affiliation_strings": [
+      "Environmental Defense Fund Ecology and Society",
+      "Environmental Defense Fund"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Environmental Defense Fund Ecology and Society",
+       "institution_ids": [
+        "https://openalex.org/I1298723799"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Environmental Defense Fund",
+       "institution_ids": [
+        "https://openalex.org/I1298723799"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 3,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [],
+   "apc_list": {
+    "value": 975,
+    "currency": "USD",
+    "value_usd": 975
+   },
+   "apc_paid": {
+    "value": 975,
+    "currency": "USD",
+    "value_usd": 975
+   },
+   "fwci": 15.4498,
+   "has_fulltext": true,
+   "cited_by_count": 254,
+   "citation_normalized_percentile": {
+    "value": 0.99334177,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 97,
+    "max": 100
+   },
+   "biblio": {
+    "volume": "16",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T12724",
+    "display_name": "Water-Energy-Food Nexus Studies",
+    "score": 1.0,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2312",
+     "display_name": "Water Science and Technology"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/23",
+     "display_name": "Environmental Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T12724",
+     "display_name": "Water-Energy-Food Nexus Studies",
+     "score": 1.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2312",
+      "display_name": "Water Science and Technology"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10969",
+     "display_name": "Water resources management and optimization",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10435",
+     "display_name": "Environmental Impact and Sustainability",
+     "score": 0.0,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/water-energy-nexus",
+     "display_name": "water-energy nexus",
+     "score": 0.9990000128746033
+    },
+    {
+     "id": "https://openalex.org/keywords/thermal-power-plants",
+     "display_name": "thermal power plants",
+     "score": 0.8840000033378601
+    },
+    {
+     "id": "https://openalex.org/keywords/water-use",
+     "display_name": "water consumption",
+     "score": 0.4259999990463257
+    },
+    {
+     "id": "https://openalex.org/keywords/electricity-generation",
+     "display_name": "electricity generation",
+     "score": 0.8550000190734863
+    },
+    {
+     "id": "https://openalex.org/keywords/water-supply-systems",
+     "display_name": "water supply systems",
+     "score": 0.7260000109672546
+    },
+    {
+     "id": "https://openalex.org/keywords/wastewater-treatment",
+     "display_name": "wastewater treatment",
+     "score": 0.9039999842643738
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-efficiency",
+     "display_name": "energy efficiency",
+     "score": 0.7960000038146973
+    },
+    {
+     "id": "https://openalex.org/keywords/water-efficiency",
+     "display_name": "water efficiency",
+     "score": 0.9890000224113464
+    },
+    {
+     "id": "https://openalex.org/keywords/texas",
+     "display_name": "Texas",
+     "score": 0.492000013589859
+    },
+    {
+     "id": "https://openalex.org/keywords/water-resources",
+     "display_name": "water resources",
+     "score": 0.3490000069141388
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-policy",
+     "display_name": "energy policy",
+     "score": 0.49399998784065247
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C148609458",
+     "wikidata": "https://www.wikidata.org/wiki/Q7021281",
+     "display_name": "Nexus (standard)",
+     "level": 2,
+     "score": 0.7657790184020996
+    },
+    {
+     "id": "https://openalex.org/C113360713",
+     "wikidata": "https://www.wikidata.org/wiki/Q7973219",
+     "display_name": "Water-energy nexus",
+     "level": 3,
+     "score": 0.5468416810035706
+    },
+    {
+     "id": "https://openalex.org/C107826830",
+     "wikidata": "https://www.wikidata.org/wiki/Q929380",
+     "display_name": "Environmental resource management",
+     "level": 1,
+     "score": 0.48170119524002075
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.399892657995224
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.35824280977249146
+    },
+    {
+     "id": "https://openalex.org/C91375879",
+     "wikidata": "https://www.wikidata.org/wiki/Q15473274",
+     "display_name": "Environmental planning",
+     "level": 1,
+     "score": 0.3330933749675751
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.1856781244277954
+    },
+    {
+     "id": "https://openalex.org/C149635348",
+     "wikidata": "https://www.wikidata.org/wiki/Q193040",
+     "display_name": "Embedded system",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 5,
+   "locations": [
+    {
+     "id": "doi:10.5751/es-03781-160102",
+     "doi": "https://doi.org/10.5751/es-03781-160102",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.5751/es-03781-160102",
+     "pdf_url": "http://www.ecologyandsociety.org/vol16/iss1/art2/ES-2010-3781.pdf",
+     "source": {
+      "id": "https://openalex.org/S148307540",
+      "display_name": "Ecology and Society",
+      "issn_l": "1708-3087",
+      "issn": [
+       "1708-3087"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+       "anvur-class-a",
+       "anvur-scientific",
+       "cwts-core",
+       "doaj",
+       "dongbi-b",
+       "jufo-1",
+       "ki-jl-1",
+       "norway-1",
+       "poland-140",
+       "russia-white-list-1",
+       "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310313010",
+      "host_organization_name": "Resilience Alliance",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310313010"
+      ],
+      "host_organization_lineage_names": [
+       "Resilience Alliance"
+      ],
+      "type": "journal"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Ecology and Society",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "pmh:oai:http://dlc.dlib.indiana.edu:10535/7466",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "http://hdl.handle.net/10535/7466",
+     "pdf_url": "http://hdl.handle.net/10535/7466",
+     "source": {
+      "id": "https://openalex.org/S4306402437",
+      "display_name": "Digital Library Of The Commons Repository (Indiana University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I592451",
+      "host_organization_name": "Indiana University",
+      "host_organization_lineage": [
+       "https://openalex.org/I592451"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "",
+     "raw_type": "Journal Article"
+    },
+    {
+     "id": "pmh:oai:doaj.org/article:f2c36afe6b0143beaa5f61f7ace93315",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "https://doaj.org/article/f2c36afe6b0143beaa5f61f7ace93315",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401280",
+      "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by-sa",
+     "license_id": "https://openalex.org/licenses/cc-by-sa",
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "Ecology and Society, Vol 16, Iss 1, p 2 (2011)",
+     "raw_type": "article"
+    },
+    {
+     "id": "pmh:oai:repositories.lib.utexas.edu:2152/20232",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://hdl.handle.net/2152/20232",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400568",
+      "display_name": "Texas ScholarWorks (Texas Digital Library)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I4210102904",
+      "host_organization_name": "Texas Digital Library",
+      "host_organization_lineage": [
+       "https://openalex.org/I4210102904"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "http://www.ecologyandsociety.org/vol16/iss1/art2/",
+     "raw_type": "Article"
+    },
+    {
+     "id": "pmh:oai:repositories.lib.utexas.edu:2152/ETD-UT-2010-05-1194",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://hdl.handle.net/2152/ETD-UT-2010-05-1194",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400568",
+      "display_name": "Texas ScholarWorks (Texas Digital Library)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I4210102904",
+      "host_organization_name": "Texas Digital Library",
+      "host_organization_lineage": [
+       "https://openalex.org/I4210102904"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "",
+     "raw_type": "thesis"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.5751/es-03781-160102",
+    "doi": "https://doi.org/10.5751/es-03781-160102",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5751/es-03781-160102",
+    "pdf_url": "http://www.ecologyandsociety.org/vol16/iss1/art2/ES-2010-3781.pdf",
+    "source": {
+     "id": "https://openalex.org/S148307540",
+     "display_name": "Ecology and Society",
+     "issn_l": "1708-3087",
+     "issn": [
+      "1708-3087"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "anvur-class-a",
+      "anvur-scientific",
+      "cwts-core",
+      "doaj",
+      "dongbi-b",
+      "jufo-1",
+      "ki-jl-1",
+      "norway-1",
+      "poland-140",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310313010",
+     "host_organization_name": "Resilience Alliance",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310313010"
+     ],
+     "host_organization_lineage_names": [
+      "Resilience Alliance"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Ecology and Society",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "id": "https://metadata.un.org/sdg/7",
+     "score": 0.9853000044822693,
+     "display_name": "Affordable and clean energy"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/6",
+     "score": 0.8571000099182129,
+     "display_name": "Clean water and sanitation"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.4399999976158142,
+     "display_name": "Climate action"
+    }
+   ],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320308680",
+     "display_name": "Energy Foundation",
+     "ror": "https://ror.org/022bt2d08"
+    },
+    {
+     "id": "https://openalex.org/F4320310620",
+     "display_name": "University of Texas at Austin",
+     "ror": "https://ror.org/00hj54h04"
+    }
+   ],
+   "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2104936269.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2104936269.grobid-xml"
+   },
+   "referenced_works_count": 20,
+   "referenced_works": [
+    "https://openalex.org/W1566825895",
+    "https://openalex.org/W1607900896",
+    "https://openalex.org/W1974990756",
+    "https://openalex.org/W1982189112",
+    "https://openalex.org/W2014116072",
+    "https://openalex.org/W2014776253",
+    "https://openalex.org/W2031179160",
+    "https://openalex.org/W2058169584",
+    "https://openalex.org/W2085456998",
+    "https://openalex.org/W2097016735",
+    "https://openalex.org/W2123358756",
+    "https://openalex.org/W2170633168",
+    "https://openalex.org/W2798501474",
+    "https://openalex.org/W2910341027",
+    "https://openalex.org/W2945105797",
+    "https://openalex.org/W4200503332",
+    "https://openalex.org/W4210428686",
+    "https://openalex.org/W6606483070",
+    "https://openalex.org/W6644164117",
+    "https://openalex.org/W6654156712"
+   ],
+   "related_works": [
+    "https://openalex.org/W2912637968",
+    "https://openalex.org/W3088093433",
+    "https://openalex.org/W2542298833",
+    "https://openalex.org/W2587197564",
+    "https://openalex.org/W4309886674",
+    "https://openalex.org/W3112180522",
+    "https://openalex.org/W2904891161",
+    "https://openalex.org/W4284667584",
+    "https://openalex.org/W4316660041",
+    "https://openalex.org/W2464394866"
+   ],
+   "abstract_inverted_index": {
+    "Understanding": [
+     0
+    ],
+    "the": [
+     1,
+     37,
+     47,
+     53,
+     69,
+     89,
+     132,
+     144,
+     197,
+     200,
+     204,
+     221,
+     261
+    ],
+    "nexus": [
+     2,
+     202
+    ],
+    "between": [
+     3,
+     55
+    ],
+    "energy": [
+     4,
+     10,
+     12,
+     28,
+     90,
+     266,
+     277,
+     288
+    ],
+    "and": [
+     5,
+     11,
+     30,
+     58,
+     66,
+     84,
+     95,
+     162,
+     203,
+     223,
+     227,
+     244,
+     248,
+     267,
+     275,
+     306
+    ],
+    "water": [
+     6,
+     15,
+     31,
+     59,
+     70,
+     93,
+     116,
+     119,
+     160,
+     229,
+     242,
+     269,
+     281,
+     290,
+     305
+    ],
+    "-water": [
+     7
+    ],
+    "used": [
+     8,
+     13
+    ],
+    "for": [
+     9,
+     14,
+     72,
+     79,
+     108,
+     120,
+     125,
+     159,
+     167,
+     172,
+     176,
+     192,
+     240
+    ],
+    "-has": [
+     16
+    ],
+    "become": [
+     17
+    ],
+    "increasing": [
+     18
+    ],
+    "important": [
+     19
+    ],
+    "in": [
+     20,
+     50,
+     85,
+     209,
+     284
+    ],
+    "a": [
+     21,
+     126,
+     177,
+     193
+    ],
+    "changing": [
+     22
+    ],
+    "world.As": [
+     23
+    ],
+    "growing": [
+     24
+    ],
+    "populations": [
+     25
+    ],
+    "demand": [
+     26
+    ],
+    "more": [
+     27,
+     187
+    ],
+    "supplies": [
+     29,
+     296
+    ],
+    "resources,": [
+     32
+    ],
+    "research": [
+     33
+    ],
+    "aims": [
+     34
+    ],
+    "to": [
+     35,
+     45,
+     64,
+     154,
+     164,
+     216,
+     304
+    ],
+    "analyze": [
+     36
+    ],
+    "interconnectedness": [
+     38
+    ],
+    "of": [
+     39,
+     75,
+     92,
+     105,
+     115,
+     142,
+     157,
+     196,
+     199,
+     206,
+     225,
+     253,
+     264,
+     286,
+     297
+    ],
+    "these": [
+     40
+    ],
+    "two": [
+     41
+    ],
+    "resources.Our": [
+     42
+    ],
+    "study": [
+     43
+    ],
+    "sought": [
+     44
+    ],
+    "quantify": [
+     46
+    ],
+    "energy-water": [
+     48,
+     201
+    ],
+    "relationship": [
+     49,
+     54
+    ],
+    "Texas,": [
+     51
+    ],
+    "specifically": [
+     52
+    ],
+    "electricity": [
+     56,
+     76,
+     158,
+     171,
+     238
+    ],
+    "generation": [
+     57
+    ],
+    "resources": [
+     60
+    ],
+    "as": [
+     61,
+     233,
+     235,
+     299,
+     301
+    ],
+    "it": [
+     62,
+     182
+    ],
+    "pertains": [
+     63
+    ],
+    "policy": [
+     65
+    ],
+    "society.We": [
+     67
+    ],
+    "examined": [
+     68
+    ],
+    "requirements": [
+     71,
+     91
+    ],
+    "various": [
+     73
+    ],
+    "types": [
+     74
+    ],
+    "generating": [
+     77,
+     138
+    ],
+    "facilities,": [
+     78
+    ],
+    "typical": [
+     80
+    ],
+    "systems": [
+     81,
+     161,
+     169
+    ],
+    "both": [
+     82,
+     265
+    ],
+    "nationwide": [
+     83
+    ],
+    "Texas.We": [
+     86,
+     210
+    ],
+    "also": [
+     87
+    ],
+    "addressed": [
+     88
+    ],
+    "supply": [
+     94,
+     243
+    ],
+    "wastewater": [
+     96,
+     168,
+     245
+    ],
+    "treatment": [
+     97,
+     246
+    ],
+    "systems,": [
+     98
+    ],
+    "comparing": [
+     99
+    ],
+    "national": [
+     100
+    ],
+    "averages": [
+     101
+    ],
+    "with": [
+     102
+    ],
+    "Texas-specific": [
+     103
+    ],
+    "values.Analysis": [
+     104
+    ],
+    "available": [
+     106
+    ],
+    "data": [
+     107,
+     189,
+     219,
+     236
+    ],
+    "Texas": [
+     109,
+     149,
+     213
+    ],
+    "reveals": [
+     110
+    ],
+    "that": [
+     111,
+     185,
+     212,
+     257
+    ],
+    "approximately": [
+     112,
+     139
+    ],
+    "595,000": [
+     113
+    ],
+    "megaliters": [
+     114
+    ],
+    "annually": [
+     117
+    ],
+    "-enough": [
+     118,
+     170
+    ],
+    "over": [
+     121
+    ],
+    "three": [
+     122
+    ],
+    "million": [
+     123
+    ],
+    "people": [
+     124,
+     175
+    ],
+    "year": [
+     127,
+     148
+    ],
+    "-are": [
+     128
+    ],
+    "consumed": [
+     129
+    ],
+    "by": [
+     130
+    ],
+    "cooling": [
+     131,
+     226
+    ],
+    "state's": [
+     133
+    ],
+    "thermoelectric": [
+     134
+    ],
+    "power": [
+     135,
+     231,
+     273,
+     307
+    ],
+    "plants": [
+     136,
+     247
+    ],
+    "while": [
+     137
+    ],
+    "400": [
+     140
+    ],
+    "terawatt-hours": [
+     141,
+     166
+    ],
+    "electricity.At": [
+     143
+    ],
+    "same": [
+     145
+    ],
+    "time,": [
+     146
+    ],
+    "each": [
+     147
+    ],
+    "uses": [
+     150
+    ],
+    "an": [
+     151
+    ],
+    "estimated": [
+     152
+    ],
+    "2.1": [
+     153
+    ],
+    "2.7": [
+     155
+    ],
+    "terawatthours": [
+     156
+    ],
+    "1.8": [
+     163
+    ],
+    "2.0": [
+     165
+    ],
+    "about": [
+     173
+    ],
+    "100,000": [
+     174
+    ],
+    "year.In": [
+     178
+    ],
+    "preparing": [
+     179
+    ],
+    "our": [
+     180,
+     254,
+     294
+    ],
+    "analysis,": [
+     181
+    ],
+    "became": [
+     183
+    ],
+    "clear": [
+     184
+    ],
+    "substantially": [
+     186
+    ],
+    "site-specific": [
+     188
+    ],
+    "are": [
+     190
+    ],
+    "necessary": [
+     191
+    ],
+    "full": [
+     194
+    ],
+    "understanding": [
+     195
+    ],
+    "nature": [
+     198
+    ],
+    "sustainability": [
+     205
+    ],
+    "economic": [
+     207
+    ],
+    "growth": [
+     208
+    ],
+    "recommend": [
+     211
+    ],
+    "increase": [
+     214
+    ],
+    "efforts": [
+     215
+    ],
+    "collect": [
+     217
+    ],
+    "accurate": [
+     218
+    ],
+    "on": [
+     220,
+     237
+    ],
+    "withdrawal": [
+     222
+    ],
+    "consumption": [
+     224,
+     239
+    ],
+    "process": [
+     228
+    ],
+    "at": [
+     230
+    ],
+    "plants,": [
+     232
+    ],
+    "well": [
+     234,
+     300
+    ],
+    "public": [
+     241
+    ],
+    "distribution": [
+     249
+    ],
+    "systems.The": [
+     250
+    ],
+    "overarching": [
+     251
+    ],
+    "conclusion": [
+     252
+    ],
+    "work": [
+     255
+    ],
+    "is": [
+     256
+    ],
+    "increased": [
+     258
+    ],
+    "efficiency": [
+     259,
+     270,
+     278,
+     283
+    ],
+    "advances": [
+     260
+    ],
+    "sustainable": [
+     262
+    ],
+    "use": [
+     263
+    ],
+    "water.Improving": [
+     268
+    ],
+    "will": [
+     271,
+     279,
+     291
+    ],
+    "reduce": [
+     272,
+     280,
+     302
+    ],
+    "demand,": [
+     274
+    ],
+    "improving": [
+     276
+    ],
+    "demand.Greater": [
+     282
+    ],
+    "usage": [
+     285
+    ],
+    "either": [
+     287
+    ],
+    "or": [
+     289
+    ],
+    "help": [
+     292
+    ],
+    "stretch": [
+     293
+    ],
+    "finite": [
+     295
+    ],
+    "both,": [
+     298
+    ],
+    "costs": [
+     303
+    ],
+    "consumers.": [
+     308
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 9
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 16
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 17
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 20
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 20
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 32
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 26
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 28
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 20
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 19
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 11
+    },
+    {
+     "year": 2012,
+     "cited_by_count": 13
+    }
+   ],
+   "updated_date": "2026-10-12T09:40:04.860316",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W1557396860",
+   "doi": "https://doi.org/10.5772/53478",
+   "title": "State of the Art Treatment of Produced Water",
+   "display_name": "State of the Art Treatment of Produced Water",
+   "relevance_score": 32.532867,
+   "publication_year": 2013,
+   "publication_date": "2013-01-16",
+   "ids": {
+    "openalex": "https://openalex.org/W1557396860",
+    "doi": "https://doi.org/10.5772/53478",
+    "mag": "1557396860"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.5772/53478",
+    "doi": "https://doi.org/10.5772/53478",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5772/53478",
+    "pdf_url": "https://www.intechopen.com/citation-pdf-url/41954",
+    "source": {
+     "id": "https://openalex.org/S2765031061",
+     "display_name": "Water Treatment",
+     "issn_l": "0921-2639",
+     "issn": [
+      "0921-2639"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Treatment",
+    "raw_type": "book-chapter"
+   },
+   "volume": {
+    "id": "https://openalex.org/W4246299395",
+    "display_name": "Water Treatment"
+   },
+   "type": "book-chapter",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.intechopen.com/citation-pdf-url/41954",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5097141549",
+      "display_name": "T. Rangarajan",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Rangarajan T.",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": null,
+      "display_name": "Ali Heydari",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Ali Heydari",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5072776872",
+      "display_name": "Amr Henni",
+      "orcid": "https://orcid.org/0000-0002-8016-1693",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-8016-1693"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Amr Henni",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 0,
+   "institutions_distinct_count": 0,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 6.7097,
+   "has_fulltext": true,
+   "cited_by_count": 77,
+   "citation_normalized_percentile": {
+    "value": 0.96973865,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+   },
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11781",
+    "display_name": "Wastewater Treatment and Reuse",
+    "score": 0.7559000253677368,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2311",
+     "display_name": "Waste Management and Disposal"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/23",
+     "display_name": "Environmental Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11781",
+     "display_name": "Wastewater Treatment and Reuse",
+     "score": 0.7559000253677368,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2311",
+      "display_name": "Waste Management and Disposal"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10197",
+     "display_name": "Membrane Separation Technologies",
+     "score": 0.06350000202655792,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2312",
+      "display_name": "Water Science and Technology"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T14252",
+     "display_name": "Water and Wastewater Treatment",
+     "score": 0.05570000037550926,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2206",
+      "display_name": "Computational Mechanics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/produced-water-treatment",
+     "display_name": "produced water treatment",
+     "score": 0.949999988079071
+    },
+    {
+     "id": "https://openalex.org/keywords/oilfield-wastewater",
+     "display_name": "oilfield wastewater",
+     "score": 0.3970000147819519
+    },
+    {
+     "id": "https://openalex.org/keywords/dispersed-oil",
+     "display_name": "dispersed oil",
+     "score": 0.5820000171661377
+    },
+    {
+     "id": "https://openalex.org/keywords/dissolved-organic-compounds",
+     "display_name": "dissolved organic compounds",
+     "score": 0.8989999890327454
+    },
+    {
+     "id": "https://openalex.org/keywords/polycyclic-aromatic-hydrocarbons",
+     "display_name": "polycyclic aromatic hydrocarbons",
+     "score": 0.8330000042915344
+    },
+    {
+     "id": "https://openalex.org/keywords/corrosion-inhibitors",
+     "display_name": "corrosion inhibitors",
+     "score": 0.7239999771118164
+    },
+    {
+     "id": "https://openalex.org/keywords/scale",
+     "display_name": "scale",
+     "score": 0.32199999690055847
+    },
+    {
+     "id": "https://openalex.org/keywords/metal-contamination",
+     "display_name": "metal contamination",
+     "score": 0.4569999873638153
+    },
+    {
+     "id": "https://openalex.org/keywords/produced-water-reinjection",
+     "display_name": "produced water reinjection",
+     "score": 0.4399999976158142
+    },
+    {
+     "id": "https://openalex.org/keywords/produced-water-reuse",
+     "display_name": "produced water reuse",
+     "score": 0.48899999260902405
+    },
+    {
+     "id": "https://openalex.org/keywords/oil-platforms",
+     "display_name": "oil platforms",
+     "score": 0.49000000953674316
+    },
+    {
+     "id": "https://openalex.org/keywords/water-quality-standards",
+     "display_name": "water quality standards",
+     "score": 0.35899999737739563
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C2775865663",
+     "wikidata": "https://www.wikidata.org/wiki/Q7247687",
+     "display_name": "Produced water",
+     "level": 2,
+     "score": 0.8561937808990479
+    },
+    {
+     "id": "https://openalex.org/C206588197",
+     "wikidata": "https://www.wikidata.org/wiki/Q846574",
+     "display_name": "Reuse",
+     "level": 2,
+     "score": 0.6712453961372375
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.5843976140022278
+    },
+    {
+     "id": "https://openalex.org/C548081761",
+     "wikidata": "https://www.wikidata.org/wiki/Q180388",
+     "display_name": "Waste management",
+     "level": 1,
+     "score": 0.5840505957603455
+    },
+    {
+     "id": "https://openalex.org/C51193700",
+     "wikidata": "https://www.wikidata.org/wiki/Q5376358",
+     "display_name": "Water scarcity",
+     "level": 3,
+     "score": 0.5001232624053955
+    },
+    {
+     "id": "https://openalex.org/C190960625",
+     "wikidata": "https://www.wikidata.org/wiki/Q1058719",
+     "display_name": "Water treatment",
+     "level": 2,
+     "score": 0.4660566747188568
+    },
+    {
+     "id": "https://openalex.org/C524765639",
+     "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+     "display_name": "Water resource management",
+     "level": 1,
+     "score": 0.43643274903297424
+    },
+    {
+     "id": "https://openalex.org/C111687972",
+     "wikidata": "https://www.wikidata.org/wiki/Q832131",
+     "display_name": "Raw water",
+     "level": 2,
+     "score": 0.4175439774990082
+    },
+    {
+     "id": "https://openalex.org/C157062255",
+     "wikidata": "https://www.wikidata.org/wiki/Q5035697",
+     "display_name": "Capital cost",
+     "level": 2,
+     "score": 0.413847953081131
+    },
+    {
+     "id": "https://openalex.org/C87717796",
+     "wikidata": "https://www.wikidata.org/wiki/Q146326",
+     "display_name": "Environmental engineering",
+     "level": 1,
+     "score": 0.40838274359703064
+    },
+    {
+     "id": "https://openalex.org/C153823671",
+     "wikidata": "https://www.wikidata.org/wiki/Q1049799",
+     "display_name": "Water resources",
+     "level": 2,
+     "score": 0.3687970042228699
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.2393505871295929
+    },
+    {
+     "id": "https://openalex.org/C18903297",
+     "wikidata": "https://www.wikidata.org/wiki/Q7150",
+     "display_name": "Ecology",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C119599485",
+     "wikidata": "https://www.wikidata.org/wiki/Q43035",
+     "display_name": "Electrical engineering",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C86803240",
+     "wikidata": "https://www.wikidata.org/wiki/Q420",
+     "display_name": "Biology",
+     "level": 0,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 3,
+   "locations": [
+    {
+     "id": "doi:10.5772/53478",
+     "doi": "https://doi.org/10.5772/53478",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.5772/53478",
+     "pdf_url": "https://www.intechopen.com/citation-pdf-url/41954",
+     "source": {
+      "id": "https://openalex.org/S2765031061",
+      "display_name": "Water Treatment",
+      "issn_l": "0921-2639",
+      "issn": [
+       "0921-2639"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Water Treatment",
+     "raw_type": "book-chapter"
+    },
+    {
+     "id": "pmh:oai:biblioboard.com:85e0533b-d659-456f-b4fe-2f1361b39f3a",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "https://openresearchlibrary.org/viewer/85e0533b-d659-456f-b4fe-2f1361b39f3a",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401131",
+      "display_name": "BiblioBoard Library Catalog (Open Research Library)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "MODID-6d55e02e354:IntechOpen",
+     "raw_type": "CHAPTER"
+    },
+    {
+     "id": "pmh:oai:intechopen.com:41954",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "http://www.intechopen.com/articles/show/title/state-of-the-art-treatment-of-produced-water",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306401291",
+      "display_name": "Contact-less Assessment of In-vivo Body Signals Using Microwave Doppler Radar (InTech)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I4210154139",
+      "host_organization_name": "Intech (Slovakia)",
+      "host_organization_lineage": [
+       "https://openalex.org/I4210154139"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "http://www.intechopen.com/download/pdf/pdfs_id/41954",
+     "raw_type": "09"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.5772/53478",
+    "doi": "https://doi.org/10.5772/53478",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5772/53478",
+    "pdf_url": "https://www.intechopen.com/citation-pdf-url/41954",
+    "source": {
+     "id": "https://openalex.org/S2765031061",
+     "display_name": "Water Treatment",
+     "issn_l": "0921-2639",
+     "issn": [
+      "0921-2639"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Treatment",
+    "raw_type": "book-chapter"
+   },
+   "sustainable_development_goals": [
+    {
+     "id": "https://metadata.un.org/sdg/6",
+     "score": 0.6618000268936157,
+     "display_name": "Clean water and sanitation"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/12",
+     "score": 0.5171999931335449,
+     "display_name": "Responsible consumption and production"
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "id": "https://metadata.un.org/sdg/6",
+     "score": 0.6000000238418579,
+     "display_name": "Clean water and sanitation"
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320322470",
+     "display_name": "Petroleum Technology Research Centre",
+     "ror": "https://ror.org/01gzy0g74"
+    },
+    {
+     "id": "https://openalex.org/F4320334600",
+     "display_name": "Western Economic Diversification Canada",
+     "ror": "https://ror.org/002sgqx17"
+    }
+   ],
+   "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W1557396860.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W1557396860.grobid-xml"
+   },
+   "referenced_works_count": 71,
+   "referenced_works": [
+    "https://openalex.org/W46409713",
+    "https://openalex.org/W566878322",
+    "https://openalex.org/W567232481",
+    "https://openalex.org/W603783416",
+    "https://openalex.org/W1605599607",
+    "https://openalex.org/W1658114652",
+    "https://openalex.org/W1788329471",
+    "https://openalex.org/W1816968658",
+    "https://openalex.org/W1922584011",
+    "https://openalex.org/W1966348813",
+    "https://openalex.org/W1966494816",
+    "https://openalex.org/W1972686127",
+    "https://openalex.org/W1975996085",
+    "https://openalex.org/W1978824214",
+    "https://openalex.org/W1982440623",
+    "https://openalex.org/W1992792582",
+    "https://openalex.org/W1997204138",
+    "https://openalex.org/W1998673960",
+    "https://openalex.org/W2015291621",
+    "https://openalex.org/W2019159790",
+    "https://openalex.org/W2023806042",
+    "https://openalex.org/W2032103629",
+    "https://openalex.org/W2033777099",
+    "https://openalex.org/W2034361414",
+    "https://openalex.org/W2038884355",
+    "https://openalex.org/W2039360661",
+    "https://openalex.org/W2040682680",
+    "https://openalex.org/W2044099989",
+    "https://openalex.org/W2044410057",
+    "https://openalex.org/W2046326702",
+    "https://openalex.org/W2047048909",
+    "https://openalex.org/W2049983497",
+    "https://openalex.org/W2054792193",
+    "https://openalex.org/W2059259992",
+    "https://openalex.org/W2061695687",
+    "https://openalex.org/W2063102438",
+    "https://openalex.org/W2066764271",
+    "https://openalex.org/W2077107420",
+    "https://openalex.org/W2078218132",
+    "https://openalex.org/W2080075707",
+    "https://openalex.org/W2081576181",
+    "https://openalex.org/W2086992809",
+    "https://openalex.org/W2087032557",
+    "https://openalex.org/W2087352797",
+    "https://openalex.org/W2088182692",
+    "https://openalex.org/W2089518341",
+    "https://openalex.org/W2103597265",
+    "https://openalex.org/W2114030584",
+    "https://openalex.org/W2118942614",
+    "https://openalex.org/W2127474311",
+    "https://openalex.org/W2134438806",
+    "https://openalex.org/W2148155489",
+    "https://openalex.org/W2157460772",
+    "https://openalex.org/W2269462444",
+    "https://openalex.org/W2327023006",
+    "https://openalex.org/W2350094282",
+    "https://openalex.org/W2355880583",
+    "https://openalex.org/W2977473565",
+    "https://openalex.org/W4230180408",
+    "https://openalex.org/W4231119665",
+    "https://openalex.org/W4232563926",
+    "https://openalex.org/W4236092770",
+    "https://openalex.org/W4237998564",
+    "https://openalex.org/W4238235221",
+    "https://openalex.org/W4242810966",
+    "https://openalex.org/W4246147907",
+    "https://openalex.org/W4246937069",
+    "https://openalex.org/W4249348851",
+    "https://openalex.org/W4251525397",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4300721728"
+   ],
+   "related_works": [
+    "https://openalex.org/W4388769635",
+    "https://openalex.org/W3118917894",
+    "https://openalex.org/W4390901006",
+    "https://openalex.org/W1986477228",
+    "https://openalex.org/W2368434633",
+    "https://openalex.org/W4382051653",
+    "https://openalex.org/W3149330743",
+    "https://openalex.org/W110994974",
+    "https://openalex.org/W4296955451",
+    "https://openalex.org/W3182327785"
+   ],
+   "abstract_inverted_index": {
+    "Characteristics": [
+     0
+    ],
+    "of": [
+     1,
+     8,
+     16,
+     33,
+     38,
+     45,
+     155,
+     177,
+     203,
+     254,
+     328,
+     331,
+     340,
+     344
+    ],
+    "produced": [
+     2,
+     9,
+     25,
+     46,
+     90,
+     114,
+     124,
+     201,
+     210,
+     217,
+     269,
+     284,
+     303,
+     332,
+     358,
+     389,
+     411,
+     435
+    ],
+    "waterThe": [
+     3
+    ],
+    "physical": [
+     4
+    ],
+    "and": [
+     5,
+     35,
+     52,
+     72,
+     145,
+     194,
+     230,
+     259,
+     265,
+     273,
+     295,
+     407,
+     416,
+     421
+    ],
+    "chemical": [
+     6,
+     62
+    ],
+    "properties": [
+     7
+    ],
+    "water": [
+     10,
+     26,
+     47,
+     125,
+     211,
+     218,
+     285,
+     333,
+     349,
+     359,
+     390,
+     412,
+     436
+    ],
+    "depend": [
+     11
+    ],
+    "on": [
+     12
+    ],
+    "the": [
+     13,
+     17,
+     19,
+     24,
+     36,
+     89,
+     97,
+     106,
+     134,
+     148,
+     153,
+     271,
+     298,
+     324,
+     341,
+     363,
+     375,
+     396,
+     419
+    ],
+    "geographic": [
+     14
+    ],
+    "location": [
+     15
+    ],
+    "field,": [
+     18
+    ],
+    "geological": [
+     20
+    ],
+    "formation": [
+     21,
+     58,
+     272
+    ],
+    "with": [
+     22
+    ],
+    "which": [
+     23,
+     322
+    ],
+    "has": [
+     27
+    ],
+    "been": [
+     28
+    ],
+    "in": [
+     29,
+     113,
+     123,
+     200,
+     209,
+     216,
+     283,
+     302,
+     306,
+     337,
+     405,
+     418,
+     431
+    ],
+    "contact": [
+     30
+    ],
+    "for": [
+     31
+    ],
+    "thousands": [
+     32
+    ],
+    "years,": [
+     34
+    ],
+    "type": [
+     37
+    ],
+    "hydrocarbon": [
+     39
+    ],
+    "product": [
+     40
+    ],
+    "being": [
+     41
+    ],
+    "produced.The": [
+     42
+    ],
+    "main": [
+     43
+    ],
+    "constituents": [
+     44
+    ],
+    "are": [
+     48,
+     82,
+     102,
+     206,
+     238,
+     297,
+     305
+    ],
+    "as": [
+     49,
+     246,
+     394
+    ],
+    "follows:": [
+     50
+    ],
+    "\uf0b7dissolved": [
+     51
+    ],
+    "dispersed": [
+     53,
+     156
+    ],
+    "oil": [
+     54,
+     94,
+     157,
+     175,
+     355,
+     365,
+     406,
+     420
+    ],
+    "compounds": [
+     55,
+     63,
+     205
+    ],
+    "\uf0b7": [
+     56,
+     60,
+     64,
+     74
+    ],
+    "dissolved": [
+     57,
+     75
+    ],
+    "minerals": [
+     59
+    ],
+    "production": [
+     61,
+     65,
+     101
+    ],
+    "solids": [
+     66,
+     256,
+     268,
+     321
+    ],
+    "(formation,": [
+     67
+    ],
+    "corrosion,": [
+     68
+    ],
+    "scale,": [
+     69
+    ],
+    "bacteria,": [
+     70
+    ],
+    "waxes,": [
+     71
+    ],
+    "asphaltenes)": [
+     73
+    ],
+    "gasesProduced": [
+     76
+    ],
+    "waters": [
+     77,
+     91
+    ],
+    "discharged": [
+     78,
+     92,
+     392
+    ],
+    "from": [
+     79,
+     93,
+     99,
+     167,
+     212,
+     219,
+     270,
+     274,
+     367,
+     383,
+     401,
+     427,
+     445
+    ],
+    "gas/condensate": [
+     80
+    ],
+    "platforms": [
+     81,
+     214
+    ],
+    "about": [
+     83
+    ],
+    "10": [
+     84,
+     180
+    ],
+    "times": [
+     85
+    ],
+    "more": [
+     86
+    ],
+    "toxic": [
+     87,
+     131,
+     240,
+     309
+    ],
+    "than": [
+     88,
+     215
+    ],
+    "wells,": [
+     95
+    ],
+    "but,": [
+     96
+    ],
+    "volumes": [
+     98
+    ],
+    "gas": [
+     100,
+     408,
+     422
+    ],
+    "much": [
+     103
+    ],
+    "lower;": [
+     104
+    ],
+    "hence": [
+     105,
+     146
+    ],
+    "total": [
+     107
+    ],
+    "impact": [
+     108
+    ],
+    "may": [
+     109,
+     165,
+     286,
+     316
+    ],
+    "be": [
+     110,
+     160,
+     414
+    ],
+    "less.": [
+     111
+    ],
+    "Constituents": [
+     112
+    ],
+    "water1.": [
+     115
+    ],
+    "Dispersed": [
+     116
+    ],
+    "oil:": [
+     117
+    ],
+    "Oil": [
+     118
+    ],
+    "is": [
+     119,
+     334,
+     360,
+     370,
+     391
+    ],
+    "an": [
+     120,
+     441
+    ],
+    "important": [
+     121
+    ],
+    "contaminant": [
+     122
+    ],
+    "since": [
+     126
+    ],
+    "it": [
+     127,
+     164,
+     369,
+     439
+    ],
+    "can": [
+     128,
+     137,
+     197,
+     233
+    ],
+    "create": [
+     129
+    ],
+    "potentially": [
+     130
+    ],
+    "effects": [
+     132
+    ],
+    "near": [
+     133
+    ],
+    "discharge": [
+     135,
+     376
+    ],
+    "point.It": [
+     136
+    ],
+    "significantly": [
+     138
+    ],
+    "contribute": [
+     139
+    ],
+    "to": [
+     140,
+     288,
+     312,
+     318,
+     374,
+     385,
+     403,
+     429,
+     437,
+     447
+    ],
+    "Biological": [
+     141
+    ],
+    "Oxygen": [
+     142
+    ],
+    "Demand": [
+     143
+    ],
+    "(BOD)": [
+     144
+    ],
+    "affects": [
+     147
+    ],
+    "aquatic": [
+     149
+    ],
+    "or": [
+     150,
+     372
+    ],
+    "marine": [
+     151
+    ],
+    "ecosystem.Usually": [
+     152
+    ],
+    "size": [
+     154,
+     178
+    ],
+    "droplets": [
+     158,
+     176
+    ],
+    "would": [
+     159
+    ],
+    "4-6": [
+     161
+    ],
+    "microns,": [
+     162
+    ],
+    "but": [
+     163
+    ],
+    "vary": [
+     166
+    ],
+    "2-30": [
+     168
+    ],
+    "microns.The": [
+     169
+    ],
+    "current": [
+     170
+    ],
+    "treatment": [
+     171,
+     325
+    ],
+    "systems": [
+     172
+    ],
+    "could": [
+     173,
+     413
+    ],
+    "recover": [
+     174
+    ],
+    "up-to": [
+     179
+    ],
+    "microns.2.": [
+     181
+    ],
+    "Dissolved": [
+     182
+    ],
+    "Organic": [
+     183
+    ],
+    "Compounds:": [
+     184
+    ],
+    "They": [
+     185,
+     224,
+     252
+    ],
+    "include": [
+     186,
+     225
+    ],
+    "organic": [
+     187,
+     313
+    ],
+    "acids,": [
+     188
+    ],
+    "polycyclic": [
+     189
+    ],
+    "aromatic": [
+     190
+    ],
+    "hydrocarbons": [
+     191,
+     196
+    ],
+    "(PAHs),": [
+     192
+    ],
+    "phenols": [
+     193
+    ],
+    "volatiles.Volatile": [
+     195
+    ],
+    "occur": [
+     198
+    ],
+    "naturally": [
+     199
+    ],
+    "water.Concentrations": [
+     202
+    ],
+    "these": [
+     204
+    ],
+    "usually": [
+     207,
+     300
+    ],
+    "higher": [
+     208
+    ],
+    "gas-condensate-producing": [
+     213
+    ],
+    "oilproducing": [
+     220
+    ],
+    "platforms.": [
+     221
+    ],
+    "Treatment": [
+     222,
+     343
+    ],
+    "Chemicals:": [
+     223
+    ],
+    "biocides,": [
+     226
+    ],
+    "reverse": [
+     227
+    ],
+    "emulsion": [
+     228
+    ],
+    "breakers,": [
+     229
+    ],
+    "corrosioninhibitors.Corrosion": [
+     231
+    ],
+    "inhibitors": [
+     232
+    ],
+    "form": [
+     234,
+     319
+    ],
+    "stable": [
+     235
+    ],
+    "emulsions.Some": [
+     236
+    ],
+    "chemicals": [
+     237
+    ],
+    "highly": [
+     239
+    ],
+    "even": [
+     241
+    ],
+    "at": [
+     242,
+     378
+    ],
+    "low": [
+     243
+    ],
+    "concentrations": [
+     244
+    ],
+    "such": [
+     245
+    ],
+    "0.1": [
+     247
+    ],
+    "ppm.": [
+     248
+    ],
+    "4.": [
+     249
+    ],
+    "Produced": [
+     250,
+     345,
+     348
+    ],
+    "Solids:": [
+     251
+    ],
+    "consist": [
+     253
+    ],
+    "precipitated": [
+     255
+    ],
+    "(scales),": [
+     257
+    ],
+    "sand": [
+     258
+    ],
+    "silt,": [
+     260
+    ],
+    "carbonates,": [
+     261
+    ],
+    "clays,": [
+     262
+    ],
+    "corrosion": [
+     263
+    ],
+    "products": [
+     264
+    ],
+    "other": [
+     266
+    ],
+    "suspended": [
+     267
+    ],
+    "well": [
+     275,
+     366,
+     377
+    ],
+    "bore": [
+     276
+    ],
+    "operations.": [
+     277
+    ],
+    "5.": [
+     278
+    ],
+    "Bacteria:": [
+     279
+    ],
+    "Anaerobic": [
+     280
+    ],
+    "bacteria": [
+     281
+    ],
+    "present": [
+     282,
+     301
+    ],
+    "lead": [
+     287
+    ],
+    "corrosion.6.": [
+     289
+    ],
+    "Metals:": [
+     290
+    ],
+    "Zinc,": [
+     291
+    ],
+    "Lead,": [
+     292
+    ],
+    "Manganese,": [
+     293
+    ],
+    "Iron": [
+     294
+    ],
+    "Barium": [
+     296
+    ],
+    "metals": [
+     299
+    ],
+    "water.They": [
+     304
+    ],
+    "general": [
+     307
+    ],
+    "less": [
+     308
+    ],
+    "when": [
+     310
+    ],
+    "compared": [
+     311
+    ],
+    "constituents.But": [
+     314
+    ],
+    "they": [
+     315
+    ],
+    "precipitate": [
+     317
+    ],
+    "undesired": [
+     320
+    ],
+    "hinder": [
+     323
+    ],
+    "processes.An": [
+     326
+    ],
+    "example": [
+     327
+    ],
+    "key": [
+     329
+    ],
+    "parameters": [
+     330
+    ],
+    "listed": [
+     335
+    ],
+    "below": [
+     336
+    ],
+    "Table": [
+     338
+    ],
+    "1.State": [
+     339
+    ],
+    "Art": [
+     342
+    ],
+    "Water": [
+     346
+    ],
+    "2013.": [
+     347
+    ],
+    "management": [
+     350
+    ],
+    "[1]": [
+     351
+    ],
+    "a.": [
+     352
+    ],
+    "Injection": [
+     353
+    ],
+    "into": [
+     354,
+     362,
+     440
+    ],
+    "wells:": [
+     356
+    ],
+    "The": [
+     357,
+     388,
+     410
+    ],
+    "injected": [
+     361
+    ],
+    "same": [
+     364
+    ],
+    "where": [
+     368
+    ],
+    "obtained": [
+     371
+    ],
+    "transported": [
+     373
+    ],
+    "another": [
+     379
+    ],
+    "location.The": [
+     380
+    ],
+    "cost": [
+     381,
+     399,
+     425,
+     443
+    ],
+    "varies": [
+     382,
+     400,
+     426,
+     444
+    ],
+    "$0.70": [
+     384
+    ],
+    "$4.00.b.Direct": [
+     386
+    ],
+    "discharge:": [
+     387
+    ],
+    "directly": [
+     393
+    ],
+    "per": [
+     395
+    ],
+    "regulation": [
+     397
+    ],
+    "norms.The": [
+     398
+    ],
+    "$0.03": [
+     402
+    ],
+    "$0.05.c.Reuse": [
+     404
+    ],
+    "operation:": [
+     409
+    ],
+    "treated": [
+     415
+    ],
+    "used": [
+     417
+    ],
+    "processing": [
+     423
+    ],
+    "industries.The": [
+     424
+    ],
+    "$0.04": [
+     428
+    ],
+    "$0.07.d.Consumed": [
+     430
+    ],
+    "beneficial": [
+     432
+    ],
+    "use:": [
+     433
+    ],
+    "Treating": [
+     434
+    ],
+    "convert": [
+     438
+    ],
+    "asset.The": [
+     442
+    ],
+    "$0.25": [
+     446
+    ],
+    "$2.00.": [
+     448
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2025,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 11
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 16
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 11
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 8
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 2
+    }
+   ],
+   "updated_date": "2026-10-10T09:11:00.788812",
+   "created_date": "2016-06-24T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W946153859",
+   "doi": "https://doi.org/10.37190/epe130202",
+   "title": "Energy and sustainability of operation of a wastewater treatment plant",
+   "display_name": "Energy and sustainability of operation of a wastewater treatment plant",
+   "relevance_score": 31.947123,
+   "publication_year": 2013,
+   "publication_date": "2013-01-01",
+   "ids": {
+    "openalex": "https://openalex.org/W946153859",
+    "doi": "https://doi.org/10.37190/epe130202",
+    "mag": "946153859"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.37190/epe130202",
+    "doi": "https://doi.org/10.37190/epe130202",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37190/epe130202",
+    "pdf_url": "https://doi.org/10.37190/epe130202",
+    "source": {
+     "id": "https://openalex.org/S144604268",
+     "display_name": "Environment Protection Engineering",
+     "issn_l": "0324-8828",
+     "issn": [
+      "0324-8828",
+      "2450-260X"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "dongbi-c",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-3"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Environment Protection Engineering",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://doi.org/10.37190/epe130202",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5027734406",
+      "display_name": "Igor Bod\u0131\u0301k",
+      "orcid": "https://orcid.org/0000-0002-7410-7789",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-7410-7789"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I110757952",
+       "display_name": "Slovak University of Technology in Bratislava",
+       "ror": "https://ror.org/0561ghm58",
+       "country_code": "SK",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I110757952"
+       ]
+      }
+     ],
+     "countries": [
+      "SK"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Igor Bod\u00edk",
+     "raw_affiliation_strings": [
+      "Institute of Chemical and Environmental Engineering, Faculty of Chemical and Food Technology, Slovak University of Technology, Radlinsk\u00e9ho 9, 812 37 Bratislava, Slovakia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Institute of Chemical and Environmental Engineering, Faculty of Chemical and Food Technology, Slovak University of Technology, Radlinsk\u00e9ho 9, 812 37 Bratislava, Slovakia",
+       "institution_ids": [
+        "https://openalex.org/I110757952"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5030673756",
+      "display_name": "Miroslava Kubask\u00e1",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I110757952",
+       "display_name": "Slovak University of Technology in Bratislava",
+       "ror": "https://ror.org/0561ghm58",
+       "country_code": "SK",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I110757952"
+       ]
+      }
+     ],
+     "countries": [
+      "SK"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Miroslava Kubask\u00e1",
+     "raw_affiliation_strings": [
+      "Institute of Chemical and Environmental Engineering, Faculty of Chemical and Food Technology, Slovak University of Technology, Radlinsk\u00e9ho 9, 812 37 Bratislava, Slovakia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Institute of Chemical and Environmental Engineering, Faculty of Chemical and Food Technology, Slovak University of Technology, Radlinsk\u00e9ho 9, 812 37 Bratislava, Slovakia",
+       "institution_ids": [
+        "https://openalex.org/I110757952"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I110757952"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 7.5072,
+   "has_fulltext": true,
+   "cited_by_count": 104,
+   "citation_normalized_percentile": {
+    "value": 0.96039627,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+   },
+   "biblio": {
+    "volume": "39",
+    "issue": "2",
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T10284",
+    "display_name": "Anaerobic Digestion and Biogas Production",
+    "score": 0.7720000147819519,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2215",
+     "display_name": "Building and Construction"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T10284",
+     "display_name": "Anaerobic Digestion and Biogas Production",
+     "score": 0.7720000147819519,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2215",
+      "display_name": "Building and Construction"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10564",
+     "display_name": "Wastewater Treatment and Nitrogen Removal",
+     "score": 0.11420000344514847,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2310",
+      "display_name": "Pollution"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11781",
+     "display_name": "Wastewater Treatment and Reuse",
+     "score": 0.09700000286102295,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2311",
+      "display_name": "Waste Management and Disposal"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/wastewater-treatment-plants",
+     "display_name": "wastewater treatment plants",
+     "score": 0.9490000009536743
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-consumption",
+     "display_name": "energy consumption",
+     "score": 0.9929999709129333
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-self-sufficiency",
+     "display_name": "energy self-sufficiency",
+     "score": 0.625
+    },
+    {
+     "id": "https://openalex.org/keywords/biogas-production",
+     "display_name": "biogas production",
+     "score": 0.7200000286102295
+    },
+    {
+     "id": "https://openalex.org/keywords/anaerobic-sludge-digestion",
+     "display_name": "anaerobic sludge digestion",
+     "score": 0.8809999823570251
+    },
+    {
+     "id": "https://openalex.org/keywords/mesophilic-anaerobic-digestion",
+     "display_name": "mesophilic digestion",
+     "score": 0.8379999995231628
+    },
+    {
+     "id": "https://openalex.org/keywords/rural-wastewater-treatment",
+     "display_name": "rural wastewater treatment",
+     "score": 0.6710000038146973
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-efficiency",
+     "display_name": "energy efficiency",
+     "score": 0.4880000054836273
+    },
+    {
+     "id": "https://openalex.org/keywords/slovakia",
+     "display_name": "Slovakia",
+     "score": 0.4429999887943268
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C66204764",
+     "wikidata": "https://www.wikidata.org/wiki/Q219416",
+     "display_name": "Sustainability",
+     "level": 2,
+     "score": 0.7229533195495605
+    },
+    {
+     "id": "https://openalex.org/C94061648",
+     "wikidata": "https://www.wikidata.org/wiki/Q336191",
+     "display_name": "Wastewater",
+     "level": 2,
+     "score": 0.6152154207229614
+    },
+    {
+     "id": "https://openalex.org/C57442070",
+     "wikidata": "https://www.wikidata.org/wiki/Q221275",
+     "display_name": "Sewage treatment",
+     "level": 2,
+     "score": 0.5761885046958923
+    },
+    {
+     "id": "https://openalex.org/C548081761",
+     "wikidata": "https://www.wikidata.org/wiki/Q180388",
+     "display_name": "Waste management",
+     "level": 1,
+     "score": 0.5435973405838013
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.5124197602272034
+    },
+    {
+     "id": "https://openalex.org/C186370098",
+     "wikidata": "https://www.wikidata.org/wiki/Q442787",
+     "display_name": "Energy (signal processing)",
+     "level": 2,
+     "score": 0.4985675811767578
+    },
+    {
+     "id": "https://openalex.org/C87717796",
+     "wikidata": "https://www.wikidata.org/wiki/Q146326",
+     "display_name": "Environmental engineering",
+     "level": 1,
+     "score": 0.3957269787788391
+    },
+    {
+     "id": "https://openalex.org/C134560507",
+     "wikidata": "https://www.wikidata.org/wiki/Q753291",
+     "display_name": "Environmental economics",
+     "level": 1,
+     "score": 0.3377317190170288
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.2562188506126404
+    },
+    {
+     "id": "https://openalex.org/C162324750",
+     "wikidata": "https://www.wikidata.org/wiki/Q8134",
+     "display_name": "Economics",
+     "level": 0,
+     "score": 0.12371420860290527
+    },
+    {
+     "id": "https://openalex.org/C18903297",
+     "wikidata": "https://www.wikidata.org/wiki/Q7150",
+     "display_name": "Ecology",
+     "level": 1,
+     "score": 0.06413424015045166
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.05860382318496704
+    },
+    {
+     "id": "https://openalex.org/C105795698",
+     "wikidata": "https://www.wikidata.org/wiki/Q12483",
+     "display_name": "Statistics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C86803240",
+     "wikidata": "https://www.wikidata.org/wiki/Q420",
+     "display_name": "Biology",
+     "level": 0,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 2,
+   "locations": [
+    {
+     "id": "doi:10.37190/epe130202",
+     "doi": "https://doi.org/10.37190/epe130202",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.37190/epe130202",
+     "pdf_url": "https://doi.org/10.37190/epe130202",
+     "source": {
+      "id": "https://openalex.org/S144604268",
+      "display_name": "Environment Protection Engineering",
+      "issn_l": "0324-8828",
+      "issn": [
+       "0324-8828",
+       "2450-260X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "cwts-core",
+       "dongbi-c",
+       "norway-1",
+       "poland-70",
+       "russia-white-list-3"
+      ],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Environment Protection Engineering",
+     "raw_type": "journal-article"
+    },
+    {
+     "id": "pmh:oai:www.dbc.wroc.pl:38880",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://www.dbc.wroc.pl/Content/38880",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4210167977",
+      "display_name": "Prace Naukowe Uniwersytetu Ekonomicznego we Wroc\u0142awiu",
+      "issn_l": "1899-3192",
+      "issn": [
+       "1899-3192",
+       "2392-0041"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": false,
+      "listed_in": [
+       "doaj",
+       "erih-plus",
+       "poland-40"
+      ],
+      "host_organization": "https://openalex.org/P4322697539",
+      "host_organization_name": "Wroclaw University of Economics",
+      "host_organization_lineage": [
+       "https://openalex.org/P4322697539"
+      ],
+      "host_organization_lineage_names": [
+       "Wroclaw University of Economics"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "&lt;sygn. PWr A4232I&gt;",
+     "raw_type": "artyku\u0142"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.37190/epe130202",
+    "doi": "https://doi.org/10.37190/epe130202",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37190/epe130202",
+    "pdf_url": "https://doi.org/10.37190/epe130202",
+    "source": {
+     "id": "https://openalex.org/S144604268",
+     "display_name": "Environment Protection Engineering",
+     "issn_l": "0324-8828",
+     "issn": [
+      "0324-8828",
+      "2450-260X"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "dongbi-c",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-3"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Environment Protection Engineering",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [
+    {
+     "id": "https://metadata.un.org/sdg/12",
+     "score": 1.0,
+     "display_name": "Responsible consumption and production"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/7",
+     "score": 0.9853000044822693,
+     "display_name": "Affordable and clean energy"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/6",
+     "score": 0.8999999761581421,
+     "display_name": "Clean water and sanitation"
+    },
+    {
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.5351999998092651,
+     "display_name": "Climate action"
+    }
+   ],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320323251",
+     "display_name": "Agent\u00fara na Podporu V\u00fdskumu a V\u00fdvoja",
+     "ror": "https://ror.org/037nx0e70"
+    }
+   ],
+   "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W946153859.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W946153859.grobid-xml"
+   },
+   "referenced_works_count": 8,
+   "referenced_works": [
+    "https://openalex.org/W1501779824",
+    "https://openalex.org/W1903686546",
+    "https://openalex.org/W1969261875",
+    "https://openalex.org/W1987210915",
+    "https://openalex.org/W1999595821",
+    "https://openalex.org/W2032247918",
+    "https://openalex.org/W2075786705",
+    "https://openalex.org/W3120085717"
+   ],
+   "related_works": [
+    "https://openalex.org/W1547839164",
+    "https://openalex.org/W2390893251",
+    "https://openalex.org/W3199293627",
+    "https://openalex.org/W202679487",
+    "https://openalex.org/W2114694042",
+    "https://openalex.org/W2944155047",
+    "https://openalex.org/W2382390151",
+    "https://openalex.org/W1589214434",
+    "https://openalex.org/W2804758138",
+    "https://openalex.org/W2109734398"
+   ],
+   "abstract_inverted_index": {
+    "The": [
+     0
+    ],
+    "study": [
+     1
+    ],
+    "summarises": [
+     2
+    ],
+    "the": [
+     3,
+     9,
+     79
+    ],
+    "energy": [
+     4,
+     48,
+     51,
+     71,
+     91,
+     117,
+     127
+    ],
+    "consumption": [
+     5,
+     52
+    ],
+    "data": [
+     6
+    ],
+    "obtained": [
+     7
+    ],
+    "from": [
+     8
+    ],
+    "Slovak": [
+     10,
+     88,
+     120
+    ],
+    "wastewater": [
+     11
+    ],
+    "treatment": [
+     12
+    ],
+    "plants.Overall,": [
+     13
+    ],
+    "51": [
+     14
+    ],
+    "large": [
+     15,
+     54
+    ],
+    "WWTPs": [
+     16,
+     35,
+     55
+    ],
+    "using": [
+     17
+    ],
+    "mesophilic": [
+     18
+    ],
+    "anaerobic": [
+     19
+    ],
+    "sludge": [
+     20
+    ],
+    "digestion": [
+     21
+    ],
+    "and": [
+     22,
+     31,
+     47,
+     62,
+     106
+    ],
+    "biogas": [
+     23,
+     105
+    ],
+    "utilisation": [
+     24
+    ],
+    "(the": [
+     25,
+     36
+    ],
+    "total": [
+     26,
+     37
+    ],
+    "capacity": [
+     27,
+     38
+    ],
+    "of": [
+     28,
+     81,
+     103,
+     112
+    ],
+    "2.5": [
+     29
+    ],
+    "mil.p.e.)": [
+     30
+    ],
+    "17": [
+     32
+    ],
+    "small": [
+     33,
+     67
+    ],
+    "rural": [
+     34,
+     68
+    ],
+    "15": [
+     39
+    ],
+    "000": [
+     40
+    ],
+    "p.e.)": [
+     41
+    ],
+    "were": [
+     42
+    ],
+    "compared": [
+     43
+    ],
+    "in": [
+     44,
+     53,
+     56,
+     66,
+     87,
+     119
+    ],
+    "many": [
+     45
+    ],
+    "technological": [
+     46
+    ],
+    "parameters.The": [
+     49
+    ],
+    "average": [
+     50,
+     70,
+     97,
+     116
+    ],
+    "Slovakia": [
+     57
+    ],
+    "is": [
+     58,
+     93,
+     122
+    ],
+    "0.485": [
+     59
+    ],
+    "kWh/m": [
+     60,
+     64
+    ],
+    "3": [
+     61,
+     65,
+     102,
+     111
+    ],
+    "0.915": [
+     63
+    ],
+    "plants.The": [
+     69,
+     89
+    ],
+    "demand": [
+     72
+    ],
+    "related": [
+     73
+    ],
+    "to": [
+     74,
+     136
+    ],
+    "BOD": [
+     75,
+     84
+    ],
+    "5": [
+     76,
+     85
+    ],
+    "load": [
+     77
+    ],
+    "represents": [
+     78
+    ],
+    "value": [
+     80
+    ],
+    "2.27": [
+     82
+    ],
+    "kWh/kg": [
+     83
+    ],
+    ",": [
+     86
+    ],
+    "specific": [
+     90
+    ],
+    "production": [
+     92
+    ],
+    "relatively": [
+     94
+    ],
+    "low": [
+     95
+    ],
+    "-in": [
+     96
+    ],
+    "1.2": [
+     98
+    ],
+    "kWh": [
+     99,
+     108
+    ],
+    "el": [
+     100,
+     109
+    ],
+    "/m": [
+     101,
+     110
+    ],
+    "produced": [
+     104
+    ],
+    "0.1": [
+     107
+    ],
+    "treated": [
+     113
+    ],
+    "wastewater,": [
+     114
+    ],
+    "respectively.The": [
+     115
+    ],
+    "autarky": [
+     118,
+     128
+    ],
+    "plants": [
+     121,
+     124
+    ],
+    "25.2%.Some": [
+     123
+    ],
+    "have": [
+     125
+    ],
+    "high": [
+     126
+    ],
+    "(>65%),": [
+     129
+    ],
+    "despite": [
+     130
+    ],
+    "no": [
+     131
+    ],
+    "external": [
+     132
+    ],
+    "biowastes": [
+     133
+    ],
+    "being": [
+     134
+    ],
+    "dosed": [
+     135
+    ],
+    "these": [
+     137
+    ],
+    "during": [
+     138
+    ],
+    "operation.": [
+     139
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 9
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 11
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 13
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 8
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 9
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 8
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 9
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 12
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 10
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 3
+    }
+   ],
+   "updated_date": "2026-10-14T16:39:01.820549",
+   "created_date": "2025-10-10T00:00:00"
+  }
+ ]
+}

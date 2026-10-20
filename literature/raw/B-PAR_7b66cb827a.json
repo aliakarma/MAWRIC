@@ -1,0 +1,5434 @@
+{
+ "query": "distributed optimization statistical learning alternating direction method of multipliers",
+ "pass": "B-PAR",
+ "y0": 2010,
+ "y1": 2012,
+ "results": [
+  {
+   "id": "https://openalex.org/W4292363360",
+   "doi": "https://doi.org/10.1561/2200000016",
+   "title": "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers",
+   "display_name": "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers",
+   "relevance_score": 267.84406,
+   "publication_year": 2011,
+   "publication_date": "2011-07-26",
+   "ids": {
+    "openalex": "https://openalex.org/W4292363360",
+    "doi": "https://doi.org/10.1561/2200000016"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.1561/2200000016",
+    "doi": "https://doi.org/10.1561/2200000016",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1561/2200000016",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4210188176",
+     "display_name": "Foundations and Trends\u00ae in Machine Learning",
+     "issn_l": "1935-8237",
+     "issn": [
+      "1935-8237",
+      "1935-8245"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "dongbi-b",
+      "jufo-3",
+      "poland-140",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310318575",
+     "host_organization_name": "Now Publishers",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310318575",
+      "https://openalex.org/P4310319811"
+     ],
+     "host_organization_lineage_names": [
+      "Now Publishers",
+      "Emerald Publishing Limited"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Foundations and Trends\u00ae in Machine Learning",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5011176205",
+      "display_name": "Stephen Boyd",
+      "orcid": "https://orcid.org/0000-0001-8353-6000",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8353-6000"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I97018004",
+       "display_name": "Stanford University",
+       "ror": "https://ror.org/00f54p054",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I97018004"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Stephen Boyd",
+     "raw_affiliation_strings": [
+      "Electrical Engineering Department, Stanford University , Stanford, 94305,",
+      "Electrical Engineering Department, Stanford University, USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Electrical Engineering Department, Stanford University , Stanford, 94305,",
+       "institution_ids": [
+        "https://openalex.org/I97018004"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Electrical Engineering Department, Stanford University, USA",
+       "institution_ids": [
+        "https://openalex.org/I97018004"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5076583746",
+      "display_name": "Neal Parikh",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I97018004",
+       "display_name": "Stanford University",
+       "ror": "https://ror.org/00f54p054",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I97018004"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Neal Parikh",
+     "raw_affiliation_strings": [
+      "Computer Science Department, Stanford University , Stanford, 94305,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Computer Science Department, Stanford University , Stanford, 94305,",
+       "institution_ids": [
+        "https://openalex.org/I97018004"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5059765988",
+      "display_name": "Eric Chu",
+      "orcid": "https://orcid.org/0009-0000-6673-4945",
+      "observed_orcids": [
+       "https://orcid.org/0009-0000-6673-4945"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I97018004",
+       "display_name": "Stanford University",
+       "ror": "https://ror.org/00f54p054",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I97018004"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Eric Chu",
+     "raw_affiliation_strings": [
+      "Electrical Engineering Department, Stanford University , Stanford, 94305,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Electrical Engineering Department, Stanford University , Stanford, 94305,",
+       "institution_ids": [
+        "https://openalex.org/I97018004"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5090240624",
+      "display_name": "Borja Peleato",
+      "orcid": "https://orcid.org/0000-0001-6728-2784",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-6728-2784"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I97018004",
+       "display_name": "Stanford University",
+       "ror": "https://ror.org/00f54p054",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I97018004"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Borja Peleato",
+     "raw_affiliation_strings": [
+      "Electrical Engineering Department, Stanford University , Stanford, 94305,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Electrical Engineering Department, Stanford University , Stanford, 94305,",
+       "institution_ids": [
+        "https://openalex.org/I97018004"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5015859697",
+      "display_name": "Jonathan Eckstein",
+      "orcid": "https://orcid.org/0000-0002-6871-2691",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6871-2691"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I102322142",
+       "display_name": "Rutgers, The State University of New Jersey",
+       "ror": "https://ror.org/05vt9qd57",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I102322142"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Jonathan Eckstein",
+     "raw_affiliation_strings": [
+      "Management Science and Information Systems Department and RUTCOR, Rutgers University , Piscataway, 08854,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Management Science and Information Systems Department and RUTCOR, Rutgers University , Piscataway, 08854,",
+       "institution_ids": [
+        "https://openalex.org/I102322142"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 2,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5011176205"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I97018004"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 281.4921,
+   "has_fulltext": false,
+   "cited_by_count": 16395,
+   "citation_normalized_percentile": {
+    "value": 0.99998205,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+   },
+   "biblio": {
+    "volume": "3",
+    "issue": "1",
+    "first_page": "1",
+    "last_page": "122"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11612",
+    "display_name": "Stochastic Gradient Optimization Techniques",
+    "score": 0.35030001401901245,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1702",
+     "display_name": "Artificial Intelligence"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/17",
+     "display_name": "Computer Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11612",
+     "display_name": "Stochastic Gradient Optimization Techniques",
+     "score": 0.35030001401901245,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10249",
+     "display_name": "Distributed Control Multi-Agent Systems",
+     "score": 0.2849000096321106,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10500",
+     "display_name": "Sparse and Compressive Sensing Techniques",
+     "score": 0.13699999451637268,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2206",
+      "display_name": "Computational Mechanics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/alternating-direction-method-of-multipliers",
+     "display_name": "alternating direction method of multipliers",
+     "score": 0.9959999918937683
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-convex-optimization",
+     "display_name": "distributed convex optimization",
+     "score": 0.8510000109672546
+    },
+    {
+     "id": "https://openalex.org/keywords/statistical-learning",
+     "display_name": "statistical learning",
+     "score": 0.6869999766349792
+    },
+    {
+     "id": "https://openalex.org/keywords/large-scale-optimization",
+     "display_name": "large-scale optimization",
+     "score": 0.6430000066757202
+    },
+    {
+     "id": "https://openalex.org/keywords/dual-decomposition",
+     "display_name": "dual decomposition",
+     "score": 0.9490000009536743
+    },
+    {
+     "id": "https://openalex.org/keywords/douglas-rachford-splitting",
+     "display_name": "Douglas-Rachford splitting",
+     "score": 0.8640000224113464
+    },
+    {
+     "id": "https://openalex.org/keywords/lasso",
+     "display_name": "LASSO",
+     "score": 0.8799999952316284
+    },
+    {
+     "id": "https://openalex.org/keywords/sparse-logistic-regression",
+     "display_name": "sparse logistic regression",
+     "score": 0.9990000128746033
+    },
+    {
+     "id": "https://openalex.org/keywords/basis-pursuit",
+     "display_name": "basis pursuit",
+     "score": 0.9940000176429749
+    },
+    {
+     "id": "https://openalex.org/keywords/covariance-selection",
+     "display_name": "covariance selection",
+     "score": 0.9980000257492065
+    },
+    {
+     "id": "https://openalex.org/keywords/support-vector-machine",
+     "display_name": "support vector machine",
+     "score": 1.0
+    },
+    {
+     "id": "https://openalex.org/keywords/nonconvex-optimization",
+     "display_name": "non-convex optimization",
+     "score": 0.9610000252723694
+    },
+    {
+     "id": "https://openalex.org/keywords/mpi",
+     "display_name": "MPI",
+     "score": 0.5419999957084656
+    },
+    {
+     "id": "https://openalex.org/keywords/hadoop-mapreduce",
+     "display_name": "Hadoop MapReduce",
+     "score": 0.9869999885559082
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.56806480884552
+    },
+    {
+     "id": "https://openalex.org/C2982736386",
+     "wikidata": "https://www.wikidata.org/wiki/Q2539",
+     "display_name": "Statistical learning",
+     "level": 2,
+     "score": 0.44289156794548035
+    },
+    {
+     "id": "https://openalex.org/C126255220",
+     "wikidata": "https://www.wikidata.org/wiki/Q141495",
+     "display_name": "Mathematical optimization",
+     "level": 1,
+     "score": 0.35807332396507263
+    },
+    {
+     "id": "https://openalex.org/C154945302",
+     "wikidata": "https://www.wikidata.org/wiki/Q11660",
+     "display_name": "Artificial intelligence",
+     "level": 1,
+     "score": 0.3458283245563507
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.2526182234287262
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.1561/2200000016",
+     "doi": "https://doi.org/10.1561/2200000016",
+     "is_oa": false,
+     "landing_page_url": "https://doi.org/10.1561/2200000016",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4210188176",
+      "display_name": "Foundations and Trends\u00ae in Machine Learning",
+      "issn_l": "1935-8237",
+      "issn": [
+       "1935-8237",
+       "1935-8245"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "cwts-core",
+       "dongbi-b",
+       "jufo-3",
+       "poland-140",
+       "russia-white-list-1"
+      ],
+      "host_organization": "https://openalex.org/P4310318575",
+      "host_organization_name": "Now Publishers",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310318575",
+       "https://openalex.org/P4310319811"
+      ],
+      "host_organization_lineage_names": [
+       "Now Publishers",
+       "Emerald Publishing Limited"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Foundations and Trends\u00ae in Machine Learning",
+     "raw_type": "journal-article"
+    }
+   ],
+   "best_oa_location": null,
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 118,
+   "referenced_works": [
+    "https://openalex.org/W1503425191",
+    "https://openalex.org/W1557218204",
+    "https://openalex.org/W1560772759",
+    "https://openalex.org/W1562101002",
+    "https://openalex.org/W1577406987",
+    "https://openalex.org/W1710475132",
+    "https://openalex.org/W1964709249",
+    "https://openalex.org/W1965650079",
+    "https://openalex.org/W1969007958",
+    "https://openalex.org/W1970986119",
+    "https://openalex.org/W1976709621",
+    "https://openalex.org/W1980693794",
+    "https://openalex.org/W1981420413",
+    "https://openalex.org/W1982032418",
+    "https://openalex.org/W1983357136",
+    "https://openalex.org/W1986364567",
+    "https://openalex.org/W1988425770",
+    "https://openalex.org/W1991482609",
+    "https://openalex.org/W1993666454",
+    "https://openalex.org/W1994309289",
+    "https://openalex.org/W1996287810",
+    "https://openalex.org/W2000359198",
+    "https://openalex.org/W2003372231",
+    "https://openalex.org/W2004304255",
+    "https://openalex.org/W2004328411",
+    "https://openalex.org/W2006262045",
+    "https://openalex.org/W2010824638",
+    "https://openalex.org/W2010825468",
+    "https://openalex.org/W2015263936",
+    "https://openalex.org/W2019569173",
+    "https://openalex.org/W2020302654",
+    "https://openalex.org/W2023163512",
+    "https://openalex.org/W2030409788",
+    "https://openalex.org/W2033468335",
+    "https://openalex.org/W2033511209",
+    "https://openalex.org/W2038497950",
+    "https://openalex.org/W2038659284",
+    "https://openalex.org/W2039151776",
+    "https://openalex.org/W2044121814",
+    "https://openalex.org/W2044212084",
+    "https://openalex.org/W2045079045",
+    "https://openalex.org/W2045271686",
+    "https://openalex.org/W2046033161",
+    "https://openalex.org/W2050958540",
+    "https://openalex.org/W2051434435",
+    "https://openalex.org/W2055400003",
+    "https://openalex.org/W2055467852",
+    "https://openalex.org/W2057624533",
+    "https://openalex.org/W2058532290",
+    "https://openalex.org/W2060627718",
+    "https://openalex.org/W2061962896",
+    "https://openalex.org/W2067689904",
+    "https://openalex.org/W2069277547",
+    "https://openalex.org/W2072536590",
+    "https://openalex.org/W2074796812",
+    "https://openalex.org/W2078204800",
+    "https://openalex.org/W2079261074",
+    "https://openalex.org/W2082029531",
+    "https://openalex.org/W2084874367",
+    "https://openalex.org/W2089024363",
+    "https://openalex.org/W2089700840",
+    "https://openalex.org/W2090053640",
+    "https://openalex.org/W2095036901",
+    "https://openalex.org/W2100556411",
+    "https://openalex.org/W2100705753",
+    "https://openalex.org/W2103018059",
+    "https://openalex.org/W2103559027",
+    "https://openalex.org/W2105560970",
+    "https://openalex.org/W2106821132",
+    "https://openalex.org/W2108970807",
+    "https://openalex.org/W2109449402",
+    "https://openalex.org/W2112980792",
+    "https://openalex.org/W2115447612",
+    "https://openalex.org/W2115706991",
+    "https://openalex.org/W2118237987",
+    "https://openalex.org/W2119565742",
+    "https://openalex.org/W2123031198",
+    "https://openalex.org/W2129638195",
+    "https://openalex.org/W2129927143",
+    "https://openalex.org/W2132555912",
+    "https://openalex.org/W2134438999",
+    "https://openalex.org/W2135046866",
+    "https://openalex.org/W2135779729",
+    "https://openalex.org/W2138019504",
+    "https://openalex.org/W2140206057",
+    "https://openalex.org/W2141713516",
+    "https://openalex.org/W2142058898",
+    "https://openalex.org/W2142280715",
+    "https://openalex.org/W2142574689",
+    "https://openalex.org/W2143552821",
+    "https://openalex.org/W2145096794",
+    "https://openalex.org/W2146842127",
+    "https://openalex.org/W2148791483",
+    "https://openalex.org/W2151565294",
+    "https://openalex.org/W2154834860",
+    "https://openalex.org/W2156466771",
+    "https://openalex.org/W2160397644",
+    "https://openalex.org/W2173213060",
+    "https://openalex.org/W2244987555",
+    "https://openalex.org/W2257208204",
+    "https://openalex.org/W2296319761",
+    "https://openalex.org/W2320581067",
+    "https://openalex.org/W2564555264",
+    "https://openalex.org/W2787894218",
+    "https://openalex.org/W2917103431",
+    "https://openalex.org/W3022380717",
+    "https://openalex.org/W4230674625",
+    "https://openalex.org/W4234277722",
+    "https://openalex.org/W4238253035",
+    "https://openalex.org/W4248437541",
+    "https://openalex.org/W4249513058",
+    "https://openalex.org/W4249667877",
+    "https://openalex.org/W4250955649",
+    "https://openalex.org/W4254106911",
+    "https://openalex.org/W4293052541",
+    "https://openalex.org/W4293775970",
+    "https://openalex.org/W4301491118",
+    "https://openalex.org/W4302155765"
+   ],
+   "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2001405890",
+    "https://openalex.org/W2382290278",
+    "https://openalex.org/W2350741829",
+    "https://openalex.org/W2530322880",
+    "https://openalex.org/W1596801655",
+    "https://openalex.org/W2359140296"
+   ],
+   "abstract_inverted_index": {
+    "Many": [
+     0
+    ],
+    "problems": [
+     1,
+     39,
+     101,
+     182
+    ],
+    "of": [
+     2,
+     16,
+     27,
+     45,
+     59,
+     87,
+     138,
+     144,
+     167,
+     177,
+     183
+    ],
+    "recent": [
+     3,
+     184
+    ],
+    "interest": [
+     4
+    ],
+    "in": [
+     5,
+     13,
+     23,
+     97,
+     103,
+     114,
+     119
+    ],
+    "statistics": [
+     6
+    ],
+    "and": [
+     7,
+     25,
+     96,
+     107,
+     122,
+     158,
+     165,
+     179,
+     199,
+     213,
+     222
+    ],
+    "machine": [
+     8,
+     105,
+     180
+    ],
+    "learning": [
+     9,
+     181
+    ],
+    "can": [
+     10
+    ],
+    "be": [
+     11,
+     35
+    ],
+    "posed": [
+     12
+    ],
+    "the": [
+     14,
+     21,
+     54,
+     83,
+     115,
+     120,
+     136,
+     163,
+     168,
+     187,
+     210
+    ],
+    "framework": [
+     15
+    ],
+    "convex": [
+     17,
+     94
+    ],
+    "optimization.": [
+     18
+    ],
+    "Due": [
+     19
+    ],
+    "to": [
+     20,
+     34,
+     37,
+     92,
+     99,
+     128,
+     173,
+     209
+    ],
+    "explosion": [
+     22
+    ],
+    "size": [
+     24
+    ],
+    "complexity": [
+     26
+    ],
+    "modern": [
+     28
+    ],
+    "datasets,": [
+     29
+    ],
+    "it": [
+     30
+    ],
+    "is": [
+     31,
+     89,
+     123
+    ],
+    "increasingly": [
+     32
+    ],
+    "important": [
+     33
+    ],
+    "able": [
+     36
+    ],
+    "solve": [
+     38
+    ],
+    "with": [
+     40,
+     117
+    ],
+    "a": [
+     41,
+     51,
+     174
+    ],
+    "very": [
+     42
+    ],
+    "large": [
+     43
+    ],
+    "number": [
+     44
+    ],
+    "features": [
+     46
+    ],
+    "or": [
+     47,
+     57,
+     72,
+     125
+    ],
+    "training": [
+     48
+    ],
+    "examples.": [
+     49
+    ],
+    "As": [
+     50
+    ],
+    "result,": [
+     52
+    ],
+    "both": [
+     53
+    ],
+    "decentralized": [
+     55
+    ],
+    "collection": [
+     56
+    ],
+    "storage": [
+     58
+    ],
+    "these": [
+     60
+    ],
+    "datasets": [
+     61
+    ],
+    "as": [
+     62,
+     64,
+     133
+    ],
+    "well": [
+     63,
+     90
+    ],
+    "accompanying": [
+     65
+    ],
+    "distributed": [
+     66,
+     93,
+     206,
+     220
+    ],
+    "solution": [
+     67
+    ],
+    "methods": [
+     68
+    ],
+    "are": [
+     69
+    ],
+    "either": [
+     70
+    ],
+    "necessary": [
+     71
+    ],
+    "at": [
+     73
+    ],
+    "least": [
+     74
+    ],
+    "highly": [
+     75
+    ],
+    "desirable.": [
+     76
+    ],
+    "In": [
+     77
+    ],
+    "this": [
+     78
+    ],
+    "review,": [
+     79
+    ],
+    "we": [
+     80,
+     170
+    ],
+    "argue": [
+     81
+    ],
+    "that": [
+     82
+    ],
+    "alternating": [
+     84,
+     148
+    ],
+    "direction": [
+     85
+    ],
+    "method": [
+     86,
+     111,
+     137,
+     143
+    ],
+    "multipliers": [
+     88
+    ],
+    "suited": [
+     91
+    ],
+    "optimization,": [
+     95,
+     207
+    ],
+    "particular": [
+     98
+    ],
+    "large-scale": [
+     100
+    ],
+    "arising": [
+     102
+    ],
+    "statistics,": [
+     104
+    ],
+    "learning,": [
+     106
+    ],
+    "related": [
+     108,
+     127
+    ],
+    "areas.": [
+     109
+    ],
+    "The": [
+     110
+    ],
+    "was": [
+     112
+    ],
+    "developed": [
+     113
+    ],
+    "1970s,": [
+     116
+    ],
+    "roots": [
+     118
+    ],
+    "1950s,": [
+     121
+    ],
+    "equivalent": [
+     124
+    ],
+    "closely": [
+     126
+    ],
+    "many": [
+     129,
+     200
+    ],
+    "other": [
+     130
+    ],
+    "algorithms,": [
+     131
+    ],
+    "such": [
+     132
+    ],
+    "dual": [
+     134
+    ],
+    "decomposition,": [
+     135
+    ],
+    "multipliers,": [
+     139
+    ],
+    "Douglas\u2013Rachford": [
+     140
+    ],
+    "splitting,": [
+     141
+    ],
+    "Spingarn's": [
+     142
+    ],
+    "partial": [
+     145
+    ],
+    "inverses,": [
+     146
+    ],
+    "Dykstra's": [
+     147
+    ],
+    "projections,": [
+     149
+    ],
+    "Bregman": [
+     150
+    ],
+    "iterative": [
+     151
+    ],
+    "algorithms": [
+     152
+    ],
+    "for": [
+     153
+    ],
+    "\u21131": [
+     154
+    ],
+    "problems,": [
+     155
+    ],
+    "proximal": [
+     156
+    ],
+    "methods,": [
+     157
+    ],
+    "others.": [
+     159,
+     201
+    ],
+    "After": [
+     160
+    ],
+    "briefly": [
+     161
+    ],
+    "surveying": [
+     162
+    ],
+    "theory": [
+     164
+    ],
+    "history": [
+     166
+    ],
+    "algorithm,": [
+     169
+    ],
+    "discuss": [
+     171,
+     204
+    ],
+    "applications": [
+     172
+    ],
+    "wide": [
+     175
+    ],
+    "variety": [
+     176
+    ],
+    "statistical": [
+     178
+    ],
+    "interest,": [
+     185
+    ],
+    "including": [
+     186,
+     216
+    ],
+    "lasso,": [
+     188
+    ],
+    "sparse": [
+     189
+    ],
+    "logistic": [
+     190
+    ],
+    "regression,": [
+     191
+    ],
+    "basis": [
+     192
+    ],
+    "pursuit,": [
+     193
+    ],
+    "covariance": [
+     194
+    ],
+    "selection,": [
+     195
+    ],
+    "support": [
+     196
+    ],
+    "vector": [
+     197
+    ],
+    "machines,": [
+     198
+    ],
+    "We": [
+     202
+    ],
+    "also": [
+     203
+    ],
+    "general": [
+     205
+    ],
+    "extensions": [
+     208
+    ],
+    "nonconvex": [
+     211
+    ],
+    "setting,": [
+     212
+    ],
+    "efficient": [
+     214
+    ],
+    "implementation,": [
+     215
+    ],
+    "some": [
+     217
+    ],
+    "details": [
+     218
+    ],
+    "on": [
+     219
+    ],
+    "MPI": [
+     221
+    ],
+    "Hadoop": [
+     223
+    ],
+    "MapReduce": [
+     224
+    ],
+    "implementations.": [
+     225
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 875
+    },
+    {
+     "year": 2025,
+     "cited_by_count": 1351
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 1414
+    },
+    {
+     "year": 2023,
+     "cited_by_count": 1484
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 1420
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 1393
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 1602
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 1624
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 1403
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 1160
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 972
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 737
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 529
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 284
+    },
+    {
+     "year": 2012,
+     "cited_by_count": 122
+    }
+   ],
+   "updated_date": "2026-10-15T10:00:46.086208",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W1505176635",
+   "doi": "https://doi.org/10.48550/arxiv.1207.3178",
+   "title": "Distributed MPC Via Dual Decomposition and Alternating Direction Method of Multipliers",
+   "display_name": "Distributed MPC Via Dual Decomposition and Alternating Direction Method of Multipliers",
+   "relevance_score": 58.12737,
+   "publication_year": 2012,
+   "publication_date": "2012-07-13",
+   "ids": {
+    "openalex": "https://openalex.org/W1505176635",
+    "doi": "https://doi.org/10.48550/arxiv.1207.3178",
+    "mag": "1505176635"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "pmh:oai:arXiv.org:1207.3178",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://arxiv.org/abs/1207.3178",
+    "pdf_url": "https://arxiv.org/pdf/1207.3178",
+    "source": {
+     "id": "https://openalex.org/S4306400194",
+     "display_name": "arXiv (Cornell University)",
+     "issn_l": "2331-8422",
+     "issn": [
+      "2331-8422"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I205783295",
+     "host_organization_name": "Cornell University",
+     "host_organization_lineage": [
+      "https://openalex.org/I205783295"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+   },
+   "volume": null,
+   "type": "preprint",
+   "indexed_in": [
+    "arxiv",
+    "datacite"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/1207.3178",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5068636477",
+      "display_name": "Farhad Farokhi",
+      "orcid": "https://orcid.org/0000-0002-5102-7073",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5102-7073"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86987016",
+       "display_name": "KTH Royal Institute of Technology",
+       "ror": "https://ror.org/026vcq606",
+       "country_code": "SE",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86987016"
+       ]
+      }
+     ],
+     "countries": [
+      "SE"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Farokhi, Farhad",
+     "raw_affiliation_strings": [
+      "ACCESS Linnaeus Center , School of Electrical Engineering , KTH Royal Institute of Technology ,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "ACCESS Linnaeus Center , School of Electrical Engineering , KTH Royal Institute of Technology ,",
+       "institution_ids": [
+        "https://openalex.org/I86987016"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5010259253",
+      "display_name": "Iman Shames",
+      "orcid": "https://orcid.org/0000-0001-7308-3546",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-7308-3546"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86987016",
+       "display_name": "KTH Royal Institute of Technology",
+       "ror": "https://ror.org/026vcq606",
+       "country_code": "SE",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86987016"
+       ]
+      }
+     ],
+     "countries": [
+      "SE"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Shames, Iman",
+     "raw_affiliation_strings": [
+      "ACCESS Linnaeus Center , School of Electrical Engineering , KTH Royal Institute of Technology ,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "ACCESS Linnaeus Center , School of Electrical Engineering , KTH Royal Institute of Technology ,",
+       "institution_ids": [
+        "https://openalex.org/I86987016"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5045975901",
+      "display_name": "Karl Henrik Johansson",
+      "orcid": "https://orcid.org/0000-0001-9940-5929",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9940-5929"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I86987016",
+       "display_name": "KTH Royal Institute of Technology",
+       "ror": "https://ror.org/026vcq606",
+       "country_code": "SE",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I86987016"
+       ]
+      }
+     ],
+     "countries": [
+      "SE"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Johansson, Karl H.",
+     "raw_affiliation_strings": [
+      "ACCESS Linnaeus Center , School of Electrical Engineering , KTH Royal Institute of Technology ,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "ACCESS Linnaeus Center , School of Electrical Engineering , KTH Royal Institute of Technology ,",
+       "institution_ids": [
+        "https://openalex.org/I86987016"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I86987016"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": null,
+   "has_fulltext": true,
+   "cited_by_count": 5,
+   "citation_normalized_percentile": null,
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T10791",
+    "display_name": "Advanced Control Systems Optimization",
+    "score": 0.9980000257492065,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2207",
+     "display_name": "Control and Systems Engineering"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/22",
+     "display_name": "Engineering"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T10791",
+     "display_name": "Advanced Control Systems Optimization",
+     "score": 0.9980000257492065,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2207",
+      "display_name": "Control and Systems Engineering"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10249",
+     "display_name": "Distributed Control Multi-Agent Systems",
+     "score": 0.0017000000225380063,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10963",
+     "display_name": "Advanced Optimization Algorithms Research",
+     "score": 9.999999747378752e-05,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2612",
+      "display_name": "Numerical Analysis"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/26",
+      "display_name": "Mathematics"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/distributed-model-predictive-control",
+     "display_name": "distributed model predictive control",
+     "score": 0.9980000257492065
+    },
+    {
+     "id": "https://openalex.org/keywords/dual-decomposition",
+     "display_name": "dual decomposition",
+     "score": 0.9929999709129333
+    },
+    {
+     "id": "https://openalex.org/keywords/alternating-direction-method-of-multipliers",
+     "display_name": "alternating direction method of multipliers",
+     "score": 0.9980000257492065
+    },
+    {
+     "id": "https://openalex.org/keywords/gradient-ascent",
+     "display_name": "gradient ascent",
+     "score": 0.6209999918937683
+    },
+    {
+     "id": "https://openalex.org/keywords/algorithm-termination",
+     "display_name": "algorithm termination",
+     "score": 0.625
+    },
+    {
+     "id": "https://openalex.org/keywords/dynamic-coupling",
+     "display_name": "dynamic coupling",
+     "score": 0.7730000019073486
+    },
+    {
+     "id": "https://openalex.org/keywords/convergence-guarantees",
+     "display_name": "convergence guarantees",
+     "score": 0.460999995470047
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C2780980858",
+     "wikidata": "https://www.wikidata.org/wiki/Q110022",
+     "display_name": "Dual (grammatical number)",
+     "level": 2,
+     "score": 0.7997311949729919
+    },
+    {
+     "id": "https://openalex.org/C124681953",
+     "wikidata": "https://www.wikidata.org/wiki/Q339062",
+     "display_name": "Decomposition",
+     "level": 2,
+     "score": 0.7466404438018799
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.6001741886138916
+    },
+    {
+     "id": "https://openalex.org/C126255220",
+     "wikidata": "https://www.wikidata.org/wiki/Q141495",
+     "display_name": "Mathematical optimization",
+     "level": 1,
+     "score": 0.5873743891716003
+    },
+    {
+     "id": "https://openalex.org/C28719098",
+     "wikidata": "https://www.wikidata.org/wiki/Q44946",
+     "display_name": "Point (geometry)",
+     "level": 2,
+     "score": 0.5450388193130493
+    },
+    {
+     "id": "https://openalex.org/C2777026412",
+     "wikidata": "https://www.wikidata.org/wiki/Q2684591",
+     "display_name": "Statement (logic)",
+     "level": 2,
+     "score": 0.5319998860359192
+    },
+    {
+     "id": "https://openalex.org/C202532154",
+     "wikidata": "https://www.wikidata.org/wiki/Q4374193",
+     "display_name": "Problem statement",
+     "level": 2,
+     "score": 0.43465298414230347
+    },
+    {
+     "id": "https://openalex.org/C11413529",
+     "wikidata": "https://www.wikidata.org/wiki/Q8366",
+     "display_name": "Algorithm",
+     "level": 1,
+     "score": 0.34762662649154663
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.30357229709625244
+    },
+    {
+     "id": "https://openalex.org/C127413603",
+     "wikidata": "https://www.wikidata.org/wiki/Q11023",
+     "display_name": "Engineering",
+     "level": 0,
+     "score": 0.068675696849823
+    },
+    {
+     "id": "https://openalex.org/C17744445",
+     "wikidata": "https://www.wikidata.org/wiki/Q36442",
+     "display_name": "Political science",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C142362112",
+     "wikidata": "https://www.wikidata.org/wiki/Q735",
+     "display_name": "Art",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C124952713",
+     "wikidata": "https://www.wikidata.org/wiki/Q8242",
+     "display_name": "Literature",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C199539241",
+     "wikidata": "https://www.wikidata.org/wiki/Q7748",
+     "display_name": "Law",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C86803240",
+     "wikidata": "https://www.wikidata.org/wiki/Q420",
+     "display_name": "Biology",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C539667460",
+     "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+     "display_name": "Management science",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C2524010",
+     "wikidata": "https://www.wikidata.org/wiki/Q8087",
+     "display_name": "Geometry",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C18903297",
+     "wikidata": "https://www.wikidata.org/wiki/Q7150",
+     "display_name": "Ecology",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 2,
+   "locations": [
+    {
+     "id": "pmh:oai:arXiv.org:1207.3178",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "https://arxiv.org/abs/1207.3178",
+     "pdf_url": "https://arxiv.org/pdf/1207.3178",
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": "2331-8422",
+      "issn": [
+       "2331-8422"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+       "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "text"
+    },
+    {
+     "id": "doi:10.48550/arxiv.1207.3178",
+     "doi": "https://doi.org/10.48550/arxiv.1207.3178",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.48550/arxiv.1207.3178",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": "2331-8422",
+      "issn": [
+       "2331-8422"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+       "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": null,
+     "is_accepted": false,
+     "is_published": null,
+     "raw_source_name": null,
+     "raw_type": "Preprint"
+    }
+   ],
+   "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:1207.3178",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://arxiv.org/abs/1207.3178",
+    "pdf_url": "https://arxiv.org/pdf/1207.3178",
+    "source": {
+     "id": "https://openalex.org/S4306400194",
+     "display_name": "arXiv (Cornell University)",
+     "issn_l": "2331-8422",
+     "issn": [
+      "2331-8422"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I205783295",
+     "host_organization_name": "Cornell University",
+     "host_organization_lineage": [
+      "https://openalex.org/I205783295"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+   },
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320320940",
+     "display_name": "Stiftelsen f\u00f6r\u00a0Strategisk Forskning",
+     "ror": "https://ror.org/044wr7g58"
+    },
+    {
+     "id": "https://openalex.org/F4320322327",
+     "display_name": "Knut och Alice Wallenbergs Stiftelse",
+     "ror": "https://ror.org/004hzzk67"
+    },
+    {
+     "id": "https://openalex.org/F4320322581",
+     "display_name": "Vetenskapsr\u00e5det",
+     "ror": "https://ror.org/03zttf063"
+    }
+   ],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W1505176635.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W1505176635.grobid-xml"
+   },
+   "referenced_works_count": 20,
+   "referenced_works": [
+    "https://openalex.org/W1492106702",
+    "https://openalex.org/W1953310852",
+    "https://openalex.org/W1976169918",
+    "https://openalex.org/W1979255915",
+    "https://openalex.org/W1993526931",
+    "https://openalex.org/W2002219970",
+    "https://openalex.org/W2026717988",
+    "https://openalex.org/W2029460515",
+    "https://openalex.org/W2035589416",
+    "https://openalex.org/W2073787051",
+    "https://openalex.org/W2099356649",
+    "https://openalex.org/W2107457089",
+    "https://openalex.org/W2110428861",
+    "https://openalex.org/W2117195148",
+    "https://openalex.org/W2120481993",
+    "https://openalex.org/W2125285351",
+    "https://openalex.org/W2149802487",
+    "https://openalex.org/W2164278908",
+    "https://openalex.org/W2296319761",
+    "https://openalex.org/W3102961917"
+   ],
+   "related_works": [
+    "https://openalex.org/W4230021867",
+    "https://openalex.org/W2963732072",
+    "https://openalex.org/W121796019",
+    "https://openalex.org/W4379033598",
+    "https://openalex.org/W1995698356",
+    "https://openalex.org/W3128689118",
+    "https://openalex.org/W2030474123",
+    "https://openalex.org/W3194732531",
+    "https://openalex.org/W3027176591",
+    "https://openalex.org/W4255583600"
+   ],
+   "abstract_inverted_index": {
+    "A": [
+     0
+    ],
+    "conventional": [
+     1
+    ],
+    "way": [
+     2
+    ],
+    "to": [
+     3,
+     12,
+     30,
+     36,
+     46,
+     54,
+     66,
+     81,
+     84
+    ],
+    "handle": [
+     4
+    ],
+    "model": [
+     5
+    ],
+    "predictive": [
+     6
+    ],
+    "control": [
+     7
+    ],
+    "(MPC)": [
+     8
+    ],
+    "problems": [
+     9
+    ],
+    "distributedly": [
+     10
+    ],
+    "is": [
+     11,
+     51,
+     64,
+     83,
+     117
+    ],
+    "solve": [
+     13
+    ],
+    "them": [
+     14
+    ],
+    "via": [
+     15
+    ],
+    "dual": [
+     16,
+     34
+    ],
+    "decomposition": [
+     17
+    ],
+    "and": [
+     18,
+     70,
+     101
+    ],
+    "gradient": [
+     19
+    ],
+    "ascent.": [
+     20
+    ],
+    "However,": [
+     21
+    ],
+    "at": [
+     22,
+     59,
+     92
+    ],
+    "each": [
+     23
+    ],
+    "time-step,": [
+     24
+    ],
+    "it": [
+     25
+    ],
+    "might": [
+     26,
+     43
+    ],
+    "not": [
+     27
+    ],
+    "be": [
+     28,
+     44,
+     47,
+     85
+    ],
+    "feasible": [
+     29
+    ],
+    "wait": [
+     31
+    ],
+    "for": [
+     32,
+     95
+    ],
+    "the": [
+     33,
+     41,
+     57,
+     60,
+     67,
+     75,
+     115
+    ],
+    "algorithm": [
+     35,
+     42,
+     76
+    ],
+    "converge.": [
+     37
+    ],
+    "As": [
+     38
+    ],
+    "a": [
+     39,
+     78,
+     107
+    ],
+    "result,": [
+     40
+    ],
+    "needed": [
+     45
+    ],
+    "terminated": [
+     48
+    ],
+    "prematurely.": [
+     49
+    ],
+    "One": [
+     50
+    ],
+    "then": [
+     52
+    ],
+    "interested": [
+     53
+    ],
+    "see": [
+     55
+    ],
+    "if": [
+     56,
+     77
+    ],
+    "solution": [
+     58,
+     69
+    ],
+    "point": [
+     61
+    ],
+    "of": [
+     62,
+     111,
+     123
+    ],
+    "termination": [
+     63
+    ],
+    "close": [
+     65
+    ],
+    "optimal": [
+     68
+    ],
+    "when": [
+     71
+    ],
+    "one": [
+     72
+    ],
+    "should": [
+     73
+    ],
+    "terminate": [
+     74
+    ],
+    "certain": [
+     79
+    ],
+    "distance": [
+     80
+    ],
+    "optimality": [
+     82
+    ],
+    "guaranteed.": [
+     86
+    ],
+    "In": [
+     87
+    ],
+    "this": [
+     88,
+     93
+    ],
+    "chapter,": [
+     89
+    ],
+    "we": [
+     90,
+     105
+    ],
+    "look": [
+     91
+    ],
+    "problem": [
+     94,
+     116
+    ],
+    "distributed": [
+     96
+    ],
+    "systems": [
+     97
+    ],
+    "under": [
+     98
+    ],
+    "general": [
+     99
+    ],
+    "dynamical": [
+     100
+    ],
+    "performance": [
+     102
+    ],
+    "couplings,": [
+     103
+    ],
+    "then,": [
+     104
+    ],
+    "make": [
+     106
+    ],
+    "statement": [
+     108
+    ],
+    "on": [
+     109
+    ],
+    "validity": [
+     110
+    ],
+    "similar": [
+     112
+    ],
+    "results": [
+     113
+    ],
+    "where": [
+     114
+    ],
+    "solved": [
+     118
+    ],
+    "using": [
+     119
+    ],
+    "alternating": [
+     120
+    ],
+    "direction": [
+     121
+    ],
+    "method": [
+     122
+    ],
+    "multipliers.": [
+     124
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2020,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 2
+    }
+   ],
+   "updated_date": "2026-10-12T09:40:04.860316",
+   "created_date": "2016-06-24T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W1563975843",
+   "doi": "https://doi.org/10.48550/arxiv.1206.6448",
+   "title": "Online Alternating Direction Method",
+   "display_name": "Online Alternating Direction Method",
+   "relevance_score": 52.048237,
+   "publication_year": 2012,
+   "publication_date": "2012-06-27",
+   "ids": {
+    "openalex": "https://openalex.org/W1563975843",
+    "doi": "https://doi.org/10.48550/arxiv.1206.6448",
+    "mag": "1563975843"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "pmh:oai:arXiv.org:1206.6448",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/1206.6448",
+    "pdf_url": "https://arxiv.org/pdf/1206.6448",
+    "source": {
+     "id": "https://openalex.org/S4306400194",
+     "display_name": "arXiv (Cornell University)",
+     "issn_l": "2331-8422",
+     "issn": [
+      "2331-8422"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I205783295",
+     "host_organization_name": "Cornell University",
+     "host_organization_lineage": [
+      "https://openalex.org/I205783295"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+   },
+   "volume": null,
+   "type": "preprint",
+   "indexed_in": [
+    "arxiv",
+    "datacite"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/1206.6448",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5103109594",
+      "display_name": "Huahua Wang",
+      "orcid": "https://orcid.org/0009-0007-7624-4895",
+      "observed_orcids": [
+       "https://orcid.org/0009-0007-7624-4895"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I130238516",
+       "display_name": "University of Minnesota",
+       "ror": "https://ror.org/017zqws13",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I130238516"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Wang, Huahua",
+     "raw_affiliation_strings": [
+      "University of Minnesota",
+      "University of\u00a0Minnesota"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Minnesota",
+       "institution_ids": [
+        "https://openalex.org/I130238516"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of\u00a0Minnesota",
+       "institution_ids": [
+        "https://openalex.org/I130238516"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5014459472",
+      "display_name": "Arindam Banerjee",
+      "orcid": "https://orcid.org/0000-0002-7856-5699",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-7856-5699"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I130238516",
+       "display_name": "University of Minnesota",
+       "ror": "https://ror.org/017zqws13",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I130238516"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Banerjee, Arindam",
+     "raw_affiliation_strings": [
+      "University of Minnesota",
+      "University of\u00a0Minnesota"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Minnesota",
+       "institution_ids": [
+        "https://openalex.org/I130238516"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of\u00a0Minnesota",
+       "institution_ids": [
+        "https://openalex.org/I130238516"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I130238516"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": null,
+   "has_fulltext": true,
+   "cited_by_count": 98,
+   "citation_normalized_percentile": null,
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11612",
+    "display_name": "Stochastic Gradient Optimization Techniques",
+    "score": 0.5360999703407288,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1702",
+     "display_name": "Artificial Intelligence"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/17",
+     "display_name": "Computer Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11612",
+     "display_name": "Stochastic Gradient Optimization Techniques",
+     "score": 0.5360999703407288,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12101",
+     "display_name": "Advanced Bandit Algorithms Research",
+     "score": 0.1404000073671341,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1803",
+      "display_name": "Management Science and Operations Research"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/18",
+      "display_name": "Decision Sciences"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10545",
+     "display_name": "Optimization and Variational Analysis",
+     "score": 0.0908999964594841,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1703",
+      "display_name": "Computational Theory and Mathematics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/online-optimization",
+     "display_name": "online optimization",
+     "score": 0.9459999799728394
+    },
+    {
+     "id": "https://openalex.org/keywords/alternating-direction-method",
+     "display_name": "alternating direction method",
+     "score": 0.9760000109672546
+    },
+    {
+     "id": "https://openalex.org/keywords/regret-bounds",
+     "display_name": "regret bounds",
+     "score": 0.8450000286102295
+    },
+    {
+     "id": "https://openalex.org/keywords/constraint-violation",
+     "display_name": "constraint violation",
+     "score": 0.7260000109672546
+    },
+    {
+     "id": "https://openalex.org/keywords/strongly-convex-functions",
+     "display_name": "strongly convex functions",
+     "score": 0.8489999771118164
+    },
+    {
+     "id": "https://openalex.org/keywords/convergence-rate",
+     "display_name": "convergence rate",
+     "score": 0.6179999709129333
+    },
+    {
+     "id": "https://openalex.org/keywords/online-convex-optimization",
+     "display_name": "online convex optimization",
+     "score": 0.625
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C50817715",
+     "wikidata": "https://www.wikidata.org/wiki/Q79895177",
+     "display_name": "Regret",
+     "level": 2,
+     "score": 0.9114509224891663
+    },
+    {
+     "id": "https://openalex.org/C177264268",
+     "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+     "display_name": "Set (abstract data type)",
+     "level": 2,
+     "score": 0.6312975287437439
+    },
+    {
+     "id": "https://openalex.org/C126255220",
+     "wikidata": "https://www.wikidata.org/wiki/Q141495",
+     "display_name": "Mathematical optimization",
+     "level": 1,
+     "score": 0.6257624626159668
+    },
+    {
+     "id": "https://openalex.org/C2777303404",
+     "wikidata": "https://www.wikidata.org/wiki/Q759757",
+     "display_name": "Convergence (economics)",
+     "level": 2,
+     "score": 0.5945018529891968
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.5707414150238037
+    },
+    {
+     "id": "https://openalex.org/C2776036281",
+     "wikidata": "https://www.wikidata.org/wiki/Q48769818",
+     "display_name": "Constraint (computer-aided design)",
+     "level": 2,
+     "score": 0.5627491474151611
+    },
+    {
+     "id": "https://openalex.org/C14036430",
+     "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+     "display_name": "Function (biology)",
+     "level": 2,
+     "score": 0.5573900938034058
+    },
+    {
+     "id": "https://openalex.org/C157972887",
+     "wikidata": "https://www.wikidata.org/wiki/Q463359",
+     "display_name": "Convex optimization",
+     "level": 3,
+     "score": 0.5037333369255066
+    },
+    {
+     "id": "https://openalex.org/C57869625",
+     "wikidata": "https://www.wikidata.org/wiki/Q1783502",
+     "display_name": "Rate of convergence",
+     "level": 3,
+     "score": 0.4965704083442688
+    },
+    {
+     "id": "https://openalex.org/C196921405",
+     "wikidata": "https://www.wikidata.org/wiki/Q786431",
+     "display_name": "Online algorithm",
+     "level": 2,
+     "score": 0.49648386240005493
+    },
+    {
+     "id": "https://openalex.org/C145446738",
+     "wikidata": "https://www.wikidata.org/wiki/Q319913",
+     "display_name": "Convex function",
+     "level": 3,
+     "score": 0.4941594898700714
+    },
+    {
+     "id": "https://openalex.org/C12426560",
+     "wikidata": "https://www.wikidata.org/wiki/Q189569",
+     "display_name": "Basis (linear algebra)",
+     "level": 2,
+     "score": 0.48003044724464417
+    },
+    {
+     "id": "https://openalex.org/C2778755073",
+     "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+     "display_name": "Scale (ratio)",
+     "level": 2,
+     "score": 0.45879313349723816
+    },
+    {
+     "id": "https://openalex.org/C112680207",
+     "wikidata": "https://www.wikidata.org/wiki/Q714886",
+     "display_name": "Regular polygon",
+     "level": 2,
+     "score": 0.4108372926712036
+    },
+    {
+     "id": "https://openalex.org/C137836250",
+     "wikidata": "https://www.wikidata.org/wiki/Q984063",
+     "display_name": "Optimization problem",
+     "level": 2,
+     "score": 0.41051602363586426
+    },
+    {
+     "id": "https://openalex.org/C11413529",
+     "wikidata": "https://www.wikidata.org/wiki/Q8366",
+     "display_name": "Algorithm",
+     "level": 1,
+     "score": 0.3456072211265564
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.2889024615287781
+    },
+    {
+     "id": "https://openalex.org/C119857082",
+     "wikidata": "https://www.wikidata.org/wiki/Q2539",
+     "display_name": "Machine learning",
+     "level": 1,
+     "score": 0.09123313426971436
+    },
+    {
+     "id": "https://openalex.org/C86803240",
+     "wikidata": "https://www.wikidata.org/wiki/Q420",
+     "display_name": "Biology",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C62520636",
+     "wikidata": "https://www.wikidata.org/wiki/Q944",
+     "display_name": "Quantum mechanics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C78458016",
+     "wikidata": "https://www.wikidata.org/wiki/Q840400",
+     "display_name": "Evolutionary biology",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C50522688",
+     "wikidata": "https://www.wikidata.org/wiki/Q189833",
+     "display_name": "Economic growth",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C2524010",
+     "wikidata": "https://www.wikidata.org/wiki/Q8087",
+     "display_name": "Geometry",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C162324750",
+     "wikidata": "https://www.wikidata.org/wiki/Q8134",
+     "display_name": "Economics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C31258907",
+     "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+     "display_name": "Computer network",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C127162648",
+     "wikidata": "https://www.wikidata.org/wiki/Q16858953",
+     "display_name": "Channel (broadcasting)",
+     "level": 2,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C121332964",
+     "wikidata": "https://www.wikidata.org/wiki/Q413",
+     "display_name": "Physics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C199360897",
+     "wikidata": "https://www.wikidata.org/wiki/Q9143",
+     "display_name": "Programming language",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 2,
+   "locations": [
+    {
+     "id": "pmh:oai:arXiv.org:1206.6448",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "http://arxiv.org/abs/1206.6448",
+     "pdf_url": "https://arxiv.org/pdf/1206.6448",
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": "2331-8422",
+      "issn": [
+       "2331-8422"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+       "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "text"
+    },
+    {
+     "id": "doi:10.48550/arxiv.1206.6448",
+     "doi": "https://doi.org/10.48550/arxiv.1206.6448",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.48550/arxiv.1206.6448",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": "2331-8422",
+      "issn": [
+       "2331-8422"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+       "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": null,
+     "is_accepted": false,
+     "is_published": null,
+     "raw_source_name": null,
+     "raw_type": "Preprint"
+    }
+   ],
+   "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:1206.6448",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/1206.6448",
+    "pdf_url": "https://arxiv.org/pdf/1206.6448",
+    "source": {
+     "id": "https://openalex.org/S4306400194",
+     "display_name": "arXiv (Cornell University)",
+     "issn_l": "2331-8422",
+     "issn": [
+      "2331-8422"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I205783295",
+     "host_organization_name": "Cornell University",
+     "host_organization_lineage": [
+      "https://openalex.org/I205783295"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+   },
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [
+    {
+     "id": "https://metadata.un.org/sdg/16",
+     "display_name": "Peace, justice, and strong institutions",
+     "score": 0.6899999976158142
+    }
+   ],
+   "study_designs": [],
+   "awards": [
+    {
+     "id": "https://openalex.org/G5271925577",
+     "display_name": "RI: Small: Statistical Modeling of Dynamic Covariance Matrices",
+     "funder_award_id": "0916750",
+     "funder_id": "https://openalex.org/F4320306076",
+     "funder_display_name": "National Science Foundation"
+    },
+    {
+     "id": "https://openalex.org/G6671297155",
+     "display_name": null,
+     "funder_award_id": "CAREER",
+     "funder_id": "https://openalex.org/F4320306076",
+     "funder_display_name": "National Science Foundation"
+    },
+    {
+     "id": "https://openalex.org/G8022001571",
+     "display_name": "Collaborative Research:  Understanding Climate Change: A Data Driven Approach",
+     "funder_award_id": "1029711",
+     "funder_id": "https://openalex.org/F4320306076",
+     "funder_display_name": "National Science Foundation"
+    },
+    {
+     "id": "https://openalex.org/G8532230576",
+     "display_name": "CAREER: Combinatorial Online Learning and its Applications",
+     "funder_award_id": "0953274",
+     "funder_id": "https://openalex.org/F4320306076",
+     "funder_display_name": "National Science Foundation"
+    },
+    {
+     "id": "https://openalex.org/G906761871",
+     "display_name": "III-COR-Small: Multi-Relational Data Clustering with Probabilistic Mixture Models",
+     "funder_award_id": "0812183",
+     "funder_id": "https://openalex.org/F4320306076",
+     "funder_display_name": "National Science Foundation"
+    }
+   ],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320306076",
+     "display_name": "National Science Foundation",
+     "ror": "https://ror.org/021nxhr62"
+    }
+   ],
+   "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 23,
+   "referenced_works": [
+    "https://openalex.org/W16591383",
+    "https://openalex.org/W131378802",
+    "https://openalex.org/W1543439990",
+    "https://openalex.org/W1545471058",
+    "https://openalex.org/W1603765807",
+    "https://openalex.org/W1736339626",
+    "https://openalex.org/W2016384870",
+    "https://openalex.org/W2045079045",
+    "https://openalex.org/W2058532290",
+    "https://openalex.org/W2068582919",
+    "https://openalex.org/W2103559027",
+    "https://openalex.org/W2129160848",
+    "https://openalex.org/W2135046866",
+    "https://openalex.org/W2148825261",
+    "https://openalex.org/W2164278908",
+    "https://openalex.org/W2164301055",
+    "https://openalex.org/W2229674747",
+    "https://openalex.org/W3005287603",
+    "https://openalex.org/W3012264151",
+    "https://openalex.org/W3017285694",
+    "https://openalex.org/W3101665129",
+    "https://openalex.org/W3124378220",
+    "https://openalex.org/W4292363360"
+   ],
+   "related_works": [
+    "https://openalex.org/W2971351794",
+    "https://openalex.org/W4376155396",
+    "https://openalex.org/W2994171794",
+    "https://openalex.org/W4292651679",
+    "https://openalex.org/W2400034325",
+    "https://openalex.org/W4299515259",
+    "https://openalex.org/W2499557797",
+    "https://openalex.org/W2510140549",
+    "https://openalex.org/W2187449906",
+    "https://openalex.org/W2962818859"
+   ],
+   "abstract_inverted_index": {
+    "Online": [
+     0
+    ],
+    "optimization": [
+     1
+    ],
+    "has": [
+     2
+    ],
+    "emerged": [
+     3
+    ],
+    "as": [
+     4,
+     91,
+     93
+    ],
+    "powerful": [
+     5
+    ],
+    "tool": [
+     6
+    ],
+    "in": [
+     7,
+     34,
+     53,
+     61,
+     73
+    ],
+    "large": [
+     8
+    ],
+    "scale": [
+     9
+    ],
+    "optimization.": [
+     10
+    ],
+    "In": [
+     11,
+     79
+    ],
+    "this": [
+     12
+    ],
+    "paper,": [
+     13
+    ],
+    "we": [
+     14,
+     82
+    ],
+    "introduce": [
+     15,
+     27
+    ],
+    "efficient": [
+     16
+    ],
+    "online": [
+     17,
+     55,
+     63
+    ],
+    "algorithms": [
+     18
+    ],
+    "based": [
+     19,
+     65
+    ],
+    "on": [
+     20,
+     66
+    ],
+    "the": [
+     21,
+     35,
+     40,
+     48,
+     54,
+     62,
+     68,
+     74,
+     88,
+     108,
+     111
+    ],
+    "alternating": [
+     22
+    ],
+    "directions": [
+     23
+    ],
+    "method": [
+     24
+    ],
+    "(ADM).": [
+     25
+    ],
+    "We": [
+     26,
+     57
+    ],
+    "a": [
+     28
+    ],
+    "new": [
+     29
+    ],
+    "proof": [
+     30
+    ],
+    "technique": [
+     31
+    ],
+    "for": [
+     32,
+     86,
+     96
+    ],
+    "ADM": [
+     33,
+     45
+    ],
+    "batch": [
+     36
+    ],
+    "setting,": [
+     37,
+     64
+    ],
+    "which": [
+     38
+    ],
+    "yields": [
+     39
+    ],
+    "O(1/T)": [
+     41
+    ],
+    "convergence": [
+     42
+    ],
+    "rate": [
+     43
+    ],
+    "of": [
+     44,
+     50,
+     110
+    ],
+    "and": [
+     46,
+     98
+    ],
+    "forms": [
+     47
+    ],
+    "basis": [
+     49
+    ],
+    "regret": [
+     51,
+     84
+    ],
+    "analysis": [
+     52
+    ],
+    "setting.": [
+     56
+    ],
+    "consider": [
+     58
+    ],
+    "two": [
+     59
+    ],
+    "scenarios": [
+     60
+    ],
+    "whether": [
+     67
+    ],
+    "solution": [
+     69
+    ],
+    "needs": [
+     70
+    ],
+    "to": [
+     71,
+     106
+    ],
+    "lie": [
+     72
+    ],
+    "feasible": [
+     75
+    ],
+    "set": [
+     76
+    ],
+    "or": [
+     77
+    ],
+    "not.": [
+     78
+    ],
+    "both": [
+     80,
+     87
+    ],
+    "settings,": [
+     81
+    ],
+    "establish": [
+     83
+    ],
+    "bounds": [
+     85
+    ],
+    "objective": [
+     89
+    ],
+    "function": [
+     90
+    ],
+    "well": [
+     92
+    ],
+    "constraint": [
+     94
+    ],
+    "violation": [
+     95
+    ],
+    "general": [
+     97
+    ],
+    "strongly": [
+     99
+    ],
+    "convex": [
+     100
+    ],
+    "functions.": [
+     101
+    ],
+    "Preliminary": [
+     102
+    ],
+    "results": [
+     103
+    ],
+    "are": [
+     104
+    ],
+    "presented": [
+     105
+    ],
+    "illustrate": [
+     107
+    ],
+    "performance": [
+     109
+    ],
+    "proposed": [
+     112
+    ],
+    "algorithms.": [
+     113
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2024,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 5
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 11
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 12
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 16
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 15
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 14
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 10
+    },
+    {
+     "year": 2012,
+     "cited_by_count": 1
+    }
+   ],
+   "updated_date": "2026-10-12T09:40:04.860316",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W2100626457",
+   "doi": "https://doi.org/10.1186/1687-1499-2012-338",
+   "title": "A multi-block alternating direction method with parallel splitting for decentralized consensus optimization",
+   "display_name": "A multi-block alternating direction method with parallel splitting for decentralized consensus optimization",
+   "relevance_score": 44.53073,
+   "publication_year": 2012,
+   "publication_date": "2012-11-12",
+   "ids": {
+    "openalex": "https://openalex.org/W2100626457",
+    "doi": "https://doi.org/10.1186/1687-1499-2012-338",
+    "mag": "2100626457"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.1186/1687-1499-2012-338",
+    "doi": "https://doi.org/10.1186/1687-1499-2012-338",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/1687-1499-2012-338",
+    "pdf_url": "https://jwcn-eurasipjournals.springeropen.com/counter/pdf/10.1186/1687-1499-2012-338",
+    "source": {
+     "id": "https://openalex.org/S82675988",
+     "display_name": "EURASIP Journal on Wireless Communications and Networking",
+     "issn_l": "1687-1472",
+     "issn": [
+      "1687-1472",
+      "1687-1499"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doaj",
+      "dongbi-c",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310319965",
+     "host_organization_name": "Springer Nature",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310319965"
+     ],
+     "host_organization_lineage_names": [
+      "Springer Nature"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "EURASIP Journal on Wireless Communications and Networking",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref",
+    "doaj"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://jwcn-eurasipjournals.springeropen.com/counter/pdf/10.1186/1687-1499-2012-338",
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5029820392",
+      "display_name": "Qing Hua Ling",
+      "orcid": "https://orcid.org/0000-0003-4222-5964",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4222-5964"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I126520041",
+       "display_name": "University of Science and Technology of China",
+       "ror": "https://ror.org/04c4dkn09",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I126520041",
+        "https://openalex.org/I19820366"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Qing Ling",
+     "raw_affiliation_strings": [
+      "Department of Automation, University of Science and Technology of China, Anhui, Hefei, China",
+      "[Department of Automation, University of Science and Technology of China, Anhui, China]"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Automation, University of Science and Technology of China, Anhui, Hefei, China",
+       "institution_ids": [
+        "https://openalex.org/I126520041"
+       ]
+      },
+      {
+       "raw_affiliation_string": "[Department of Automation, University of Science and Technology of China, Anhui, China]",
+       "institution_ids": [
+        "https://openalex.org/I126520041"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5072825287",
+      "display_name": "Min Tao",
+      "orcid": "https://orcid.org/0000-0003-4750-2959",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4750-2959"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I41198531",
+       "display_name": "Nanjing University of Posts and Telecommunications",
+       "ror": "https://ror.org/043bpky34",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I41198531"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Min Tao",
+     "raw_affiliation_strings": [
+      "School of Science, Nanjing University of Posts and Telecommunications, Jiangsu, Nanjing, China",
+      "School of Science, Nanjing University of Posts and Telecommunications, Jiangsu, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Science, Nanjing University of Posts and Telecommunications, Jiangsu, Nanjing, China",
+       "institution_ids": [
+        "https://openalex.org/I41198531"
+       ]
+      },
+      {
+       "raw_affiliation_string": "School of Science, Nanjing University of Posts and Telecommunications, Jiangsu, China",
+       "institution_ids": [
+        "https://openalex.org/I41198531"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5085908411",
+      "display_name": "Wotao Yin",
+      "orcid": "https://orcid.org/0000-0001-6697-9731",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-6697-9731"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Wotao Yin",
+     "raw_affiliation_strings": [
+      "Department of Computational and Applied Mathematics, Texas, Houston, USA",
+      "Department of Computational and Applied Mathematics, Texas, USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Computational and Applied Mathematics, Texas, Houston, USA",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Department of Computational and Applied Mathematics, Texas, USA",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5106126946",
+      "display_name": "Xiaoming Yuan",
+      "orcid": "https://orcid.org/0000-0003-1575-0130",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-1575-0130"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141568987",
+       "display_name": "Hong Kong Baptist University",
+       "ror": "https://ror.org/0145fw131",
+       "country_code": "HK",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I141568987"
+       ]
+      }
+     ],
+     "countries": [
+      "HK"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Xiaoming Yuan",
+     "raw_affiliation_strings": [
+      "Department of Mathematics, HongKong Baptist University, Kowloon Tong, Hong Kong"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Mathematics, HongKong Baptist University, Kowloon Tong, Hong Kong",
+       "institution_ids": [
+        "https://openalex.org/I141568987"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 2,
+   "institutions_distinct_count": 3,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5029820392"
+   ],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I126520041"
+   ],
+   "apc_list": {
+    "value": 1790,
+    "currency": "USD",
+    "value_usd": 1790
+   },
+   "apc_paid": {
+    "value": 1790,
+    "currency": "USD",
+    "value_usd": 1790
+   },
+   "fwci": 1.6878,
+   "has_fulltext": true,
+   "cited_by_count": 4,
+   "citation_normalized_percentile": {
+    "value": 0.86805063,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": {
+    "min": 89,
+    "max": 96
+   },
+   "biblio": {
+    "volume": "2012",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T10249",
+    "display_name": "Distributed Control Multi-Agent Systems",
+    "score": 0.9965999722480774,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1705",
+     "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/17",
+     "display_name": "Computer Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T10249",
+     "display_name": "Distributed Control Multi-Agent Systems",
+     "score": 0.9965999722480774,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10500",
+     "display_name": "Sparse and Compressive Sensing Techniques",
+     "score": 0.000699999975040555,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2206",
+      "display_name": "Computational Mechanics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10545",
+     "display_name": "Optimization and Variational Analysis",
+     "score": 0.00039999998989515007,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1703",
+      "display_name": "Computational Theory and Mathematics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/distributed-optimization",
+     "display_name": "distributed optimization",
+     "score": 0.7139999866485596
+    },
+    {
+     "id": "https://openalex.org/keywords/multi-agent-systems",
+     "display_name": "multi-agent systems",
+     "score": 0.8270000219345093
+    },
+    {
+     "id": "https://openalex.org/keywords/average-consensus",
+     "display_name": "average consensus",
+     "score": 0.8169999718666077
+    },
+    {
+     "id": "https://openalex.org/keywords/convergence-rate",
+     "display_name": "convergence rate",
+     "score": 0.7289999723434448
+    },
+    {
+     "id": "https://openalex.org/keywords/network-scalability",
+     "display_name": "network scalability",
+     "score": 0.8009999990463257
+    },
+    {
+     "id": "https://openalex.org/keywords/communication-overhead",
+     "display_name": "communication overhead",
+     "score": 0.8560000061988831
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.8064736127853394
+    },
+    {
+     "id": "https://openalex.org/C2777210771",
+     "wikidata": "https://www.wikidata.org/wiki/Q4927124",
+     "display_name": "Block (permutation group theory)",
+     "level": 2,
+     "score": 0.7907675504684448
+    },
+    {
+     "id": "https://openalex.org/C48044578",
+     "wikidata": "https://www.wikidata.org/wiki/Q727490",
+     "display_name": "Scalability",
+     "level": 2,
+     "score": 0.7062260508537292
+    },
+    {
+     "id": "https://openalex.org/C2777303404",
+     "wikidata": "https://www.wikidata.org/wiki/Q759757",
+     "display_name": "Convergence (economics)",
+     "level": 2,
+     "score": 0.6195652484893799
+    },
+    {
+     "id": "https://openalex.org/C126255220",
+     "wikidata": "https://www.wikidata.org/wiki/Q141495",
+     "display_name": "Mathematical optimization",
+     "level": 1,
+     "score": 0.5988644361495972
+    },
+    {
+     "id": "https://openalex.org/C137836250",
+     "wikidata": "https://www.wikidata.org/wiki/Q984063",
+     "display_name": "Optimization problem",
+     "level": 2,
+     "score": 0.5833510160446167
+    },
+    {
+     "id": "https://openalex.org/C177264268",
+     "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+     "display_name": "Set (abstract data type)",
+     "level": 2,
+     "score": 0.47563815116882324
+    },
+    {
+     "id": "https://openalex.org/C192209626",
+     "wikidata": "https://www.wikidata.org/wiki/Q190909",
+     "display_name": "Focus (optics)",
+     "level": 2,
+     "score": 0.41606777906417847
+    },
+    {
+     "id": "https://openalex.org/C11413529",
+     "wikidata": "https://www.wikidata.org/wiki/Q8366",
+     "display_name": "Algorithm",
+     "level": 1,
+     "score": 0.262106716632843
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.15493330359458923
+    },
+    {
+     "id": "https://openalex.org/C77088390",
+     "wikidata": "https://www.wikidata.org/wiki/Q8513",
+     "display_name": "Database",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C121332964",
+     "wikidata": "https://www.wikidata.org/wiki/Q413",
+     "display_name": "Physics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C50522688",
+     "wikidata": "https://www.wikidata.org/wiki/Q189833",
+     "display_name": "Economic growth",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C162324750",
+     "wikidata": "https://www.wikidata.org/wiki/Q8134",
+     "display_name": "Economics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C199360897",
+     "wikidata": "https://www.wikidata.org/wiki/Q9143",
+     "display_name": "Programming language",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C2524010",
+     "wikidata": "https://www.wikidata.org/wiki/Q8087",
+     "display_name": "Geometry",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C120665830",
+     "wikidata": "https://www.wikidata.org/wiki/Q14620",
+     "display_name": "Optics",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.1186/1687-1499-2012-338",
+     "doi": "https://doi.org/10.1186/1687-1499-2012-338",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.1186/1687-1499-2012-338",
+     "pdf_url": "https://jwcn-eurasipjournals.springeropen.com/counter/pdf/10.1186/1687-1499-2012-338",
+     "source": {
+      "id": "https://openalex.org/S82675988",
+      "display_name": "EURASIP Journal on Wireless Communications and Networking",
+      "issn_l": "1687-1472",
+      "issn": [
+       "1687-1472",
+       "1687-1499"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+       "cwts-core",
+       "doaj",
+       "dongbi-c",
+       "norway-1",
+       "poland-70",
+       "russia-white-list-1"
+      ],
+      "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+       "Springer Nature"
+      ],
+      "type": "journal"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "EURASIP Journal on Wireless Communications and Networking",
+     "raw_type": "journal-article"
+    }
+   ],
+   "best_oa_location": {
+    "id": "doi:10.1186/1687-1499-2012-338",
+    "doi": "https://doi.org/10.1186/1687-1499-2012-338",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/1687-1499-2012-338",
+    "pdf_url": "https://jwcn-eurasipjournals.springeropen.com/counter/pdf/10.1186/1687-1499-2012-338",
+    "source": {
+     "id": "https://openalex.org/S82675988",
+     "display_name": "EURASIP Journal on Wireless Communications and Networking",
+     "issn_l": "1687-1472",
+     "issn": [
+      "1687-1472",
+      "1687-1499"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doaj",
+      "dongbi-c",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310319965",
+     "host_organization_name": "Springer Nature",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310319965"
+     ],
+     "host_organization_lineage_names": [
+      "Springer Nature"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "EURASIP Journal on Wireless Communications and Networking",
+    "raw_type": "journal-article"
+   },
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [
+    {
+     "id": "https://metadata.un.org/sdg/8",
+     "display_name": "Decent work and economic growth",
+     "score": 0.49000000953674316
+    }
+   ],
+   "study_designs": [],
+   "awards": [
+    {
+     "id": "https://openalex.org/G3502021680",
+     "display_name": "CAREER: Optimizations for Sparse Solutions and Applications",
+     "funder_award_id": "0748839",
+     "funder_id": "https://openalex.org/F4320306076",
+     "funder_display_name": "National Science Foundation"
+    },
+    {
+     "id": "https://openalex.org/G5112565073",
+     "display_name": null,
+     "funder_award_id": "61004137",
+     "funder_id": "https://openalex.org/F4320321001",
+     "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+     "id": "https://openalex.org/G5841862462",
+     "display_name": "IHCS: Collaborative Research: Compressive Spectrum Sensing in Cognitive Radio Networks",
+     "funder_award_id": "1028790",
+     "funder_id": "https://openalex.org/F4320306076",
+     "funder_display_name": "National Science Foundation"
+    },
+    {
+     "id": "https://openalex.org/G7452299184",
+     "display_name": null,
+     "funder_award_id": "W911NF",
+     "funder_id": "https://openalex.org/F4320338281",
+     "funder_display_name": "Army Research Office"
+    },
+    {
+     "id": "https://openalex.org/G934873480",
+     "display_name": null,
+     "funder_award_id": "W911NF-09-1-0383",
+     "funder_id": "https://openalex.org/F4320338281",
+     "funder_display_name": "Army Research Office"
+    }
+   ],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320306076",
+     "display_name": "National Science Foundation",
+     "ror": "https://ror.org/021nxhr62"
+    },
+    {
+     "id": "https://openalex.org/F4320321001",
+     "display_name": "National Natural Science Foundation of China",
+     "ror": "https://ror.org/01h0zpd94"
+    },
+    {
+     "id": "https://openalex.org/F4320335787",
+     "display_name": "Fundamental Research Funds for the Central Universities",
+     "ror": null
+    },
+    {
+     "id": "https://openalex.org/F4320337392",
+     "display_name": "Division of Electrical, Communications and Cyber Systems",
+     "ror": "https://ror.org/01krpsy48"
+    },
+    {
+     "id": "https://openalex.org/F4320338281",
+     "display_name": "Army Research Office",
+     "ror": "https://ror.org/05epdh915"
+    }
+   ],
+   "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+   },
+   "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2100626457.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2100626457.grobid-xml"
+   },
+   "referenced_works_count": 39,
+   "referenced_works": [
+    "https://openalex.org/W1547358136",
+    "https://openalex.org/W1582977901",
+    "https://openalex.org/W1603765807",
+    "https://openalex.org/W1970786657",
+    "https://openalex.org/W1986080131",
+    "https://openalex.org/W2007822845",
+    "https://openalex.org/W2014101702",
+    "https://openalex.org/W2018807138",
+    "https://openalex.org/W2029184861",
+    "https://openalex.org/W2039728842",
+    "https://openalex.org/W2044212084",
+    "https://openalex.org/W2073839155",
+    "https://openalex.org/W2097756366",
+    "https://openalex.org/W2103227205",
+    "https://openalex.org/W2105627207",
+    "https://openalex.org/W2106715795",
+    "https://openalex.org/W2108924122",
+    "https://openalex.org/W2108970807",
+    "https://openalex.org/W2111857756",
+    "https://openalex.org/W2117412539",
+    "https://openalex.org/W2117905067",
+    "https://openalex.org/W2134379805",
+    "https://openalex.org/W2140206057",
+    "https://openalex.org/W2141648331",
+    "https://openalex.org/W2141788746",
+    "https://openalex.org/W2142682063",
+    "https://openalex.org/W2151565294",
+    "https://openalex.org/W2151685478",
+    "https://openalex.org/W2156415659",
+    "https://openalex.org/W2158191982",
+    "https://openalex.org/W2158643468",
+    "https://openalex.org/W2160397644",
+    "https://openalex.org/W2162594647",
+    "https://openalex.org/W2164278908",
+    "https://openalex.org/W3027187636",
+    "https://openalex.org/W3029645440",
+    "https://openalex.org/W4292363360",
+    "https://openalex.org/W4293775970",
+    "https://openalex.org/W4297751445"
+   ],
+   "related_works": [
+    "https://openalex.org/W2389214306",
+    "https://openalex.org/W2965083567",
+    "https://openalex.org/W4235240664",
+    "https://openalex.org/W1838576100",
+    "https://openalex.org/W2757182831",
+    "https://openalex.org/W2095886385",
+    "https://openalex.org/W2089704382",
+    "https://openalex.org/W1983399550",
+    "https://openalex.org/W97075385",
+    "https://openalex.org/W2357523926"
+   ],
+   "abstract_inverted_index": {
+    "Decentralized": [
+     0,
+     15
+    ],
+    "optimization": [
+     1,
+     25,
+     113
+    ],
+    "has": [
+     2,
+     141,
+     188
+    ],
+    "attracted": [
+     3
+    ],
+    "much": [
+     4
+    ],
+    "research": [
+     5
+    ],
+    "interest": [
+     6
+    ],
+    "for": [
+     7
+    ],
+    "resource-limited": [
+     8
+    ],
+    "networked": [
+     9
+    ],
+    "multi-agent": [
+     10
+    ],
+    "systems": [
+     11
+    ],
+    "in": [
+     12,
+     149,
+     177
+    ],
+    "recent": [
+     13
+    ],
+    "years.": [
+     14
+    ],
+    "T": [
+     16
+    ],
+    "consensus": [
+     17,
+     112
+    ],
+    "optimization,": [
+     18
+    ],
+    "which": [
+     19,
+     51,
+     73,
+     140
+    ],
+    "is": [
+     20,
+     36,
+     105,
+     147
+    ],
+    "one": [
+     21,
+     116
+    ],
+    "of": [
+     22,
+     27,
+     39,
+     48,
+     71,
+     96,
+     120,
+     152,
+     170,
+     179
+    ],
+    "the": [
+     23,
+     37,
+     40,
+     53,
+     79,
+     134,
+     150,
+     156,
+     168,
+     171
+    ],
+    "decentralized": [
+     24,
+     111,
+     143
+    ],
+    "problems": [
+     26
+    ],
+    "great": [
+     28
+    ],
+    "practical": [
+     29
+    ],
+    "importance,": [
+     30
+    ],
+    "minimizes": [
+     31
+    ],
+    "an": [
+     32,
+     65
+    ],
+    "objective": [
+     33
+    ],
+    "function": [
+     34
+    ],
+    "that": [
+     35,
+     103,
+     186
+    ],
+    "sum": [
+     38
+    ],
+    "terms": [
+     41,
+     178
+    ],
+    "from": [
+     42
+    ],
+    "individual": [
+     43
+    ],
+    "agents": [
+     44,
+     54
+    ],
+    "over": [
+     45
+    ],
+    "a": [
+     46,
+     57,
+     92,
+     110,
+     126
+    ],
+    "set": [
+     47
+    ],
+    "variables": [
+     49,
+     121
+    ],
+    "on": [
+     50,
+     133
+    ],
+    "all": [
+     52
+    ],
+    "should": [
+     55
+    ],
+    "reach": [
+     56
+    ],
+    "consensus.": [
+     58
+    ],
+    "This": [
+     59
+    ],
+    "problem": [
+     60,
+     114
+    ],
+    "can": [
+     61,
+     74
+    ],
+    "be": [
+     62,
+     76
+    ],
+    "reformulated": [
+     63
+    ],
+    "into": [
+     64
+    ],
+    "equivalent": [
+     66
+    ],
+    "model": [
+     67
+    ],
+    "with": [
+     68,
+     84,
+     117,
+     137,
+     174
+    ],
+    "two": [
+     69
+    ],
+    "blocks": [
+     70,
+     119
+    ],
+    "variables,": [
+     72
+    ],
+    "then": [
+     75
+    ],
+    "solved": [
+     77
+    ],
+    "by": [
+     78,
+     91,
+     125
+    ],
+    "alternating": [
+     80
+    ],
+    "direction": [
+     81
+    ],
+    "method": [
+     82
+    ],
+    "(ADM)": [
+     83
+    ],
+    "only": [
+     85
+    ],
+    "communications": [
+     86
+    ],
+    "between": [
+     87,
+     158
+    ],
+    "neighbor": [
+     88
+    ],
+    "nodes.": [
+     89
+    ],
+    "Motivated": [
+     90
+    ],
+    "recently": [
+     93
+    ],
+    "emerged": [
+     94
+    ],
+    "class": [
+     95
+    ],
+    "so-called": [
+     97
+    ],
+    "multi-block": [
+     98,
+     127,
+     135,
+     161,
+     172
+    ],
+    "ADMs,": [
+     99
+    ],
+    "this": [
+     100
+    ],
+    "article": [
+     101
+    ],
+    "demonstrates": [
+     102
+    ],
+    "it": [
+     104,
+     124,
+     187
+    ],
+    "more": [
+     106
+    ],
+    "natural": [
+     107
+    ],
+    "to": [
+     108,
+     115
+    ],
+    "reformulate": [
+     109
+    ],
+    "multiple": [
+     118
+    ],
+    "and": [
+     122,
+     155,
+     160,
+     181,
+     184
+    ],
+    "solve": [
+     123
+    ],
+    "ADM.": [
+     128
+    ],
+    "In": [
+     129
+    ],
+    "particular,": [
+     130
+    ],
+    "we": [
+     131
+    ],
+    "focus": [
+     132
+    ],
+    "ADM": [
+     136,
+     173
+    ],
+    "parallel": [
+     138,
+     175
+    ],
+    "splitting,": [
+     139
+    ],
+    "easy": [
+     142
+    ],
+    "implementation.": [
+     144
+    ],
+    "Convergence": [
+     145
+    ],
+    "rate": [
+     146
+    ],
+    "analyzed": [
+     148
+    ],
+    "setting": [
+     151
+    ],
+    "average": [
+     153
+    ],
+    "consensus,": [
+     154
+    ],
+    "relation": [
+     157
+    ],
+    "two-block": [
+     159
+    ],
+    "ADMs": [
+     162
+    ],
+    "are": [
+     163
+    ],
+    "studied.": [
+     164
+    ],
+    "Numerical": [
+     165
+    ],
+    "experiments": [
+     166
+    ],
+    "demonstrate": [
+     167
+    ],
+    "effectiveness": [
+     169
+    ],
+    "splitting": [
+     176
+    ],
+    "speed": [
+     180
+    ],
+    "communication": [
+     182
+    ],
+    "cost": [
+     183
+    ],
+    "show": [
+     185
+    ],
+    "better": [
+     189
+    ],
+    "network": [
+     190
+    ],
+    "scalability.": [
+     191
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2015,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 1
+    }
+   ],
+   "updated_date": "2026-09-22T06:50:58.402377",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W1543618960",
+   "doi": "https://doi.org/10.48550/arxiv.1105.0728",
+   "title": "Structured Sparsity via Alternating Direction Methods",
+   "display_name": "Structured Sparsity via Alternating Direction Methods",
+   "relevance_score": 42.594715,
+   "publication_year": 2011,
+   "publication_date": "2011-05-04",
+   "ids": {
+    "openalex": "https://openalex.org/W1543618960",
+    "doi": "https://doi.org/10.48550/arxiv.1105.0728",
+    "mag": "1543618960"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "pmh:oai:arXiv.org:1105.0728",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/1105.0728",
+    "pdf_url": "https://arxiv.org/pdf/1105.0728",
+    "source": {
+     "id": "https://openalex.org/S4306400194",
+     "display_name": "arXiv (Cornell University)",
+     "issn_l": "2331-8422",
+     "issn": [
+      "2331-8422"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I205783295",
+     "host_organization_name": "Cornell University",
+     "host_organization_lineage": [
+      "https://openalex.org/I205783295"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+   },
+   "volume": null,
+   "type": "preprint",
+   "indexed_in": [
+    "arxiv",
+    "datacite"
+   ],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/1105.0728",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5085579946",
+      "display_name": "Zhiwei Tony Qin",
+      "orcid": "https://orcid.org/0000-0001-5383-4816",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5383-4816"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I78577930",
+       "display_name": "Columbia University",
+       "ror": "https://ror.org/00hj8s172",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I78577930"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Qin, Zhiwei",
+     "raw_affiliation_strings": [
+      "Dept. of Industrial Engg., & Operations Research, Columbia University, New York, NY"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Dept. of Industrial Engg., & Operations Research, Columbia University, New York, NY",
+       "institution_ids": [
+        "https://openalex.org/I78577930"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5027297328",
+      "display_name": "Donald Goldfarb",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I78577930",
+       "display_name": "Columbia University",
+       "ror": "https://ror.org/00hj8s172",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I78577930"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Goldfarb, Donald",
+     "raw_affiliation_strings": [
+      "Department of Industrial Engineering and Operations Research Columbia University New York , NY 10027",
+      "Dept. of Industrial Engg., & Operations Research, Columbia University, New York, NY"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Industrial Engineering and Operations Research Columbia University New York , NY 10027",
+       "institution_ids": [
+        "https://openalex.org/I78577930"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Dept. of Industrial Engg., & Operations Research, Columbia University, New York, NY",
+       "institution_ids": [
+        "https://openalex.org/I78577930"
+       ]
+      }
+     ]
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 1,
+   "institutions_distinct_count": 1,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [
+    "https://openalex.org/I78577930"
+   ],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": null,
+   "has_fulltext": true,
+   "cited_by_count": 34,
+   "citation_normalized_percentile": null,
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T10136",
+    "display_name": "Statistical Methods and Inference",
+    "score": 0.7997999787330627,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2613",
+     "display_name": "Statistics and Probability"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/26",
+     "display_name": "Mathematics"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T10136",
+     "display_name": "Statistical Methods and Inference",
+     "score": 0.7997999787330627,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2613",
+      "display_name": "Statistics and Probability"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/26",
+      "display_name": "Mathematics"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10500",
+     "display_name": "Sparse and Compressive Sensing Techniques",
+     "score": 0.1907999962568283,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2206",
+      "display_name": "Computational Mechanics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11612",
+     "display_name": "Stochastic Gradient Optimization Techniques",
+     "score": 0.003000000026077032,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/structured-sparsity",
+     "display_name": "structured sparsity",
+     "score": 0.9980000257492065
+    },
+    {
+     "id": "https://openalex.org/keywords/group-sparsity",
+     "display_name": "group sparsity",
+     "score": 0.6359999775886536
+    },
+    {
+     "id": "https://openalex.org/keywords/sparse-learning",
+     "display_name": "sparse learning",
+     "score": 0.6819999814033508
+    },
+    {
+     "id": "https://openalex.org/keywords/high-dimensional-feature-selection",
+     "display_name": "high-dimensional feature selection",
+     "score": 0.6970000267028809
+    },
+    {
+     "id": "https://openalex.org/keywords/non-smooth-regularization",
+     "display_name": "non-smooth regularization",
+     "score": 0.7110000252723694
+    },
+    {
+     "id": "https://openalex.org/keywords/splitting-algorithm",
+     "display_name": "splitting algorithm",
+     "score": 0.6359999775886536
+    },
+    {
+     "id": "https://openalex.org/keywords/fast-algorithms",
+     "display_name": "fast algorithms",
+     "score": 0.7139999866485596
+    },
+    {
+     "id": "https://openalex.org/keywords/convergence-rate",
+     "display_name": "convergence rate",
+     "score": 0.5379999876022339
+    },
+    {
+     "id": "https://openalex.org/keywords/augmented-lagrangian-method",
+     "display_name": "augmented Lagrangian method",
+     "score": 0.9440000057220459
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C2776135515",
+     "wikidata": "https://www.wikidata.org/wiki/Q17143721",
+     "display_name": "Regularization (linguistics)",
+     "level": 2,
+     "score": 0.70181804895401
+    },
+    {
+     "id": "https://openalex.org/C150452318",
+     "wikidata": "https://www.wikidata.org/wiki/Q4820432",
+     "display_name": "Augmented Lagrangian method",
+     "level": 2,
+     "score": 0.6109248399734497
+    },
+    {
+     "id": "https://openalex.org/C11210021",
+     "wikidata": "https://www.wikidata.org/wiki/Q1520713",
+     "display_name": "Linearization",
+     "level": 3,
+     "score": 0.5812599062919617
+    },
+    {
+     "id": "https://openalex.org/C191795146",
+     "wikidata": "https://www.wikidata.org/wiki/Q3878446",
+     "display_name": "Norm (philosophy)",
+     "level": 2,
+     "score": 0.5206262469291687
+    },
+    {
+     "id": "https://openalex.org/C11413529",
+     "wikidata": "https://www.wikidata.org/wiki/Q8366",
+     "display_name": "Algorithm",
+     "level": 1,
+     "score": 0.5079284310340881
+    },
+    {
+     "id": "https://openalex.org/C33923547",
+     "wikidata": "https://www.wikidata.org/wiki/Q395",
+     "display_name": "Mathematics",
+     "level": 0,
+     "score": 0.4974079430103302
+    },
+    {
+     "id": "https://openalex.org/C124851039",
+     "wikidata": "https://www.wikidata.org/wiki/Q2665459",
+     "display_name": "Compressed sensing",
+     "level": 2,
+     "score": 0.44039100408554077
+    },
+    {
+     "id": "https://openalex.org/C41008148",
+     "wikidata": "https://www.wikidata.org/wiki/Q21198",
+     "display_name": "Computer science",
+     "level": 0,
+     "score": 0.4018271565437317
+    },
+    {
+     "id": "https://openalex.org/C126255220",
+     "wikidata": "https://www.wikidata.org/wiki/Q141495",
+     "display_name": "Mathematical optimization",
+     "level": 1,
+     "score": 0.39691799879074097
+    },
+    {
+     "id": "https://openalex.org/C28826006",
+     "wikidata": "https://www.wikidata.org/wiki/Q33521",
+     "display_name": "Applied mathematics",
+     "level": 1,
+     "score": 0.34983137249946594
+    },
+    {
+     "id": "https://openalex.org/C154945302",
+     "wikidata": "https://www.wikidata.org/wiki/Q11660",
+     "display_name": "Artificial intelligence",
+     "level": 1,
+     "score": 0.23116612434387207
+    },
+    {
+     "id": "https://openalex.org/C158622935",
+     "wikidata": "https://www.wikidata.org/wiki/Q660848",
+     "display_name": "Nonlinear system",
+     "level": 2,
+     "score": 0.12431025505065918
+    },
+    {
+     "id": "https://openalex.org/C62520636",
+     "wikidata": "https://www.wikidata.org/wiki/Q944",
+     "display_name": "Quantum mechanics",
+     "level": 1,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C17744445",
+     "wikidata": "https://www.wikidata.org/wiki/Q36442",
+     "display_name": "Political science",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C121332964",
+     "wikidata": "https://www.wikidata.org/wiki/Q413",
+     "display_name": "Physics",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C199539241",
+     "wikidata": "https://www.wikidata.org/wiki/Q7748",
+     "display_name": "Law",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 3,
+   "locations": [
+    {
+     "id": "pmh:oai:arXiv.org:1105.0728",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "http://arxiv.org/abs/1105.0728",
+     "pdf_url": "https://arxiv.org/pdf/1105.0728",
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": "2331-8422",
+      "issn": [
+       "2331-8422"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+       "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "text"
+    },
+    {
+     "id": "mag:1543618960",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "https://arxiv.org/pdf/1105.0728.pdf",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": "2331-8422",
+      "issn": [
+       "2331-8422"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+       "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": "arXiv (Cornell University)",
+     "raw_type": null
+    },
+    {
+     "id": "doi:10.48550/arxiv.1105.0728",
+     "doi": "https://doi.org/10.48550/arxiv.1105.0728",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.48550/arxiv.1105.0728",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": "2331-8422",
+      "issn": [
+       "2331-8422"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+       "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": null,
+     "is_accepted": false,
+     "is_published": null,
+     "raw_source_name": null,
+     "raw_type": "article-journal"
+    }
+   ],
+   "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:1105.0728",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/1105.0728",
+    "pdf_url": "https://arxiv.org/pdf/1105.0728",
+    "source": {
+     "id": "https://openalex.org/S4306400194",
+     "display_name": "arXiv (Cornell University)",
+     "issn_l": "2331-8422",
+     "issn": [
+      "2331-8422"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I205783295",
+     "host_organization_name": "Cornell University",
+     "host_organization_lineage": [
+      "https://openalex.org/I205783295"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+   },
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [
+    {
+     "id": "https://openalex.org/G222768804",
+     "display_name": null,
+     "funder_award_id": "DE\u2010FG02\u2010",
+     "funder_id": "https://openalex.org/F4320306084",
+     "funder_display_name": "U.S. Department of Energy"
+    },
+    {
+     "id": "https://openalex.org/G5177019757",
+     "display_name": "ALGORITHMS FOR MATHEMATICAL PROGRAMMING WITH EMPHASIS ON BI-LEVEL MODELS",
+     "funder_award_id": "FG02-08ER25856",
+     "funder_id": "https://openalex.org/F4320306084",
+     "funder_display_name": "U.S. Department of Energy"
+    },
+    {
+     "id": "https://openalex.org/G8876996369",
+     "display_name": null,
+     "funder_award_id": "N00014",
+     "funder_id": "https://openalex.org/F4320337345",
+     "funder_display_name": "Office of Naval Research"
+    }
+   ],
+   "funders": [
+    {
+     "id": "https://openalex.org/F4320306084",
+     "display_name": "U.S. Department of Energy",
+     "ror": "https://ror.org/01bj3aw27"
+    },
+    {
+     "id": "https://openalex.org/F4320337345",
+     "display_name": "Office of Naval Research",
+     "ror": "https://ror.org/00rk2pe57"
+    }
+   ],
+   "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 1,
+   "referenced_works": [
+    "https://openalex.org/W3106359998"
+   ],
+   "related_works": [
+    "https://openalex.org/W2963198961",
+    "https://openalex.org/W2124140601",
+    "https://openalex.org/W1489740972",
+    "https://openalex.org/W2950109329",
+    "https://openalex.org/W2574317185",
+    "https://openalex.org/W2028007849",
+    "https://openalex.org/W1886579186",
+    "https://openalex.org/W2954099021",
+    "https://openalex.org/W1871180460",
+    "https://openalex.org/W2233806934",
+    "https://openalex.org/W2950690413",
+    "https://openalex.org/W825274868",
+    "https://openalex.org/W2964065098",
+    "https://openalex.org/W1171455893",
+    "https://openalex.org/W2414029883",
+    "https://openalex.org/W2132054311",
+    "https://openalex.org/W3115527261",
+    "https://openalex.org/W19842529",
+    "https://openalex.org/W3119228957",
+    "https://openalex.org/W2767727533"
+   ],
+   "abstract_inverted_index": {
+    "We": [
+     0,
+     71
+    ],
+    "consider": [
+     1
+    ],
+    "a": [
+     2,
+     15,
+     34,
+     73,
+     144
+    ],
+    "class": [
+     3
+    ],
+    "of": [
+     4,
+     23,
+     27,
+     46,
+     88,
+     101,
+     120,
+     137,
+     146,
+     161
+    ],
+    "sparse": [
+     5
+    ],
+    "learning": [
+     6
+    ],
+    "problems": [
+     7,
+     31,
+     84,
+     155
+    ],
+    "in": [
+     8
+    ],
+    "high": [
+     9
+    ],
+    "dimensional": [
+     10
+    ],
+    "feature": [
+     11
+    ],
+    "space": [
+     12
+    ],
+    "regularized": [
+     13
+    ],
+    "by": [
+     14
+    ],
+    "structured": [
+     16
+    ],
+    "sparsity-inducing": [
+     17,
+     59
+    ],
+    "norm": [
+     18
+    ],
+    "which": [
+     19,
+     83
+    ],
+    "incorporates": [
+     20
+    ],
+    "prior": [
+     21
+    ],
+    "knowledge": [
+     22
+    ],
+    "the": [
+     24,
+     28,
+     42,
+     47,
+     62,
+     69,
+     78,
+     98,
+     117,
+     133,
+     158,
+     162
+    ],
+    "group": [
+     25
+    ],
+    "structure": [
+     26
+    ],
+    "features.": [
+     29
+    ],
+    "Such": [
+     30
+    ],
+    "often": [
+     32
+    ],
+    "pose": [
+     33
+    ],
+    "considerable": [
+     35
+    ],
+    "challenge": [
+     36
+    ],
+    "to": [
+     37,
+     41,
+     126,
+     152,
+     156
+    ],
+    "optimization": [
+     38
+    ],
+    "algorithms": [
+     39,
+     107,
+     122
+    ],
+    "due": [
+     40
+    ],
+    "non-smoothness": [
+     43
+    ],
+    "and": [
+     44,
+     68,
+     90,
+     113,
+     135,
+     149
+    ],
+    "non-separability": [
+     45
+    ],
+    "regularization": [
+     48,
+     60,
+     89
+    ],
+    "term.": [
+     49
+    ],
+    "In": [
+     50
+    ],
+    "this": [
+     51,
+     102
+    ],
+    "paper,": [
+     52
+    ],
+    "we": [
+     53,
+     104,
+     114,
+     140
+    ],
+    "focus": [
+     54
+    ],
+    "on": [
+     55,
+     77,
+     143
+    ],
+    "two": [
+     56,
+     153,
+     163
+    ],
+    "commonly": [
+     57
+    ],
+    "adopted": [
+     58
+    ],
+    "terms,": [
+     61
+    ],
+    "overlapping": [
+     63
+    ],
+    "Group": [
+     64
+    ],
+    "Lasso": [
+     65
+    ],
+    "penalty": [
+     66
+    ],
+    "$l_1/l_2$-norm": [
+     67
+    ],
+    "$l_1/l_\\infty$-norm.": [
+     70
+    ],
+    "propose": [
+     72
+    ],
+    "unified": [
+     74
+    ],
+    "framework": [
+     75
+    ],
+    "based": [
+     76
+    ],
+    "augmented": [
+     79
+    ],
+    "Lagrangian": [
+     80
+    ],
+    "method,": [
+     81
+    ],
+    "under": [
+     82
+    ],
+    "with": [
+     85
+    ],
+    "both": [
+     86
+    ],
+    "types": [
+     87
+    ],
+    "their": [
+     91
+    ],
+    "variants": [
+     92
+    ],
+    "can": [
+     93
+    ],
+    "be": [
+     94
+    ],
+    "efficiently": [
+     95
+    ],
+    "solved.": [
+     96
+    ],
+    "As": [
+     97
+    ],
+    "core": [
+     99
+    ],
+    "building-block": [
+     100
+    ],
+    "framework,": [
+     103
+    ],
+    "develop": [
+     105
+    ],
+    "new": [
+     106
+    ],
+    "using": [
+     108
+    ],
+    "an": [
+     109,
+     128
+    ],
+    "alternating": [
+     110
+    ],
+    "partial-linearization/splitting": [
+     111
+    ],
+    "technique,": [
+     112
+    ],
+    "prove": [
+     115
+    ],
+    "that": [
+     116
+    ],
+    "accelerated": [
+     118
+    ],
+    "versions": [
+     119
+    ],
+    "these": [
+     121
+    ],
+    "require": [
+     123
+    ],
+    "$O(\\frac{1}{\\sqrt\u03b5})$": [
+     124
+    ],
+    "iterations": [
+     125
+    ],
+    "obtain": [
+     127
+    ],
+    "$\u03b5$-optimal": [
+     129
+    ],
+    "solution.": [
+     130
+    ],
+    "To": [
+     131
+    ],
+    "demonstrate": [
+     132
+    ],
+    "efficiency": [
+     134
+    ],
+    "relevance": [
+     136
+    ],
+    "our": [
+     138
+    ],
+    "algorithms,": [
+     139
+    ],
+    "test": [
+     141
+    ],
+    "them": [
+     142,
+     151
+    ],
+    "collection": [
+     145
+    ],
+    "data": [
+     147
+    ],
+    "sets": [
+     148
+    ],
+    "apply": [
+     150
+    ],
+    "real-world": [
+     154
+    ],
+    "compare": [
+     157
+    ],
+    "relative": [
+     159
+    ],
+    "merits": [
+     160
+    ],
+    "norms.": [
+     164
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2025,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 8
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2012,
+     "cited_by_count": 1
+    }
+   ],
+   "updated_date": "2026-09-30T09:27:27.532063",
+   "created_date": "2025-10-10T00:00:00"
+  }
+ ]
+}

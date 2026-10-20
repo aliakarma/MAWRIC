@@ -1,0 +1,272 @@
+{
+ "query": "a review of methods for leakage management in pipe networks",
+ "items": [
+  {
+   "DOI": "10.1080/15730621003610878",
+   "title": [
+    "A review of methods for leakage management in pipe networks"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "Urban Water Journal"
+   ],
+   "author": [
+    {
+     "given": "R.",
+     "family": "Puust",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Z.",
+     "family": "Kapelan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "D. A.",
+     "family": "Savic",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "T.",
+     "family": "Koppel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 647,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1007/978-3-540-76435-9_9635",
+   "title": [
+    "pipe leakage [n]"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010
+     ]
+    ]
+   },
+   "container-title": [
+    "Encyclopedic Dictionary of Landscape and Urban Planning"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.1061/41203(425)103",
+   "title": [
+    "Leakage and Pipe Materials"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      12,
+      21
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Distribution Systems Analysis 2010"
+   ],
+   "author": [
+    {
+     "given": "M.",
+     "family": "Ferrante",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy.E-mail:"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "C.",
+     "family": "Massari",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy.E-mail:"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "B.",
+     "family": "Brunone",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy.E-mail:"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.",
+     "family": "Meniconi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy.E-mail:"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      },
+      {
+       "name": "Dipartimento di Ingegneria Civile ed Ambientale, University of Perugia, Perugia, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.1002/mma.1197",
+   "title": [
+    "A new model for gas flow in pipe networks"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      4,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "Mathematical Methods in the Applied Sciences"
+   ],
+   "author": [
+    {
+     "given": "M.",
+     "family": "Herty",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "J.",
+     "family": "Mohring",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "V.",
+     "family": "Sachers",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 88,
+   "type": "journal-article"
+  }
+ ]
+}

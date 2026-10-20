@@ -1,0 +1,173 @@
+# key | doi | cluster | used_for   (pipe-separated)
+bam2025 | 10.3390/w17202957 | C1-DT | M1 cluster C1; review gaps (interoperability, validation)
+ramos2023 | 10.3390/w15061129 | C1-DT | C1 smart water grids + DT
+ramos2022 | 10.3390/w14081304 | C1-DT | C1 DT challenges WDN
+pesantez2022 | 10.1016/j.scs.2021.103520 | C1-DT | C1 city DT scenario analysis
+makropoulos2019 | 10.3390/w11101959 | C1-DT | C1 urban hydroinformatics
+ciliberti2023 | 10.2166/hydro.2023.237 | C1-DT | C1 DT to digital water services
+altindas2026 | 10.1016/j.scs.2026.107456 | C1-DT | C1 recency: urban DT + WSUD SLR
+fu2022 | 10.1016/j.watres.2022.118973 | C1-DT | C1/C3 deep learning in UWM review
+eggimann2017 | 10.1021/acs.est.6b04267 | C1-DT | C1 data-driven UWM review
+choi2025 | 10.3390/smartcities8010028 | C3-LLM | C3 AI-agent urban DT
+restuccia2026 | 10.1109/jiot.2026.3700039 | C3-LLM | C3 closest: edge agentic DT for WDN
+khadam2026 | 10.1109/access.2026.3738118 | C3-LLM | C3 agent-based UDT SLR
+hu2023 | 10.2166/ws.2023.163 | C2-MAS | C2 MARL pump+valve scheduling
+jia2025 | 10.3390/machines13060503 | C2-MAS | C2 MARL water environment review
+negm2024 | 10.1016/j.watres.2024.121145 | C2-MAS | C2 DRL challenges UWS
+kage2025 | 10.3389/frwa.2025.1537868 | C2-MAS | C2 RL in WRM SLR
+javed2025 | 10.3390/w17131928 | C2-MAS | C2 DRL leak management review
+aydin2021 | 10.1016/j.cie.2020.106679 | C2-MAS | C2 MAS energy-efficient water management
+agyeman2025 | 10.1016/j.conengprac.2024.106183 | C2-MAS | C2 semi-centralized MARL irrigation
+grosso2016 | 10.1002/oca.2269 | C2-MAS | C2 stochastic MPC DWN
+pascual2013 | 10.1016/j.conengprac.2013.01.009 | C2-MAS | C2 Barcelona operational MPC
+segovia2021 | 10.1016/j.jprocont.2021.01.007 | C2-MAS | C2 distributed MPC decomposition
+castelletti2023 | 10.1016/j.arcontrol.2023.03.013 | C2-MAS | C2 MPC water resources review
+doostmohammadian2025 | 10.1016/j.arcontrol.2024.100983 | C2-MAS | C2 distributed resource allocation survey
+radulescu2019 | 10.1007/s10458-019-09433-x | C2-MAS | C2 multi-objective multi-agent decision making
+smith1980 | 10.1109/tc.1980.1675516 | C2-MAS | C2 Contract Net Protocol
+gerkey2004 | 10.1177/0278364904045564 | C2-MAS | C2 MRTA taxonomy
+korsah2013 | 10.1177/0278364913496484 | C2-MAS | C2 MRTA taxonomy (iTax)
+boyd2011 | 10.1561/2200000016 | C2-MAS | method: ADMM sharing problem
+han2018 | 10.3390/w10091184 | C2-MAS | C2 multi-agent game theory water allocation
+amarnath2026 | 10.1007/s11269-026-04592-5 | C2-MAS | C2 recency multi-agent curriculum learning WDN
+wang2026agentic | 10.1016/j.watres.2026.125433 | C3-LLM | C3 closest prior work: EPANET-Agentic
+wang2027control | 10.1016/j.watres.2026.126823 | C3-LLM | C3 closest prior work: locus of control
+wang2026llm | 10.1016/j.watres.2025.124536 | C3-LLM | C3 LLM agents WDN optimization
+hosseini2026 | 10.1016/j.watres.2025.125157 | C3-LLM | C3 LLM-MA conceptual framework (negotiation)
+mu2026leak | 10.1038/s44488-026-00024-w | C3-LLM | C3 LeakAgent
+chen2026sched | 10.1016/j.watres.2026.126284 | C3-LLM | C3 autonomous scheduling agents (title only)
+mu2026wds | 10.1016/j.watres.2026.126384 | C3-LLM | C3 WDS-Modality (title only)
+syed2026agentic | 10.1371/journal.pone.0353610 | C3-LLM | SELF-OVERLAP: authors agentic DT paper
+syed2026climate | 10.3390/su18178917 | C3-LLM | SELF-OVERLAP: authors agentic AI climate-resilient cities review
+kalyuzhnaya2025 | 10.3390/smartcities8010019 | C3-LLM | C3 LLM agents smart city management
+he2025iwms | 10.2166/hydro.2025.130 | C3-LLM | C3 IWMS-LLM
+arslan2026 | 10.1016/j.scsadv.2026.100044 | C3-LLM | C3 LLM SWM review (34 studies, mostly conceptual)
+xu2025 | 10.1038/s41545-025-00509-8 | C3-LLM | C3 WaterGPT perspective
+tamuka2026 | 10.1007/s10791-026-10697-7 | C3-LLM | C3/C8 human-governed agentic AI SCADA review
+wang2026light | 10.2139/ssrn.7157742 | C3-LLM | C3 LightWDN-Agent preprint (title only)
+bandi2025 | 10.3390/fi17090404 | C3-LLM | C3 agentic AI review
+li2025urban | 10.1145/3768163 | C3-LLM | C3 urban computing in LLM era
+alevizos2025 | 10.3390/w17172653 | C3-LLM | C3 multi-agentic water health surveillance
+porse2017 | 10.1061/(asce)wr.1943-5452.0000803 | C4-ALLOC | C4 LA local supplies network flow model
+matrosov2015 | 10.1016/j.jhydrol.2015.11.003 | C4-ALLOC | C4 London many-objective portfolio
+padula2013 | 10.1007/s11269-013-0437-6 | C4-ALLOC | C4 SE England least-cost MILP portfolio
+hsieh2025 | 10.2166/wcc.2025.160 | C4-ALLOC | C4 dynamic multi-source allocation fuzzy
+garridobaserba2024 | 10.1038/s44221-024-00303-9 | C4-ALLOC | C4 decentralization block scale
+seguela2026 | 10.3390/su18062932 | C4-ALLOC | C4 NPW healthcare facility arid city
+sapkota2015 | 10.3390/w7010153 | C4-ALLOC | C4 hybrid water supply systems
+thakur2024 | 10.1007/s10668-024-05649-4 | C4-ALLOC | C4 IUWM systematic review
+mosleh2021 | 10.3390/w13091252 | C4-ALLOC | C4 models in IUWM decisions review
+ndeketeya2022 | 10.1016/j.rcradv.2022.200071 | C4-ALLOC | C4 alternative water sources
+zhong2025 | 10.1029/2024wr039025 | C4-ALLOC | C4 alt water infra investment optimization
+exposito2024 | 10.2166/wrd.2024.040 | C4-ALLOC | param: reclaimed water production cost (replaces wrong exposito2021 DOI)
+wilcox2016 | 10.1016/j.scs.2016.06.021 | C4-ALLOC | C4 urban water reuse TBL
+schoen2018 | 10.3390/w10101352 | C4-ALLOC | C4 cross-connection health impact
+jahne2024 | 10.1021/acs.estlett.4c00512 | C4-ALLOC | C4 microbial targets potable/nonpotable reuse
+jeffrey2026 | 10.1080/1573062x.2026.2695186 | C4-ALLOC | C4 dual-pipe public health risks
+radcliffe2020 | 10.1016/j.watcyc.2020.05.005 | C4-ALLOC | C4 reuse in Australia
+paul2019 | 10.1016/j.jclepro.2018.12.148 | C4-ALLOC | param: energy intensity of recycling
+giammar2021 | 10.1021/acsestengg.1c00351 | C4-ALLOC | param: cost and energy metrics reuse
+zhang2020storm | 10.1016/j.watres.2019.115395 | C4-ALLOC | C4 stormwater harvesting benefits
+rohrer2017 | 10.3390/w9060371 | C4-ALLOC | C4 stormwater harvesting RTC
+kisakye2018 | 10.1016/j.resconrec.2018.07.009 | C4-ALLOC | C4 RWH under climate change
+lopezzavala2016 | 10.3390/w8060264 | C4-ALLOC | C4 RWH + greywater
+vandewalle2023 | 10.1016/j.ese.2023.100277 | C4-ALLOC | C4 greywater reuse enabler
+ferreira2023 | 10.1007/s11269-023-03531-y | C4-ALLOC | C4 hybrid decentralized NPW
+chen2024recycled | 10.1007/s10311-023-01683-2 | C4-ALLOC | C4 recycled water building sector
+badruzzaman2022 | 10.1016/j.wri.2022.100188 | C4-ALLOC | C4 reclaimed water cooling makeup
+mytton2021 | 10.1038/s41545-021-00101-w | C4-ALLOC | sector: data centre water
+lunstad2024 | 10.1061/jwrmd5.wreng-5871 | C4-ALLOC | sector: smart irrigation controllers
+davis2009 | 10.1016/j.agwat.2009.08.005 | C4-ALLOC | sector: ET-based irrigation controllers
+jeffrey2022 | 10.1016/j.watres.2022.118198 | C4-ALLOC | C4 potable reuse status
+porse2023 | 10.1080/10286608.2023.2263746 | C4-ALLOC | C4 metropolitan reuse systems analysis
+maldonado2025 | 10.3390/w17131978 | C4-ALLOC | C4 AI for water harvesting SLR
+otaki2022 | 10.2166/wpt.2022.031 | C4-ALLOC | C4 alt sources by residential end use
+swinbourne2024 | 10.1016/j.uclim.2024.101812 | C4-ALLOC | C4 greenery + alt sources interconnect
+liemberger2019 | 10.2166/ws.2018.129 | C5-LOSS | C5 global NRW
+vicente2016 | 10.1061/(ASCE)WR.1943-5452.0000589 | C5-LOSS | C5 pressure management review
+puust2010 | 10.1080/15730621003610878 | C5-LOSS | C5 leakage management methods review
+romeroben2023 | 10.1016/j.arcontrol.2023.03.012 | C5-LOSS | C5 leak detection/localization review
+vrachimis2022 | 10.1061/(asce)wr.1943-5452.0001601 | C5-LOSS | C5 BattLeDIM
+mounce2010 | 10.1061/(ASCE)WR.1943-5452.0000030 | C5-LOSS | C5 online AI burst detection
+vanzyl2007 | 10.1680/wama.2007.160.2.109 | C5-LOSS | param: pressure-leakage exponent
+vanzyl2014 | 10.1061/(asce)hy.1943-7900.0000813 | C5-LOSS | param: elastically deforming leaks
+vanzyl2017 | 10.2166/aqua.2017.136 | C5-LOSS | param: pressure-leakage behaviour
+lambert1999 | 10.2166/aqua.1999.0025 | C5-LOSS | C5 real-loss performance indicators
+araujo2006 | 10.1007/s11269-006-4635-3 | C5-LOSS | C5 pressure control leakage minimisation
+creaco2017 | 10.1061/(asce)wr.1943-5452.0000846 | C5-LOSS | C5 economics of pressure control, bursts
+gonelas2015 | 10.2166/ws.2015.181 | C5-LOSS | C5 economic leakage via PM
+islam2013 | 10.1061/(asce)wr.1943-5452.0000235 | C5-LOSS | C5 ELL Bangkok
+lambert2005 | 10.2166/ws.2005.0072 | C5-LOSS | C5 economic intervention frequency ALC
+moslehi2020 | 10.1080/15732479.2020.1777568 | C5-LOSS | C5 leakage targets economic
+ahopelto2020 | 10.3390/w12010195 | C5-LOSS | C5 CBA leakage reduction methods
+santos2024 | 10.3390/urbansci8040194 | C5-LOSS | C5 NRW economic sustainability
+serafeim2024 | 10.3390/w16111534 | C5-LOSS | C5 leakage estimation/mitigation review
+farah2024 | 10.3390/w16202975 | C5-LOSS | C5 leak detection review
+aboelnga2018 | 10.2166/aqua.2018.180 | C5-LOSS | C5 component analysis (BABE) Madaba
+brentan2018 | 10.1061/(asce)wr.1943-5452.0000974 | C5-LOSS | C5 joint PRV+pumps
+shao2019 | 10.3390/en12152969 | C5-LOSS | C5 joint pump+valve leakage+energy
+ferrarese2024 | 10.1007/s11269-024-03822-y | C5-LOSS | C5 metaheuristics leakage+energy review
+barfuss2025 | 10.1002/awwa.2401 | C5-LOSS | param: main break rates US/Canada
+wang2026carbon | 10.1038/s41467-026-72300-3 | C5-LOSS | C5 energy-carbon-water synergies of maintenance
+balut2019 | 10.3390/w11081591 | C5-LOSS | C5 repair scheduling ranking
+assad2020 | 10.1061/(asce)cf.1943-5509.0001478 | C5-LOSS | C5 restoration planning
+arrington2026 | 10.1002/awwa.70038 | C5-LOSS | C5 leak detection strategies practice
+rajani2001 | 10.1016/s1462-0758(01)00032-2 | C5-LOSS | C5 deterioration models
+jeon2024 | 10.3390/s24113470 | C5-LOSS | C5 in-pipe robot large pipes
+kahnamouei2023 | 10.1016/j.oceaneng.2023.114260 | C5-LOSS | C5 in-pipe robots review
+aitken2021 | 10.1109/access.2021.3115981 | C5-LOSS | C5 SLAM pipe robots review
+mancuso2016 | 10.1016/j.ress.2016.03.011 | C5-LOSS | C5 risk-based pipe inspection optimization
+memarzadeh2016voi | 10.1016/j.ress.2016.05.014 | C5-LOSS | C5 value of information inspection
+memarzadeh2016insp | 10.1111/mice.12178 | C5-LOSS | C5 inspection + maintenance scheduling
+britton2013 | 10.1016/j.jclepro.2013.05.018 | C5-LOSS | C5 post-meter leakage smart metering
+marzola2021 | 10.3390/w13050643 | C5-LOSS | C5 MNF + FAVAD with smart meters
+karadirek2012 | 10.1007/s11269-012-0032-2 | C5-LOSS | C5 PM hydraulic modelling
+menke2016 | 10.1016/j.apenergy.2016.02.136 | C6-OPS | C6 pump scheduling demand response
+tasseff2024 | 10.1287/ijoc.2022.0233 | C6-OPS | C6 pump scheduling relaxations
+nair2014 | 10.1016/j.resconrec.2014.05.007 | C6-OPS | C6 water-energy-GHG nexus
+lee2017 | 10.1016/j.apenergy.2017.08.002 | C6-OPS | param: energy intensity UWS
+plappally2012 | 10.1016/j.rser.2012.05.022 | C6-OPS | param: energy requirements water cycle
+wu2020 | 10.2166/wcc.2020.276 | C6-OPS | C6 WEN urban supply changes
+putri2025 | 10.1016/j.conengprac.2025.106243 | C6-OPS | C6 data-driven NMPC WDS
+rambo2017 | 10.1016/j.egypro.2017.03.782 | C6-OPS | C6 water-energy nexus Saudi Arabia
+boyle2013 | 10.3390/w5031052 | C7-DEM | C7 intelligent metering review
+cominola2015 | 10.1016/j.envsoft.2015.07.012 | C7-DEM | C7 smart meters demand modeling
+sonderlund2016 | 10.1061/(asce)wr.1943-5452.0000703 | C7-DEM | C7 smart meter feedback effectiveness
+beal2015 | 10.1016/j.jup.2014.12.006 | C7-DEM | C7 Australian smart metering programs
+nguyen2018 | 10.1016/j.envsoft.2017.12.015 | C7-DEM | C7 smart metering informatics
+olmstead2009 | 10.1029/2008WR007227 | C7-DEM | C7 price vs nonprice conservation
+ferraro2013 | 10.1162/rest_a_00344 | C7-DEM | C7 large-scale field experiment
+willis2011 | 10.1016/j.jenvman.2011.03.023 | C7-DEM | C7 attitudes and end uses
+gatotrinidad2011 | 10.2166/wst.2011.436 | C7-DEM | C7 residential end uses
+monks2020 | 10.3390/w12051436 | C7-DEM | C9 expert valuation digital metering benefits
+alzahrani2025 | 10.3390/w17213119 | C7-DEM | C7 smart infrastructure demand mgmt survey
+gonzalez2018 | 10.3390/su10040932 | C7-DEM | sector: hospital water use
+parasuraman2000 | 10.1109/3468.844354 | C8-GOV | C8 levels of automation
+lee2004 | 10.1518/hfes.46.1.50.30392 | C8-GOV | C8 trust in automation
+alshiekh2018 | 10.1609/aaai.v32i1.11797 | C8-GOV | C8 shielding safe RL
+hobbs2023 | 10.1109/mcs.2023.3234380 | C8-GOV | C8 runtime assurance safety filters
+taormina2018 | 10.1061/(asce)wr.1943-5452.0000969 | C8-GOV | C8 BATADAL
+housh2018 | 10.1016/j.watres.2018.03.039 | C8-GOV | C8 model-based attack detection
+hassanzadeh2020 | 10.1061/(asce)ee.1943-7870.0001686 | C8-GOV | C8 cyber incidents water sector
+tuptuk2021 | 10.3390/w13010081 | C8-GOV | C8 cyber-security water systems SR
+moazeni2021 | 10.1016/j.scs.2021.102895 | C8-GOV | C8 sequential FDI attacks tanks
+doorn2021 | 10.1016/j.scitotenv.2020.142561 | C8-GOV | C8 responsible AI in water domain
+savic2022 | 10.1016/j.eng.2021.05.013 | C8-GOV | C8 digital water lessons from car/aircraft automation
+olsson2020 | 10.2166/aqua.2020.115 | C8-GOV | C8 urban water supply automation
+almheiri2024 | 10.3390/w16233539 | C8-GOV | C8/M11 AI implementation challenges water supply
+okwori2026 | 10.2166/wpt.2026.260 | C8-GOV | M11 AI decision support stalls in asset mgmt
+nistairmf | 10.6028/NIST.AI.100-1 | C8-GOV | M11 NIST AI RMF
+nistzt | 10.6028/NIST.SP.800-207 | C8-GOV | M11 zero trust
+brodersen2015 | 10.1214/14-AOAS788 | C9-ECON | method: causal impact
+hemming2015 | 10.1136/bmj.h391 | C9-ECON | method: stepped wedge
+pianosi2016 | 10.1016/j.envsoft.2016.02.008 | C9-ECON | method: sensitivity analysis workflow
+sobol2001 | 10.1016/S0378-4754(00)00270-6 | C9-ECON | method: Sobol indices
+saltelli2010 | 10.1016/j.cpc.2009.09.018 | C9-ECON | method: Saltelli estimator
+herman2017 | 10.21105/joss.00097 | C9-ECON | tool: SALib
+daniel2023 | 10.1038/s41545-023-00265-7 | C9-ECON | C9 utilities digital transformation survey
+erfani2018 | 10.1029/2017wr021803 | C9-ECON | C9 real options water supply
+gillingham2018 | 10.1146/annurev-resource-100517-023028 | C9-ECON | C9 evaluating efficiency programs
+klise2017 | 10.1016/j.envsoft.2017.06.022 | C10-TOOL | tool: WNTR
+marchi2014 | 10.1061/(asce)wr.1943-5452.0000378 | C10-TOOL | tool: C-Town (BWN-II)
+menne2012 | 10.1175/jtech-d-11-00103.1 | C10-TOOL | data: GHCN-Daily
+hargreaves1985 | 10.13031/2013.26773 | C10-TOOL | method: Hargreaves ET0

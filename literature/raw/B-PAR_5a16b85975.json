@@ -1,0 +1,702 @@
+{
+ "query": "reference crop evapotranspiration from temperature Hargreaves Samani",
+ "pass": "B-PAR",
+ "y0": 1984,
+ "y1": 1986,
+ "results": [
+  {
+   "id": "https://openalex.org/W2313433158",
+   "doi": "https://doi.org/10.13031/2013.30184",
+   "title": "Estimating Potential Crop Evapotranspiration with Minimum Data in Arizona",
+   "display_name": "Estimating Potential Crop Evapotranspiration with Minimum Data in Arizona",
+   "relevance_score": 25.405745,
+   "publication_year": 1986,
+   "publication_date": "1986-01-01",
+   "ids": {
+    "openalex": "https://openalex.org/W2313433158",
+    "doi": "https://doi.org/10.13031/2013.30184",
+    "mag": "2313433158"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "doi:10.13031/2013.30184",
+    "doi": "https://doi.org/10.13031/2013.30184",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.13031/2013.30184",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4210169753",
+     "display_name": "Transactions of the ASAE",
+     "issn_l": "0001-2351",
+     "issn": [
+      "0001-2351",
+      "2151-0059"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Transactions of the ASAE",
+    "raw_type": "journal-article"
+   },
+   "volume": null,
+   "type": "article",
+   "indexed_in": [
+    "crossref"
+   ],
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5021493235",
+      "display_name": "Zohrab Samani",
+      "orcid": "https://orcid.org/0000-0002-3273-0599",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3273-0599"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Z. A. Samani",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5064403264",
+      "display_name": "Mohammad Pessarakli",
+      "orcid": "https://orcid.org/0000-0002-7662-2258",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-7662-2258"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "M. Pessarakli",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 0,
+   "institutions_distinct_count": 0,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 4.4983,
+   "has_fulltext": false,
+   "cited_by_count": 65,
+   "citation_normalized_percentile": {
+    "value": 0.94250513,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+   },
+   "cited_by_percentile_year": {
+    "min": 88,
+    "max": 99
+   },
+   "biblio": {
+    "volume": "29",
+    "issue": "2",
+    "first_page": "0522",
+    "last_page": "0524"
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11186",
+    "display_name": "Hydrology and Drought Analysis",
+    "score": 0.9639000296592712,
+    "subfield": {
+     "id": "https://openalex.org/subfields/2306",
+     "display_name": "Global and Planetary Change"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/23",
+     "display_name": "Environmental Science"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/3",
+     "display_name": "Physical Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11186",
+     "display_name": "Hydrology and Drought Analysis",
+     "score": 0.9639000296592712,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11404",
+     "display_name": "Irrigation Practices and Water Management",
+     "score": 0.014700000174343586,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1111",
+      "display_name": "Soil Science"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/11",
+      "display_name": "Agricultural and Biological Sciences"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10266",
+     "display_name": "Plant Water Relations and Carbon Dynamics",
+     "score": 0.007499999832361937,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/potential-evapotranspiration",
+     "display_name": "potential evapotranspiration",
+     "score": 0.9679999947547913
+    },
+    {
+     "id": "https://openalex.org/keywords/reference-evapotranspiration",
+     "display_name": "reference evapotranspiration",
+     "score": 0.8870000243186951
+    },
+    {
+     "id": "https://openalex.org/keywords/jensen-haise-method",
+     "display_name": "Jensen-Haise method",
+     "score": 0.8360000252723694
+    },
+    {
+     "id": "https://openalex.org/keywords/penman-method",
+     "display_name": "Penman method",
+     "score": 0.8980000019073486
+    },
+    {
+     "id": "https://openalex.org/keywords/blaney-criddle-method",
+     "display_name": "Blaney-Criddle method",
+     "score": 0.9940000176429749
+    },
+    {
+     "id": "https://openalex.org/keywords/pan-evaporation",
+     "display_name": "pan evaporation",
+     "score": 0.9710000157356262
+    },
+    {
+     "id": "https://openalex.org/keywords/alfalfa",
+     "display_name": "alfalfa",
+     "score": 0.8769999742507935
+    },
+    {
+     "id": "https://openalex.org/keywords/method-comparison",
+     "display_name": "method comparison",
+     "score": 0.6190000176429749
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C176783924",
+     "wikidata": "https://www.wikidata.org/wiki/Q828158",
+     "display_name": "Evapotranspiration",
+     "level": 2,
+     "score": 0.9114446043968201
+    },
+    {
+     "id": "https://openalex.org/C39432304",
+     "wikidata": "https://www.wikidata.org/wiki/Q188847",
+     "display_name": "Environmental science",
+     "level": 0,
+     "score": 0.5729813575744629
+    },
+    {
+     "id": "https://openalex.org/C23430798",
+     "wikidata": "https://www.wikidata.org/wiki/Q2747664",
+     "display_name": "Pan evaporation",
+     "level": 3,
+     "score": 0.5601450204849243
+    },
+    {
+     "id": "https://openalex.org/C61441594",
+     "wikidata": "https://www.wikidata.org/wiki/Q132814",
+     "display_name": "Evaporation",
+     "level": 2,
+     "score": 0.521141767501831
+    },
+    {
+     "id": "https://openalex.org/C60352421",
+     "wikidata": "https://www.wikidata.org/wiki/Q7163111",
+     "display_name": "Penman\u2013Monteith equation",
+     "level": 3,
+     "score": 0.5078864693641663
+    },
+    {
+     "id": "https://openalex.org/C76886044",
+     "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+     "display_name": "Hydrology (agriculture)",
+     "level": 2,
+     "score": 0.4859091341495514
+    },
+    {
+     "id": "https://openalex.org/C137580998",
+     "wikidata": "https://www.wikidata.org/wiki/Q235352",
+     "display_name": "Crop",
+     "level": 2,
+     "score": 0.45036742091178894
+    },
+    {
+     "id": "https://openalex.org/C72551326",
+     "wikidata": "https://www.wikidata.org/wiki/Q5187947",
+     "display_name": "Crop coefficient",
+     "level": 3,
+     "score": 0.4371407926082611
+    },
+    {
+     "id": "https://openalex.org/C153294291",
+     "wikidata": "https://www.wikidata.org/wiki/Q25261",
+     "display_name": "Meteorology",
+     "level": 1,
+     "score": 0.2428223192691803
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.11069568991661072
+    },
+    {
+     "id": "https://openalex.org/C97137747",
+     "wikidata": "https://www.wikidata.org/wiki/Q38112",
+     "display_name": "Forestry",
+     "level": 1,
+     "score": 0.10134699940681458
+    },
+    {
+     "id": "https://openalex.org/C18903297",
+     "wikidata": "https://www.wikidata.org/wiki/Q7150",
+     "display_name": "Ecology",
+     "level": 1,
+     "score": 0.0862325131893158
+    },
+    {
+     "id": "https://openalex.org/C127313418",
+     "wikidata": "https://www.wikidata.org/wiki/Q1069",
+     "display_name": "Geology",
+     "level": 0,
+     "score": 0.08176964521408081
+    },
+    {
+     "id": "https://openalex.org/C86803240",
+     "wikidata": "https://www.wikidata.org/wiki/Q420",
+     "display_name": "Biology",
+     "level": 0,
+     "score": 0.0
+    },
+    {
+     "id": "https://openalex.org/C187320778",
+     "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+     "display_name": "Geotechnical engineering",
+     "level": 1,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "doi:10.13031/2013.30184",
+     "doi": "https://doi.org/10.13031/2013.30184",
+     "is_oa": false,
+     "landing_page_url": "https://doi.org/10.13031/2013.30184",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4210169753",
+      "display_name": "Transactions of the ASAE",
+      "issn_l": "0001-2351",
+      "issn": [
+       "0001-2351",
+       "2151-0059"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "cwts-core"
+      ],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "Transactions of the ASAE",
+     "raw_type": "journal-article"
+    }
+   ],
+   "best_oa_location": null,
+   "sustainable_development_goals": [
+    {
+     "display_name": "Climate action",
+     "id": "https://metadata.un.org/sdg/13",
+     "score": 0.4399999976158142
+    },
+    {
+     "display_name": "Zero hunger",
+     "id": "https://metadata.un.org/sdg/2",
+     "score": 0.40450000762939453
+    }
+   ],
+   "sustainable_development_goals_aurora": [
+    {
+     "display_name": "Zero hunger",
+     "id": "https://metadata.un.org/sdg/2",
+     "score": 0.699999988079071
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 0,
+   "referenced_works": [],
+   "related_works": [
+    "https://openalex.org/W2741578294",
+    "https://openalex.org/W4235003161",
+    "https://openalex.org/W3202808874",
+    "https://openalex.org/W3156533842",
+    "https://openalex.org/W2395034450",
+    "https://openalex.org/W1183317783",
+    "https://openalex.org/W4200092933",
+    "https://openalex.org/W2047326768",
+    "https://openalex.org/W2182815782",
+    "https://openalex.org/W2035819241"
+   ],
+   "abstract_inverted_index": {
+    "ABSTRACT": [
+     0
+    ],
+    "Amethod": [
+     1
+    ],
+    "of": [
+     2,
+     6,
+     25,
+     34,
+     48,
+     80
+    ],
+    "estimating": [
+     3
+    ],
+    "potential": [
+     4,
+     78
+    ],
+    "evapotranspiration": [
+     5,
+     79
+    ],
+    "reference": [
+     7,
+     82
+    ],
+    "crop": [
+     8,
+     83
+    ],
+    "using": [
+     9
+    ],
+    "only": [
+     10
+    ],
+    "temperature": [
+     11
+    ],
+    "data": [
+     12
+    ],
+    "was": [
+     13,
+     58
+    ],
+    "presented": [
+     14
+    ],
+    "by": [
+     15
+    ],
+    "Hargreaves": [
+     16,
+     67
+    ],
+    "and": [
+     17,
+     41,
+     68
+    ],
+    "Samani.": [
+     18
+    ],
+    "This": [
+     19
+    ],
+    "paper": [
+     20
+    ],
+    "reports": [
+     21
+    ],
+    "on": [
+     22
+    ],
+    "a": [
+     23
+    ],
+    "comparison": [
+     24
+    ],
+    "this": [
+     26,
+     49
+    ],
+    "method": [
+     27,
+     50
+    ],
+    "with": [
+     28,
+     84
+    ],
+    "several": [
+     29
+    ],
+    "other": [
+     30
+    ],
+    "methods": [
+     31
+    ],
+    "including": [
+     32
+    ],
+    "those": [
+     33
+    ],
+    "Hargreaves,": [
+     35
+    ],
+    "Jensen-Haise,": [
+     36,
+     38
+    ],
+    "modified": [
+     37
+    ],
+    "Penman,": [
+     39
+    ],
+    "Blaney-Criddle,": [
+     40
+    ],
+    "Pan": [
+     42
+    ],
+    "evaporation": [
+     43
+    ],
+    "to": [
+     44,
+     54,
+     64,
+     74
+    ],
+    "evaluate": [
+     45
+    ],
+    "the": [
+     46,
+     76
+    ],
+    "suitability": [
+     47
+    ],
+    "for": [
+     51,
+     61
+    ],
+    "climates": [
+     52,
+     62
+    ],
+    "similar": [
+     53,
+     63
+    ],
+    "Mesa": [
+     55,
+     65
+    ],
+    "(Arizona).": [
+     56
+    ],
+    "It": [
+     57
+    ],
+    "concluded": [
+     59
+    ],
+    "that": [
+     60
+    ],
+    "(Arizona),": [
+     66
+    ],
+    "Samani's": [
+     69
+    ],
+    "equation": [
+     70
+    ],
+    "can": [
+     71
+    ],
+    "be": [
+     72
+    ],
+    "used": [
+     73
+    ],
+    "estimate": [
+     75
+    ],
+    "monthly": [
+     77
+    ],
+    "alfalfa": [
+     81
+    ],
+    "reasonable": [
+     85
+    ],
+    "accuracy.": [
+     86
+    ]
+   },
+   "counts_by_year": [
+    {
+     "year": 2026,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2024,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2022,
+     "cited_by_count": 4
+    },
+    {
+     "year": 2021,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2020,
+     "cited_by_count": 6
+    },
+    {
+     "year": 2019,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2018,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2017,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2016,
+     "cited_by_count": 1
+    },
+    {
+     "year": 2015,
+     "cited_by_count": 3
+    },
+    {
+     "year": 2014,
+     "cited_by_count": 8
+    },
+    {
+     "year": 2013,
+     "cited_by_count": 2
+    },
+    {
+     "year": 2012,
+     "cited_by_count": 5
+    }
+   ],
+   "updated_date": "2026-10-03T13:16:28.481748",
+   "created_date": "2025-10-10T00:00:00"
+  }
+ ]
+}

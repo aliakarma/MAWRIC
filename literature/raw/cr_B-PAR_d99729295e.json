@@ -1,0 +1,227 @@
+{
+ "query": "performance indicators for real losses from water supply systems",
+ "items": [
+  {
+   "DOI": "10.2166/aqua.1999.0025",
+   "title": [
+    "A review of performance indicators for real losses from water supply systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1999,
+      9
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Water Supply: Research and Technology\u2014AQUA"
+   ],
+   "author": [
+    {
+     "given": "A. O.",
+     "family": "Lambert",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "T. G.",
+     "family": "Brown",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Takizawa",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "D.",
+     "family": "Weimer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 142,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.2166/ws.2003.0095",
+   "title": [
+    "Application of performance indicators to control losses - results from the Portuguese water sector"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2003,
+      3,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Supply"
+   ],
+   "author": [
+    {
+     "given": "R.",
+     "family": "Cunha Marques",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Polytechnic Institute of Leiria, ESTG, Morro do Lena, Alto Vieiro, 2401-951 Leiria, Portugal (E-mail: rcmar@mail.telepac.pt)"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A.J.",
+     "family": "Monteiro",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Technical University of Lisbon, IST, Avenida Rovisco Pais, 1049-001 Lisboa, Portugal (E-mail: ajm@civil.ist.utl.pt)"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 6,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1007/978-94-017-1297-2_7",
+   "title": [
+    "Performance Indicators for Water Supply Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1999
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Science and Technology Library",
+    "Drought Management Planning in Water Supply Systems"
+   ],
+   "author": [
+    {
+     "given": "Helena",
+     "family": "Alegre",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 13,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.1111/j.1747-6593.2000.tb00248.x",
+   "title": [
+    "A Realistic Basis for an International Comparison of Real Losses from Public Water\u2010Supply Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2000,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "Water and Environment Journal"
+   ],
+   "author": [
+    {
+     "given": "A. O.",
+     "family": "Lambert",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 8,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1007/978-94-017-1297-2_8",
+   "title": [
+    "Performance Indicators for Water Supply Systems. A Case Study"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1999
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Science and Technology Library",
+    "Drought Management Planning in Water Supply Systems"
+   ],
+   "author": [
+    {
+     "given": "Miguel Andr\u00e9s",
+     "family": "Folgado",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  }
+ ]
+}

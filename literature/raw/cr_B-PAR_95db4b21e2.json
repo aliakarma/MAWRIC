@@ -1,0 +1,154 @@
+{
+ "query": "EPANET 2.2 user manual",
+ "items": [
+  {
+   "DOI": "10.2172/1833960",
+   "title": [
+    "Flibcpp User Manual"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      1
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1504-8966",
+     "authenticated-orcid": false,
+     "given": "Seth",
+     "family": "Johnson",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Oak Ridge National Lab. (ORNL), Oak Ridge, TN (United States)"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "report"
+  },
+  {
+   "DOI": "10.2172/1833959",
+   "title": [
+    "SWIG+Fortran User Manual"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      1
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1504-8966",
+     "authenticated-orcid": false,
+     "given": "Seth",
+     "family": "Johnson",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Oak Ridge National Lab. (ORNL), Oak Ridge, TN (United States)"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "report"
+  },
+  {
+   "DOI": "10.61092/iaea.hhzb-rce7",
+   "title": [
+    "User Manual for GANDR GUI"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "J.",
+     "family": "Malec",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "report"
+  },
+  {
+   "DOI": "10.21236/ad1149297",
+   "title": [
+    "Universal Language Translator (ULTRA) User Manual"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      23
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Christian",
+     "family": "Schlesiger",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/011hc8f90",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "DEVCOM Army Research Laboratory",
+       "department": [
+        "Computational and Information Sciences Directorate"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "report"
+  }
+ ]
+}

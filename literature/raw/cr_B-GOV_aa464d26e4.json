@@ -1,0 +1,101 @@
+{
+ "query": "LLM-as-a-judge is not an oracle deterministic guardrails self-improving agents",
+ "items": [
+  {
+   "DOI": "10.36227/techrxiv.177006109.97957916/v1",
+   "title": [
+    "Secure-by-Default Guardrails for MCP-Based Tool Use in Multi-Modal LLM Agents"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      2,
+      2
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0002-9349-0717",
+     "authenticated-orcid": false,
+     "given": "Yoshihiro",
+     "family": "Ando",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  },
+  {
+   "DOI": "10.2139/ssrn.6879218",
+   "title": [
+    "The Provably Aligned AI Core: A Deterministic Safety Wrapper for Self-Improving Agents"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Shashank",
+     "family": "Kumar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  },
+  {
+   "DOI": "10.58425/ajt.v5i12.624",
+   "title": [
+    "Agreement by Construction: A Deterministic Filter Inflates Inter-Judge Reliability in LLM-Judge Evaluation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10,
+      8
+     ]
+    ]
+   },
+   "container-title": [
+    "American Journal of Technology"
+   ],
+   "author": [
+    {
+     "given": "Akshay",
+     "family": "Kumar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "journal-article"
+  }
+ ]
+}

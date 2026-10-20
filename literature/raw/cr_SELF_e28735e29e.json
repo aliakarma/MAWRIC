@@ -1,0 +1,479 @@
+{
+ "query": "Agentic AI for Climate-Resilient Cities: A PRISMA-Guided Review and Digital Twin Framework",
+ "items": [
+  {
+   "DOI": "10.20944/preprints202604.1837.v1",
+   "title": [
+    "Agentic AI for Climate-Resilient Cities: A PRISMA-Guided Review and Digital Twin Framework"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      27
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Toqeer Ali",
+     "family": "Syed",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0002-6687-9380",
+     "authenticated-orcid": false,
+     "given": "Ali",
+     "family": "Akarma",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Muhammad Tayyab",
+     "family": "Naqash",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Danial",
+     "family": "Hameed",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0009-7995-175X",
+     "authenticated-orcid": false,
+     "given": "Shahid",
+     "family": "Kamal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3592-4011",
+     "authenticated-orcid": false,
+     "given": "Antonio",
+     "family": "Formisano",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 2,
+   "type": "posted-content"
+  },
+  {
+   "DOI": "10.3390/su18178917",
+   "title": [
+    "Agentic AI for Climate-Resilient Cities: A PRISMA-Guided Review and Digital Twin Framework"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      31
+     ]
+    ]
+   },
+   "container-title": [
+    "Sustainability"
+   ],
+   "author": [
+    {
+     "given": "Toqeer Ali",
+     "family": "Syed",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "AI Center, Faculty of Computer and Information Systems, Islamic University of Madinah, Madinah 42351, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0002-6687-9380",
+     "authenticated-orcid": false,
+     "given": "Ali",
+     "family": "Akarma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "AI Center, Faculty of Computer and Information Systems, Islamic University of Madinah, Madinah 42351, Saudi Arabia"
+      },
+      {
+       "name": "AI V&V Lab, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6323-7027",
+     "authenticated-orcid": false,
+     "given": "Muhammad Tayyab",
+     "family": "Naqash",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Civil Engineering Department, Islamic University of Madinah, Madinah 42351, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Danial",
+     "family": "Hameed",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Computing and Information Technology, University of the Punjab, Lahore 54590, Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0009-7995-175X",
+     "authenticated-orcid": false,
+     "given": "Shahid",
+     "family": "Kamal",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Computing and Informatics, Multimedia University, Cyberjaya 63100, Selangor, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3592-4011",
+     "authenticated-orcid": false,
+     "given": "Antonio",
+     "family": "Formisano",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Structures for Engineering and Architecture, University of Naples Federico II, 80125 Naples, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.4018/979-8-2600-1669-5.ch013",
+   "title": [
+    "Hybrid Digital Twin and AI Frameworks for Climate-Resilient Agriculture"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      7
+     ]
+    ]
+   },
+   "container-title": [
+    "Digital Twin Applications and Cognitive Enterprise Transformation Across Industries"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0005-4471-6929",
+     "authenticated-orcid": true,
+     "given": "Khatere",
+     "family": "Rafiei",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Independent Researcher, UAE"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.1109/iccsdfai70505.2026.11647867",
+   "title": [
+    "Agentic AI Security in IoMT: A PRISMA-Guided Scoping Review and Layered Threat\u2013Defense Taxonomy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "2026 International Conference on Cybersecurity, Digital Forensics, and AI Applications (ICCSDFAI)"
+   ],
+   "author": [
+    {
+     "given": "Batyrkhan",
+     "family": "Abylkan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Astana IT University",
+       "place": [
+        "Astana, Kazakhstan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Darkan",
+     "family": "Serik",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Astana IT University",
+       "place": [
+        "Astana, Kazakhstan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Askhar",
+     "family": "Mussa",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Astana IT University",
+       "place": [
+        "Astana, Kazakhstan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Syrym",
+     "family": "Sapash",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Astana IT University",
+       "place": [
+        "Astana, Kazakhstan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aibolat",
+     "family": "Kurakbayev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Astana IT University",
+       "place": [
+        "Astana, Kazakhstan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Saule",
+     "family": "Amanzholova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Astana IT University",
+       "place": [
+        "Astana, Kazakhstan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.2139/ssrn.7230302",
+   "title": [
+    "AI Governance Maturity in Digital Business: A PRISMA-Guided Systematic Conceptual Review and Contextualized Maturity Framework"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4395-5339",
+     "authenticated-orcid": true,
+     "given": "Yousef  Ahmad",
+     "family": "ALarabiat",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0008-3195-9691",
+     "authenticated-orcid": true,
+     "given": "Zaid",
+     "family": "Megdad",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5481-6628",
+     "authenticated-orcid": true,
+     "given": "Khalid  Thaher",
+     "family": "Amayreh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6979-6922",
+     "authenticated-orcid": true,
+     "given": "Younes  A.",
+     "family": "Megdadi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  }
+ ]
+}

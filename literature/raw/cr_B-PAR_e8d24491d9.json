@@ -1,0 +1,253 @@
+{
+ "query": "the effect of pressure on leakage in water distribution systems",
+ "items": [
+  {
+   "DOI": "10.1680/wama.2007.160.2.109",
+   "title": [
+    "The effect of pressure on leakage in water distribution systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings of the Institution of Civil Engineers - Water Management"
+   ],
+   "author": [
+    {
+     "given": "J. E.",
+     "family": "van Zyl",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Johannesburg South Africa"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "C. R. I.",
+     "family": "Clayton",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Southampton UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 114,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1007/s11269-006-4635-3",
+   "title": [
+    "Pressure Control for Leakage Minimisation in Water Distribution Systems Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2006,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Resources Management"
+   ],
+   "author": [
+    {
+     "given": "L. S.",
+     "family": "Araujo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "H.",
+     "family": "Ramos",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S. T.",
+     "family": "Coelho",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 307,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1061/40941(247)24",
+   "title": [
+    "Rehabilitation, Repairing and Leakage Detection Optimization in Water Distribution Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      3,
+      13
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Distribution Systems Analysis Symposium 2006"
+   ],
+   "author": [
+    {
+     "given": "S.",
+     "family": "Alvisi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Franchini",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.1061/40941(247)61",
+   "title": [
+    "Optimal Design of Pressure Surge Control Devices in Water Distribution Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      3,
+      13
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Distribution Systems Analysis Symposium 2006"
+   ],
+   "author": [
+    {
+     "given": "Yuri",
+     "family": "Mayorchik",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Avi",
+     "family": "Ostfeld",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.1061/40941(247)38",
+   "title": [
+    "Slow Transient Pressure Driven Modeling in Water Distribution Networks"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      3,
+      13
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Distribution Systems Analysis Symposium 2006"
+   ],
+   "author": [
+    {
+     "given": "Olivier",
+     "family": "Piller",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marco",
+     "family": "Propato",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 2,
+   "type": "proceedings-article"
+  }
+ ]
+}

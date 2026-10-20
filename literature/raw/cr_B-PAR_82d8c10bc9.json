@@ -1,0 +1,110 @@
+{
+ "query": "Contract Net Protocol high-level communication control distributed problem solver",
+ "items": [
+  {
+   "DOI": "10.1109/tc.1980.1675516",
+   "title": [
+    "The Contract Net Protocol: High-Level Communication and Control in a Distributed Problem Solver"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1980,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "IEEE Transactions on Computers"
+   ],
+   "author": [
+    {
+     "family": "Smith",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Defence Research Establishment Atlantic"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 2478,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1109/tc.1981.1675799",
+   "title": [
+    "Correction to \"The Contract Net Protocol: High-Level Communication and Control in a Distributed Problem Solver\""
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1981,
+      5
+     ]
+    ]
+   },
+   "container-title": [
+    "IEEE Transactions on Computers"
+   ],
+   "author": [
+    {
+     "given": "R.G.",
+     "family": "Smith",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Defence Research Establishment Atlantic"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 10,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/b978-0-08-024490-7.50012-6",
+   "title": [
+    "PROGRAMMING DISTRIBUTED COMPUTER SYSTEMS WITH HIGHER LEVEL LANGUAGES"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1980
+     ]
+    ]
+   },
+   "container-title": [
+    "Distributed Computer Control System"
+   ],
+   "author": [
+    {
+     "given": "H.U.",
+     "family": "Steusloff",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 2,
+   "type": "book-chapter"
+  }
+ ]
+}

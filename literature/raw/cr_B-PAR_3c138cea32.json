@@ -1,0 +1,106 @@
+{
+ "query": "SALib open-source Python library for sensitivity analysis",
+ "items": [
+  {
+   "DOI": "10.21105/joss.00097",
+   "title": [
+    "SALib: An open-source Python library for Sensitivity Analysis"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      1,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "The Journal of Open Source Software"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4081-3175",
+     "authenticated-orcid": false,
+     "given": "Jon",
+     "family": "Herman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9367-1791",
+     "authenticated-orcid": false,
+     "given": "Will",
+     "family": "Usher",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1404,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.15252/rc.2022676115",
+   "title": [
+    "Peer Review #2 of Python-Microscope: A new open source Python library for the control of microscopes"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      6
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "type": "peer-review"
+  },
+  {
+   "DOI": "10.15252/rc.2022128325",
+   "title": [
+    "Peer Review #3 of Python-Microscope: A new open source Python library for the control of microscopes"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      6
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "type": "peer-review"
+  },
+  {
+   "DOI": "10.15252/rc.2022298660",
+   "title": [
+    "Peer Review #1 of Python-Microscope: A new open source Python library for the control of microscopes"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      6
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "type": "peer-review"
+  }
+ ]
+}

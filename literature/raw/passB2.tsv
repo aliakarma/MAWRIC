@@ -1,0 +1,14 @@
+B-LOSS	economic level of leakage water utility	2000	2026	12
+B-LOSS	FAVAD leakage pressure exponent	2000	2026	12
+B-LOSS	leak repair scheduling crew prioritization water network	2005	2026	12
+B-LOSS	active leakage control intervention policy optimization	2005	2026	12
+B-LOSS	burst detection response time water loss awareness location repair	2005	2026	12
+B-LOSS	unmanned aerial vehicle leak detection water pipeline thermal	2014	2026	10
+B-LOSS	water loss audit IWA water balance real losses performance indicators	2000	2026	10
+B-OPS	model predictive control water distribution energy cost pressure	2010	2026	12
+B-OPS	optimal pressure control valves energy pumps leakage joint	2010	2026	12
+B-OPS	pressure-dependent leakage hydraulic simulation emitter EPANET	2008	2026	12
+B-MET	smart water meter cost benefit analysis utility deployment	2010	2026	12
+B-MET	customer side leakage smart meter household leaks	2010	2026	12
+B-MET	heterogeneity household water use high users targeting conservation	2008	2026	12
+B-MET	behavioral water conservation randomized field experiment	2008	2026	12

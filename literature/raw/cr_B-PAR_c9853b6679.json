@@ -1,0 +1,197 @@
+{
+ "query": "water main break rates in the USA and Canada comprehensive study",
+ "items": [
+  {
+   "DOI": "10.1061/9780784485569.051",
+   "title": [
+    "Results from a Comprehensive 2022 Study of Water Main Performance in the USA and Canada"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      8,
+      30
+     ]
+    ]
+   },
+   "container-title": [
+    "Pipelines 2024"
+   ],
+   "author": [
+    {
+     "given": "Steven L.",
+     "family": "Barfuss",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Utah State Univ."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.1002/awwa.2401",
+   "title": [
+    "Water Main Break Rates in the United States and Canada"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      2,
+      13
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal AWWA"
+   ],
+   "author": [
+    {
+     "given": "Steven L.",
+     "family": "Barfuss",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Matthew",
+     "family": "Fugal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 10,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1061/9780784481653.044",
+   "title": [
+    "Benchmarking Your Break Rates: A Review of New Findings and Trends from North American Water Main Break Studies"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      7,
+      11
+     ]
+    ]
+   },
+   "container-title": [
+    "Pipelines 2018"
+   ],
+   "author": [
+    {
+     "given": "Gregory M.",
+     "family": "Baird",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Steven",
+     "family": "Folkman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 3,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.31857/s2686673022110086",
+   "title": [
+    "A Year after the Taliban Came to Power: the Main Challenges for Russia and the US in Afghanistan"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "container-title": [
+    "USA &amp; Canada: Economics \u2013 Politics \u2013 Culture"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.31857/s268667300013568-4",
+   "title": [
+    "\u0424\u0440\u043e\u043d\u0442\u0438\u0440: \u0433\u0435\u043d\u0435\u0437\u0438\u0441, \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 (\u0438\u0441\u0442\u043e\u0440\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u0447\u0435\u0440\u043a)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "USA &amp; Canada: Economics \u2013 Politics \u2013 Culture"
+   ],
+   "author": [
+    {
+     "given": "Vladimir",
+     "family": "Kostornichenko",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Pavel",
+     "family": "Sirvatko",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "journal-article"
+  }
+ ]
+}

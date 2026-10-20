@@ -1,0 +1,238 @@
+{
+ "query": "crop evapotranspiration guidelines for computing crop water requirements",
+ "items": [
+  {
+   "DOI": "10.2135/cropsci1999.0011183x003900030027x",
+   "title": [
+    "Birdsfoot Trefoil Seed Production: I. Crop\u2010Water Requirements and Response to Irrigation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1999,
+      5
+     ]
+    ]
+   },
+   "container-title": [
+    "Crop Science"
+   ],
+   "author": [
+    {
+     "given": "C. A.",
+     "family": "Garcia-Diaz",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Instituto Nacional de Investigaciones Forestales y Agropecuarias, C.A. Garcia\u2010Diaz, Instituto Nacional de Investigaciones Forestales y Agropecurias CE Pabellon Carretera Ags C.P. 20660 Mexico"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "J. J.",
+     "family": "Steiner",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Forage Seed Production Research Center, USDA\u2010ARS 3450 SW Campus Way Corvallis OR 97331"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 4,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.2135/cropsci1998.0011183x003800010026x",
+   "title": [
+    "Relationship between Carbon Isotope Discrimination, Water Use Efficiency, and Evapotranspiration in Kentucky Bluegrass"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1998,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Crop Science"
+   ],
+   "author": [
+    {
+     "given": "J. S.",
+     "family": "Ebdon",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Dep. of Plant and Soil Sciences 12F Stockbridge Hall, Univ. of Massachussets Amherst MA 01003"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A. M.",
+     "family": "Petrovic",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dep. of Floriculture and Ornamental Horticulture Cornell Univ."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "T. E.",
+     "family": "Dawson",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dep. of Ecology and Systematics Cornell Univ. Ithaca NY 14853"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 30,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1046/j.1439-037x.2000.00357.x",
+   "title": [
+    "Water Requirements for Castor Oil Crop (Ricinus communis L.) in a Mediterranean Climate"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2000,
+      3
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Agronomy and Crop Science"
+   ],
+   "author": [
+    {
+     "given": "S. D.",
+     "family": "Koutroubas",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "D. K.",
+     "family": "Papakosta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "A.",
+     "family": "Doitsinis",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 29,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1300/j144v02n02_14",
+   "title": [
+    "Turfgrass Evapotranspiration"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2000,
+      9,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Crop Production"
+   ],
+   "author": [
+    {
+     "given": "Bingru",
+     "family": "Huang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "a Department of Horticulture, Forestry, and Recreation Resources , Kansas State University , Manhattan , KS , 66506 , USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jack D.",
+     "family": "Fry",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a Department of Horticulture, Forestry, and Recreation Resources , Kansas State University , Manhattan , KS , 66506 , USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 24,
+   "type": "journal-article"
+  }
+ ]
+}

@@ -1,0 +1,460 @@
+{
+ "query": "model predictive control reservoir operation forecast uncertainty",
+ "items": [
+  {
+   "DOI": "10.5194/egusphere-egu2020-896",
+   "title": [
+    "Real-Time Reservoir Operation by Tree-Based Model Predictive Control Including Forecast Uncertainty"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      3,
+      23
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0445-060X",
+     "authenticated-orcid": false,
+     "given": "Gokcen",
+     "family": "Uysal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rodolfo-Alvarado",
+     "family": "Montero",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dirk",
+     "family": "Schwanenberg",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3004-4912",
+     "authenticated-orcid": false,
+     "given": "Aynur",
+     "family": "Sensoy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "posted-content"
+  },
+  {
+   "DOI": "10.3390/w10030340",
+   "title": [
+    "Real-Time Flood Control by Tree-Based Model Predictive Control Including Forecast Uncertainty: A Case Study Reservoir in Turkey"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      3,
+      19
+     ]
+    ]
+   },
+   "container-title": [
+    "Water"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0445-060X",
+     "authenticated-orcid": false,
+     "given": "G\u00f6k\u00e7en",
+     "family": "Uysal",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Hydraulic Engineering and Water Resources Management, University of Duisburg-Essen, 45141 Essen, Germany"
+      },
+      {
+       "name": "Department of Civil Engineering, Anadolu University, 26555 Eski\u015fehir, Turkey"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rodolfo",
+     "family": "Alvarado-Montero",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Hydraulic Engineering and Water Resources Management, University of Duisburg-Essen, 45141 Essen, Germany"
+      },
+      {
+       "name": "Deltares, Operational Water Management, Deltares, Rotterdamseweg 185, 26 MH Delft, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dirk",
+     "family": "Schwanenberg",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Hydraulic Engineering and Water Resources Management, University of Duisburg-Essen, 45141 Essen, Germany"
+      },
+      {
+       "name": "KISTERS AG, Business Unit, Pascalstra\u00dfe, 52076 Aachen, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aynur",
+     "family": "\u015eensoy",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering, Anadolu University, 26555 Eski\u015fehir, Turkey"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 25,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.solener.2018.06.038",
+   "title": [
+    "Model predictive control under forecast uncertainty for optimal operation of buildings with integrated solar systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      9
+     ]
+    ]
+   },
+   "container-title": [
+    "Solar Energy"
+   ],
+   "author": [
+    {
+     "given": "Xiaoqi",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Parth",
+     "family": "Paritosh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nimish M.",
+     "family": "Awalgaonkar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ilias",
+     "family": "Bilionis",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Panagiota",
+     "family": "Karava",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 30,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.3997/2214-4609.202437090",
+   "title": [
+    "Reservoir Forecast and Production Optimization Under Geological Uncertainty Using an Embed-to-Control Deep-Learning Surrogate Model"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "container-title": [
+    "ECMOR 2024"
+   ],
+   "author": [
+    {
+     "given": "Q.M.",
+     "family": "Nguyen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "The University of Tulsa"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Onur",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "The University of Tulsa"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 9,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.1016/j.apenergy.2013.11.060",
+   "title": [
+    "The effect of weather forecast uncertainty on a predictive control concept for building systems operation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      3
+     ]
+    ]
+   },
+   "container-title": [
+    "Applied Energy"
+   ],
+   "author": [
+    {
+     "given": "Steffen",
+     "family": "Petersen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Katrine Wieck",
+     "family": "Bundgaard",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 59,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.22541/essoar.175250168.85275428/v1",
+   "title": [
+    "Global Parameter Sensitivity in Forecast-Informed Reservoir Operations using Model Predictive Control"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      14
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8893-5721",
+     "authenticated-orcid": false,
+     "given": "Alexander B",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of California Davis"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4081-3175",
+     "authenticated-orcid": false,
+     "given": "Jonathan D",
+     "family": "Herman",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of California, Davis"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5242-7696",
+     "authenticated-orcid": false,
+     "given": "Zachary Paul",
+     "family": "Brodeur",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Cornell University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8882-1908",
+     "authenticated-orcid": false,
+     "given": "Scott",
+     "family": "Steinschneider",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Cornell University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0000-2717-8974",
+     "authenticated-orcid": false,
+     "given": "Brett",
+     "family": "Whitin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "NOAA/NWS, California Nevada River Forecast Center"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  }
+ ]
+}

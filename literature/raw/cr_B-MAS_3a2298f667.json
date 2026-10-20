@@ -1,0 +1,392 @@
+{
+ "query": "value of coordination decentralized versus centralized control water network",
+ "items": [
+  {
+   "DOI": "10.4135/9781452218472.n32",
+   "title": [
+    "Centralized Versus Decentralized Control"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2012
+     ]
+    ]
+   },
+   "container-title": [
+    "Debates on U.S. Health Care"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.1109/cdc.2008.4739325",
+   "title": [
+    "Adaptive coordination of decentralized controllers using a centralized neural network"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008
+     ]
+    ]
+   },
+   "container-title": [
+    "2008 47th IEEE Conference on Decision and Control"
+   ],
+   "author": [
+    {
+     "given": "Bong-Jun",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Anthony J.",
+     "family": "Calise",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "James I.",
+     "family": "Craig",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kilsoo",
+     "family": "Kim",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.2139/ssrn.2600735",
+   "title": [
+    "Coordination in Centralized and Decentralized Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Vipin P.",
+     "family": "Veetil",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  },
+  {
+   "DOI": "10.1109/isic.2011.6045400",
+   "title": [
+    "Multi-agent coordination by iterative learning control: Centralized and decentralized strategies"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      9
+     ]
+    ]
+   },
+   "container-title": [
+    "2011 IEEE International Symposium on Intelligent Control"
+   ],
+   "author": [
+    {
+     "given": "Hyo-Sung",
+     "family": "Ahn",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "YangQuan",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kevin L.",
+     "family": "Moore",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 13,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.1061/40988(323)175",
+   "title": [
+    "Building Control Using MR-Dampers: Centralized versus Decentralized Control"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      9,
+      4
+     ]
+    ]
+   },
+   "container-title": [
+    "Earth &amp;amp; Space 2008"
+   ],
+   "author": [
+    {
+     "given": "Kung-Chun",
+     "family": "Lu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chin-Hsiung",
+     "family": "Loh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jann. N.",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.1109/powercon.2018.8601765",
+   "title": [
+    "A Slack Optimal Control Method by Centralized/Decentralized Coordination in Distribution Network based on PCC voltage Optimization of Photovoltaic"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      11
+     ]
+    ]
+   },
+   "container-title": [
+    "2018 International Conference on Power System Technology (POWERCON)"
+   ],
+   "author": [
+    {
+     "given": "Wei",
+     "family": "Huang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Siliang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yingqi",
+     "family": "Yi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hongyao",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Huixian",
+     "family": "Rong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.3390/g14050066",
+   "title": [
+    "Centralized versus Decentralized Cleanup of River Water Pollution: An Application to the Ganges"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      7
+     ]
+    ]
+   },
+   "container-title": [
+    "Games"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7813-1519",
+     "authenticated-orcid": false,
+     "given": "Amitrajeet A.",
+     "family": "Batabyal",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Economics and Sustainability, Rochester Institute of Technology, 92 Lomb Memorial Drive, Rochester, NY 14623-5604, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hamid",
+     "family": "Beladi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Economics, University of Texas at San Antonio, One UTSA Circle, San Antonio, TX 78249-0631, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 3,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.7551/mitpress/7580.003.0014",
+   "title": [
+    "Decentralized versus Centralized Environments for Application Innovation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      6,
+      18
+     ]
+    ]
+   },
+   "container-title": [
+    "Internet Architecture and Innovation"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  }
+ ]
+}

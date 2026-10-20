@@ -1,0 +1,252 @@
+{
+ "query": "reference crop evapotranspiration from temperature Hargreaves",
+ "items": [
+  {
+   "DOI": "10.13031/2013.26773",
+   "title": [
+    "Reference Crop Evapotranspiration from Temperature"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1985
+     ]
+    ]
+   },
+   "container-title": [
+    "Applied Engineering in Agriculture"
+   ],
+   "author": [
+    {
+     "family": "George H. Hargreaves",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "family": "Zohrab A. Samani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 3535,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/0168-1923(86)90047-x",
+   "title": [
+    "Relations between remotely sensed canopy temperature, crop water stress, air vapour pressure deficit and evapotranspiration in chickpea"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1986,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "Agricultural and Forest Meteorology"
+   ],
+   "author": [
+    {
+     "given": "S.K.",
+     "family": "Saha",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ajai A.K.S.",
+     "family": "Gopalan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "D.S.",
+     "family": "Kamat",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 11,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/0378-3774(84)90002-7",
+   "title": [
+    "Relations between available and extractable soil water and evapotranspiration from a bean crop"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1984,
+      11
+     ]
+    ]
+   },
+   "container-title": [
+    "Agricultural Water Management"
+   ],
+   "author": [
+    {
+     "given": "J.B.",
+     "family": "Reid",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "O.",
+     "family": "Hashim",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "J.N.",
+     "family": "Gallagher",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 17,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1007/bf00270433",
+   "title": [
+    "Estimating evapotranspiration from midday canopy temperature"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1986,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "Irrigation Science"
+   ],
+   "author": [
+    {
+     "given": "P. L.",
+     "family": "Gupta",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "P. S. N.",
+     "family": "Sastry",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 5,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.54302/mausam.v37i2.2216",
+   "title": [
+    "Comparison of measured and estimated crop evapotranspiration over Egypt"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1986,
+      4,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "MAUSAM"
+   ],
+   "author": [
+    {
+     "given": "MH",
+     "family": "OMAR",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "AM",
+     "family": "MEHANNA",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "journal-article"
+  }
+ ]
+}

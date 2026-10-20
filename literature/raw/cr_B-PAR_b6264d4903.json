@@ -1,0 +1,220 @@
+{
+ "query": "variance based sensitivity analysis of model output design and estimator for the total sensitivity index",
+ "items": [
+  {
+   "DOI": "10.1016/j.cpc.2009.09.018",
+   "title": [
+    "Variance based sensitivity analysis of model output. Design and estimator for the total sensitivity index"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "Computer Physics Communications"
+   ],
+   "author": [
+    {
+     "given": "Andrea",
+     "family": "Saltelli",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Paola",
+     "family": "Annoni",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ivano",
+     "family": "Azzini",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Francesca",
+     "family": "Campolongo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marco",
+     "family": "Ratto",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Stefano",
+     "family": "Tarantola",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 3323,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.envsoft.2011.01.002",
+   "title": [
+    "Variance-based sensitivity analysis of model outputs using surrogate models"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "Environmental Modelling &amp; Software"
+   ],
+   "author": [
+    {
+     "given": "D.",
+     "family": "Shahsavani",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A.",
+     "family": "Grimvall",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 49,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.ress.2009.10.003",
+   "title": [
+    "Self-validated variance-based methods for sensitivity analysis of model outputs"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      3
+     ]
+    ]
+   },
+   "container-title": [
+    "Reliability Engineering &amp; System Safety"
+   ],
+   "author": [
+    {
+     "given": "Charles",
+     "family": "Tong",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 21,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1007/978-90-481-2822-8_111",
+   "title": [
+    "Variance-Based Methods for Sensitivity Analysis in Civil Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2009
+     ]
+    ]
+   },
+   "container-title": [
+    "Computational Structural Engineering"
+   ],
+   "author": [
+    {
+     "given": "Zden\u011bk",
+     "family": "Kala",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Libor",
+     "family": "Puklick\u00fd",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "book-chapter"
+  }
+ ]
+}

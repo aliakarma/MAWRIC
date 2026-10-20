@@ -1,0 +1,615 @@
+{
+ "query": "residential end uses of water",
+ "items": [
+  {
+   "DOI": "10.3390/w14162457",
+   "title": [
+    "Impact of Data Temporal Resolution on Quantifying Residential End Uses of Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      8,
+      9
+     ]
+    ]
+   },
+   "container-title": [
+    "Water"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6634-439X",
+     "authenticated-orcid": false,
+     "given": "Camilo J.",
+     "family": "Bastidas Pacheco",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Utah Water Research Laboratory, Utah State University, 8200 Old Main Hill, Logan, UT 84322-8200, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0768-3196",
+     "authenticated-orcid": false,
+     "given": "Jeffery S.",
+     "family": "Horsburgh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Utah Water Research Laboratory, Utah State University, 8200 Old Main Hill, Logan, UT 84322-8200, USA"
+      },
+      {
+       "name": "Department of Civil and Environmental Engineering, Utah State University, 8200 Old Main Hill, Logan, UT 84322-8200, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "suffix": "Jr.",
+     "given": "Arle S.",
+     "family": "Beckwith",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Utah Water Research Laboratory, Utah State University, 8200 Old Main Hill, Logan, UT 84322-8200, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 4,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1029/2023wr036690",
+   "title": [
+    "Comparative Analysis of Supervised Classification Algorithms for Residential Water End Uses"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Resources Research"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0281-8669",
+     "authenticated-orcid": false,
+     "given": "Zahra",
+     "family": "Heydari",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Civil and Environmental Engineering University of Illinois Urbana\u2010Champaign  Urbana IL USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6781-6480",
+     "authenticated-orcid": false,
+     "given": "Ashlynn S.",
+     "family": "Stillwell",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Civil and Environmental Engineering University of Illinois Urbana\u2010Champaign  Urbana IL USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 8,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.2166/wst.2011.436",
+   "title": [
+    "Understanding urban residential end uses of water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      7,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Science and Technology"
+   ],
+   "author": [
+    {
+     "given": "Shirley",
+     "family": "Gato-Trinidad",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Engineering & Industrial Sciences, Swinburne University of Technology, Hawthorn, Victoria 3122, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Niranjali",
+     "family": "Jayasuriya",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "RMIT University, City Campus, Melbourne, Victoria, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peter",
+     "family": "Roberts",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Yarra Valley Water, Mitcham, Victoria, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 65,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.3390/w7010202",
+   "title": [
+    "Seasonal Demand Dynamics of Residential Water End-Uses"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      1,
+      7
+     ]
+    ]
+   },
+   "container-title": [
+    "Water"
+   ],
+   "author": [
+    {
+     "given": "Kumudu",
+     "family": "Rathnayaka",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Infrastructure Engineering, Melbourne School of Engineering, University of Melbourne, Melbourne, Vic 3010, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6387-7078",
+     "authenticated-orcid": false,
+     "given": "Hector",
+     "family": "Malano",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Infrastructure Engineering, Melbourne School of Engineering, University of Melbourne, Melbourne, Vic 3010, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shiroma",
+     "family": "Maheepala",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "CSIRO Land and Water, Highett, Victoria 3190, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Biju",
+     "family": "George",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Infrastructure Engineering, Melbourne School of Engineering, University of Melbourne, Melbourne, Vic 3010, Australia"
+      },
+      {
+       "name": "Integrated Water and Land Management Program, International Centre for Agricultural Research in the Dry Areas, P.O. Box 2416, Cairo, Egypt"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bandara",
+     "family": "Nawarathna",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Flood Forecasting and Warning Branch, Bureau of Meteorology, GPO Box 1289, Melbourne, Victoria 3001, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Meenakshi",
+     "family": "Arora",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Infrastructure Engineering, Melbourne School of Engineering, University of Melbourne, Melbourne, Vic 3010, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peter",
+     "family": "Roberts",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Yarra Valley Water, Lucknow St, Mitcham, Victoria 3132, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 65,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.4211/hs.6625bdbde41c45c2b906f32be7ea70f0",
+   "title": [
+    "Supporting data and tools for \"Impact of data temporal resolution on quantifying residential end uses of water\""
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      4,
+      19
+     ]
+    ]
+   },
+   "container-title": [
+    "HydroShare Resources"
+   ],
+   "author": [
+    {
+     "given": "Camilo",
+     "family": "Bastidas Pacheco",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0768-3196",
+     "authenticated-orcid": false,
+     "given": "Jeffery",
+     "family": "Horsburgh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Arle",
+     "family": "Beckwith",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "dataset"
+  },
+  {
+   "DOI": "10.1061/(asce)wr.1943-5452.0000357",
+   "title": [
+    "Identifying Residential Water End Uses Underpinning Peak Day and Peak Hour Demand"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      7
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Water Resources Planning and Management"
+   ],
+   "author": [
+    {
+     "given": "Cara D.",
+     "family": "Beal",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Research Fellow, Smart Water Research Centre, Griffith Univ., Gold Coast Campus, Southport, QLD 4222, Australia (corresponding author)."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rodney A.",
+     "family": "Stewart",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Director, Centre for Infrastructure Engineering and Management, Griffith Univ., Gold Coast Campus, Southport, QLD 4222, Australia."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 91,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.5194/egusphere-egu25-15869",
+   "title": [
+    "A cyber-physical testing facility for edge-based automatic classification of residential water end uses"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      15
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Felix",
+     "family": "Kunze",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Christopher",
+     "family": "B\u00f6lter",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sebastian",
+     "family": "Haueisen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Tilcher",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5702-7795",
+     "authenticated-orcid": false,
+     "given": "Marie-Philine",
+     "family": "Gross",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4031-4704",
+     "authenticated-orcid": false,
+     "given": "Andrea",
+     "family": "Cominola",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  },
+  {
+   "DOI": "10.1007/s40710-016-0204-9",
+   "title": [
+    "Combined Methods for Quantifying End-Uses of Residential Indoor Water Consumption"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      1,
+      13
+     ]
+    ]
+   },
+   "container-title": [
+    "Environmental Processes"
+   ],
+   "author": [
+    {
+     "given": "Yurina",
+     "family": "Otaki",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Masahiro",
+     "family": "Otaki",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Toshiya",
+     "family": "Aramaki",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 16,
+   "type": "journal-article"
+  }
+ ]
+}

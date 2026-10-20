@@ -1,0 +1,413 @@
+{
+ "query": "reclaimed water cost irrigation Mediterranean Exposito Berbel",
+ "items": [
+  {
+   "DOI": "10.2166/wp.2019.197",
+   "title": [
+    "Analysis of irrigation water tariffs and taxes in Europe"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      4,
+      11
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Policy"
+   ],
+   "author": [
+    {
+     "given": "Julio",
+     "family": "Berbel",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "WEARE: Water, Environmental and Agricultural Resources Economics, Department of Agricultural Economics, University of Cordoba, Campus Rabanales. Ctra N-IV km396. Gregor Mendel Building, E-14071 C\u00f3rdoba, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M. Mar",
+     "family": "Borrego-Marin",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "WEARE: Water, Environmental and Agricultural Resources Economics, Department of Agricultural Economics, University of Cordoba, Campus Rabanales. Ctra N-IV km396. Gregor Mendel Building, E-14071 C\u00f3rdoba, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alfonso",
+     "family": "Exposito",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Economic Analysis, Universidad de Sevilla, Ram\u00f3n y Cajal 1, 41018 Sevilla, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Giacomo",
+     "family": "Giannoccaro",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Agricultural and Environmental Science, University of Bari \u2018Aldo Moro\u2019, Via Amendola 165/A, Bari 70126, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nazaret M.",
+     "family": "Montilla-Lopez",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "WEARE: Water, Environmental and Agricultural Resources Economics, Department of Agricultural Economics, University of Cordoba, Campus Rabanales. Ctra N-IV km396. Gregor Mendel Building, E-14071 C\u00f3rdoba, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Catarina",
+     "family": "Roseta-Palma",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Economics and BRU-IUL, ISCTE-Instituto Universit\u00e1rio de Lisboa, Av. For\u00e7as Armadas, 1649-026 Lisboa, Portugal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 84,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.agwat.2018.08.032",
+   "title": [
+    "Cost-benefit analysis of irrigation modernization in Guadalquivir River Basin"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "Agricultural Water Management"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2397-6041",
+     "authenticated-orcid": false,
+     "given": "Mar\u00eda M.",
+     "family": "Borrego-Mar\u00edn",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "J.",
+     "family": "Berbel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 35,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.3390/w12082308",
+   "title": [
+    "Analysis of Barriers and Opportunities for Reclaimed Wastewater Use for Agriculture in Europe"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      17
+     ]
+    ]
+   },
+   "container-title": [
+    "Water"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9217-3843",
+     "authenticated-orcid": false,
+     "given": "Enrique",
+     "family": "Mesa-P\u00e9rez",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Water, Environmental and Agricultural Resources Economics (WEARE), Universidad de C\u00f3rdoba, 14001 C\u00f3rdoba, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6483-4483",
+     "authenticated-orcid": false,
+     "given": "Julio",
+     "family": "Berbel",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Water, Environmental and Agricultural Resources Economics (WEARE), Universidad de C\u00f3rdoba, 14001 C\u00f3rdoba, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 32,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.5004/dwt.2019.24556",
+   "title": [
+    "Reclaimed water and irrigation: a cost-benefit analysis for desalination of WWTPs effluents"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "Desalination and Water Treatment"
+   ],
+   "author": [
+    {
+     "given": "A.",
+     "family": "Bellver-Domingo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "R.",
+     "family": "Fuentes",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "F.",
+     "family": "Hern\u00e1ndez-Sancho",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 13,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.3390/w13162242",
+   "title": [
+    "Reclaimed Water for Vineyard Irrigation in a Mediterranean Context: Life Cycle Environmental Impacts, Life Cycle Costs, and Eco-Efficiency"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      8,
+      17
+     ]
+    ]
+   },
+   "container-title": [
+    "Water"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0610-7717",
+     "authenticated-orcid": false,
+     "given": "Kledja",
+     "family": "Canaj",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Management, Finance and Technology, LUM Giuseppe Degennaro University, S.S. 100-Km 18, 70010 Casamassima, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9814-3461",
+     "authenticated-orcid": false,
+     "given": "Domenico",
+     "family": "Morrone",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Management, Finance and Technology, LUM Giuseppe Degennaro University, S.S. 100-Km 18, 70010 Casamassima, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6329-7321",
+     "authenticated-orcid": false,
+     "given": "Rocco",
+     "family": "Roma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Agricultural and Environmental Sciences, University of Bari Aldo Moro, 70126 Bari, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Francesca",
+     "family": "Boari",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Sciences of Food Production, National Research Council (CNR-ISPA), Via Amendola, 122/O, 70125 Bari, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6095-3300",
+     "authenticated-orcid": false,
+     "given": "Vito",
+     "family": "Cantore",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Sciences of Food Production, National Research Council (CNR-ISPA), Via Amendola, 122/O, 70125 Bari, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8911-8755",
+     "authenticated-orcid": false,
+     "given": "Mladen",
+     "family": "Todorovic",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "International Center for Advanced Mediterranean Agronomic Studies (CIHEAM-Bari), Via Ceglie 9, 70010 Valenzano, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 38,
+   "type": "journal-article"
+  }
+ ]
+}

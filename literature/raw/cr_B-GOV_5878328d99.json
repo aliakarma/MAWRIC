@@ -1,0 +1,101 @@
+{
+ "query": "resilience meets autonomy governing embodied AI in critical infrastructure",
+ "items": [
+  {
+   "DOI": "10.2139/ssrn.5931374",
+   "title": [
+    "Integrating Critical AI Infrastructure, Modeling Operational Resilience in Business Enterprise"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Nathanael",
+     "family": "Aguinaldo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  },
+  {
+   "DOI": "10.70593/978-93-7185-542-6_9",
+   "title": [
+    "Critical Infrastructure Resilience, Security, and Risk Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      7,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "Agentic Intelligence in Industry: Edge AI, Connected Fleets, and Resilient Critical Infrastructure Systems"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-5060-0036",
+     "authenticated-orcid": false,
+     "given": "Rajesh",
+     "family": "Mattaparthi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.2139/ssrn.7388338",
+   "title": [
+    "Trustworthy Enough for What? Governing AI as an Operational Claim in Critical Infrastructure: A Practice-Focused Operational Synthesis for AI-Dependent Essential Services"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0006-5958-6204",
+     "authenticated-orcid": true,
+     "given": "Siddharth",
+     "family": "Nandagopal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "posted-content"
+  }
+ ]
+}

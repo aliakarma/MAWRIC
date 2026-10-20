@@ -1,0 +1,240 @@
+{
+ "query": "Shapley value cooperative game water allocation",
+ "items": [
+  {
+   "DOI": "10.1201/9781351241410-1",
+   "title": [
+    "The Shapley Value, a Crown Jewel of Cooperative Game Theory"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      12,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "Handbook of the Shapley Value"
+   ],
+   "author": [
+    {
+     "given": "William",
+     "family": "Thomson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 2,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.3389/fenrg.2023.1212388",
+   "title": [
+    "Erratum: Weighted shapley value: a cooperative game theory for loss allocation in distribution systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      5
+     ]
+    ]
+   },
+   "container-title": [
+    "Frontiers in Energy Research"
+   ],
+   "author": [
+    {
+     "name": "Frontiers Production Office",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1017/cbo9781107415997.006",
+   "title": [
+    "The Shapley Value"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      10,
+      17
+     ]
+    ]
+   },
+   "container-title": [
+    "A Course on Cooperative Game Theory"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.3389/fenrg.2023.1129846",
+   "title": [
+    "Weighted shapley value: A cooperative game theory for loss allocation in distribution systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      22
+     ]
+    ]
+   },
+   "container-title": [
+    "Frontiers in Energy Research"
+   ],
+   "author": [
+    {
+     "given": "Vijay Pal",
+     "family": "Singh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aijaz",
+     "family": "Ahmad",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kushal Manoharrao",
+     "family": "Jagtap",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 9,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1109/dese68208.2025.11367830",
+   "title": [
+    "Optimizing Task Allocation in IT Project Management Using Cooperative Game Theory: A Shapley Value Approach"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "2025 18th International Conference on Development in eSystem Engineering (DeSE)"
+   ],
+   "author": [
+    {
+     "given": "Omid",
+     "family": "Garmsirinejad",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computing, Engineering &#x0026; Digital Technologies Teesside University,Middlesbrough,UK"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shatha",
+     "family": "Ghareeb",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computing, Engineering &#x0026; Digital Technologies Teesside University,Middlesbrough,UK"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jamila",
+     "family": "Mustafina",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Kazan Federal University,Kazan,Russia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.1017/cbo9781107415997.007",
+   "title": [
+    "The Core, Shapley Value and Weber Set"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      10,
+      17
+     ]
+    ]
+   },
+   "container-title": [
+    "A Course on Cooperative Game Theory"
+   ],
+   "is-referenced-by-count": 0,
+   "type": "book-chapter"
+  }
+ ]
+}

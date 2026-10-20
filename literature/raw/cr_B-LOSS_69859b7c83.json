@@ -1,0 +1,330 @@
+{
+ "query": "pressure management water loss reduction benefits burst frequency reduction",
+ "items": [
+  {
+   "DOI": "10.1061/(asce)wr.1943-5452.0000846",
+   "title": [
+    "Economic Analysis of Pressure Control for Leakage and Pipe Burst Reduction"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Water Resources Planning and Management"
+   ],
+   "author": [
+    {
+     "given": "Enrico",
+     "family": "Creaco",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Assistant Professor, Dipartimento di Ingegneria Civile e Architettura, Univ. of Pavia, Via Ferrata 3, 27100 Pavia, Italy; Adjunct Senior Lecturer, School of Civil, Environmental and Mining Engineering, Univ. of Adelaide, Adelaide 5005, Australia; Honorary Senior Research Fellow, College of Engineering, Mathematics and Physical Sciences, Univ. of Exeter, Exeter EX4, U.K."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Thomas",
+     "family": "Walski",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Bentley Fellow, Bentley Systems, Incorporated, 3 Brian\u2019s Place, Nanticoke, PA 18634 (corresponding author)."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 67,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1038/s41371-026-01182-1",
+   "title": [
+    "Beyond blood pressure reduction- the potential cardiovascular risk reduction benefits of weight loss surgery"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      7,
+      15
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Human Hypertension"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8683-5433",
+     "authenticated-orcid": false,
+     "given": "Sophia",
+     "family": "Khattak",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sunil K.",
+     "family": "Nadar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1007/s11269-012-0032-2",
+   "title": [
+    "Implementation of Hydraulic Modelling for Water-Loss Reduction Through Pressure Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      4,
+      20
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Resources Management"
+   ],
+   "author": [
+    {
+     "given": "I. E.",
+     "family": "Karadirek",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.",
+     "family": "Kara",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "G.",
+     "family": "Yilmaz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A.",
+     "family": "Muhammetoglu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "H.",
+     "family": "Muhammetoglu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 99,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1109/sai.2014.6918259",
+   "title": [
+    "Variable size burst routing technique for burst loss reduction in OBS networks"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      8
+     ]
+    ]
+   },
+   "container-title": [
+    "2014 Science and Information Conference"
+   ],
+   "author": [
+    {
+     "given": "Amit",
+     "family": "Gupta",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "proceedings-article"
+  },
+  {
+   "DOI": "10.2166/wpt.2020.035",
+   "title": [
+    "Pressure loss reduction of pipe elements"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      4,
+      30
+     ]
+    ]
+   },
+   "container-title": [
+    "Water Practice and Technology"
+   ],
+   "author": [
+    {
+     "given": "G\u00e1bor",
+     "family": "G\u00f6nczi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Budapest Waterworks Co. Ltd., H-Budapest XIII., V\u00e1ci \u00fat 23-27"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.22541/au.166924190.05538091/v1",
+   "title": [
+    "Economic Evaluation of BESS on the Generation Side for Frequency and Peak Regulation Considering the Benefits of Unit Loss Reduction"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      11,
+      23
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1448-2592",
+     "authenticated-orcid": false,
+     "given": "Gengming",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "North China Electric Power University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Wenxia",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "North China Electric Power University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0178-3903",
+     "authenticated-orcid": false,
+     "given": "Qingxin",
+     "family": "Shi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "North China Electric Power University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "type": "posted-content"
+  }
+ ]
+}
